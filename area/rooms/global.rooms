@@ -1,0 +1,14 @@
+#100
+PlaceHolder~
+Placeholder room for GLOBALS.
+ 
+Area contains globally usable MOBS, OBJS and PROGS.
+MUST BE LOADED BEFORE ANY AREAS WHICH USE THESE!
+~
+~
+41221 0
+S
+#0
+
+
+

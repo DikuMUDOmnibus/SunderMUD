@@ -1,0 +1,38 @@
+#MOBPROGS
+#0
+
+#OBJPROGS
+#25100
+obj echoat $n You sense an intelligence present as you wield the fine sword.
+obj echoaround $n wields $i.
+~
+#25101
+obj echoat $n You feel an immense loss at the thought of losing $I.
+obj echoat $n In fact, you really wish $T would give it back.
+obj echoat $t The $I looks nice, but you have an uncontrollable urge to give it back.
+obj force $t give fs25100 $n
+obj echoaround $t $T gets a glazed look in $S eyes and gives $I back.
+obj echoat $n You feel much better now that $I is in your hands again.
+~
+#0
+
+#ROOMPROGS
+#25100
+if objexists fs25100
+  room echoat $n You find nothing.
+else
+  if level $n > 50
+  and people == 1
+  and mobs == 0
+  and ispc $n
+    room echoat $n Whoa! You found a sword!
+    room oload 25100 50
+    room force $n get all
+    room gtransfer $n 25633
+  else
+    room echoat $n You find nothing.
+  endif
+endif
+~
+#0
+

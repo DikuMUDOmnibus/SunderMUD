@@ -1,0 +1,53 @@
+SunderMud 2.1a has been tested on the following system only:
+   Suse 8.2
+   
+SunderMud 2.1 compiled on the following systems (and so should 2.1a)
+   Cygwin, current version as of June 1, 2003
+   RedHat 7.1
+   Probably FreeBSD since 2.0 was developed on a BSD system.
+   
+Currently there are NO errors or warnings in the compile. If you
+receive these, it is the result of differing compiler versions.
+
+The setup scripts have not been updated due to numerous problems
+maintining compatibility between systems. Therefore you should 
+modify your configuration files manually. These include:
+
+bin/sunder.rc   // Runtime Options - Port number is here, and other things.
+src/options.h   // A few minor compile-time options.
+src/strings.h   // Important text strings and options <-- You really should
+                // edit this one.
+Makefile        // If you're running Cygwin, there's a change to make here.
+
+------------
+If you do feel like messing with the setup script to write your 
+sunder.rc and options.h files (it does not modify the strings.h file),
+then you should remember that it may not work on all systems. If it does
+work for you, it will generate those files automatically.
+
+The ability of these scripts to run, as well as the "sunderpanel.sh" script
+depends not only on your system having dialog, but also upon the particular
+version of dialog, the version of your shell, the capabilities of your
+terminal, and the temperature in Vladivostok.
+
+------------
+Library Requirements:
+You must have the crypt library (almost any Linux/BSD system in use today
+will have this, as does Cygwin).
+
+You must have "zlib-devel" installed. Many systems did not install this as
+part of a default development installation, but it is available in most
+standard distributions, you'll just have to install it if it isn't already
+present. You'll know this is the case if you get errors in the MCCP files.
+
+------------
+If you wish to create dependencies information, use makedepend, which
+is included with the XFree86-devel package (don't ask why, it just is).
+The command-line to use is:
+
+makedepend *.c -f Makefile
+
+Please read the rest of the documentation as well, much of it has
+useful information.
+
+-- Lotherius

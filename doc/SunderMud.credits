@@ -1,0 +1,47 @@
+SunderMud 2.1a
+--------------
+File Updated: November 24, 2003
+By:           Lotherius (lotherius@yahoo.com)
+
+Please read the credits for DIKU, Merc, and ROM also.
+
+SunderMud is based on the Rom 2.3 variant used for a brief time at Dark
+Times Mud.
+
+All reasonable efforts have been made to make sure everyone has received
+applicable credit and that no copyright infringements are being made.
+
+============
+SunderMud 2 is the result of 5 years of work by:
+Lotherius (elfren@blkbox.com) or (aelfwyne@operamail.com)
+
+============
+SunderMud 1 is the result of the combined efforts of:
+Lotherius (elfren@aros.net)
+Zeran     (jeremye@cis.ysu.edu) (If you know his current email, let me know!)
+
+============
+The unique portions of the Dark Times code as well as the integration
+efforts for code from other sources is based on the efforts of: 
+
+Lotherius (elfren@aros.net)
+Zeran     (jeremye@cis.ysu.edu)
+
+Dark Times is based on Rom 2.3
+============
+
+Additional sections of code have been used from:
+
+Jason Dinkel (mainly OLC and string editors)
+Talen (Merc Mailing List, unknown address/real name)
+N-Atas-Ha (MobPrograms)
+Newt@Imperium Gothique (Updates to MobPrograms)
+Erwin S. Andreason (various pieces here and there)
+Oliver Jowett (MCCP Port for Rom)
+Roger Libiez (Samson) (Intermud-3 Code)
+
+============
+
+Anyone who has been left out should contact elf_inside@operamail.com 
+with your claim, and if we used your code without credit, we will add 
+your name to this file. Any omissions are purely accidental.

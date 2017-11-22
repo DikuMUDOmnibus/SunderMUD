@@ -1,0 +1,26 @@
+SunderMud 2
+-----------
+File Updated: June 23, 2002
+By:           Lotherius (elfren@blkbox.com)
+
+
+Questions: Why are the docs moved? Where are the licenses??
+
+Answers:
+
+Don't worry, they're all intact and exist in the old-docs/ directory. Look
+there if the file you're looking for isn't in this directory.
+
+Frankly, there were getting to be too many docs in this directory, and too
+many out of date to be of much use to anyone.
+
+The various licenses exist intact in the old-docs directory, and are also
+duplicated in the License file in this directory which is kept current.
+
+-----------
+
+All files in this DOCs directory have been updated to be relevant to the
+current release. Old-Docs files may be of use but haven't been checked for
+relevancy, are duplicated elsewhere, or are known to be useless for this
+release.
+

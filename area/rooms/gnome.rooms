@@ -1,0 +1,1618 @@
+#1801
+Entrance to Gnome Village~
+You stand on a dusty path that leads west and east.  To the east you hear
+the sounds of a small village.
+~
+~
+4 2
+D1
+You see a dusty path.
+~
+~
+0 -1 1802
+D3
+~
+~
+0 0 4008
+S
+#1802
+A Dusty Path~
+This is a path leading into the village.  It continues east and west and
+there is a small house to the north.
+~
+~
+0 1
+D0
+You see a small house.
+~
+~
+0 -1 1809
+D1
+You see a road.
+~
+~
+0 -1 1803
+D3
+You see a path.
+~
+~
+0 -1 1801
+S
+#1803
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+~
+0 1
+D0
+You see a road.
+~
+~
+0 -1 1805
+D1
+You see a path.
+~
+~
+0 -1 1804
+D2
+You see a road.
+~
+~
+0 -1 1807
+D3
+You see a road.
+~
+~
+0 -1 1802
+S
+#1804
+A Dusty Path~
+You are on a dusty path on the far side of the village.  Houses are to the
+north and south, while the path continues east.  There is a sign here.
+~
+~
+0 1
+E
+sign~
+Warning:  The area to the east was written mostly by Vougon
+                    (giggle)    - Sandman
+~
+D0
+You see a house.
+~
+~
+0 -1 1812
+D1
+You see a path.
+~
+~
+0 -1 1859
+D2
+You see a house.
+~
+~
+0 -1 1813
+D3
+You see a road.
+~
+~
+0 -1 1803
+S
+#1805
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+~
+0 1
+D0
+You see a road.
+~
+~
+0 -1 1806
+D2
+You see a road.
+~
+~
+0 -1 1803
+S
+#1806
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+~
+0 1
+D0
+You see a road.
+~
+~
+0 -1 1826
+D1
+~
+~
+0 0 1811
+D2
+You see a road.
+~
+~
+0 -1 1805
+D3
+~
+~
+0 0 1810
+S
+#1807
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+~
+0 1
+D0
+You see a road.
+~
+~
+0 -1 1803
+D2
+You see a road.
+~
+~
+0 -1 1808
+D3
+You see a shop.
+~
+~
+0 -1 1814
+S
+#1808
+A Road in the Village~
+This road runs north and south through the center of the village.  There
+are a few people moving around, but not many.
+~
+~
+0 1
+D0
+You see a road.
+~
+~
+0 -1 1807
+D1
+You see a shop.
+~
+~
+0 -1 1816
+D2
+You see a small path.
+~
+~
+0 -1 1817
+D3
+You see a shop.
+~
+~
+0 -1 1815
+S
+#1809
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+~
+8 0
+D2
+You see a path.
+~
+~
+0 -1 1802
+S
+#1810
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+~
+8 0
+D1
+~
+~
+0 0 1806
+S
+#1811
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+~
+8 0
+D3
+~
+~
+0 0 1806
+S
+#1812
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+~
+8 0
+D2
+You see a path.
+~
+~
+0 -1 1804
+S
+#1813
+A Small Gnome House~
+This is a small suburban house made from quality wood.  You can see the
+expert workmanship that went into making it, but it lacks creativity.
+~
+~
+8 0
+D0
+You see a path.
+~
+~
+0 -1 1804
+S
+#1814
+A Gnome Shop~
+You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+~
+8 0
+D1
+You see a road.
+~
+~
+0 -1 1807
+S
+#1815
+A Gnome Shop~
+You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+~
+8 0
+D1
+You see a road.
+~
+~
+0 -1 1808
+S
+#1816
+A Gnome Shop~
+You are in one of the several shops of this fine town.  The wares look fine,
+but unfortunately the gnomes don't do business with outsiders.
+~
+~
+8 0
+D3
+You see a road.
+~
+~
+0 -1 1808
+S
+#1817
+Path by a Stream~
+You are on a small path leading north and west, that is surrounded on the
+other two sides by a small stream.  The water looks mighty cold.
+~
+~
+4 2
+E
+stream~
+The stream is pretty small, but it looks too cold to swim.
+~
+D0
+You see a road.
+~
+~
+0 -1 1808
+D2
+You see the stream.
+~
+~
+0 -1 1820
+D3
+You see a small path.
+~
+~
+0 -1 1818
+S
+#1818
+Path by a Stream~
+You are on a small east-west path.  The path shows new grass, as if it
+has stopped being used sometime in the recent past.  A river is to the south,
+and a small hut is to the west.
+~
+~
+0 2
+E
+stream~
+The stream is pretty small, but it looks too cold to swim.
+~
+E
+hut~
+The hut looks well built, but it seems to have taken some damage.
+~
+D1
+You see a small path.
+~
+~
+0 -1 1817
+D2
+You see the stream.
+~
+~
+0 -1 1821
+D3
+You see a small hut that is starting to fall apart.
+~
+~
+0 -1 1819
+S
+#1819
+A Small Hut~
+The hut is a mess!  Blood has stained the grass walls into a dark rich
+crimson color.  Torn clothes and trash lie all around, and you think you
+see a skeleton in the corner.
+~
+~
+8 0
+E
+skeleton~
+The skeleton still has a little flesh clinging to it and it is definitely
+humanoid.  The skull has been cracked open, but it is otherwise undamaged,
+except by time.
+~
+D1
+You see a small path.
+~
+~
+0 -1 1818
+S
+#1820
+On the Stream~
+The stream is cold and frigid, yet it supports plenty of life beneath its
+surface.  The current trickles west and there is a field to the south.
+~
+~
+0 7
+D0
+You see a small path.
+~
+~
+0 -1 1817
+D2
+You see a grassy field.
+~
+~
+0 -1 1822
+D3
+You see a small stream.
+~
+~
+0 -1 1821
+S
+#1821
+On the Stream~
+The current here flows from the east, but a logjam blocks you from 
+continuing onward.
+~
+~
+0 7
+D0
+You see a small path.
+~
+~
+0 -1 1818
+D1
+You see a small stream.
+~
+~
+0 -1 1820
+S
+#1822
+The Field of Mice's Dreams~
+This is a large green field of waist high grass.  You feel something
+scurry over your feet.  There is a cave to the east.
+~
+~
+0 2
+D0
+You see a small stream.
+~
+~
+0 -1 1820
+D1
+You see a dark mysterious cave.
+~
+~
+0 -1 1823
+S
+#1823
+The Dark Cave~
+The cave gleams as your light reflects off of it.  As you squint your eyes
+and try to look ahead, you think you see something move.
+~
+~
+1 3
+D2
+~
+~
+0 0 1824
+D3
+You see a grassy field.
+~
+~
+0 -1 1822
+S
+#1824
+Darker Cave~
+The cave gets even darker as your terror grows stronger.  You fear for your
+life as something emerges out of the shadows.
+~
+~
+1 3
+D0
+~
+~
+0 0 1823
+S
+#1826
+A Dusty Path~
+You are on a well traveled path that leads in many directions.  To the north
+is a large house, and to the west is a fortress.
+~
+~
+4 1
+E
+fortress~
+The fortress is a large gnome stronghold to defend the city.
+~
+D0
+You see a large white house.
+~
+~
+0 -1 1858
+D2
+You see a road.
+~
+~
+0 -1 1806
+D3
+You see the gateway to a large fortress.
+~
+~
+0 -1 1827
+S
+#1827
+The Iron Gateway~
+You stand at the entrance to the gnome fortress.  The place seems to be
+well fortified.
+~
+~
+0 1
+D1
+You see a small path.
+~
+~
+0 -1 1826
+D3
+You see a long hallway.
+~
+~
+0 -1 1828
+S
+#1828
+A Long Hallway~
+You are now inside of the fortress; you must be lucky that the guards 
+haven't killed you.  As you glance around, you notice that the walls and
+floors are spotlessly cleaned.  The barracks are to the north and a
+storage room is to the south.
+~
+~
+8 0
+D0
+You see the barracks.
+~
+~
+0 -1 1830
+D1
+You see the gateway.
+~
+~
+0 -1 1827
+D2
+You see a storage room.
+~
+~
+0 -1 1832
+D3
+You see a long hallway.
+~
+~
+0 -1 1829
+S
+#1829
+A Long Hallway~
+You are now inside of the fortress; you must be lucky that the guards 
+haven't killed you.  As you glance around, you notice that the walls and
+floors are spotlessly cleaned.  A mess hall is to the south.
+~
+~
+8 0
+D1
+You see a long hallway.
+~
+~
+0 -1 1828
+D2
+You see the mess hall.
+~
+~
+0 -1 1834
+D3
+You see a small room.
+~
+~
+0 -1 1835
+S
+#1830
+The Barracks~
+You now stand in the sleeping quarters of the gnome guards.  Every bed is
+made perfectly, and not single article of clothing is on the floor.  There
+is a small storage room to the east.
+~
+~
+8 0
+D1
+You see a small storage room.
+~
+~
+0 -1 1831
+D2
+You see a long hallway.
+~
+~
+0 -1 1828
+S
+#1831
+A Small Storage Room~
+This is where the gnomes store all their spare clothing and armor.
+There is not much here, but you might come up with something.
+~
+~
+8 0
+D3
+You see the barracks.
+~
+~
+0 -1 1830
+S
+#1832
+A Small Storage Room~
+This is where the gnomes store all their spare weapons.  A door leads off
+to the south.
+~
+~
+8 0
+D0
+You see a long hallway.
+~
+~
+0 -1 1828
+D2
+~
+~
+1 -1 1833
+S
+#1833
+A Small Storage Room~
+This is yet another room for storing gnome stuff.  Maps and battle plans
+are stored in neat stacks on the shelves.
+~
+~
+8 0
+D0
+~
+~
+1 -1 1832
+S
+#1834
+The Mess Hall~
+You are in the room where the guards come to get their grub.  The benches 
+and tables are neatly cleaned and straightened, while shiny plates line
+the walls.
+~
+~
+8 0
+D0
+You see a long hallway.
+~
+~
+0 -1 1829
+S
+#1835
+A Small Room~
+This is a small plain room.  Its only interesting feature is a ladder down.
+~
+~
+8 0
+D1
+You see a long hallway.
+~
+~
+0 -1 1829
+D5
+You see darkness.
+~
+~
+0 -1 1836
+S
+#1836
+A Small Unused Room~
+You stand in a small room in an unused section of the fortress.  The whole
+room is coated with dust and cobwebs.  The ladder leads back up, and
+a rusty door is to the east.
+~
+~
+9 1
+D1
+You see a rusty door.
+~
+rusty door~
+33 1800 1837
+D4
+You see a small room.
+~
+~
+0 -1 1835
+S
+#1837
+Dark Hallway~
+You find yourself in a very old section of the fortress.  You must be the
+first person to pass through here in years.  The hallway continues south
+and a door leads off to the east.
+~
+~
+9 2
+D1
+~
+~
+0 -1 1838
+D2
+~
+~
+0 -1 1839
+D3
+You see a rusty door.
+~
+door~
+33 1800 1836
+S
+#1838
+Torture Chamber~
+This is a room that was once used to extract lies out of helpless victims.
+The machines look unused, but could still work.
+~
+~
+9 2
+E
+machine~
+The machine consists of a large rack with winches on each end.  You can 
+almost feel them pulling your arms out of their sockets.
+~
+D3
+~
+~
+0 -1 1837
+S
+#1839
+Dark Hallway~
+The hall continues in a north-south direction.  The floor is coated with
+some kind of molded slime.  Doors lead east and west.
+~
+~
+9 2
+D0
+~
+~
+0 -1 1837
+D1
+~
+~
+0 -1 1842
+D2
+~
+~
+0 -1 1840
+D3
+~
+~
+0 -1 1841
+S
+#1840
+Dark Hallway~
+The hall continues in a north-south direction.  The floor is coated with
+some kind of molded slime.  Doors lead east and west.
+~
+~
+9 2
+D0
+~
+~
+0 -1 1839
+D1
+~
+~
+0 -1 1844
+D2
+~
+~
+0 -1 1843
+D3
+~
+~
+0 -1 1845
+S
+#1841
+Prison Cell~
+You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+~
+9 2
+D1
+~
+~
+0 -1 1839
+S
+#1842
+Prison Cell~
+You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+~
+9 2
+D3
+~
+~
+0 -1 1839
+S
+#1843
+Prison Cell~
+You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+~
+9 2
+D0
+~
+~
+0 -1 1840
+S
+#1844
+Prison Cell~
+You are in a dark and nasty prison cell.  Bodies lying on the floor give off
+an unbearable stench.
+~
+~
+9 2
+D3
+~
+~
+0 -1 1840
+S
+#1845
+End of the Dark Hallway~
+You have reached the end of the dark hallway and maybe the end of your puny
+life.  Something lumbers its way out of the shadows.
+~
+~
+9 2
+D1
+~
+~
+0 -1 1840
+D3
+You see a decaying door.
+~
+door~
+33 1801 1846
+S
+#1846
+A Ladder~
+You have come into a vertical tunnel with a ladder.
+~
+~
+9 3
+D1
+You see a decaying door.
+~
+door~
+33 1801 1845
+D5
+~
+~
+0 -1 1847
+S
+#1847
+Lair~
+You have entered a new lair in the fortress.  Anything could be lurking
+around the corner.
+~
+~
+9 2
+D2
+~
+~
+0 -1 1848
+D4
+~
+~
+0 -1 1846
+S
+#1848
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+~
+8201 2
+D0
+~
+~
+0 -1 1851
+D1
+~
+~
+0 -1 1849
+D2
+~
+~
+0 -1 1847
+S
+#1849
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+~
+8201 2
+D1
+~
+~
+0 -1 1848
+D2
+~
+~
+0 -1 1850
+S
+#1850
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+~
+8201 2
+D0
+~
+~
+0 -1 1849
+D1
+~
+~
+0 -1 1855
+S
+#1851
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+~
+8201 2
+D2
+~
+~
+0 -1 1852
+D3
+~
+~
+0 -1 1848
+S
+#1852
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+~
+8201 2
+D2
+~
+~
+0 -1 1853
+D3
+~
+~
+0 -1 1851
+S
+#1853
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+~
+8201 2
+D1
+~
+~
+0 -1 1852
+D3
+~
+~
+0 -1 1854
+S
+#1854
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+~
+8201 2
+D0
+~
+~
+0 -1 1856
+D1
+~
+~
+0 -1 1853
+D2
+~
+~
+0 -1 1855
+S
+#1855
+A Damp Hallway~
+You are wandering in a dark, damp, twisting hallway.  The temperature
+seems to be greater here, as well as your fear.
+~
+~
+8201 2
+D0
+~
+~
+0 -1 1850
+D3
+~
+~
+0 -1 1854
+S
+#1856
+The End of the Hallway~
+You make your way out of the hallway, just to find yourself in greater
+danger.  Before you looms the source of the great heat.
+~
+~
+8201 2
+D1
+~
+~
+0 -1 1857
+D2
+~
+~
+0 -1 1854
+S
+#1857
+The Altar~
+You finally reach the end of the maze.  There is a great altar here in the
+shape of a bat.  A passageway leads off to the west.
+~
+~
+8201 2
+D3
+~
+~
+0 -1 1856
+S
+#1858
+The Chief's House~
+You enter into a large and luxurious house.  The floor is coated with carpets
+and the walls are covered in paintings.  You feel privileged just for stepping
+inside.
+~
+~
+8 0
+D2
+You see a path.
+~
+~
+0 -1 1826
+S
+#1859
+The Unused Path~
+You are now on a fairly unused path that leads east out of the village.  
+You wonder what could be out this way.
+~
+~
+4 1
+D1
+You see a path.
+~
+~
+0 -1 1860
+D3
+You see a path.
+~
+~
+0 -1 1804
+S
+#1860
+The Overgrown Path~
+As the path continues on, the grass grows higher.  You can't imagine
+what could possibly be out this way.
+~
+~
+0 2
+D1
+You see a clearing.
+~
+~
+0 -1 1861
+D3
+You see a path.
+~
+~
+0 -1 1859
+S
+#1861
+The Clearing~
+Your progress is suddenly stopped by mountains on all sides.  The path leads
+back to the west, and there appears to be an old mine shaft to the north.
+~
+~
+0 2
+D0
+You see a mine shaft.
+~
+~
+0 -1 1862
+D3
+You see a path.
+~
+~
+0 -1 1860
+S
+#1862
+Entrance to the Mine Shaft~
+As you enter the mine shaft, you get a sudden fear of the walls closing
+in on you.  You are surprised to notice that you don't need a light.
+~
+~
+8 2
+D2
+You see the clearing.
+~
+~
+0 -1 1861
+D5
+~
+~
+0 0 1863
+S
+#1863
+Mine Shaft~
+This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions.
+~
+~
+8 2
+D0
+You see a small mine shaft.
+~
+~
+0 -1 1882
+D1
+You see the shaft.
+~
+~
+0 -1 1864
+D2
+You see the shaft.
+~
+~
+0 -1 1874
+D4
+~
+~
+0 0 1862
+S
+#1864
+Mine Shaft~
+This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions.
+~
+~
+8 2
+D0
+You see a large room.
+~
+~
+0 -1 1883
+D1
+You see the shaft.
+~
+~
+0 -1 1865
+D2
+You see a large room.
+~
+~
+0 -1 1873
+D3
+You see the shaft.
+~
+~
+0 -1 1863
+S
+#1865
+Mine Shaft~
+This mine shaft looks stable, at least in this area.  The wooden supports are
+thick and strong.  Torches line the walls.  Exits lead in all directions
+except north.
+~
+~
+8 2
+D1
+You see the walkway.
+~
+~
+0 -1 1866
+D2
+You see a large room.
+~
+~
+0 -1 1872
+D3
+You see the shaft.
+~
+~
+0 -1 1864
+S
+#1866
+Walkway~
+You are on a well built path in the middle of a mountain.  You sense something
+great up ahead, considering the hard work that must have gone into creating
+this passage.
+~
+~
+8 1
+D2
+You see the walkway.
+~
+~
+0 -1 1867
+D3
+You see the shaft.
+~
+~
+0 -1 1865
+S
+#1867
+Walkway~
+You are on a well built path in the middle of a mountain.  You sense something
+great up ahead, considering the hard work that must have gone into creating
+this passage.
+~
+~
+8 1
+D0
+You see the walkway.
+~
+~
+0 -1 1866
+D2
+You see a large hall.
+~
+~
+0 -1 1868
+S
+#1868
+The Grand Hall~
+You have stepped into the Grand Hall of the hobgoblin kingdom; your luck
+must be running low by now.  Golden pillars span the hallway, and you
+notice a red carpet beneath your feet.
+~
+~
+8 0
+D0
+You see the walkway.
+~
+~
+0 -1 1867
+D2
+You see a large room.
+~
+~
+0 -1 1869
+S
+#1869
+The Throne Room~
+This is large bright room filled with Hobgoblins.  To the south there is
+a large golden throne against the wall.
+~
+~
+8 0
+D0
+You see a large hall.
+~
+~
+0 -1 1868
+S
+#1870
+The Treasury~
+You are inside the hobgoblin's treasury.  Your eyes are almost blinded by the
+gold, silver and copper coins.
+~
+~
+8 0
+D0
+You see a large room.
+~
+~
+0 -1 1871
+S
+#1871
+Guarded Room~
+You are inside a well guarded room.  The place is slightly better built than
+the mine shafts, and is lit by lanterns.
+~
+~
+8 1
+D0
+You see a large room.
+~
+~
+0 -1 1872
+D2
+You see a large room.
+~
+~
+0 -1 1870
+S
+#1872
+Guarded Room~
+You are inside a well guarded room.  The place is slightly better built than
+the mine shafts, and is lit by lanterns.
+~
+~
+8 1
+D0
+You see a large room.
+~
+~
+0 -1 1865
+D2
+You see a large room.
+~
+~
+0 -1 1871
+S
+#1873
+Hobgoblin Armory~
+The guards store their spare weapons and armor here.  There are rusty swords
+on rotting shelves, and armor hanging from hooks or laying on the floor.
+~
+~
+8 1
+D0
+You see the shaft.
+~
+~
+0 -1 1864
+S
+#1874
+Mine Shaft~
+You enter a part of the mine shaft where the torches have grown dim
+and are almost ready to go out.  From what you can see, there are plenty
+of cobwebs on the walls and rats at your feet.
+~
+~
+8 2
+D0
+You see the shaft.
+~
+~
+0 -1 1863
+D2
+You see a dark and nasty room.
+~
+~
+0 -1 1875
+S
+#1875
+Entrance to a Dungeon~
+The floor dips slightly as you walk into this dark and nasty place.  Your
+skin crawls as you look at the filth on the walls and see it move.  Most
+of the exits lead into jail cells.
+~
+~
+8 2
+D0
+You see the shaft.
+~
+~
+0 -1 1874
+D1
+You see a cell.
+~
+~
+0 -1 1877
+D2
+You see a dark and nasty room.
+~
+~
+0 -1 1876
+D3
+You see a cell.
+~
+~
+0 -1 1881
+S
+#1876
+A Dungeon~
+You are in the deepest and darkest part of the mine shafts.  The light from
+the torches barely reaches to where you are.  Most directions from here
+lead to jail cells.
+~
+~
+8 2
+D0
+You see a dark and nasty room.
+~
+~
+0 -1 1875
+D1
+You see a cell.
+~
+~
+0 -1 1878
+D2
+You see a cell.
+~
+~
+0 -1 1879
+D3
+You see a cell.
+~
+~
+0 -1 1880
+S
+#1877
+A Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+~
+8 2
+D3
+You see a dark and nasty room.
+~
+~
+0 -1 1875
+S
+#1878
+The Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+~
+8 2
+D3
+You see a dark and nasty room.
+~
+~
+0 -1 1876
+S
+#1879
+The Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+~
+8 2
+D0
+You see a dark and nasty room.
+~
+~
+0 -1 1876
+S
+#1880
+The Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+~
+8 2
+D1
+You see a dark and nasty room.
+~
+~
+0 -1 1876
+S
+#1881
+The Jail Cell~
+You are in a musty, dark jail cell.  Wet and dirty straw covers the floor.
+The walls glisten with slime.  You see something stir in the straw.
+~
+~
+8 2
+D1
+You see a dark and nasty room.
+~
+~
+0 -1 1875
+S
+#1882
+Small Mine Shaft~
+You are in a small extension of the mine shaft.  The dust on the floor is
+undisturbed by footprints.
+~
+~
+8 2
+D0
+You see a small mine shaft.
+~
+~
+0 -1 1888
+D2
+You see the shaft.
+~
+~
+0 -1 1863
+S
+#1883
+Hobgoblin Barracks~
+You are suddenly surrounded by a small army of hobgoblin guards.  The room
+itself is a mess with clothes and armor everywhere.  The beds are unmade and
+stained.
+~
+~
+8 2
+D0
+You see a large room.
+~
+~
+0 -1 1884
+D1
+You see the mess hall.
+~
+~
+0 -1 1885
+D2
+You see the mine shaft.
+~
+~
+0 -1 1864
+S
+#1884
+Hobgoblin Barracks~
+Yech!  As you continue forward, the smell just keeps getting worse.
+What are you DOING here?
+~
+~
+8 2
+D2
+You see a large room~
+~
+0 -1 1883
+S
+#1885
+Mess Hall~
+You stand in the hobgoblin eating area.  There are a few rotting tables
+and many broken dishes scattered around the room.  You almost slip on a
+rotten piece of meat, but catch yourself just in time.
+~
+~
+8 2
+D0
+You see a small room.
+~
+~
+0 -1 1886
+D1
+You see a kitchen.
+~
+~
+0 -1 1887
+D3
+You see a large room.
+~
+~
+0 -1 1883
+S
+#1886
+A Store Room~
+You stand in a small room filled with flour, grain, fruit, and bat droppings.
+~
+~
+8 1
+D2
+You see the mess hall.
+~
+~
+0 -1 1885
+S
+#1887
+The Kitchen~
+This kitchen hasn't been cleaned since the creation of humans.  The trash and
+spoiled food laying on the floor reach up to your knees.  Off to the side a
+pot is boiling over.  A human hand floats in it.
+~
+~
+8 2
+D3
+You see the mess hall.
+~
+~
+0 -1 1885
+S
+#1888
+A Small Mine Shaft~
+You come to a place in the mine shaft where a tunnel leads down.  The
+small passage continues north and south.
+~
+~
+8 2
+D0
+You see an almost caved in area.
+~
+~
+0 -1 1889
+D2
+You see a small mine shaft.
+~
+~
+0 -1 1882
+D5
+You see a hole.
+~
+~
+0 -1 1890
+S
+#1889
+Hermit's Lair~
+You are in a small section where the mine wall has collapsed to reveal a
+tiny one-room cave.  The area is barely lit, but you can make out something
+moving towards you.
+~
+~
+8 2
+D2
+You see a small mine shaft.
+~
+~
+0 -1 1888
+S
+#1890
+A Hole~
+You are in a hole.
+~
+~
+8 3
+D4
+You see a small mine shaft.
+~
+~
+0 -1 1888
+S
+#0
+
+
+

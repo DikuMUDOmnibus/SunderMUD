@@ -1,0 +1,177 @@
+#4000
+farmer ghost~
+A ghostly farmer~
+A ghostly farmer is here moaning quietly
+~
+~
+~
+human~
+ABO BU 0 0
+500 15 0 5d30+161 15d10+100 2d7+0 0
+0 PQ FM NZ
+8 8 0 0
+AHILMV ABCDEFGHIJKRSTa 2 unknown
+#4001
+huge giant guard~
+A giant guardian~
+A huge giant is here, guarding the bridge.
+~
+The giant looks at you as if to determine your worth.
+~
+~
+giant~
+ABT 0 E 0
+400 35 0 16d82+534 35d10+100 3d14+0 11
+CLOR 0 HI JP
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 5 unknown
+#4002
+Regtorth~
+Regtorth~
+The keeper of the wayhouse, Regtorth, is here tending the bar.
+~
+~
+~
+giant~
+AB 0 0 0
+0 80 0 16d432+2016 80d10+100 6d28+0 7
+0 0 HI JP
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#4003
+large burly giant~
+A large burly giant~
+A large burly giant is here keeping the peace.
+~
+~
+~
+giant~
+ABT 0 0 0
+-50 35 10 16d82+534 35d10+100 3d14+0 3
+ADER 0 HI JP
+8 8 1 20
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#4004
+carrion crawler~
+A carrion crawler~
+A huge ugly carrion crawler is here
+~
+~
+~
+centipede~
+ABF Qa J 0
+0 12 0 5d32+120 12d10+100 1d7+0 7
+M 0 FI E
+8 8 0 0
+O DFKMPUX 2 unknown
+#4005
+poor traveller~
+A poor traveller~
+A poor looking traveller is here, getting drunk.
+~
+~
+~
+human~
+ABHS 0 0 0
+0 12 0 5d32+120 12d10+100 1d7+0 3
+FJN 0 0 0
+8 8 1 17
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#4006
+cook~
+the cook~
+The cook is here roasting beef for the sandwiches.
+~
+~
+~
+giant~
+ABT 0 0 0
+-200 18 0 10d36+205 18d10+100 2d8+0 7
+DFO 0 HI JP
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#4007
+giant woman~
+a giant woman~
+A giant woman sleeps here.
+~
+~
+~
+giant~
+AT 0 0 0
+0 27 0 16d49+360 27d10+100 2d11+0 3
+CEIO 0 HI JP
+4 8 2 0
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#4008
+satyr naked man~
+A satyr man~
+A naked satyr man is here.
+~
+He appears to have been quite busy with his wife, but will stop to kill you.
+~
+~
+satyr~
+ABFT 0 FIJ 0
+-200 7 0 16d42+322 25d10+100 1d5+0 11
+R 0 BL Z
+8 8 1 0
+AHMV ABCDEFGHIJKRSTWa 2 unknown
+#4009
+woman naked satyr~
+A satyr woman~
+A naked satyr woman is here.
+~
+She appears to have been quite busy with her husband.
+~
+~
+satyr~
+ABF 0 FIJ 0
+100 5 0 1d16+42 5d10+100 1d4+0 7
+R 0 BL Z
+8 8 2 0
+AHMV ABCDEFGHIJKRSTWa 2 unknown
+#4010
+warrior tough looking giant~
+A tough looking giant warrior~
+A tough looking giant warrior is here.
+~
+He has scars all over him, and is obviously very experienced.
+~
+~
+giant~
+ABT 0 0 0
+-1000 30 0 16d60+426 30d10+100 3d12+0 11
+0 0 HI JP
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#4011
+wife regtorth~
+Regtorth's wife~
+Regtorth's wife is here relaxing.
+~
+~
+~
+giant~
+A 0 0 0
+0 40 0 16d108+648 40d10+100 3d15+0 3
+0 0 HI JP
+8 8 2 2
+AHMV ABCDEFGHIJKRSTa 5 unknown
+#4012
+undead skeleton~
+An undead skeleton~
+An undead skeleton is here, moaning about its fate.
+~
+~
+~
+human~
+A 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 7
+0 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

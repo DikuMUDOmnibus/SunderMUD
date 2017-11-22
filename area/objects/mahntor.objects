@@ -1,0 +1,1104 @@
+#2300
+gloves combat~
+a pair of minotaur combat gloves~
+A pair of metal plated gloves lie here.~
+~
+steel~
+9 0 AH 0
+D D D D 0
+25 60 2850 100 100
+A
+18 1
+A
+19 1
+E
+gloves combat~
+These gloves are plated with metal plates that provide strength and 
+protection.
+~
+#2301
+spiked armor garde~
+a suit of spiked garde armor~
+A pile of spiked chainmail lies here.~
+~
+steel~
+9 0 AD 0
+ABC ABC ABC ABC 0
+22 80 2700 100 100
+A
+19 2
+#2302
+greaves black~
+a pair of black minotaur greaves~
+Some black metal greaves lie here.~
+~
+iron~
+9 0 AF 0
+AD AD AD AD 0
+30 90 1500 100 100
+#2303
+vambraces black~
+a pair of black minotaur vambraces~
+Some black metal vambraces lie here.~
+~
+iron~
+9 0 AI 0
+AD AD AD AD 0
+30 90 1500 100 100
+#2304
+rod weaponry~
+the rod of weaponry~
+A shiny metal rod lies here.~
+~
+steel~
+5 AGI AN 0
+0 B BCD BC 0
+28 240 6200 100 100
+A
+18 3
+A
+19 3
+#2305
+cloak pitch black~
+a pitch black cloak~
+A pile of black cloth lies here.~
+~
+cloth~
+15 G AK 0
+BCEH 0 0 BCDE BDEG
+20 30 1400 100 100
+A
+20 -2
+E
+cloak pitch black~
+It appears to have pockets inside it.
+~
+#2306
+neckguard neck guard black plate~
+a black plate neckguard~
+A black plate collar rests here.~
+~
+iron~
+9 GJL AC 0
+AD AD AD AD 0
+30 100 2300 100 100
+A
+4 1
+#2307
+spiked gauntlets~
+a pair of spiked gauntlets~
+A pair of spiked gauntlets lies here.~
+~
+steel~
+9 0 AH 0
+ABC ABC ABC ABC 0
+20 100 2600 100 100
+A
+19 2
+E
+spiked gauntlets~
+They look pretty damaging.
+~
+#2308
+shield shadow~
+the shadow shield~
+A shadowy shield rests here.~
+~
+ice~
+9 AGJL AJ 0
+D D D D 0
+27 150 1350 100 100
+A
+17 -2
+A
+20 -2
+E
+shield shadow~
+You look into the depths of the shield and shiver at the evil it contains.
+~
+#2309
+nightbringer short sword shortsword~
+a shortsword named "Nightbringer"~
+A very evil looking shortsword lies here.~
+~
+adamantite~
+5 CGJL AN 0
+A B ACD ABD 0
+27 90 6150 100 100
+A
+18 3
+A
+19 3
+E
+nightbringer short sword shortsword~
+The runes "NiGHtBrINgeR" are scrawled along the blade.
+~
+#2310
+visor helm golden~
+a golden helm and visor~
+A helm and visor made of pure gold rests here.~
+~
+gold~
+9 AGKL AE 0
+ABC ABC ABC ABC 0
+20 150 2600 100 100
+A
+4 1
+A
+3 1
+#2311
+breast plate gilded gold~
+a gilded gold breast plate~
+A large golden breast plate lies here.~
+~
+gold~
+9 AGKL AD 0
+AD AD AD AD 0
+32 180 3600 100 100
+A
+13 25
+#2312
+cape white billowing silk~
+a billowing white cape ~
+A pile of white silk lies here.~
+~
+cloth~
+9 AG AC 0
+AC AC AC AC 0
+10 50 500 100 100
+#2313
+shield huge tower~
+a huge tower shield~
+A huge shield lies here.~
+~
+steel~
+9 AG AJ 0
+AD AD AD AD 0
+30 140 1500 100 100
+E
+shield huge tower~
+A pure white shield with a gold cross emblazoned across it.
+~
+#2314
+dawnbringer mace huge two-handed~
+a huge mace named "Dawnbringer"~
+A huge mace lies here. It radiates an aura of power.~
+~
+steel~
+5 AGKL AN 0
+C B BCD BC F
+28 240 6200 100 100
+A
+18 3
+A
+19 3
+E
+dawnbringer mace huge~
+The runes "DAwNbRIngER" are scrawled along the handle.
+~
+#2315
+spectacles wire rimmed~
+a pair of wire rimmed spectacles~
+A small pair of wire rimmed spectacles rests here.~
+~
+glass~
+11 G AE 0
+0 0 0 0 0
+15 20 2350 100 100
+A
+3 2
+E
+spectacles wire rimmed~
+They'll make you look smart.
+~
+#2316
+ring banded~
+a banded ring~
+A small ring made of gold and silver bands lies here.~
+~
+gold~
+9 AG AB 0
+AD AD AD AD 0
+30 20 3900 100 100
+A
+12 30
+E
+ring banded~
+The ring has entwined bands of gold and silver.
+~
+#2317
+globe minor~
+a minor globe of invulnerability~
+A small globe rests here. It shimmers and radiates power.~
+~
+crystal~
+9 AG AK 0
+D D D D 0
+27 10 1750 100 100
+A
+20 -2
+E
+globe minor~
+Shimmering colors move inside the globe.
+~
+#2318
+staff gnarled magius~
+a gnarled magius staff~
+A gnarled staff lies here.~
+~
+wood~
+5 G AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef B ACD ABC F
+27 100 6550 100 100
+A
+18 3
+A
+19 3
+A
+20 -2
+E
+staff gnarled magius~
+It appears to be simply a gnarled old limb. It feels powerful though.
+~
+#2319
+girdle pouches many~
+a girdle of many pouches~
+A girdle lies here.~
+~
+cloth~
+15 Y AL 0
+CEFGHI 0 0 BD ADE
+1 50 50 100 100
+E
+girdle pouches many~
+It appears to be full of tiny pockets.
+~
+#2320
+robe heavy woolen~
+a heavy woolen robe~
+A heavy pile of wool lies here.~
+~
+cloth~
+9 G AK 0
+D D D D 0
+25 100 1250 100 100
+#2321
+brooch ivory~
+a brooch of life~
+A small ivory brooch lies here.~
+~
+unique~
+8 AGI AC 0
+0 0 0 0 0
+30 50 3900 100 100
+A
+13 30
+#2322
+manual arts healing book~
+a manual of healing arts~
+A small book lies here.~
+~
+paper~
+2 0 AO 0
+30 16 16 16 0
+25 50 1250 100 100
+E
+manual arts healing book~
+It appears to be a book of anatomy and medicine.
+~
+#2323
+mace huge mithril~
+a huge mithril mace~
+A huge mace made of mithril metal lies here.~
+~
+mithril~
+5 AG AN 0
+C B ACD D 0
+26 130 4500 100 100
+A
+18 2
+A
+19 2
+#2324
+symbol holy golden~
+a golden holy symbol~
+A small holy symbol on a golden chain lies here.~
+~
+gold~
+8 G AC 0
+0 0 0 0 0
+5 30 1050 100 100
+A
+12 10
+#2325
+ring marble thick~
+a thick marble ring~
+A thick ring made of marble~
+~
+stone~
+9 G AB 0
+C C C C 0
+8 50 400 100 100
+A
+17 -2
+#2326
+bracelet thick marble~
+a thick marble bracelet~
+A thick bracelet made of marble lies here.~
+~
+stone~
+8 G AM 0
+0 0 0 0 0
+5 80 1050 100 100
+A
+5 1
+#2327
+boots striding~
+boots of striding~
+A lithe pair of leather boots have been left here.~
+~
+leather~
+9 G AG 0
+AD AD AD AD 0
+30 50 3900 100 100
+A
+14 30
+E
+boots striding~
+They look comfortable to walk in.
+~
+#2328
+cloak icy white~
+an icy white cloak~
+A cold pile of white cloth lies here.~
+~
+cloth~
+9 AG AK 0
+D D D D 0
+25 50 1250 100 100
+E
+cloak icy white~
+Smoke rises from it almost like it's made of dry ice.
+~
+#2329
+staff ice~
+an ice staff~
+A staff made of ice rests here.~
+~
+ice~
+5 G AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef B BCD ABC BF
+28 130 4600 100 100
+A
+18 2
+A
+12 20
+E
+staff ice~
+The runes "FrIgID" are inscribed in the icy staff.
+~
+#2330
+ring carved wooden~
+a carved wooden ring~
+A wooden ring is on the floor.~
+~
+wood~
+8 G AB 0
+0 0 0 0 0
+7 30 1950 100 100
+A
+18 1
+A
+19 1
+#2331
+horn life~
+the horn of life~
+A severed minotaur horn lies here.~
+~
+bone~
+3 G AO 0
+BCDE D D 16 0
+1 50 50 100 100
+E
+horn life~
+The horn is capped at both ends with gold. Unreadable runes are scrawled on it.
+~
+#2332
+belt life~
+the belt of life~
+A strange belt lies here.~
+~
+cloth~
+11 G AL 0
+0 0 0 0 0
+30 90 3900 100 100
+A
+5 3
+#2333
+stone blood red~
+a blood red stone~
+A blood red stone lies here collecting dust.~
+~
+stone~
+8 BGT AO 0
+0 0 0 0 0
+20 20 2600 100 100
+A
+13 20
+E
+stone blood red~
+The stone pulses with your own heart beat.
+~
+#2334
+crossbow huge~
+a huge crossbow~
+A huge crossbow rests here.~
+~
+wood~
+5 G AN 0
+0 B ACD ABD F
+27 150 2950 100 100
+A
+18 1
+A
+19 1
+#2335
+pack leather small~
+a small leather pack~
+A small leather pack rests here.~
+~
+leather~
+15 GY AK 0
+DGH 0 0 CE EG
+1 90 50 100 100
+E
+pack leather small~
+It looks pretty big on the inside.
+~
+#2336
+hood black leather~
+a black leather hood~
+A hood made of black leather rests here.~
+~
+leather~
+9 G AE 0
+AC AC AC AC 0
+10 50 500 100 100
+#2337
+sleeves black leather~
+a pair of black leather sleeves~
+Some leather sleeves lie here.~
+~
+leather~
+9 0 AI 0
+ABC ABC ABC ABC 0
+20 50 1000 100 100
+#2338
+pants black leather~
+a pair of black leather pants~
+Some leather pants lie here.~
+~
+leather~
+9 G AF 0
+ABC ABC ABC ABC 0
+20 50 1000 100 100
+E
+pants black leather~
+They look sneaky.
+~
+#2339
+sword wicked short shortsword~
+a wicked shortsword~
+A wicked looking shortsword lies here.~
+~
+adamantite~
+5 G AN 0
+A B ACD ABD 0
+26 110 2900 100 100
+A
+18 1
+A
+19 1
+E
+sword wicked short shortsword~
+It looks just perfect for backstabbing.
+~
+#2340
+globe major~
+a major globe of invulnerability~
+A large globe rests here, pulsing uneasily.~
+~
+crystal~
+9 ABG AK 0
+AD AD AD AD 0
+31 10 1950 100 100
+A
+20 -2
+E
+globe major~
+Shimmering colors move inside the globe.
+~
+#2341
+chain chainmail black suit~
+a suit of black minotaur chainmail~
+A huge pile of black chainmail rests here.~
+~
+iron~
+9 G AD 0
+AD AD AD AD 0
+30 120 3100 100 100
+A
+1 1
+A
+5 1
+#2342
+buckler spiked~
+a spiked buckler~
+A small spiked buckler rests here.~
+~
+iron~
+9 0 AJ 0
+BD BD BD BD 0
+35 50 3350 100 100
+A
+19 2
+#2343
+ring studded~
+a studded ring~
+A small studded ring lies here.~
+~
+silver~
+8 G AB 0
+0 0 0 0 0
+13 10 1450 100 100
+A
+19 1
+A
+17 -3
+#2344
+helm horned~
+a horned minotaur helm~
+A small horned helm rests here.~
+~
+bone~
+9 0 AE 0
+BD BD BD BD 0
+35 80 1750 100 100
+#2345
+axe great~
+mahn-Tor's Great Axe~
+An extremely huge axe is resting here.~
+~
+iron~
+5 BG AN 0
+AC AB ABCD AB 0
+31 260 4750 100 100
+A
+18 2
+A
+19 2
+E
+axe great~
+The runes "DeAtH" are scrawled along the blade.
+~
+#2346
+plate ethereal suit~
+a suit of ethereal plate~
+A suit of shimmering plate rests here.~
+~
+steel~
+9 AJ AD 0
+D D D D 0
+27 20 1750 100 100
+A
+20 -2
+E
+plate ethereal suit~
+You can almost see through it.
+~
+#2347
+helm ethereal~
+an ethereal helm~
+A shimmering helm rests here.~
+~
+unique~
+9 AJ AE 0
+D D D D 0
+25 50 1250 100 100
+E
+helm ethereal~
+You can almost see through it.
+~
+#2348
+blade ethereal~
+an ethereal blade~
+A shimmering blade lies here.~
+~
+unique~
+5 AJ AN 0
+0 B ACD AB 0
+25 30 2850 100 100
+A
+18 1
+A
+19 1
+E
+blade ethereal~
+You can almost see through it.
+~
+#2349
+branch willow~
+a willow branch~
+A small willow branch lies here.~
+~
+wood~
+3 G AO 0
+CE AC AC 0 0
+13 30 650 100 100
+#2350
+key keep~
+the keep key~
+A small key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2351
+key red~
+a red key~
+A small red key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2352
+key black~
+a black key~
+A small black key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2353
+key white~
+a white key~
+A small white key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2354
+key brown~
+a brown key~
+A small brown key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2355
+key yellow~
+a yellow key~
+A small yellow key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2356
+key maroon~
+a maroon key~
+A small maroon key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2357
+key green~
+a green key~
+A small green key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2358
+key grey~
+a grey key~
+A small grey key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+#2359
+key runed~
+a runed key~
+A small runed key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+0 10 0 100 100
+E
+key runed~
+The key looks like it was made for royalty.
+~
+#2360
+boots fur lined~
+a pair of fur lined boots~
+A pair of boots are on the floor.~
+~
+cloth~
+9 G AG 0
+C C C C 0
+7 50 1150 100 100
+A
+14 10
+#2361
+pelt yeti white~
+the white pelt of a yeti~
+A white pelt lies here.~
+~
+cloth~
+9 Q AK 0
+BC BC BC BC 0
+15 90 750 100 100
+#2362
+sword kopesh~
+a kopesh sword~
+A sword with a curved blade lies here.~
+~
+steel~
+5 0 AN 0
+A B BD AB 0
+17 130 850 100 100
+E
+sword kopesh~
+The sword looks like it would be grasped so that the blade extended along the
+forearm of the wielder.
+~
+#2363
+vambraces steel~
+a pair of steel vambraces~
+A gleaming pair of vambraces lies here.~
+~
+steel~
+9 0 AI 0
+BC BC BC BC 0
+15 0 750 100 100
+#2364
+greaves steel~
+a pair of steel greaves~
+A gleaming pair of greaves lie here.~
+~
+steel~
+9 0 AF 0
+BC BC BC BC 0
+15 70 750 100 100
+#2365
+axe battle battleaxe~
+a battle axe~
+A dangerous looking battle axe rests here.~
+~
+steel~
+5 0 AN 0
+AC B BD AB 0
+17 180 850 100 100
+#2366
+plate steel breast~
+a steel breast plate~
+A breast plate of thick steel rests here.~
+~
+steel~
+9 0 AD 0
+BC BC BC BC 0
+15 100 750 100 100
+#2367
+helm steel~
+a steel helm~
+A steel helm has been left here.~
+~
+steel~
+9 0 AE 0
+BC BC BC BC 0
+15 60 750 100 100
+#2368
+halberd huge two-handed~
+a huge halberd~
+A huge halberd has been left here.~
+~
+steel~
+5 G AN 0
+D B BD ACE F
+18 180 2500 100 100
+A
+18 1
+A
+19 1
+#2369
+visor blue steel helm~
+a blue steel helm and visor~
+A helm and visor of blue steel rests here.~
+~
+steel~
+9 0 AE 0
+D D D D 0
+25 80 1250 100 100
+#2370
+greaves blue steel~
+a pair of blue steel greaves~
+Some greaves made of blue steel rest here.~
+~
+steel~
+9 0 AF 0
+D D D D 0
+25 80 1250 100 100
+#2371
+vambraces blue steel~
+a pair of blue steel vambraces~
+Some vambraces made of blue steel rest here.~
+~
+steel~
+9 0 AI 0
+D D D D 0
+25 80 1250 100 100
+#2372
+sword two two-handed~
+a two-handed sword~
+A large sword lies here.~
+~
+steel~
+5 G AN 0
+A B CD AB F
+22 180 4300 100 100
+A
+18 2
+A
+19 2
+#2373
+visor helm steel red~
+a red steel helm and visor~
+A helm and visor made of red steel rests here.~
+~
+steel~
+9 0 AE 0
+ABC ABC ABC ABC 0
+20 80 1000 100 100
+#2374
+greaves red steel~
+a pair of red steel greaves~
+Some greaves made of red steel rest here.~
+~
+steel~
+9 0 AF 0
+ABC ABC ABC ABC 0
+20 80 1000 100 100
+#2375
+vambraces red steel~
+a pair of red steel vambraces~
+Some vambraces made of red steel rest here.~
+~
+steel~
+9 0 AI 0
+ABC ABC ABC ABC 0
+20 80 1000 100 100
+#2376
+glaive~
+a minotaur glaive~
+A very large glaive rests here.~
+~
+steel~
+5 G AN 0
+D B CD AB F
+22 190 2700 100 100
+A
+18 1
+A
+19 1
+#2377
+visor helm crimson steel~
+a crimson steel helm and visor~
+A helm and visor made of crimson steel rests here.~
+~
+steel~
+9 0 AE 0
+D D D D 0
+25 80 1250 100 100
+#2378
+greaves crimson steel~
+a pair of crimson steel greaves~
+Some greaves made of crimson steel rest here.~
+~
+steel~
+9 0 AF 0
+D D D D 0
+25 80 1250 100 100
+#2379
+vambraces crimson steel~
+a pair of crimson steel vambraces~
+Some vambraces made of crimson steel rest here.~
+~
+steel~
+9 0 AI 0
+D D D D 0
+25 80 1250 100 100
+#2380
+star morning morningstar~
+a huge morningstar~
+A huge morningstar rests here.~
+~
+steel~
+5 G AN 0
+C B BCD ABC 0
+29 200 4650 100 100
+A
+18 2
+A
+19 2
+E
+star morning morningstar~
+It looks damaging.
+~
+#2381
+spiked brass knuckles~
+some huge spiked brass knuckles~
+A set of spiked brass knuckles lies here.~
+~
+brass~
+5 0 AN 0
+0 B BD AE 0
+17 90 850 100 100
+E
+spiked brass knuckles~
+A band held in the hand that has spikes on the front side.
+~
+#2382
+ring key multi colored multi-colored~
+a multi-colored key ring~
+A ring of multi-colored keys rests here.~
+~
+brass~
+15 0 AC 0
+BD 0 0 B CFG
+0 30 0 100 100
+E
+ring key multi colored multi-colored~
+It has several keys of different colors on it.
+~
+#2383
+maul huge wooden~
+a huge wooden maul~
+A huge wooden maul rests here.~
+~
+wood~
+5 0 AN 0
+C B BCD BC 0
+28 220 1400 100 100
+#2384
+potion misty~
+a misty potion~
+A small misty potion rests here.~
+~
+glass~
+10 AGN A 0
+20 61 0 0 0
+11 30 550 100 100
+#2385
+pouch belt~
+a belt pouch~
+A belt pouch lies here.~
+~
+leather~
+15 0 AL 0
+ABCD 0 0 B CFG
+0 50 20 100 100
+#2386
+spear ogre~
+an ogre spear~
+A crude spear rests here.~
+~
+iron~
+5 0 AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef B BD ACDEHIJKLMNOPQRSTUVWXYZabcdef F
+17 80 850 100 100
+#2387
+club ogre war~
+an ogre war club~
+A large, crude club rests here.~
+~
+wood~
+5 0 AN 0
+C B BD ABC 0
+17 100 850 100 100
+#2388
+cloak bear skin bearskin~
+a bearskin cloak~
+A rough bearskin rests here.~
+~
+cloth~
+9 0 AK 0
+ABC ABC ABC ABC 0
+20 120 1000 100 100
+#2389
+ear ring earring feathered~
+a pair of feathered earrings~
+Some feathered earrings rest here.~
+~
+unique~
+8 AG AE 0
+0 0 0 0 0
+1 20 500 100 100
+#2390
+gauntlets ogre power~
+gauntlets of ogre power~
+Some heavy gauntlets lie here.~
+~
+steel~
+9 BG AH 0
+ABC ABC ABC ABC 0
+23 130 4350 100 100
+A
+1 2
+A
+19 2
+E
+gauntlets ogre power~
+They look very "handy".
+~
+#2391
+club massive~
+a massive club~
+A massive club lies here, discarded.~
+~
+wood~
+5 0 AN 0
+C B CD BC F
+23 190 1520 100 100
+#2392
+cape thick fur~
+a thick fur cape~
+A thick pile of fur lies here.~
+~
+cloth~
+9 0 AC 0
+BC BC BC BC 0
+15 50 750 100 100
+#2393
+tunic fur lined~
+a fur lined tunic~
+A fur lined tunic rests here.~
+~
+cloth~
+9 0 AD 0
+BC BC BC BC 0
+15 60 750 100 100
+#0
+
+
+

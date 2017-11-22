@@ -1,0 +1,19 @@
+SunderMud 1
+-----------
+Tue Sep 9 1997
+elfren@aros.net (Lotherius)
+
+=== Vnum Assignments
+
+[    1    65] Limbo			(Diku / SunderMUD)
+[ 1300  1399] Clan & Immortal Areas	(SunderMUD)
+[ 1500  1799] South Road		(Lotherius)
+[ 2000  2199] City of Lukhan		(Lotherius)
+[ 2500  2599] City of Adaria		(Lotherius)
+[ 2700  2799] Galdamar			(Lotherius)
+[ 4000  4099] North Road		(Lotherius) 
+[ 9000  9099] Ashton                    (Tschedde-DT)
+[14200 14399] SouthWest Road		(Lotherius)
+[20000 21000] Player Homes		(SunderMUD)
+
+

@@ -1,0 +1,1116 @@
+#400
+sword lightbringer~
+lightbringer, the Sword of the Elven Kingdoms~
+Lightbringer, the Sword of the Elven Kingdoms, glows brillinatly here.
+~
+~
+mithril~
+5 ABGK AN 0
+0 C ADE ABD 0
+59 25 24550 100 100
+A
+18 2
+A
+19 3
+A
+12 10
+A
+13 10
+A
+24 -5
+A
+5 1
+A
+1 1
+E
+lightbringer sword~
+Lightbringer was one of seven blades forged by the Elven deity Yaegar for his 
+favorite princes. Lighbringer was the only to survive the Goblin Wars, and
+now rests in the care of Duke Stalatharata of Malathar.
+~
+#401
+crown~
+the Crown of Malathar~
+The Crown of the Dukes of Malathar is here.
+~
+~
+gold~
+9 ABKM AE 0
+BCD BCD BCD BCD 0
+59 25 4950 100 100
+A
+4 3
+A
+24 -3
+A
+23 -3
+A
+17 -10
+E
+crown~
+This crown was forged by Yaegar for the Dukes of Malathar, and it grants
+them degrees of intelligence far beyond those of normal Elves.
+~
+#402
+cloak~
+the Famous Cloak of Stalatharata~
+The Famous Cloak of Stalatharata, Duke of Malathar, floats past you.
+~
+~
+cloth~
+9 BKP AK 0
+BCD BCD BCD BCD 0
+59 25 8550 100 100
+A
+19 3
+A
+18 3
+A
+17 -10
+A
+13 25
+E
+cloak~
+This cloak was fashioned by the Archmage Tuo, and has become famous for an
+accidental enchantment placed upon it that causes it to float away if not
+worn.
+~
+#403
+ring~
+the Duchess' Ring~
+The Duchess of Malathar's Ring glitters here.
+~
+~
+gold~
+8 A AB 0
+0 0 0 0 0
+57 10 2850 100 100
+#404
+diadem~
+the Duchess' Diadem~
+The Duchess of Malathar's Diadem twinkles here.
+~
+~
+silver~
+8 A AE 0
+0 0 0 0 0
+57 10 2850 100 100
+#405
+slippers~
+the Duchess' Slippers~
+The Duchess of Malathar's Slippers are here.
+~
+~
+cloth~
+9 AM AG 0
+BCD BCD BCD BCD 0
+57 20 7650 100 100
+A
+14 30
+A
+2 3
+E
+slippers~
+The Archmage Tuo made these specially for the Duchess. It is said that they
+grant the wearer extraordinary litheness.
+~
+#406
+robe~
+tuo's Robe~
+The Archmage Tuo's Robe is here.
+~
+~
+cloth~
+9 AKM AD 0
+BCD BCD BCD BCD 0
+56 20 11200 100 100
+A
+12 50
+A
+24 -3
+A
+14 -150
+A
+13 -20
+A
+5 -2
+A
+4 1
+A
+3 2
+A
+2 -2
+A
+1 -2
+E
+robe~
+It is said that the Archmage's Robe is possessed of a life of its own, and
+that once donned it can never be removed...
+~
+#407
+gem~
+a Power Gem~
+A Power Gem rests here.
+~
+~
+crystal~
+8 FK AO 0
+0 0 0 0 0
+56 50 8800 100 100
+A
+12 50
+E
+gem~
+Power Gems were fashioned by the Old Ones and granted them tremendous magical
+energy.
+~
+#408
+spellbook~
+the Archmage Tuo's Spellbook~
+The Archmage Tuo's Spellbook is here.
+~
+~
+vellum~
+2 ABK AO 0
+56 70 30 26 0
+56 50 2800 100 100
+E
+spellbook~
+The Spellbook of Tuo, when read, unleashes tremendous magical energies upon
+the foe it is recited against, usually mortally wounding him/her/it.
+¼< @(~
+#409
+scroll~
+the Archmage of Tuo's emergency Scroll~
+The Archmage Tuo's emergency Scroll is here.
+~
+~
+vellum~
+2 ABK AO 0
+56 28 28 28 0
+56 10 14000 100 100
+E
+scroll~
+This scroll reads- "When one has sustained serious injuries, recite this
+scroll".
+~
+#410
+wand~
+the Archmage Tuo's Wondrous Wand~
+The Archmage Tuo's Wondrous Wand is here.
+~
+~
+silver~
+3 AK AO 0
+DEF ADE ADE 53 0
+56 5 2800 100 100
+E
+wand~
+This wand will help the wielder know what his possessions are.
+~
+#411
+orb~
+the Orb of Yuul~
+The Orb of Yuul sits here, glowing strangely.
+~
+~
+wood~
+4 ABK AO 0
+DEF BD BD 63 0
+55 25 2750 100 100
+E
+orb~
+Yaegar fashioned this Orb to enable his priests to defend themselves.
+~
+#412
+mitre~
+the High Priest's Mitre~
+High Priest Lallinthenera's Mitre is here.
+~
+~
+silver~
+9 AK AE 0
+BCD BCD BCD BCD 0
+55 15 4750 100 100
+A
+17 -25
+A
+13 50
+E
+mitre~
+This mystical headgear affords great protection to its wearer.
+~
+#413
+symbol~
+a Holy Symbol of Yaegar~
+A Holy Symbol of Yaegar is here.
+~
+~
+unknown~
+5 ABK AN 0
+0 C DE CE 0
+55 20 9150 100 100
+A
+19 4
+A
+18 4
+E
+symbol~
+There's only one person in the mud who should have this device, and that
+is Yaegar's close personal friend Lallinthenera the High Priest of Malathar,
+and if he EVER catches ANYONE else with it he will doubtless be VERY upset...
+~
+#414
+hoard~
+a Dragon's Hoard~
+A Dragon's Hoard of Coins is here.
+~
+~
+gold~
+20 A AO 0
+DFIJN 0 0 0 0
+55 500 9000 100 100
+#415
+scale~
+a Scale from a Platinum Dragon~
+This Dragon Scale would make an EXCELLENT Shield...
+~
+~
+unique~
+9 A AJ 0
+ACD ACD ACD ACD 0
+50 25 4500 100 100
+A
+19 2
+A
+24 -3
+A
+23 -3
+A
+17 -25
+A
+13 25
+E
+scale~
+This scale has come from the body of the great Platinum Dragon Haan.
+~
+#416
+chest~
+a Treasure Chest~
+The Treasure Chest of the Platinum Dragon Haan. It looks EXTREMELY heavy...
+~
+~
+iron~
+15 0 AO 0
+DFGHIJ ABCD AFHI 0 0
+55 300 2750 100 100
+E
+chest~
+This chest contains the wealth of Haan.
+~
+#417
+key~
+a WyrmKey~
+Haan's WyrmKey lies here.
+~
+~
+brass~
+18 A AO 0
+0 0 0 0 0
+57 5 2850 100 100
+E
+key~
+This key unlocks Haan's Treasue Chest.
+~
+#418
+helmet~
+a Beautifully-Carved Bone Helmet~
+This Helmet looks WONDERFUL! Coming from a Dragon's Hoard it is doubtless very
+valuable.
+~
+~
+bone~
+9 ABHM AE 0
+BCD BCD BCD BCD 0
+55 50 100 100 100
+A
+19 -3
+A
+18 -3
+A
+17 25
+A
+14 -100
+A
+13 -50
+A
+12 -50
+A
+5 -2
+A
+4 -2
+A
+3 -2
+A
+2 -2
+A
+1 -2
+E
+helmet~
+This helmet is the most beautiful thing you have EVER seen...
+~
+#419
+helm~
+an Elite Helm~
+An Elite Helm is here.
+~
+~
+steel~
+9 0 AE 0
+CD CD CD CD 0
+46 15 3500 100 100
+A
+17 -5
+A
+3 2
+#420
+ring signet~
+a Malatharan Signet Ring~
+A Malatharan Signet Ring rests here.
+~
+~
+silver~
+9 0 AB 0
+CD CD CD CD 0
+46 5 5500 100 100
+A
+19 2
+A
+18 2
+E
+ring~
+This ring is beautifully carved and bears the coat of arms of the Duchy of
+Malathar.
+~
+#421
+armor elite~
+the Armor of an Elite Guard~
+The Armor of an Elite Guard rests here.
+~
+~
+steel~
+9 0 AD 0
+CD CD CD CD 0
+46 20 1900 100 100
+A
+17 -15
+A
+5 1
+#422
+leggings~
+some Silvery Leggings~
+Some Silvery Leggings are here.
+~
+~
+silver~
+9 0 AF 0
+CD CD CD CD 0
+46 15 11900 100 100
+A
+14 100
+A
+2 2
+#423
+sword~
+a Shiny Steel Sword~
+A Shiny Steel Sword is here.
+~
+~
+steel~
+5 AG AO 0
+0 C ACE ABD 0
+46 18 5500 100 100
+A
+19 2
+A
+18 2
+#424
+shield~
+a Shield bearing the Coat of Arms of Malathar~
+A Shield bearing the Coat of Arms of Malathar is here.
+~
+~
+steel~
+9 0 AJ 0
+CD CD CD CD 0
+46 20 1500 100 100
+A
+17 -10
+#425
+bow~
+a sturdy longbow~
+A sturdy longbow rests here.
+~
+~
+wood~
+5 0 AP 0
+0 A D BC 0
+14 15 2300 100 100
+A
+18 2
+#426
+javelin~
+a sturdy javelin~
+A sturdy javelin rests here.
+~
+~
+wood~
+30 0 AO 0
+0 0 0 0 0
+18 10 4100 100 100
+A
+19 2
+A
+18 2
+#427
+cloak~
+a humble Scout's Cloak~
+A humble Scout's Cloak is here.
+~
+~
+cloth~
+9 C AC 0
+BC BC BC BC 0
+18 10 2900 100 100
+A
+23 -2
+A
+2 2
+#428
+boots~
+a pair of dirty boots~
+A pair of dirty boots rests here. They look very well-used.
+~
+~
+leather~
+9 0 AG 0
+BC BC BC BC 0
+18 10 3300 100 100
+A
+18 1
+A
+2 2
+E
+boots~
+This scruffy pair of boots belong(ed) to one of the Elven scouts of 
+Malathar, and have been worn on countless missions by their owner defending
+the Elven lands from Goblin or Troll incursions.
+~
+#429
+banner~
+a Malatharan War Banner~
+A Malatharan War Banner is here.
+~
+~
+cloth~
+1 A AO 0
+0 0 24 0 0
+20 5 1000 100 100
+E
+banner~
+The Elven warriors of Malathar use these to light their way on darkest nights.
+~
+#430
+shield~
+a sturdy shield~
+A sturdy-looking Elven shield is here.
+~
+~
+mithril~
+9 0 AJ 0
+ABC ABC ABC ABC 0
+20 10 1000 100 100
+#431
+sword~
+a sturdy sword~
+A sturdy-looking Elven sword is here.
+~
+~
+mithril~
+5 0 AN 0
+0 B ABD ABD 0
+20 15 1000 100 100
+#432
+helm~
+a sturdy helm~
+A sturdy-looking Elven helm is here.
+~
+~
+mithril~
+9 0 AE 0
+ABC ABC ABC ABC 0
+20 10 1000 100 100
+#433
+breastplate~
+a sturdy breastplate~
+A sturdy-looking Elven breastplate is here.
+~
+~
+mithril~
+9 0 AD 0
+ABC ABC ABC ABC 0
+20 10 1000 100 100
+#434
+leggings~
+some sturdy leggings~
+A pair of sturdy-looking Elven leggings is here.
+~
+~
+mithril~
+9 0 AF 0
+ABC ABC ABC ABC 0
+20 10 1000 100 100
+#435
+mittens~
+a pair of Acolyte's Mittens~
+An Elven Acolyte uses these fluffy mittens to keep his hands all warm :)
+~
+~
+cloth~
+11 0 AH 0
+0 0 0 0 0
+14 5 700 100 100
+#436
+sword guardian~
+the High Guardian's Two-Handed Sword~
+The High Guardian's Two-Handed Sword is here.
+~
+~
+steel~
+5 ABGK ANP 0
+A ABC ADF ABD F
+99 20 15350 100 100
+A
+19 5
+A
+18 5
+A
+1 3
+E
+sword~
+This huge blade was mystically forged by the Great Deity Yaegar Himself to
+aid Yaegar's Guardian in doing his oh-so-important job. It slices it dices,
+and its yours for $19.95 plus p+h. But Wait! There's More! Order NOW and 
+you'll receive this genuine 30-carat gold chain ABSOLUTELY FREE!
+RING NOW-
+1-800-IMAFOOL!
+~
+#437
+mask~
+the High Guardian's Face Mask~
+The High Guardian borrowed this device from the Man in the Iron Mask...
+~
+~
+iron~
+9 KM AE 0
+BCE BCE BCE BCE 0
+99 50 11350 100 100
+A
+19 3
+A
+18 3
+A
+17 -25
+A
+5 5
+E
+mask~
+And he wants it BACK!
+~
+#438
+collar~
+a Pet's Collar~
+This Collar marks the wearer as being a faithful pet of the Elven Nation...
+~
+~
+leather~
+9 KM AC 0
+AB AB AB AB 0
+1 10 5050 100 100
+F
+A 0 0 W
+E
+collar~
+If you are wearing this, any and all Elves will start saying "Good boy! GOOD
+boy! Fetch!" et al.
+~
+#439
+toy~
+an Elven Child's Toy~
+An Elven infant has carelessly discarded its toy.
+~
+~
+wood~
+13 0 AO 0
+0 0 0 0 0
+0 1 0 100 100
+#440
+wand fud~
+a Wand of Fud~
+A Wand of Fud fuds its way along here.
+~
+~
+brass~
+3 GN AO 0
+A AC AC 12 0
+15 5 750 100 100
+E
+wand fud~
+'Tis said that these Wands can meet a person's nutritional needs for days.
+Then again 'tis also said that the King still lives...
+~
+#441
+cup water~
+a Cup of Water~
+A Cup of Water which fills to the brim on command!
+~
+~
+glass~
+4 GN AO 0
+A AC AC 80 0
+20 5 1000 100 100
+E
+cup water~
+This Cup, when held and brandished, causes water to pur forth from it and
+onto the ground.
+~
+#442
+stone~
+a Shield Stone~
+A Shield Stone shimmers here.
+~
+~
+stone~
+4 AGN AO 0
+AC AC AC 67 0
+20 5 1000 100 100
+E
+stone~
+This Stone, when held and brandished, causes a magical shield to be erected
+about its wielder.
+~
+#443
+staff~
+a Staff of Acid~
+A Staff of Acid is here.
+~
+~
+wood~
+4 AGN AO 0
+ABCD AC AC 70 0
+20 10 1000 100 100
+E
+staff~
+Designed for use especially against Trolls, this Staff functions perfectly
+well against other opponents, showering them in a gout of deadly ACID. YEAH!
+~
+#444
+scroll~
+a Random Scroll~
+A Random Scroll!!!
+~
+~
+vellum~
+2 BGN AO 0
+20 72 23 20 0
+10 10 500 100 100
+E
+scroll~
+Recite it and find out!
+~
+#445
+chair~
+a Comfortable-looking Chair~
+A Comfortable-looking Chair is here.
+~
+~
+wood~
+12 G A 0
+C C A AC 0
+44 100 2200 100 100
+E
+chair~
+This is the easychair of some Elven Noble or Scholar.
+~
+#446
+ottoman~
+an Ottoman~
+An Ottoman sits here.
+~
+~
+leather~
+12 G A 0
+C C A BD 0
+44 50 2200 100 100
+E
+ottoman~
+This Ottoman servesa as a footrest for somebody...
+~
+#447
+table~
+an Oak Table~
+An elaborately-carved Oak Table is here.
+~
+~
+wood~
+12 G A 0
+C C A 0 0
+44 250 2200 100 100
+E
+table~
+This ornate Oak Table looks EXTREMELY bulky...
+~
+#448
+light globe~
+a Light Globe~
+A Light Globe bobs along here.
+~
+~
+glass~
+1 AP AO 0
+0 0 24 0 0
+27 1 1350 100 100
+E
+globe~
+These nifty li'l devices serve as lighting for the city at night.
+~
+#449
+book~
+a Spellbook~
+A Spellbook hums strangely here...
+~
+~
+paper~
+13 BHM AO 0
+0 0 0 0 0
+29 10 75 100 100
+A
+12 -25
+A
+4 -2
+A
+3 -2
+E
+spellbook book~
+ACK! Don't pick it UP! Oh dear...too late...
+~
+#450
+spellbook book~
+a Spellbook~
+A Spellbook bound in bronze sits here.
+~
+~
+vellum~
+4 G AO 0
+BCDE BC BC 66 0
+29 10 1450 100 100
+E
+book spellbook~
+This spellbook belonged to the mighty mage Xeruphi, who could never seem to
+be able to cast Stone Skin properly, so he had it inscribed into a book for
+him to brandish when necessary.
+~
+#451
+scroll~
+a tattered scroll~
+This scroll looks to be VERY well-read...
+~
+~
+vellum~
+2 G AO 0
+30 57 3 1 0
+29 5 1450 100 100
+E
+scroll~
+This scroll has been handled so many times it has become all tattered at the
+edges.
+~
+#452
+book~
+an old history book~
+An old history book lies here.
+~
+~
+paper~
+13 0 AO 0
+0 0 0 0 0
+27 10 1350 100 100
+E
+book~
+This rather boring old book is an outdated history of the Roman Empire by
+someone called Gibbon.
+~
+#453
+book~
+an old science book~
+An old science book lies here.
+~
+~
+paper~
+13 0 AO 0
+0 0 0 0 0
+27 10 1350 100 100
+E
+book~
+This rather boring old book is an outdated scientific text by someone called
+Darwin.
+~
+#454
+book~
+an old geography book~
+An old geography book lies here.
+~
+~
+paper~
+13 0 AO 0
+0 0 0 0 0
+27 10 1350 100 100
+E
+book~
+This rather boring old book is an outdated geography text by someone called
+Ptolemy.
+~
+#455
+desk~
+an Ornate Desk~
+An Ornate Desk rests here.
+~
+~
+wood~
+12 A 0 0
+C B A 0 0
+27 10000 1350 100 100
+E
+desk~
+This desk looks FAR too heavy to move...
+~
+#456
+mandolin~
+an Antique Mandolin~
+Wow, this thing must be a thousand years old!~
+~
+wood~
+8 B AO 0
+0 0 0 0 0
+97 25 6050 100 100
+A
+17 -10
+A
+5 3
+E
+phonograph~
+Any wonder the Sage's records sounded so scratchy...
+~
+#457
+fountain~
+an Old Fountain~
+This Fountain has been supplying visitors to Malathar with water for centuries...
+~
+~
+stone~
+25 G 0 0
+0 0 0 0 0
+97 5000 970 100 100
+#458
+portrait~
+a Portrait of Yaegar~
+Whoa! What a Handsome Guy! What an EXCELLENT Portrait to have!!!
+~
+~
+vellum~
+2 ABGHM AO 0
+50 28 77 36 0
+29 5 3850 100 100
+A
+5 1
+A
+2 1
+A
+1 1
+E
+portrait~
+This is your absolute bestest possession now dude! An autographed portrait
+of that self-styled czar of comedy, Yaegar!
+~
+#459
+backpack~
+a sturdy backpack~
+A sturdy backpack lies here.
+~
+~
+leather~
+15 N AD 0
+CFG A 0 0 0
+1 10 50 100 100
+#460
+helmet~
+a sturdy helmet~
+A sturdy Elven helmet has been discarded here.
+~
+~
+mithril~
+9 N AE 0
+AC AC AC AC 0
+10 5 500 100 100
+#461
+waterskin~
+a waterskin~
+A waterskin lies here.
+~
+~
+leather~
+17 N AO 0
+AC AC 0 0 0
+1 5 50 100 100
+#462
+girdle~
+an elven girdle~
+A girdle made of sturdy leather is here.~
+~
+leather~
+9 N AL 0
+AC AC AC AC 0
+10 5 2100 100 100
+A
+2 2
+#463
+sword blade~
+a fine elven blade~
+A Fine Elven Blade glimmers here.
+~
+~
+mithril~
+5 AKN AN 0
+0 A ABC AB 0
+10 15 2100 100 100
+A
+19 2
+#464
+bow~
+a fine elven bow~
+A fine Elven Bow is here.
+~
+~
+wood~
+5 AKN AN 0
+0 A ABC B 0
+10 15 2100 100 100
+A
+19 2
+#465
+dagger~
+a fine elven dagger~
+This dagger would be an excellent weapon for backstabbing...
+~
+~
+mithril~
+5 AKN AN 0
+0 A ABC ABD 0
+10 15 2100 100 100
+A
+19 2
+#466
+mace~
+a fine elven mace~
+A fine elven mace lies here.~
+~
+unknown~
+5 AGKN AN 0
+0 A ABC D 0
+10 18 1300 100 100
+A
+1 1
+#467
+potion~
+a potion~
+A potion rests here.
+~
+~
+glass~
+10 N AO 0
+10 1 3 16 0
+5 10 750 100 100
+#468
+herb~
+a medical herb~
+When ingested, this herb renders the target extremely resistant to poison.
+~
+~
+glass~
+26 N A 0
+10 43 0 0 0
+5 1 250 100 100
+#469
+bread~
+elven bread~
+Some Elven Bread.
+~
+~
+food~
+19 N A 0
+CD 0 0 0 0
+1 1 50 100 100
+#470
+wine~
+some elven wine~
+Some Elven wine.
+~
+~
+glass~
+17 N AO 0
+AC AC B 0 0
+1 5 50 100 100
+#471
+map~
+a map of the area~
+This map shows the places around Malathar.
+~
+~
+paper~
+13 0 AO 0
+0 0 0 0 0
+0 1 0 100 100
+E
+map~
+Sorry, my old maps are out of date. Perhaps someday I'll
+let you trade this one in on a new map?
+~
+#472
+potion brew~
+a herbal brew~
+This herbal brew will give you great mobility.
+~
+~
+glass~
+10 0 AO 0
+10 56 81 0 0
+15 5 750 100 100
+#473
+brain mind nightmare druid~
+a dying druid~
+You see the dying form of a druid lying here. You feel drawn toward it.
+~
+~
+flesh~
+13 0 0 0
+0 0 0 0 0
+29 1 290 100 100
+E
+druid~
+You feel drawn into the nightmares of this tormented soul's brain. It
+feels so real you feel like you could enter and participate....
+~
+#0
+
+
+

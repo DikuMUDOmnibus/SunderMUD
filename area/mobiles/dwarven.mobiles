@@ -1,0 +1,250 @@
+#6500
+dwarf guard~
+the dwarven guard~
+A dwarven guard is here.
+~
+The guard looks very tough and mean.
+~
+~
+dwarf~
+ABLT 0 F 0
+500 20 10 11d38+238 20d10+100 2d9+0 11
+EFNR 0 CLQ R
+8 8 1 400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6501
+dwarf worker miner~
+the dwarven worker~
+A dwarven mining worker is here.
+~
+He is very dirty, and looks extremely over-worked.
+~
+~
+dwarf~
+AGLT 0 0 0
+900 12 6 5d32+120 12d10+100 1d7+0 7
+EFNR 0 CLQ R
+8 8 1 240
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6502
+wraith~
+the wraith~
+A wraith is awaiting your first move here.
+~
+A black, almost transparent wraith.
+~
+~
+human~
+ABT 0 FH 0
+-900 29 14 16d56+405 29d10+100 2d12+0 3
+EFNU 0 0 0
+8 8 1 580
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6503
+storekeeper~
+the storekeeper~
+There is the Hide & Tooth storekeeper standing here, waiting patiently.
+~
+The storekeeper is very rotund, but looks like a sharp guy.
+~
+~
+human~
+ABLT 0 0 0
+900 34 17 16d78+505 34d10+100 3d13+0 7
+EFNU 0 0 0
+8 8 1 680
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6504
+baker~
+the baker~
+Granite Head, the baker, is waiting for a customer here.
+~
+Granite Head is covered with flour and grains.
+~
+~
+human~
+ABLT 0 0 0
+900 35 17 16d82+534 35d10+100 3d14+0 11
+EFNU 0 0 0
+8 8 1 700
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6505
+lizard~
+the giant lizard~
+A giant lizard is here.
+~
+This scaly creature looks like it is well adapted to it's underground
+habitat.  He looks very powerful.
+~
+~
+lizard~
+AGT 0 F 0
+100 19 9 11d34+223 19d10+100 2d9+0 3
+EFNR 0 L I
+8 8 1 380
+AGXc ACDEFHKQV 2 unknown
+#6506
+giant~
+the giant~
+A giant is here.
+~
+The giant is about 8 feet tall, with arms of steel, and looks very strong.
+~
+~
+giant~
+AGT 0 0 0
+0 16 8 8d34+175 16d10+100 2d8+0 7
+EFNR 0 HI JP
+8 8 1 320
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6507
+dwarf miner~
+the dwarven miner~
+A dwarven miner is here.
+~
+The mineworker is very tired, and very dirty, and he has bulging muscles.
+~
+~
+dwarf~
+ABLT 0 0 0
+0 7 3 1d33+61 7d10+100 1d5+0 3
+EFNR 0 CLQ R
+8 8 1 140
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6508
+dwarf leader~
+the dwarven mine leader~
+A dwarven mine leader is here.
+~
+The mine leader is very big and very strong.
+~
+~
+dwarf~
+ABLT 0 0 0
+0 21 10 13d37+252 21d10+100 2d9+0 7
+EFNR 0 CLQ R
+8 8 1 420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6509
+dwarf doctor~
+the dwarven doctor~
+The dwarven doctor is here.
+~
+He is a very skilled surgeon, with hands of steel.
+~
+~
+dwarf~
+ABLT 0 F C
+1000 9 4 3d27+83 9d10+100 1d6+0 3
+EFNR 0 CLQ R
+8 8 1 180
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6510
+dwarf peon~
+the dwarven peon~
+A dwarven peon is awaiting help here.
+~
+~
+~
+dwarf~
+ABLT 0 0 0
+500 2 1 1d2+16 2d10+100 1d3+0 7
+EFNR 0 CLQ R
+8 8 1 40
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6511
+dwarf~
+the dwarf~
+A grinning dwarf is here.
+~
+~
+~
+dwarf~
+ABLT 0 0 0
+500 9 4 3d27+83 9d10+100 1d6+0 11
+EFNR 0 CLQ R
+8 8 1 180
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6512
+dwarf son~
+the unwanted son~
+An unwanted son is here.  You feel sorry for the guy.
+~
+~
+~
+dwarf~
+AGT 0 0 0
+250 8 4 3d21+73 8d10+100 1d5+0 3
+EFNR 0 CLQ R
+8 8 1 160
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6513
+dwarf daughter~
+the unwanted daughter~
+An unwanted daughter is here.  You feel sorry for her.
+~
+~
+~
+dwarf~
+AGT 0 0 0
+250 10 5 3d33+96 10d10+100 1d6+0 7
+EFNR 0 CLQ R
+8 8 2 200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6514
+dwarf guard~
+the barracks guard~
+A barrack guard is here.
+~
+~
+~
+dwarf~
+ABLT 0 0 0
+100 17 8 8d39+187 17d10+100 2d8+0 7
+EFNR 0 CLQ R
+8 8 1 340
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6515
+man~
+the man in waiting~
+A man in waiting is here.  He looks nervous and unsure of himself.
+~
+~
+~
+human~
+ABLT 0 0 0
+300 16 8 8d34+175 16d10+100 2d8+0 3
+EFNU 0 0 0
+8 8 1 320
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6516
+mazekeeper~
+the mazekeeper~
+A mazekeeper is here.
+~
+He looks VERY tough.
+~
+~
+human~
+ABFLT 0 0 C
+-1000 30 15 16d60+426 30d10+100 3d12+0 7
+EFNU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#6517
+snake~
+the giant snake~
+There is a giant snake here.
+~
+~
+~
+snake~
+ABFT 0 0 0
+-1000 15 7 6d37+162 15d10+100 2d7+0 3
+EFNR 0 L I
+8 8 1 300
+AGRXYc ADEFKLQVX 2 unknown
+#0
+
+
+

@@ -1,0 +1,33 @@
+#1500
+lone traveller~
+a lone traveller~
+A lone traveller is here.
+~
+His clothing is worn and dusty from the road.  He doesn't appear to have
+much, you think he is probably a refugee from somewhere.  
+~
+~
+human~
+AGTb 0 0 0
+100 14 0 6d33+145 14d10+100 1d7+0 11
+FN 0 0 0
+8 8 1 15
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1501
+patrolman~
+a patrolman~
+A patrolman is here guarding keeping peace on the road.
+~
+The patrolman's sharp eye is on you, better watch out.
+~
+~
+human~
+AGTb P 0 0
+500 25 3 16d42+322 25d10+100 2d11+0 7
+EKNP 0 0 0
+8 8 1 75
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

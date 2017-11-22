@@ -1,0 +1,37 @@
+#MOBPROGS
+#30800
+if isgood $n
+   emote drop their swords.
+   say You may enter.
+else
+   mob kill $n
+mob forget
+endif
+~
+#30801
+mob echo {mLight reflects off a shard of quartz and casts pinpoints of light across the room.{n
+~
+#30802
+if ispc $n
+   say Beware, traveler.  Things here are not always as they appear.
+   mob remember $n
+{n   mob delay 6
+endif
+~
+#30803
+if hastarget $i
+and carries $q 30800
+{n  say Go ahead, brave one.  What are you waiting for?
+else
+  emote sobs quietly.
+mob forget
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+

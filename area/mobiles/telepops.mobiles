@@ -1,0 +1,68 @@
+#124000
+Cied Gaip human~
+Cied Gaip~
+A slim human.
+~
+This human has blonde hair, grey eyes, and is quite unattractive.  He
+introduces himself as Cied Gaip when approached, and seems to be skilled
+with his weapons, but somewhat unsure in demeanor.  
+~
+~
+human~
+ATb 0 0 0
+200 10 5 3d33+96 10d10+100 1d6+0 7
+FI 0 0 0
+8 8 1 5600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#124001
+sparrow~
+a sparrow~
+A beautiful sparrow flies by.
+~
+A marvelous work of nature!
+~
+~
+song bird~
+ADb T 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 11
+FH 0 0 0
+8 8 3 0
+AGW ACDEFHKPRa 1 unknown
+#124002
+poor human peasant~
+A peasant~
+A poor human peasant whistles a tune quietly.
+~
+One of the many peasants in the land.
+~
+~
+human~
+AHb 0 0 0
+0 5 2 1d16+42 5d10+100 1d4+0 11
+0 0 0 0
+8 8 0 5
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#124003
+Cerridwen~
+Cerridwen~
+Cerridwen the Ravishing
+~
+Cerridwen is here, ravishing you with her elven charm,
+pointy little ears, bright violet eyes piercing your
+very soul, and her lithe movements enticing you to
+join her for an evening of fun.
+{.
+Her blade, however, causes you to reconsider your
+not-so-benevolent thoughts.
+~
+~
+elf~
+AQb B GJ BC
+1000 69 69 16d321+1571 69d10+100 5d24+0 11
+EFK 0 BC Z
+8 8 2 5380
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

@@ -1,0 +1,40 @@
+Nimud 4 Intermud-3
+------------------
+
+For the merc.h steps, use the mud.h file.
+
+During the comm.c install, the portions to apply to nanny and check_reconnect are in nanny.c
+
+For the db.c section, apply the changes to free_char in mem.c
+
+In i3.c, under the #ifdef I3MERC section near the top, change:
+
+#include "merc.h"
+
+To:
+
+#include "mud.h"
+
+In i3cfg.h, in the I3MERC section:
+
+Immediately below the #ifdef, add:
+   #include "comm.h"
+   #include "defaults.h"
+
+Find:
+   #define CH_LEVEL(ch)		((ch)->level)
+Replace with:
+   #define CH_LEVEL(ch)       ((ch)->pcdata->level)
+
+Find:
+   #define CH_TITLE(ch) 	((ch)->pcdata->title)
+   #define CH_RANK(ch)		(title_table[(ch)->class][(ch)->level][(ch)->sex == SEX_FEMALE ? 1 : 0])
+   #define CH_SEX(ch)		((ch)->sex)
+   #define CH_LOGON(ch)		(&(ch)->logon)
+   #define WIZINVIS(ch)		(IS_IMMORTAL((ch)) && IS_SET((ch)->act, PLR_WIZINVIS))
+Replace with:
+   #define CH_TITLE(ch) 	( "" )
+   #define CH_RANK(ch)        ( IS_IMMORTAL(ch) ? "Immortal" : "Player" )
+   #define CH_SEX(ch)		((ch)->sex)
+   #define CH_LOGON(ch)         (&(ch)->pcdata->logon) 
+   #define WIZINVIS(ch)         (IS_IMMORTAL((ch)) && (ch)->pcdata->wizinvis > 0)

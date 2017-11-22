@@ -1,0 +1,123 @@
+#13000
+The Grand Hallway of {R<<<The Fates>>>{X {Y***{RPKILL{Y***{x~
+This room has immense power that can be felt by anyone, were they able to
+enter the room and live. Unfortunately no mortal can do that, as only
+deities are allowed here.
+~
+~
+32812 0
+D0
+~
+~
+1 -1 13001
+D2
+~
+~
+225 -1 13005
+D4
+~
+~
+161 -1 13013
+D5
+~
+~
+129 13006 13020
+S
+#13001
+Lotherius' Torture Chamber~
+This room is absolutely evil.  Just the place for Lotherius.  Instruments
+of torture lay strewn about.  They look well-used.  
+~
+This is Lotherius' Personal Room. Buzz Off.
+~
+524312 0
+D2
+~
+~
+1 -1 13000
+S
+#13003
+The Jail~
+Somehow you've ended up in jail!
+~
+~
+12 0
+D0
+~
+~
+0 0 13004
+S
+#13004
+Stairs near the jail~
+Elegent marble stairs lead both upwards and downwards.  A marvel of
+architecture as it seems the stairs are suspended in mid air by nothing.  
+~
+~
+8 0
+D2
+~
+~
+0 0 13003
+S
+#13005
+The Sanctuary of Duncan~
+This large room is sparse as Duncan is not used to entertaining many
+guests.  The room is a large circle with three windows that let in a warm
+breeze.  The first windows over a city surround by a large circular rock
+formation.  The second window overlooks a huge desert.  The third window
+looks at another rock formation which contains Sietch Tabr.  The only
+furniture is a bookshelf containing many books on many different things. 
+The only places to sit are pillows laying about the room.  
+~
+~
+1048 0
+D0
+~
+~
+225 -1 13000
+S
+#13013
+{mLibrary of Sebastyn{x~
+This room is in made of black marble and is shape like an octagon.  There
+is a small cherry table in the center of the room.  On the table rest many
+open Tomes and Spellbooks.  At the tables center rests a large red candle,
+half burned away.  Near the candle sit a golden pair of glasses, obviously
+highly enchanted.  The back wall has a large bookshelf, overflowing with
+books.  Their is a tapestry of an elven city hanging on the wall west of the
+bookshelf.  The floor is covered with a very fine rug of human make, you
+notice that not a window has been constructed in this room, odd for an elf. 
+ 
+~
+~
+0 0
+D5
+~
+~
+161 -1 13000
+S
+#13018
+Turmoil's Room~
+This is the room of Turmoil the Elven Mage.  He has yet to set up
+residency, however.  
+~
+~
+4 0
+S
+#13020
+Arc's Bedroom~
+This is Arc's bedroom.  It has Pokemon posters all around the rooms.  Heck
+there're even some on the corners of the wall!  His friend Courtney sits on
+the bed with a Gameboy in her hand (probably playing Pokemon).  She looks up
+at you and then goes back to her game.
+~
+~
+24 0
+D4
+~
+~
+129 13006 13000
+S
+#0
+
+
+

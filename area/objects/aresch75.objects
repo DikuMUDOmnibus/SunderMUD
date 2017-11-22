@@ -1,0 +1,931 @@
+#30800
+iron key~
+{Da sturdy iron key{x~
+{DA black key has been carelessly tossed aside.{n~
+~
+iron~
+18 0 A 0
+0 0 0 0 0
+15 1 750 100 100
+#30801
+pond blood~
+{ra pond{n~
+{n~
+~
+liquid~
+25 0 0 0
+EIJKN EIJKN ACD 0 0
+0 0 0 100 100
+#30802
+shovel~
+a shovel~
+A shovel looks the perfect size for digging a deep grave.~
+~
+iron~
+18 0 AO 0
+0 0 0 0 0
+40 20 2000 100 100
+#30803
+baptismal font~
+a baptismal font~
+{WThe decrepit font radiates a holy aura.{n~
+~
+stone~
+25 0 0 0
+EIJKN EIJKN 0 0 0
+0 0 0 100 100
+#30804
+branches weeping willow~
+{ythe branches of the great weeping willow{n~
+{n~
+~
+wood~
+31 G 0 0
+EGHIJK 0 0 ABCFHLMNO 0
+0 0 0 100 100
+E
+branches~
+{yIt looks almost as if the long, drooping branches of the weeping willow
+could be parted...  {n 
+~
+#30805
+copper urn~
+{ya copper urn{n~
+{n~
+~
+brass~
+15 0 0 0
+BEF AC 0 BEF 0
+1 100 0 100 100
+E
+urn~
+{y
+     __..---..__
+    |--..___..--|
+    \           /
+     )         (
+    /           \
+   /             \
+  /    {DI made     {y\
+ |     {Dan ash      {y| 
+ |       {Dof        {y|
+  \    {Dmyself     {y/
+   \             /
+    \___________/
+{n
+~
+E
+copper~
+{y
+     __..---..__
+    |--..___..--|
+    \           /
+     )         (
+    /           \
+   /             \
+  /    {DI made     {y\
+ |     {Dan ash      {y| 
+ |       {Dof        {y|
+  \    {Dmyself     {y/
+   \             /
+    \___________/
+{n
+~
+#30806
+mushroom amanita phalloides~
+{ya mushroom{n~
+{yAn interesting looking mushroom sprouts from the ground.{n~
+~
+food~
+26 0 A 0
+50 33 17 27 0
+40 1 0 100 100
+E
+mushroom~
+Quickly consulting your Rangers Guide to Mushrooms, you determine that it
+looks most like the poisonous Amanita phalloides.  
+~
+#30807
+banshee jukebox~
+a banshee~
+{DA mysterious figure coos a haunting melody.{n~
+~
+unknown~
+-99 0 0 0
+0 0 0 0 0
+0 1000 0 100 100
+E
+banshee~
+{DA dark figure sings: 
+{W    "Tear drops on roses and whiskers on werewolves
+     Dark bubbling cauldrons and warm bloody gloves
+     Poor little people all tied up with strings
+     These are a few of my favorite things.
+ 
+     Cream colored vampires and crisp burning bodies
+     Courtyards and graveyards and everyone rotting
+     Wild demons flying with the moon on their wings
+     These are a few of my favorite things.
+ 
+     Girls in black dresses with red satin sashes
+     Blood drops that stay on my tailed violet lashes
+     Obsidian nights never leading to spring
+     These are a few of my favorite things.
+ 
+     When the vamp bites
+     When the pierce stings
+{W     When I'm feeling glad
+     I simply remember my favorite things
+     And then I can be so bad."
+ 
+{DThe banshee pauses for a moment at your intrusion. She looks at you
+expectantly, waiting for you to verbalize the lament you wish her to 
+sing.{n
+~
+#30808
+yellow pill~
+{Yo{n~
+{cA tiny {Yyellow {cpill rolls across the ground.{n~
+~
+unknown~
+26 0 A 0
+30 16 72 0 0
+30 1 100 100 100
+E
+pill~
+{Y
+    ,-::::-.   
+{Y  ,'        '.
+ /   {y808KS    {Y\
+(  {ycure light  {Y)
+|- - - - - - - |
+(  {yfaerie fire {Y)
+{Y \    {y2001    {Y/
+{Y  '.        .'
+{Y    '-::::-'
+{n
+~
+#30809
+red pill~
+{Ro{n~
+{cA tiny {Rred {cpill rolls across the ground.{n~
+~
+food~
+26 0 A 0
+30 505 39 0 0
+30 1 100 100 100
+E
+pill~
+{R
+     ,-::::-.   
+   ,'        '.
+  /   {r809KS    {R\
+ (  {rdemonfire   {R)
+ |- - - - - - - |
+ ({rgiant strength{R)
+  \    {r2001    {R/
+   '.        .'
+     '-::::-'
+{n
+~
+#30810
+blue pill~
+{Co{n~
+{cA tiny {Bblue {cpill rolls across the ground.{n~
+~
+unknown~
+26 S A 0
+30 8 507 0 0
+30 1 100 100 100
+E
+pill~
+{C
+      ,-::::-.   
+    ,'        '.
+   /   {B810KS    {C\
+  ( {Bchill touch  {C)
+  |- - - - - - - |
+  ( {Bcancellation {C)
+   \    {B2001    {C/
+    '.        .'
+      '-::::-'
+{n
+~
+#30811
+ash~
+{Da pile of ash{n~
+{DA pile of ash is nearly scattered by the breeze.{n~
+~
+unknown~
+26 S A 0
+20 67 0 0 0
+20 1 100 100 100
+#30812
+mushroom amanita vellosa~
+{ya mushroom{n~
+{yAn interesting looking mushroom sprouts from the ground.{n~
+~
+food~
+19 0 A 0
+A A 0 0 0
+20 1 200 100 100
+E
+mushroom~
+Quickly consulting your Rangers Guide to Mushrooms, you determine that it
+looks most like the delicious Amanita vellosa.  
+~
+#30813
+mushroom anamita muscaria~
+{ya mushroom{n~
+{yAn interesting looking mushroom sprouts from the ground.{n~
+~
+food~
+26 0 A 0
+80 68 38 39 0
+80 1 400 100 100
+#30814
+mushroom psilocybe cyanescens~
+{ya mushroom{n~
+{yAn interesting looking mushroom sprouts from the ground.{n~
+~
+food~
+26 0 A 0
+80 19 44 18 0
+80 1 800 100 100
+E
+mushroom~
+Quickly consulting your Rangers Guide to Mushrooms, you determine that it
+looks most like the coveted Psilocybe cyanescens.  
+~
+#30815
+bucket well~
+the well's leaky bucket~
+{DA decrepit well still stands amidst the grass.{n~
+~
+stone~
+25 0 0 0
+EIJKN EIJKN ACDEHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 100 100
+#30816
+wooden bed~
+{ya badly burned bed{n~
+{n~
+~
+cloth~
+12 0 0 0
+B EGHIJK BEH ABCDFH ABCDFH
+0 0 0 100 100
+#30817
+rose~
+{g-,-<{R@{x~
+{g-,-<{R@{x~
+~
+unknown~
+26 0 A 0
+20 1 0 0 0
+20 5 10 100 100
+#30818
+slide~
+a rusty slide~
+{n~
+~
+unknown~
+31 0 0 0
+A 0 E EGLMNO 0
+0 0 0 100 100
+E
+slide~
+A rusty slide twists, turns, and disappears into a strange void...
+~
+#30819
+grave tombstone~
+{Da tombstone{n~
+{n~
+~
+stone~
+15 0 0 0
+BEF AC 0 BD 0
+0 1000 1 100 100
+E
+angels~
+{w
+    _  _                 _  _
+   (*\( )               ( )/*)
+    (_V |      _|_      | V_)
+      /_\___..--|--..___/_\
+     /                     \
+     |                     |
+     | {DLook at me closely  {w|
+     |  {Das you pass by     {w| 
+     | {DFor as you are now, {w|
+     |  {Dso once was I.     {w|
+     | {DAs you pass by,     {w|
+     |  {Dlook closely at me {w|
+     | {DFor as I am now,    {w|
+     |  {Dso you will be.    {w|
+     |                     |
+     |                     |
+{g .\,/{w|{g,./,\./\,.\/,./.,.\/,{w|{g,.\
+{n
+~
+E
+grave~
+{w
+    _  _                 _  _
+   (*\( )               ( )/*)
+    (_V |      _|_      | V_)
+      /_\___..--|--..___/_\
+     /                     \
+     |                     |
+     | {DLook at me closely  {w|
+     |  {Das you pass by     {w| 
+     | {DFor as you are now, {w|
+     |  {Dso once was I.     {w|
+     | {DAs you pass by,     {w|
+     |  {Dlook closely at me {w|
+     | {DFor as I am now,    {w|
+     |  {Dso you will be.    {w|
+     |                     |
+     |                     |
+{g .\,/{w|{g,./,\./\,.\/,./.,.\/,{w|{g,.\
+{n
+~
+E
+tombstone~
+{w
+    _  _                 _  _
+   (*\( )               ( )/*)
+    (_V |      _|_      | V_)
+      /_\___..--|--..___/_\
+     /                     \
+     |                     |
+     | {DLook at me closely  {w|
+     |  {Das you pass by     {w| 
+     | {DFor as you are now, {w|
+     |  {Dso once was I.     {w|
+     | {DAs you pass by,     {w|
+     |  {Dlook closely at me {w|
+     | {DFor as I am now,    {w|
+     |  {Dso you will be.    {w|
+     |                     |
+     |                     |
+{g .\,/{w|{g,./,\./\,.\/,./.,.\/,{w|{g,.\
+{n
+~
+#30820
+guardian angel~
+{Wa guardian angel{n~
+{WA small angel floats near the ground.{n~
+~
+unique~
+9 I AT 0
+ABC ABC ABC ABC 0
+22 0 1100 100 100
+E
+guardian~
+{W
+    _  {Y-  {W_
+   (_\{C.{wO{C.{W/_)
+    (_{C\_/{W_)
+      {C/_\   
+{w       "{n
+~
+E
+angel~
+{W
+    _  {Y-  {W_
+   (_\{C.{wO{C.{W/_)
+    (_{C\_/{W_)
+      {C/_\     
+{w       "{n
+~
+#30821
+rose bush~
+a rose bush~
+{n~
+~
+wood~
+15 0 0 0
+BEF 0 0 BD 0
+0 200 0 100 100
+E
+bush~
+{RThe soft petals of the rose buds are protected by sharp thorns.  But
+one rose looks like it could easily be plucked from the thorns.  {n 
+~
+E
+rose~
+{RThe soft petals of the rose buds are protected by sharp thorns.  But
+one rose looks like it could easily be plucked from the thorns.  {n 
+~
+#30822
+locket~
+a locket~
+{n~
+~
+gold~
+15 0 A 0
+BEF AC 0 BD 0
+0 1 0 100 100
+E
+locket~
+Although it doesnt look possible to pry the locket off the womans neck,
+it does look like it could be easily opened.  
+~
+#30823
+locket~
+a locket~
+A small, shiny locket has been left here.~
+~
+gold~
+9 G AC 0
+AB AB AB AB 0
+1 1 50 100 100
+#30824
+brandy~
+a glass of warm brandy~
+A sweet liquor sparkles in a crystal goblet.~
+~
+glass~
+17 0 A 0
+AC AC B 0 0
+1 1 50 100 100
+#30825
+shot pain~
+a shot of pain~
+The very essence of pain writhes on the ground.~
+~
+glass~
+17 0 A 0
+AC AC ABC 0 0
+1 1 50 100 100
+#30826
+swing~
+{ba {mm{roo{Rd s{rwi{mn{bg{n~
+{yWorms slither through the remains of a swing.{n~
+~
+wood~
+12 0 A 0
+A EHI CFI BCDFG BCDFG
+2 25 10 100 100
+E
+seat~
+{y The wooden seat is mostly rotted through, but surprisingly still looks
+like it could hold your weight.  {n 
+~
+#30827
+weeping willow~
+a weeping willow~
+{yThe branches of a weeping willow sway in the breeze.{n~
+~
+wood~
+13 BE 0 0
+0 0 0 0 0
+0 0 0 100 100
+E
+weeping~
+{n
+{y+++++++++++++++++++++++++++++++++++++++++++++++++++
+{y+++++++++++++++++++++++++++++++++++++++++++++++++++
+{y++                                               {y++
+{y++  {cThis area was built by {RRajani {cfor {CCreatia.   {y++
+{y++  {cAnyone may use this area, provided that the  {y++
+{y++  {corginal credits remain intact.               {y++
+{y++                                               {y++
+{y++  {RJuly 2001               {rcreatia.funcity.org  {y++
+{y++      {R- Rajani                      {r7500       {y++
+{y++          {r(aka - Gaeriel)                      {y++
+{y++                                               {y++
+{y++  {cSome people want to rule the world...        {y++
+{y++       {COthers want to build it.                {y++
+{y++                                               {y++
+{y+++++++++++++++++++++++++++++++++++++++++++++++++++
+{y+++++++++++++++++++++++++++++++++++++++++++++++++++
+{n
+~
+E
+willow~
+{n
+{y+++++++++++++++++++++++++++++++++++++++++++++++++++
+{y+++++++++++++++++++++++++++++++++++++++++++++++++++
+{y++                                               {y++
+{y++  {cThis area was built by {RRajani {cfor {CCreatia.   {y++
+{y++  {cAnyone may use this area, provided that the  {y++
+{y++  {corginal credits remain intact.               {y++
+{y++                                               {y++
+{y++  {RJuly 2001               {rcreatia.funcity.org  {y++
+{y++      {R- Rajani                      {r7500       {y++
+{y++          {r(aka - Gaeriel)                      {y++
+{y++                                               {y++
+{y++  {cSome people want to rule the world...        {y++
+{y++       {COthers want to build it.                {y++
+{y++                                               {y++
+{y+++++++++++++++++++++++++++++++++++++++++++++++++++
+{y+++++++++++++++++++++++++++++++++++++++++++++++++++
+{n
+~
+#30828
+leaves golden~
+{Ya pile of golden leaves{n~
+{yA small pile of crisp, golden leaves has collected underneath the tree.{n~
+~
+gold~
+20 0 A 0
+CFG 0 0 0 0
+0 0 0 100 100
+#30829
+fire stake~
+{Rt{yh{re {Ye{Rt{ye{rr{Yn{Ra{yl {rf{Yl{Ra{ym{re{Ys{n~
+{YTall flames lick the legs of an unfortunate peasant.{n~
+~
+unknown~
+1 EO 0 0
+0 0 100 0 0
+0 20 0 100 100
+#30830
+rotting corpse~
+{ya rotting corpse{n~
+{yA badly decayed body has been left unburied.{n~
+~
+flesh~
+9 EJQ AO 0
+ACE ACE ACE ACE 0
+90 30 4500 100 100
+#30831
+stagnant pool fountain~
+{ga stagnant pool{n~
+{gA stagnant pool of water has collected in the fountain.{n~
+~
+liquid~
+25 0 0 0
+EIJKN EIJKN ACDEHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 0 0 100 100
+#30832
+cauldron basin~
+{Da dark cauldron{n~
+{rA thick black substance churns and bubbles in the large cauldron.{n~
+~
+iron~
+13 C 0 0
+0 0 0 0 0
+0 50 0 100 100
+E
+cauldron~
+{D A being covered in the black goo rises and flails in anguish before
+succumbing to is fate.  {n 
+~
+#30833
+shield white golden falcon~
+{Wa white shield bearing the crest of a {Ygolden falcon{n~
+{WOne of the Army of Light has carelessly left his shield behind.{n~
+~
+steel~
+9 K AJ 0
+ABE ABE ABE ABE 0
+80 26 4000 100 100
+E
+golden~
+{YThe falcon has been molded from gold.  It spreads its wings in flight
+and soars towards the sun.  {n 
+~
+E
+falcon~
+{YThe falcon has been molded from gold.  It spreads its wings in flight
+and soars towards the sun.  {n 
+~
+#30834
+holy sword~
+{Wa {YHoly {WSword{n~
+{WA sword radiates an aura of goodness and purity.{n~
+~
+unknown~
+5 AIK AN 0
+A BC BF A D
+80 20 4000 100 100
+#30835
+sorcerer robes~
+{Ca flowing magi's robe{n~
+{cA long, siken robe lies crumpled in a heap.{n~
+~
+unknown~
+9 FY AD 0
+AE AE AE AE 0
+70 23 3500 100 100
+#30836
+fireball~
+{Ra large f{Yi{yr{reb{ya{Yl{Rl{n~
+{RA small patch of ground burns.{n~
+~
+unknown~
+9 AY AO 0
+AE AE AE AE 0
+70 23 3500 100 100
+#30837
+helm exorcists~
+{Wa silver helm bearing a large cross engulfed in white flames{n~
+{WA silver helm has been knocked off someone's head.{n~
+~
+silver~
+9 KLY AE 0
+AE AE AE AE 0
+70 23 3500 100 100
+E
+white~
+{WThe mark of the Guild of the Exorcists symbolizes the ultimate
+destruction of evil by a purifying fire and truth.  {n 
+~
+E
+flames~
+{WThe mark of the Guild of the Exorcists symbolizes the ultimate
+destruction of evil by a purifying fire and truth.  {n 
+~
+E
+cross~
+{WThe mark of the Guild of the Exorcists symbolizes the ultimate
+destruction of evil by a purifying fire and truth.  {n 
+~
+#30838
+holy symbol cross~
+{YA H{Wo{Yl{Wy {YSymbol{n~
+{wA large cross radiates a purifying aura.{n~
+~
+unknown~
+9 ABIK AO 0
+AE AE AE AE 0
+70 23 3500 100 100
+E
+cross~
+{WThe large cross is atop long, golden staff.  The glow around it seems
+to glow brighter with each undead sent back to its grave.  {n 
+~
+E
+symbol~
+{WThe large cross is atop long, golden staff.  The glow around it seems
+to glow brighter with each undead sent back to its grave.  {n 
+~
+E
+holy~
+{WThe large cross is atop long, golden staff.  The glow around it seems
+to glow brighter with each undead sent back to its grave.  {n 
+~
+#30839
+bulging coin purse~
+{ya bulging coin purse{n~
+{yA few gold coins spill out of the overturned coinpurse{n~
+~
+cloth~
+15 0 AL 0
+CFG A 0 CEFGHI ACDF
+30 2 1600 100 100
+A
+15 1000
+A
+17 -25
+#30840
+serpent tooth~
+{gA {GSerpent's {gTooth{n~
+{gA hideously long tooth sizzles with venom.{n~
+~
+bone~
+9 J AC 0
+ABC ABC ABC ABC 0
+20 6 1000 100 100
+#30841
+life savings~
+your life's savings~
+An enormous pile of YOUR gold has been left behind.~
+~
+gold~
+20 Q A 0
+DGH 0 0 0 0
+20 0 200 100 100
+#30842
+halberd~
+a large halberd~
+A wicked looking axe has been thrust into the ground.~
+~
+iron~
+5 0 AN 0
+D AB ABCD A D
+30 25 1500 100 100
+#30843
+dragon wings~
+{RD{Dr{Ra{Dg{Ro{Dn {RW{Di{Rn{Dg{Rs{n~
+{rA large pair of wings flutter just above the ground.{n~
+~
+unknown~
+9 Y AK 0
+ABD ABD ABD ABD 0
+40 13 2000 100 100
+#30844
+sheet frost~
+{Ca sheet of {Cf{Wr{Co{Ws{Ct{n~
+{CThe ground has been frozen underfoot.{n~
+~
+ice~
+9 BGK AO 0
+AE AE AE AE 0
+70 23 3500 100 100
+#30845
+leg drow~
+{ma leg of drow{x~
+{mA bloodied leg of drow has been cast aside.{n~
+~
+flesh~
+19 Q A 0
+B AC 0 0 0
+1 0 100 100 100
+#30846
+wreath flowers~
+{ga wreath of {Rf{Gl{Co{Bw{Me{Yr{Rs{n~
+A delicate headpiece made from fresh flowers has been left to rot.~
+~
+unknown~
+9 G AE 0
+ACD ACD ACD ACD 0
+50 16 2500 100 100
+#30847
+black frock~
+{Da plain black frock{n~
+{DA simply black dress is in a heap on the ground.{n~
+~
+unknown~
+9 E AD 0
+ABD ABD ABD ABD 0
+40 13 2000 100 100
+#30848
+red sash~
+{Ra red silk sash{n~
+{RA thin silk belt is here.{n~
+~
+unknown~
+9 E AL 0
+ABD ABD ABD ABD 0
+40 13 2000 100 100
+#30849
+grey dress~
+{Da plain grey dress{n~
+{DA simple dress is in a heap.{n~
+~
+cloth~
+9 0 AD 0
+AB AB AB AB 0
+1 0 50 100 100
+#30850
+tattered apron~
+{ya tattered apron{n~
+A dirty, tattered apron is lying on the ground.~
+~
+cloth~
+9 0 AL 0
+AB AB AB AB 0
+1 0 50 100 100
+#30851
+rakshasa fur~
+{rmatted rakshasa fur{n~
+{rA disgusting pelt matted with dried blood is on the ground.{n~
+~
+flesh~
+9 E AK 0
+ACD ACD ACD ACD 0
+50 16 2500 100 100
+#30852
+flames damned~
+{Yflames of the damned{n~
+{YThe reflection of hell's fires burns.{n~
+~
+unknown~
+9 Y AE 0
+ABCD ABCD ABCD ABCD 0
+60 20 3000 100 100
+#30853
+unholy blade sword~
+{Dan {RUnholy {DBlade{n~
+{DA {Wsharp {Dblade radiates da{wr{Wkn{we{Dss.{n~
+~
+adamantite~
+5 E AN 0
+A BC BF ACDEHIJKLMNOPQRSTUVWXYZabcdef C
+80 20 4000 100 100
+#30854
+kestryl wings~
+{WKestryl wings{n~
+{WA large pair of wings unfold of their own accord.{n~
+~
+flesh~
+9 IK AI 0
+ABC ABC ABC ABC 0
+20 6 6000 100 5
+F
+A 0 0 T
+#30855
+shield dragon~
+{Da black shield bearing the crest of a {Rred dragon{n~
+{DA shield of the {RDark Army {Dhas been discarded.{n~
+~
+steel~
+9 EJY AJ 0
+ABE ABE ABE ABE 0
+80 26 4000 100 100
+#30856
+pillow cushion~
+{Wa comfortable silk pillow{n~
+{WA large pillow covered with pure white silk sprawls across the floor of the temple.{n~
+~
+unknown~
+12 Y 0 0
+C FHIJKL BEH BCEH ABCDFH
+0 0 0 100 100
+E
+pillow~
+{W The pillow looks perfect for sitting, resting, mediating or sleeping. 
+It is large enough to fit several people comfortably.  {n 
+~
+#30857
+candles~
+{Wsome candles{n~
+{WThe candles atop the tall silver stands softly flicker.{n~
+~
+unknown~
+13 A 0 0
+0 0 0 0 0
+0 0 0 100 100
+#30858
+quartz~
+{ma sliver of quartz{n~
+{m A thin sliver of quartz has been pried loose from the cavern wall.{n~
+~
+crystal~
+18 0 AO 0
+0 0 0 0 0
+30 5 1500 100 100
+#30859
+wall nook~
+{ca nook in the wall of the cavern{n~
+{n~
+~
+unknown~
+15 SY 0 0
+BD AD ACDHLMNO BD CFG
+60 1000 0 100 100
+E
+wall~
+{cThere appears to be a small nook in the western wall of the cavern.  {n 
+~
+E
+nook~
+{cThere appears to be a small nook in the western wall of the cavern.  {n 
+~
+#30860
+rocks~
+{rbetween two sharp rocks{n~
+{n~
+~
+unknown~
+15 S 0 0
+BD 0 0 BD CFG
+0 0 0 100 100
+E
+rocks~
+{rA strong pick has been wedged between two of the sharp rocks.  {n 
+~
+#30861
+pick~
+{Da large pick{n~
+{DA large pick has been hurled between two rocks.{n~
+~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 0 0 100 100
+#30862
+altar~
+{can altar covered with a {Bblue {csilk cloth{n~
+{CA {Wwhite rose bud {Cin a small silver vase stands at each end of the altar.{n~
+~
+silver~
+12 0 0 0
+B CDEGHIK A BCEH BCEH
+0 0 0 100 100
+#30863
+leaf~
+{ya single large {Gleaf{n~
+{gA large leaf has been cast aside, a mockery of modesty.{n~
+~
+unknown~
+9 0 AD 0
+ABE ABE ABE ABE 0
+80 26 4000 100 100
+#30864
+bark~
+{ya thick layer of bark{n~
+{yPieces of bark have been peeled off a nearby tree.{n~
+~
+unknown~
+9 0 AI 0
+ABE ABE ABE ABE 0
+80 26 4000 100 100
+#0
+
+
+

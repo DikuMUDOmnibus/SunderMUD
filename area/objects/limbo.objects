@@ -1,0 +1,736 @@
+#1
+dummy object~
+a dummy object~
+Dummy object is used for loading non-existent objects~
+~
+unknown~
+0 0 0 0
+0 0 0 0 0
+0 0 0 100 100
+#2
+coin gold~
+a gold coin~
+One miserable gold coin.~
+~
+gold~
+20 0 A 0
+A 0 0 0 0
+0 1 0 100 100
+#3
+coins gold~
+%d gold coins~
+A pile of gold coins.~
+~
+gold~
+20 0 A 0
+0 0 0 0 0
+0 1 0 100 100
+#4
+vellum~
+a blank piece of vellum~
+A blank piece of vellum is here.~
+~
+vellum~
+8 0 A 0
+0 0 0 0 0
+1 1 300 100 100
+#10
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+~
+flesh~
+23 0 A 0
+0 0 0 A 0
+0 100 0 25 100
+#11
+corpse~
+corpse of %s~
+The corpse of %s is lying here.~
+~
+flesh~
+24 O A 0
+0 0 0 A 0
+0 100 0 25 100
+#12
+head~
+the head of %s~
+The severed head of %s is lying here.~
+~
+flesh~
+13 0 A 0
+0 0 0 0 0
+0 5 0 25 100
+#13
+heart~
+the heart of %s~
+The torn-out heart of %s is lying here.~
+~
+flesh~
+19 0 A 0
+E 0 0 0 0
+0 2 0 25 100
+#14
+arm~
+the arm of %s~
+The sliced-off arm of %s is lying here.~
+~
+flesh~
+19 0 A 0
+CE 0 0 0 0
+0 5 0 25 100
+#15
+leg~
+the leg of %s~
+The sliced-off leg of %s is lying here.~
+~
+flesh~
+19 0 A 0
+CE 0 0 0 0
+0 5 0 25 100
+#16
+guts entrails~
+the guts of %s~
+A steaming pile of %s's entrails is lying here.~
+~
+flesh~
+19 0 A 0
+AC 0 0 A 0
+0 2 0 25 100
+#17
+brains brain~
+the brains of %s~
+The splattered brains of %s are lying here.~
+~
+flesh~
+19 0 A 0
+BD 0 0 0 0
+0 2 0 25 100
+#18
+soul blade~
+{WS{Boul Blad{We{x~
+A blade forged from a soul is here.~
+~
+steel~
+5 BEG AN 0
+B A C BE 0
+0 1 0 100 100
+#20
+mushroom~
+a Magic Mushroom~
+A delicious magic mushroom is here.~
+~
+food~
+19 0 A 0
+D 0 0 0 0
+0 1 10 100 100
+#21
+ball light~
+a bright ball of light~
+A bright ball of light shimmers in the air.~
+~
+glass~
+1 A A 0
+0 0 999 0 0
+0 0 0 100 100
+#22
+spring~
+a magical spring~
+A magical spring flows from the ground here.~
+~
+liquid~
+25 G 0 0
+FHJKPQ FHJKPQ 0 0 0
+0 0 0 100 100
+#23
+potion~
+a generic potion~
+A generic potion is here.~
+~
+glass~
+10 G AO 0
+20 36 0 0 0
+10 1 1 100 100
+#24
+scroll~
+a generic scroll~
+A generic scroll is here.~
+~
+vellum~
+2 G AO 0
+20 36 0 0 0
+10 1 1 100 100
+#25
+pride symbol~
+a generic pride symbol~
+A generic pride symbol is here.~
+~
+brass~
+29 A A 0
+0 0 0 0 0
+10 1 1 100 100
+#30
+light~
+light source~
+A random light source makes the 'VNUM' for a random light.~
+~
+glass~
+1 0 A 0
+0 0 48 0 0
+0 1 0 100 100
+#31
+ring~
+ring~
+A random ring makes the 'VNUM' for a random ring.~
+~
+brass~
+8 0 AB 0
+0 0 0 0 0
+0 1 0 100 100
+#32
+ring~
+ring~
+A random ring makes the 'VNUM' for a random ring.~
+~
+brass~
+8 0 AB 0
+0 0 0 0 0
+0 1 0 100 100
+#33
+necklace~
+necklace~
+A random necklace makes the 'VNUM' for a random necklace.~
+~
+crystal~
+8 0 AC 0
+0 0 0 0 0
+0 1 0 100 100
+#34
+cape~
+cape~
+A random cape makes the 'VNUM' for a random cape.~
+~
+leather~
+9 0 AC 0
+AB AB AB 0 0
+0 5 0 100 100
+#35
+body armor~
+body armor~
+Random body armor makes the 'VNUM' for random body armor.~
+~
+brass~
+9 0 AD 0
+AB AB AB 0 0
+0 10 0 100 100
+#36
+helmet~
+helmet~
+A random helmet makes the 'VNUM' for a random helmet.~
+~
+tin~
+9 0 AE 0
+AB AB AB 0 0
+0 5 0 100 100
+#37
+leggings~
+leggings~
+Random leggings make the 'VNUM' for random leggings.~
+~
+leather~
+9 0 AF 0
+AB AB AB 0 0
+0 5 0 100 100
+#38
+boots~
+boots~
+Random boots make the 'VNUM' for random boots.~
+~
+leather~
+9 0 AG 0
+AB AB AB 0 0
+0 5 0 100 100
+#39
+gauntlets~
+gauntlets~
+Random gauntlets make the 'VNUM' for random gauntlets.~
+~
+leather~
+9 0 AH 0
+AB AB AB 0 0
+0 5 0 100 100
+#40
+sleeves~
+sleeves~
+Random sleeves make the 'VNUM' for random sleeves.~
+~
+leather~
+9 0 AI 0
+AB AB AB 0 0
+0 4 0 100 100
+#41
+shield~
+shield~
+A random shield makes the 'VNUM' for a random shield.~
+~
+wood~
+9 0 AJ 0
+AB AB AB 0 0
+0 12 0 100 100
+#42
+robe~
+robe~
+A random robe makes the 'VNUM' for a random robe.~
+~
+silk~
+9 0 AK 0
+AB AB AB 0 0
+0 2 0 100 100
+#43
+belt~
+belt~
+A random belt makes the 'VNUM' for a random belt.~
+~
+leather~
+9 0 AL 0
+AB AB AB 0 0
+0 3 0 100 100
+#44
+bracelet~
+bracelet~
+A random bracelet makes the 'VNUM' for a random bracelet.~
+~
+brass~
+8 0 AM 0
+0 0 0 0 0
+0 1 0 100 100
+#45
+bracer~
+bracer~
+A random bracer makes the 'VNUM' for a random bracer.~
+~
+brass~
+9 0 AM 0
+AB AB AB 0 0
+0 5 0 100 100
+#46
+weapon~
+weapon~
+A random weapon makes the 'VNUM' for a random weapon.~
+~
+bronze~
+5 0 AN 0
+0 A C 0 0
+0 5 0 100 100
+#47
+trinket~
+trinket~
+A random trinket makes the 'VNUM' for a random trinket.~
+~
+glass~
+8 0 AO 0
+0 0 0 0 0
+0 4 0 100 100
+#48
+scroll~
+a scroll~
+A scroll is here~
+~
+vellum~
+2 0 AO 0
+0 0 0 0 0
+0 1 0 100 100
+#49
+wand~
+a wand~
+A wand is here.~
+~
+tin~
+3 0 AO 0
+0 0 0 0 0
+0 1 0 100 100
+#50
+staff~
+a staff~
+A staff is here.~
+~
+wood~
+4 0 AO 0
+0 0 0 0 0
+0 5 0 100 100
+#51
+potion~
+a potion~
+A potion is here.~
+~
+glass~
+10 0 AO 0
+0 0 0 0 0
+0 1 0 100 100
+#52
+pill~
+a pill~
+A pill is here~
+~
+pill~
+26 0 A 0
+0 0 0 0 0
+0 1 0 100 100
+#53
+bag~
+a bag ~
+A bag is here.~
+~
+cloth~
+15 0 AO 0
+0 0 0 0 0
+0 1 0 100 100
+#55
+portal~
+a shimmery portal~
+A generic portal.~
+~
+unique~
+31 AGRT 0 0
+0 0 0 0 0
+0 0 0 100 100
+#56
+mace sub~
+a sub issue mace~
+You see a sub issue mace here.~
+~
+wood~
+5 P AN 0
+C A BC ABC 0
+1 6 0 100 100
+A
+18 2
+E
+mace~
+You see a mace of great but cheap craftsmanship.  Imprinted on the side
+is:
+Merc Industries
+~
+#57
+dagger sub~
+a sub issue dagger~
+You see a sub issue dagger here.~
+~
+stone~
+5 P AN 0
+B A BC ABD 0
+1 3 0 100 100
+A
+18 2
+E
+dagger~
+You see a dagger of great but cheap craftsmanship.  Imprinted on the side
+is:
+Merc Industries
+~
+#58
+sword sub~
+a sub issue sword~
+You see a sub issue sword here.~
+~
+wood~
+5 P AN 0
+A A BC AB 0
+1 3 0 100 100
+A
+18 2
+E
+sword~
+You see a sword of great but cheap craftsmanship.  Imprinted on the side
+is:
+Merc Industries
+~
+#59
+vest sub merc~
+a sub issue vest~
+You see a sub issue vest here.~
+~
+leather~
+9 0 AD 0
+AB AB AB AB 0
+1 5 0 100 100
+E
+vest~
+You see a vest of great but cheap craftsmanship.  Stamped on the side is:
+Merc Industries
+~
+#60
+shield sub merc~
+a sub issue shield~
+You see a sub issue shield here.~
+~
+wood~
+9 0 AJ 0
+AB AB AB AB 0
+1 3 0 100 100
+E
+shield~
+You see a shield of great but cheap craftsmanship.  Imprinted on the side
+is:
+Merc Industries
+~
+#61
+banner war merc~
+a war banner~
+A war banner is on the floor here.~
+~
+cloth~
+1 AG A 0
+0 0 200 0 0
+1 2 0 100 100
+A
+24 -1
+E
+banner~
+This is the official Merc war banner to see you through the darkest realm!
+~
+#62
+map Rekartha~
+a map of the city of Rekartha~
+A rolled up map is here.~
+~
+paper~
+28 0 A 0
+A 0 0 0 0
+0 1 500 100 100
+E
+map Rekartha~
+.
+                        * * * Rekartha * * *
+                         = = ========== = =
+
+          North            
+            |   /Up        
+            | /            
+     West---+---East     The Map Appears Blank!
+          / |         
+    Down/   |         
+          South       
+
+~
+#63
+canoe~
+a canoe~
+A canoe has been left here.~
+~
+wood~
+22 0 A 0
+0 0 0 0 0
+0 32 1000 90 100
+E
+canoe~
+The canoe is fairly light.
+~
+#64
+bag~
+a bag~
+A small bag.~
+~
+cloth~
+15 0 A 0
+BEF 0 0 AC 0
+0 2 20 90 100
+#65
+pit~
+the donation pit~
+A pit for sacrifices is in front of the altar.~
+~
+stone~
+15 O 0 0
+EIJKN 0 0 0 0
+0 0 0 100 100
+E
+pit~
+This is where you put money and items to help the City expand this shrine
+and
+convert more people to the belief of Zeran, lord of the gods.
+~
+#66
+crown~
+a jeweled crown~
+A jeweled crown is sitting here.~
+~
+gold~
+8 0 A 0
+0 0 0 0 0
+1 1 0 100 100
+#67
+sceptre~
+a silvery scepter~
+A silvery scepter is here.~
+~
+silver~
+8 0 A 0
+0 0 0 0 0
+1 1 0 100 100
+#68
+diamond~
+a massive diamond~
+A massive diamond is here.~
+~
+diamond~
+8 0 A 0
+0 0 0 0 0
+1 5 0 100 100
+#69
+gem~
+a beautiful gem~
+A beautiful gem is here.~
+~
+crystal~
+8 0 A 0
+0 0 0 0 0
+1 1 0 100 100
+#70
+seal ages~
+the seal of the ages~
+The seal of the ages lies here.~
+~
+cloth~
+8 0 A 0
+0 0 0 0 0
+1 1 0 100 100
+#71
+amulet eardianm~
+{YAmulet of {REardianm{x~
+An average looking amulet lies here.~
+~
+mithril~
+31 AGIORT AC 0
+ACDFL CL 0 0 0
+1 2 15000 100 100
+A
+12 25
+A
+13 25
+A
+3 3
+A
+4 3
+#72
+shield zeran~
+{YShield of {RZeran{x~
+A battered shield is laying on the ground here.~
+~
+mithril~
+9 AGIORT AJ 0
+ACD ACD ACD ACD 0
+1 25 15000 100 100
+A
+1 5
+#73
+sword sharpness~
+{WSword of {RSharpness{w~
+A beaten up sword is laying here.~
+~
+mithril~
+5 ABGIORT AN 0
+0 A C A D
+1 35 15000 100 100
+#74
+decanter endless water~
+{CDecanter of Endless Water{x~
+A wet jug is laying here leaking.~
+~
+mithril~
+17 AGIORT A 0
+GJOQRST GJOQRST 0 0 0
+1 15 15000 100 100
+#75
+warrior's blanket~
+{yWarrior's Blanket{x~
+A lumpy piece of cloth is here.~
+~
+mithril~
+12 IORT A 0
+A DFIJN CFI EHI 0
+1 20 15000 100 100
+#76
+Dagger Acidity~
+{WDagger of {RAcidity{w~
+A pitted dagger lies here.~
+~
+adamantite~
+5 ABGORT AN 0
+B A C ABCDE G
+1 5 15000 100 100
+A
+18 1
+A
+19 1
+#77
+frost spear~
+{WFrost {RSpear{w~
+An icy spear lies here, chilling the ground.~
+~
+adamantite~
+5 ABGORT AN 0
+AB A C BCDE B
+1 15 15000 100 100
+#78
+flaming mace~
+{RFlaming {WMace{w~
+A really scorched mace lies here steaming.~
+~
+adamantite~
+5 ABGIORT AN 0
+C A C ACDE A
+1 20 15000 100 100
+#79
+mithril axe~
+{WMithril {RAxe{w~
+A really, really sharp axe is stuck into the ground.~
+~
+mithril~
+5 ABGORT AN 0
+AC A C ACE E
+1 35 15000 100 100
+#80
+mace holy might~
+{WMace of {CH{coly {CM{cight{w~
+A vision of heaven lies here.~
+~
+plasteel~
+5 ABGIKLORT AN 0
+C A C CE DE
+1 15 15000 100 100
+#81
+flail unholy terror~
+{BFlail of {RU{rnholy {RT{rerror{w~
+A horrid image of tortured souls lies here.~
+~
+adamantite~
+5 ABEGJLORT AN 0
+BC A C ABE CE
+1 15 15000 100 100
+#82
+dagger planar forces~
+{YDagger of the {MP{mlanar {MF{morces{w~
+A dagger shifts in and out of phase here.~
+~
+adamantite~
+5 ABGORT AN 0
+B A C ABE EH
+1 3 15000 100 100
+#83
+sword sundering~
+{WThe {RS{Wwor{Rd {Wof {RS{Wunderin{Rg{w~
+One of the finest swords in the land.~
+~
+adamantite~
+5 ABGIORT AN 0
+A A C A E
+1 25 15000 100 100
+F
+P 0 0 A
+F
+P 0 0 B
+#0
+
+
+

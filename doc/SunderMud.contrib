@@ -1,0 +1,38 @@
+SunderMud 2.1a
+--------------
+File Updated: Novemeber 24, 2003
+Lotherius   : lotherius@yahoo.com
+
+(Adapted from Merc contrib.txt)
+
+=== Contribution Policy
+
+We welcome contributions to SunderMud.
+
+You can send us areas, spells, skills, bug reports, bug fixes, code, ideas,
+comments on our documentation, interesting stories, or anything else, to any of
+our addresses above.
+
+We particularly would like to get copies of 'bugs.txt', 'ideas.txt', and
+'typos.txt' from any site running a SunderMud.
+
+If we use your contribution, we will credit you for it in the credits file
+and in the source files.  The 'areas' command lists authors within the
+game, and 'help sundermud' credits major contributions as well.
+
+SunderMud, like Merc which came before, is devoted to open release.  Once
+we accept a contribution, it will become available to the entire mud
+community.  Also, once we accept a contribution and integrate it into
+Merc, we will not remove it later if you change your mind.
+
+We usually rework code contributions into our own style, just as we've reworked
+100% of our released code into a consistent style.
+
+You are welcome to use any element of SunderMud in your own mud, as long
+as you follow the terms in 'license.doc' and 'license.txt'.  If you take
+things from SunderMud we'd appreciate e-mail from you.
+
+----------- 
+SunderMud is based on Rom 2.3, which was based on Merc Mud which is based
+on Diku Mud, with Copper and Alfa enhancements. *PHEW*.
+

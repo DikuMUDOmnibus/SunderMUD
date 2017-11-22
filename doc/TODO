@@ -1,0 +1,125 @@
+
+-----------------------------------------------------------------------
+This is the official TODO list for SunderMud. There are many categories
+here, to try to get a handle on the inter-relation and massive amount
+of bugs and projects that show up in a project such as this.
+-----------------------------------------------------------------------
+
+-----------
+Crash Bugs:
+-----------------------------------------------------------------------
+:: OLC "used" and "unused" commands overflow buffer on large areas and
+   cause a crash. This was introduced with recent changes and needs
+   attention.
+:: Clone seems to have, the last time checked, been a source of crash
+   bugs and is thus disabled.
+:: The "world" option on peace is disabled, as it will reliably crash
+   the mud.
+
+-----------------------
+Major Bugs (Non-Crash):
+-----------------------------------------------------------------------
+:: Month names don't always return correctly. This is usually the first
+   month. It *may* be connected to lease code.
+**FIXED 2.1a** Null group pointers still showing up.
+:: There are enough issues with CLAN, LEASE and CHARM/FOLLOW code, that
+   they each have their own section... do refer there.
+:: Armor created with random object code is all leather, regardless of
+   what the name says - this needs to change.
+
+----------------------
+Minor Bugs (Cosmetic):
+-----------------------------------------------------------------------
+:: Vampires should be vulnerable to wood.
+:: hand-to-hand is a magic damtype for some reason....
+
+------------
+Code Issues:
+-----------------------------------------------------------------------
+:: Need a better, version confident, savefile for accounts since these
+   are one of the things we'd most dearly hate to lose in an upgrade.
+:: Importation of foreign area formats needs to be done, has only just
+   been started.
+:: standardize code to add a/an/the when needed, and have object names
+   not use a/an/the by default.
+:: Random Object: a scratched black trinket trinket (obvious bug)
+   Random item code needs scrapped and replaced. Based upon a very
+   badly done snippet years ago.
+:: Short-sighted use of SLCAT, SLCPY and SNP upon my part resulted in
+   some possible places where the macros fail to work correctly. This
+   is due to using a pointer passed as an argument, which can't be
+   sizeof'd (dunno WHY C has this limitation, kinda stupid). These
+   places either need to use bare strcpy/strcat/sprintf, or to maintain
+   protection from buffer overflow, need to copy the pointer to a local
+   variable which can be properly sizeof'd.
+
+-------------
+Clan Related:
+-----------------------------------------------------------------------
+:: Code doesn't handle KILLER characters founding clans properly, since
+   clan rules state a new clan can't immediately go PK... The bug is
+   due to the fact that this allows KILLERS to potentially be in NON-
+   PK clans.
+:: Need code to handle clan management of leased rooms.
+
+--------------
+Lease Related:
+-----------------------------------------------------------------------
+:: Month names don't show correctly on leases at all times. Usually
+   related to the first month of the next year.
+:: Personal notification of expired leases is currently nonfunctional.
+:: The number of months set when leasing is not always correct.
+:: Roomnames and Roomdescs aren't saving in the lease file.
+:: Lease information needs moved out of Lease.DAT and put into an area
+   specific leasefile.
+
+---------------------
+Charm/Follow Related:
+-----------------------------------------------------------------------
+:: Some mobs are loading with ACT_FOLLOWER. This should only be set
+   by code, and not in areafiles, and thus needs removed. Check the
+   code to make sure it isn't being set inadvertently.
+**FIXED 2.1a** When purchasing a pet, it isn't following properly.
+:: Ordering charmed mobs is failing (Says to do it yourself).
+
+----------------------
+Features Needing Work:
+-----------------------------------------------------------------------
+:: Monks need work or to be removed.
+:: Random objects need to set a material type.
+:: Item Quest targets need to be "owned" to prevent their being taken
+   advantage of by others.
+:: CSC system ... implement "allowed" lists of codes, so that it will
+   automatically filter codes not allowed for a function... Move the
+   handling of prompts to csctranslate (with a small allowed list)..
+   Allow players edit their own "custom score 1" and "custom score 2"
+   as well as copy prompts/custom scores from other players.
+:: More CSC System Allow players to replace the room description
+   layout with their own CSC string. Also copyable, will need to get
+   it to format properly with maps (may be difficult).
+
+--------------------------
+Priority Feature Requests:
+-----------------------------------------------------------------------
+:: DemiGods need lots of work. No real advantages yet.
+:: Skill to "tap" magical objects for mana (similar to sacrifice), but
+   if this is done, no "black lotus" type potions/items.
+:: Progs need a SOUND function.
+:: Recharge command for wands/staves
+:: Sort area list by levels.
+:: Accounts online to complement accounts all...
+:: CSC or Formatting codes to align text and set field sizes.
+:: CSC codes to control cursor movement with GotoXY?
+
+------------------
+Back-Burner Ideas:
+-----------------------------------------------------------------------
+:: Account Management Menu (on login, like dikus/circles I think)
+:: Player skill: Scan more than 1 room away
+:: Search should perhaps find hidden players/mobs too?
+:: A way to use excess pracs (more buyable skills / stats?)
+:: Re-implement metamobs (code is commented) and finish them.
+:: Ability to hire guides to an area from the mud, that will "hunt" the
+   area for you.
+:: New lore command (that doesn't wrap to identify)
+

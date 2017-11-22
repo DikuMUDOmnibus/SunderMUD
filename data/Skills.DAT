@@ -1,0 +1,1069 @@
+CODESKILL~
+reserved~
+~
+~
+~
+0 8 0 0
+CODESKILL~
+armor~
+~
+You feel less protected.~
+~
+2 8 5 12
+CODESKILL~
+teleport~
+~
+!Teleport!~
+~
+3 7 35 12
+CODESKILL~
+bless~
+~
+You feel less righteous.~
+~
+2 8 5 12
+CODESKILL~
+blindness~
+~
+You can see again.~
+~
+1 7 5 12
+CODESKILL~
+burning hands~
+burning hands~
+!Burning Hands!~
+~
+1 7 15 12
+CODESKILL~
+call lightning~
+lightning bolt~
+!Call Lightning!~
+~
+0 7 15 12
+CODESKILL~
+charm person~
+~
+You feel more self-confident.~
+~
+1 8 5 12
+CODESKILL~
+chill touch~
+chilling touch~
+You feel less cold.~
+~
+1 7 15 12
+CODESKILL~
+colour spray~
+colour spray~
+!Colour Spray!~
+~
+1 7 15 12
+CODESKILL~
+control weather~
+~
+!Control Weather!~
+~
+0 8 25 12
+CODESKILL~
+create food~
+~
+!Create Food!~
+~
+0 8 5 12
+CODESKILL~
+create water~
+~
+!Create Water!~
+~
+4 8 5 12
+CODESKILL~
+cure blindness~
+~
+!Cure Blindness!~
+~
+2 7 5 12
+CODESKILL~
+cure critical~
+~
+!Cure Critical!~
+~
+2 7 20 12
+CODESKILL~
+cure light~
+~
+!Cure Light!~
+~
+2 7 10 12
+CODESKILL~
+curse~
+curse~
+The curse wears off.~
+~
+1 7 20 12
+CODESKILL~
+detect evil~
+~
+The red in your vision disappears.~
+~
+3 8 5 12
+CODESKILL~
+detect invis~
+~
+You no longer see invisible objects.~
+~
+3 8 5 12
+CODESKILL~
+detect magic~
+~
+The detect magic wears off.~
+~
+3 8 5 12
+CODESKILL~
+detect poison~
+~
+!Detect Poison!~
+~
+4 8 5 12
+CODESKILL~
+dispel evil~
+dispel evil~
+!Dispel Evil!~
+~
+1 7 15 12
+CODESKILL~
+earthquake~
+earthquake~
+!Earthquake!~
+~
+0 7 15 12
+CODESKILL~
+enchant weapon~
+~
+!Enchant Weapon!~
+~
+4 8 100 24
+CODESKILL~
+energy drain~
+energy drain~
+!Energy Drain!~
+~
+1 7 35 12
+CODESKILL~
+fireball~
+fireball~
+!Fireball!~
+~
+1 7 15 12
+CODESKILL~
+harm~
+harm spell~
+!Harm!~
+~
+1 7 35 12
+CODESKILL~
+heal~
+~
+!Heal!~
+~
+2 7 50 12
+CODESKILL~
+invis~
+~
+You are no longer invisible.~
+~
+2 8 5 12
+CODESKILL~
+lightning bolt~
+lightning bolt~
+!Lightning Bolt!~
+~
+1 7 15 12
+CODESKILL~
+locate object~
+~
+!Locate Object!~
+~
+0 8 20 4
+CODESKILL~
+magic missile~
+magic missile~
+!Magic Missile!~
+~
+1 7 15 12
+CODESKILL~
+poison~
+poison~
+You feel less sick.~
+~
+1 7 10 12
+CODESKILL~
+protection evil~
+~
+You feel less protected from evil.~
+~
+3 8 5 12
+CODESKILL~
+remove curse~
+~
+!Remove Curse!~
+~
+2 8 5 12
+CODESKILL~
+sanctuary~
+~
+The white aura around your body fades.~
+~
+2 8 75 12
+CODESKILL~
+ghost form~
+~
+The demons surrounding you fly away.~
+~
+2 8 75 12
+CODESKILL~
+sleep~
+~
+You feel less tired.~
+~
+1 8 15 12
+CODESKILL~
+giant strength~
+~
+You feel weaker.~
+~
+2 8 20 12
+CODESKILL~
+summon~
+~
+!Summon!~
+~
+0 8 50 12
+CODESKILL~
+ventriloquate~
+~
+!Ventriloquate!~
+~
+0 8 5 12
+CODESKILL~
+word of recall~
+~
+!Word of Recall!~
+~
+3 5 5 12
+CODESKILL~
+cure poison~
+~
+!Cure Poison!~
+~
+2 8 5 12
+CODESKILL~
+detect hidden~
+~
+You feel less aware of your suroundings.~
+~
+3 8 5 12
+CODESKILL~
+identify~
+~
+!Identify!~
+~
+4 8 12 24
+CODESKILL~
+shocking grasp~
+shocking grasp~
+!Shocking Grasp!~
+~
+1 7 15 12
+CODESKILL~
+fly~
+~
+You slowly float to the ground.~
+~
+2 8 10 18
+CODESKILL~
+continual light~
+~
+!Continual Light!~
+~
+0 8 7 12
+CODESKILL~
+know alignment~
+~
+!Know Alignment!~
+~
+2 7 9 12
+CODESKILL~
+dispel magic~
+~
+!Dispel Magic!~
+~
+1 7 15 12
+CODESKILL~
+cure serious~
+~
+!Cure Serious!~
+~
+2 7 15 12
+CODESKILL~
+cause light~
+spell~
+!Cause Light!~
+~
+1 7 15 12
+CODESKILL~
+cause critical~
+spell~
+!Cause Critical!~
+~
+1 7 20 12
+CODESKILL~
+cause serious~
+spell~
+!Cause Serious!~
+~
+1 7 17 12
+CODESKILL~
+flamestrike~
+flamestrike~
+!Flamestrike!~
+~
+1 7 20 12
+CODESKILL~
+stone skin~
+~
+Your skin feels soft again.~
+~
+3 8 12 18
+CODESKILL~
+shield~
+~
+Your force shield shimmers then fades away.~
+~
+2 8 12 18
+CODESKILL~
+weaken~
+spell~
+You feel stronger.~
+~
+1 7 20 12
+CODESKILL~
+mass invis~
+~
+!Mass Invis!~
+~
+0 8 20 24
+CODESKILL~
+acid blast~
+acid blast~
+!Acid Blast!~
+~
+1 7 20 12
+CODESKILL~
+faerie fire~
+faerie fire~
+The pink aura around you fades away.~
+~
+1 7 5 12
+CODESKILL~
+faerie fog~
+faerie fog~
+!Faerie Fog!~
+~
+0 8 12 12
+CODESKILL~
+pass door~
+~
+You feel solid again.~
+~
+3 8 20 12
+CODESKILL~
+infravision~
+~
+You no longer see in the dark.~
+~
+2 8 5 18
+CODESKILL~
+create spring~
+~
+!Create Spring!~
+~
+0 8 20 12
+CODESKILL~
+refresh~
+refresh~
+!Refresh!~
+~
+2 8 12 18
+CODESKILL~
+change sex~
+~
+Your body feels familiar again.~
+~
+2 7 15 12
+CODESKILL~
+gate~
+~
+!Gate!~
+obsidian~
+0 7 50 12
+CODESKILL~
+gate without error~
+~
+!Gate Without Error!~
+obsidian~
+0 7 80 12
+CODESKILL~
+acid breath~
+blast of acid~
+!Acid Breath!~
+~
+1 7 45 4
+CODESKILL~
+fire breath~
+blast of flame~
+!Fire Breath!~
+~
+1 7 45 4
+CODESKILL~
+frost breath~
+blast of frost~
+!Frost Breath!~
+~
+1 7 45 4
+CODESKILL~
+gas breath~
+blast of gas~
+!Gas Breath!~
+~
+0 7 45 4
+CODESKILL~
+lightning breath~
+blast of lightning~
+!Lightning Breath!~
+~
+1 7 45 4
+CODESKILL~
+chaos~
+chaos~
+!Chaos!~
+~
+1 7 30 16
+CODESKILL~
+minor chaos~
+minor chaos~
+!Minor Chaos!~
+~
+1 7 10 12
+CODESKILL~
+create buffet~
+~
+!Create Buffet!~
+~
+0 8 50 12
+CODESKILL~
+general purpose~
+general purpose ammo~
+!General Purpose Ammo!~
+~
+1 7 10 12
+CODESKILL~
+high explosive~
+high explosive ammo~
+!High Explosive Ammo!~
+~
+1 7 25 12
+CODESKILL~
+mind meld~
+mental blast~
+Your feel your head clearing.~
+~
+1 7 35 24
+CODESKILL~
+confusion~
+~
+Now it all makes perfect sense.~
+~
+1 7 20 16
+CODESKILL~
+summon familiar~
+~
+!Summon Familiar!~
+~
+0 8 50 15
+CODESKILL~
+animate dead~
+~
+!Animate Dead!~
+~
+0 8 100 15
+CODESKILL~
+soul blade~
+~
+!Soul Blade!~
+~
+0 8 35 15
+CODESKILL~
+minor creation~
+~
+!Minor Creation!~
+~
+0 8 15 20
+CODESKILL~
+psi twister~
+psi twister~
+!Psi Twister!~
+~
+1 7 25 20
+CODESKILL~
+meteor~
+meteor~
+!Meteor!~
+~
+1 7 25 20
+CODESKILL~
+boil~
+boiling magic~
+!Boil!~
+~
+1 7 25 20
+CODESKILL~
+dehydrate~
+dehydration~
+!Dehydrate!~
+~
+1 7 25 20
+CODESKILL~
+meteor shower~
+shower of meteors~
+!Meteor Shower!~
+~
+1 7 25 20
+CODESKILL~
+exorcism~
+angels~
+!Exorcism!~
+~
+1 7 20 12
+CODESKILL~
+youth~
+~
+!YOUTH!~
+~
+2 8 200 24
+CODESKILL~
+age~
+~
+!AGE!~
+~
+1 7 200 12
+CODESKILL~
+chain lightning~
+lightning~
+!Chain Lightning!~
+~
+1 7 25 12
+CODESKILL~
+cure disease~
+~
+!Cure Disease!~
+~
+2 8 20 12
+CODESKILL~
+haste~
+~
+You feel yourself moving less quickly.~
+~
+2 7 30 12
+CODESKILL~
+slow~
+~
+You feel yourself moving less slowly.~
+~
+1 7 30 12
+CODESKILL~
+plague~
+sickness~
+Your sores vanish.~
+~
+1 7 20 12
+CODESKILL~
+frenzy~
+~
+Your rage ebbs.~
+~
+2 8 30 24
+CODESKILL~
+demonfire~
+torments~
+!Demonfire!~
+~
+1 7 20 12
+CODESKILL~
+holy word~
+divine wrath~
+!Holy Word!~
+~
+0 7 200 24
+CODESKILL~
+cancellation~
+~
+!cancellation!~
+~
+2 7 20 12
+CODESKILL~
+mass healing~
+~
+!Mass Healing!~
+~
+0 8 100 36
+CODESKILL~
+calm~
+~
+You have lost your peace of mind.~
+~
+0 7 30 12
+CODESKILL~
+enchant armor~
+~
+!Enchant Armor!~
+~
+4 8 100 24
+CODESKILL~
+brand~
+~
+!brand!~
+~
+4 8 100 8
+CODESKILL~
+negate alignment~
+~
+!negate alignment~
+~
+4 8 50 12
+CODESKILL~
+mask self~
+~
+You return to normal form.~
+~
+2 8 100 8
+CODESKILL~
+absorb magic~
+~
+You can no longer absorb magic.~
+~
+3 8 50 4
+CODESKILL~
+psychic anchor~
+~
+!psychic anchor!~
+~
+0 8 30 4
+CODESKILL~
+fear~
+~
+You no longer feel so scared.~
+~
+1 7 20 8
+CODESKILL~
+protection good~
+~
+You feel less protected from good.~
+~
+3 8 5 12
+CODESKILL~
+detect good~
+~
+The green in your vision disappears.~
+~
+3 8 5 12
+CODESKILL~
+dispel good~
+dispel good~
+!Dispel Good!~
+~
+1 7 15 12
+CODESKILL~
+regeneration~
+~
+You are no longer regenerating.~
+~
+2 8 30 8
+CODESKILL~
+fire shield~
+fire shield~
+Your fire shield fades away.~
+~
+3 8 10 8
+CODESKILL~
+portal~
+portal~
+!portal!~
+~
+0 8 100 16
+CODESKILL~
+remove invis~
+~
+!Remove Invis!~
+~
+4 8 40 12
+CODESKILL~
+vocalize~
+~
+You must speak to cast spells again.~
+~
+2 8 50 12
+CODESKILL~
+entropy~
+entropy~
+!Entropy!~
+~
+1 7 30 18
+CODESKILL~
+remove fear~
+~
+!Remove Fear!~
+~
+2 8 5 12
+CODESKILL~
+mute~
+~
+You can speak again.~
+~
+1 7 50 12
+CODESKILL~
+axe~
+~
+!Axe!~
+~
+0 7 0 0
+CODESKILL~
+dagger~
+~
+!Dagger!~
+~
+0 7 0 0
+CODESKILL~
+flail~
+~
+!Flail!~
+~
+0 7 0 0
+CODESKILL~
+mace~
+~
+!Mace!~
+~
+0 7 0 0
+CODESKILL~
+polearm~
+~
+!Polearm!~
+~
+0 7 0 0
+CODESKILL~
+shield block~
+~
+!Shield!~
+~
+0 7 0 0
+CODESKILL~
+spear~
+~
+!Spear!~
+~
+0 7 0 0
+CODESKILL~
+sword~
+~
+!sword!~
+~
+0 7 0 0
+CODESKILL~
+whip~
+~
+!Whip!~
+~
+0 7 0 0
+CODESKILL~
+backstab~
+backstab~
+!Backstab!~
+~
+0 8 0 24
+CODESKILL~
+circle~
+circle~
+!Circle!~
+~
+0 7 0 24
+CODESKILL~
+bash~
+bash~
+!Bash!~
+~
+0 7 0 24
+CODESKILL~
+berserk~
+~
+You feel your pulse slow down.~
+~
+0 7 0 24
+CODESKILL~
+rally~
+~
+You look around for guidance.~
+~
+0 7 0 24
+CODESKILL~
+dual~
+~
+!dual!~
+~
+0 7 0 4
+CODESKILL~
+dirt kicking~
+kicked dirt~
+You rub the dirt out of your eyes.~
+~
+0 7 0 24
+CODESKILL~
+disarm~
+~
+!Disarm!~
+~
+0 7 0 24
+CODESKILL~
+dodge~
+~
+!Dodge!~
+~
+0 7 0 0
+CODESKILL~
+enhanced damage~
+~
+!Enhanced Damage!~
+~
+0 7 0 0
+CODESKILL~
+ultra damage~
+~
+!Ultra Damage!~
+~
+0 7 0 0
+CODESKILL~
+envenom~
+~
+!Envenom!~
+~
+0 5 0 36
+CODESKILL~
+hand to hand~
+~
+!Hand to Hand!~
+~
+0 7 0 0
+CODESKILL~
+kick~
+kick~
+!Kick!~
+~
+1 7 0 12
+CODESKILL~
+parry~
+~
+!Parry!~
+~
+0 7 0 0
+CODESKILL~
+rotate~
+~
+!Rotate!~
+~
+0 7 0 8
+CODESKILL~
+rescue~
+~
+!Rescue!~
+~
+0 7 0 12
+CODESKILL~
+trip~
+trip~
+!Trip!~
+~
+0 7 0 24
+CODESKILL~
+second attack~
+~
+!Second Attack!~
+~
+0 7 0 0
+CODESKILL~
+sharpen~
+~
+!Sharpen!~
+~
+4 8 0 16
+CODESKILL~
+third attack~
+~
+!Third Attack!~
+~
+0 7 0 0
+CODESKILL~
+fourth attack~
+~
+!Fourth Attack!~
+~
+0 7 0 0
+CODESKILL~
+fifth attack~
+~
+!Fifth Attack!~
+~
+0 7 0 0
+CODESKILL~
+fast healing~
+~
+!Fast Healing!~
+~
+0 4 0 0
+CODESKILL~
+haggle~
+~
+!Haggle!~
+~
+0 5 0 0
+CODESKILL~
+hide~
+~
+!Hide!~
+~
+0 5 0 12
+CODESKILL~
+lore~
+~
+!Lore!~
+~
+0 5 0 18
+CODESKILL~
+meditation~
+~
+Meditation~
+~
+0 4 0 0
+CODESKILL~
+peek~
+~
+!Peek!~
+~
+0 8 0 0
+CODESKILL~
+pick lock~
+~
+!Pick!~
+~
+0 8 0 12
+CODESKILL~
+recruit~
+~
+!Recruit!~
+~
+0 8 0 0
+CODESKILL~
+sneak~
+~
+You no longer feel stealthy.~
+~
+0 8 0 12
+CODESKILL~
+steal~
+~
+!Steal!~
+~
+0 8 0 24
+CODESKILL~
+scrolls~
+~
+!Scrolls!~
+~
+0 8 0 24
+CODESKILL~
+staves~
+~
+!Staves!~
+~
+0 8 0 12
+CODESKILL~
+wands~
+~
+!Wands!~
+~
+0 8 0 12
+CODESKILL~
+recall~
+~
+!Recall!~
+~
+0 8 0 12
+CODESKILL~
+human tongue~
+~
+!human!~
+~
+0 4 0 12
+CODESKILL~
+dwarf tongue~
+~
+!dwarf!~
+~
+0 4 0 12
+CODESKILL~
+elf tongue~
+~
+!elf!~
+~
+0 4 0 12
+CODESKILL~
+giant tongue~
+~
+!giant!~
+~
+0 4 0 12
+CODESKILL~
+gargoyle tongue~
+~
+!gargoyle!~
+~
+0 4 0 12
+CODESKILL~
+kobold tongue~
+~
+!kobold!~
+~
+0 4 0 12
+CODESKILL~
+centaur tongue~
+~
+!centaur!~
+~
+0 4 0 12
+CODESKILL~
+azer tongue~
+~
+!azer!~
+~
+0 4 0 12
+CODESKILL~
+kender tongue~
+~
+!kender!~
+~
+0 4 0 12
+CODESKILL~
+common tongue~
+~
+!common!~
+~
+0 4 0 12
+END~

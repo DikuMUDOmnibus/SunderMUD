@@ -1,0 +1,21 @@
+#MOBPROGS
+#2500
+if race $n == giant
+   mob kill $n
+else
+   emote glares at you.
+   say A tax is required of all non-residents.
+   mob force $n give 200 coins guardian
+endif
+~
+#2507
+mob cast 'demonfire' $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+

@@ -1,0 +1,492 @@
+#15700
+robes~
+some black robes~
+Some black robes have been left here.~
+~
+cloth~
+9 AGJ AK 0
+AD AD AD AD 0
+30 5 7100 100 100
+A
+3 2
+A
+12 50
+#15701
+staff~
+a bone staff~
+A bone staff lies here.~
+~
+bone~
+4 AGJ AO 0
+BCDE CD CD 6 0
+30 2 3100 100 100
+A
+4 2
+#15702
+sword~
+a bone sword~
+A bone sword is stuck in the ground here.~
+~
+bone~
+5 AGJ AN 0
+A AB ABCD ABD 0
+30 10 7900 100 100
+A
+18 4
+A
+19 4
+#15703
+helm~
+a bronze helm~
+A bronze helm covered in runes has been left here.~
+~
+bronze~
+9 AGJ AE 0
+AD AD AD AD 0
+30 7 1900 100 100
+A
+17 -10
+A
+23 -3
+A
+24 -3
+A
+25 -2
+#15704
+bandolier~
+a leather bandolier~
+A leather bandolier lies here.~
+~
+leather~
+15 0 AD 0
+BEF A 0 0 0
+28 4 2600 100 100
+A
+5 1
+A
+25 2
+#15705
+potion~
+a green potion~
+A bright green potion has been left here.~
+~
+glass~
+10 BG AO 0
+28 66 34 62 0
+28 1 1400 100 100
+#15706
+potion~
+a red potion~
+A bright red potion has been left here.~
+~
+glass~
+10 BG AO 0
+28 17 1 61 0
+28 1 1400 100 100
+#15707
+scroll~
+a lightning scroll~
+A lightning scroll is curled up on the floor here.~
+~
+vellum~
+2 0 AO 0
+28 6 30 204 0
+28 1 1400 100 100
+#15708
+scroll~
+a fire scroll~
+A fire scroll is curled up on the floor here.~
+~
+vellum~
+2 0 AO 0
+28 201 65 26 0
+28 1 1400 100 100
+#15709
+wand~
+a wand~
+A wand inscribed with strange runes lies here.~
+~
+wood~
+3 AGJ AO 0
+CDE ABC ABC 63 0
+28 1 1400 100 100
+#15710
+dagger~
+a dagger~
+A rune-covered dagger has been left here.~
+~
+steel~
+5 BEGJ AN 0
+B B BCD ABD 0
+28 5 6200 100 100
+A
+18 6
+#15711
+staff~
+a garthalanium staff~
+A staff fashioned of garthalanium has been left here.~
+~
+unique~
+4 BEGJ AO 0
+CDE BD BD 25 0
+28 5 3400 100 100
+A
+12 25
+#15712
+pentagram~
+a pentagram~
+A pentagram has been inscribed upon the floor here.~
+~
+unique~
+12 GT 0 0
+C AB A BEF 0
+33 1 1650 100 100
+#15713
+spiked club~
+a spiked club~
+A spiked club lies here.~
+~
+wood~
+5 J AP 0
+C B CD D 0
+24 20 2800 100 100
+A
+18 -4
+A
+19 6
+#15714
+leather hauberk~
+a leather hauberk~
+A leather hauberk has been dropped here.~
+~
+leather~
+9 0 AD 0
+ABC ABC ABC ABC 0
+24 10 1200 100 100
+#15715
+drake hide~
+a fire drake hide~
+The hide of a fire drake has been removed and left here.~
+~
+flesh~
+9 BJ AK 0
+D D D D 0
+28 25 -600 100 100
+A
+17 -25
+#15716
+bronze plate~
+a suit of bronze plate~
+A suit of bronze plate has been piled up here.~
+~
+bronze~
+9 0 AD 0
+BC BC BC BC 0
+17 15 850 100 100
+#15717
+bronze shield~
+a bronze shield~
+A bronze shield lies here.~
+~
+bronze~
+9 0 AJ 0
+BC BC BC BC 0
+17 10 850 100 100
+#15718
+bronze helm~
+a bronze helm~
+A bronze helm has been left here.~
+~
+bronze~
+9 0 AE 0
+BC BC BC BC 0
+17 6 850 100 100
+#15719
+bronze sword~
+a bronze sword~
+A bronze sword is buried in the ground here.~
+~
+bronze~
+5 0 AN 0
+A B BD AB 0
+17 12 850 100 100
+#15720
+robes~
+some green robes~
+Some green robes are crumpled up on the floor here.~
+~
+cloth~
+9 AGJ AK 0
+ABC ABC ABC ABC 0
+22 3 3500 100 100
+A
+12 20
+A
+24 -3
+A
+25 1
+#15721
+staff~
+a wooden staff~
+A wooden staff with a bronze head lies here.~
+~
+wood~
+5 0 AP 0
+0 B CD ABC 0
+22 9 3500 100 100
+A
+19 3
+#15722
+spellbook~
+a spellbook~
+A spellbook with bronze fittings lies here.~
+~
+vellum~
+2 BGJ AO 0
+21 4 68 42 0
+22 4 1100 100 100
+#15723
+pit~
+a deep pit~
+A deep pit yawns before you.~
+~
+unique~
+15 0 0 0
+DFGHIJ A 0 0 0
+20 1 1000 100 100
+#15724
+collar~
+a spiked collar~
+A spiked dog collar lies here.~
+~
+leather~
+9 0 AC 0
+BC BC BC BC 0
+16 5 4000 100 100
+A
+18 2
+A
+19 2
+#15725
+assassin robes~
+the robes of an assassin~
+The black robes of an assassin have been torn from her and left here.~
+~
+cloth~
+9 J AO 0
+ABC ABC ABC ABC 0
+20 3 1800 100 100
+A
+2 2
+A
+17 -5
+#15726
+dagger~
+a throwing dagger~
+A throwing dagger has been left here.~
+~
+steel~
+5 0 AN 0
+B B ABD 0 0
+20 3 2600 100 100
+A
+18 2
+#15727
+sword~
+a steel sword~
+A rare steel sword covered in runes lies here.~
+~
+steel~
+5 AG AN 0
+A B ACD AB 0
+27 10 7750 100 100
+A
+18 4
+A
+19 4
+#15728
+ring~
+a magic ring~
+A magic ring floats by here.~
+~
+mithril~
+9 AGP AB 0
+D D D D 0
+27 1 3350 100 100
+A
+12 10
+A
+23 -1
+A
+24 -1
+A
+25 2
+#15729
+boots~
+elven boots~
+A pair of elven boots lie here.~
+~
+leather~
+9 0 AG 0
+D D D D 0
+27 5 4950 100 100
+A
+2 2
+A
+14 25
+#15730
+elven cloak~
+a green elven cloak~
+A green elven cloak has been left here.~
+~
+cloth~
+9 0 AC 0
+D D D D 0
+27 3 2550 100 100
+A
+5 1
+A
+13 10
+A
+17 -5
+A
+25 1
+#15731
+pick~
+a pick~
+A pick rests here.~
+~
+iron~
+5 0 AP 0
+AC A ABC ADE 0
+11 10 550 100 100
+#15732
+shovel~
+a shovel~
+A shovel rests here.~
+~
+iron~
+5 0 AP 0
+0 A ABC ABC 0
+11 10 550 100 100
+#15733
+rubble~
+a pile of rubble~
+A pile of rubble has been made here.~
+~
+paper~
+13 0 A 0
+0 0 0 0 0
+9 75 90 100 100
+#15734
+whip~
+a whip~
+A whip has been curled up here.~
+~
+leather~
+5 0 AN 0
+0 B ABD C 0
+21 5 1050 100 100
+#15735
+flind bar~
+a flind bar~
+A flind bar has been left here.~
+~
+unique~
+5 J AN 0
+0 B ABD 0 0
+21 5 5050 100 100
+A
+19 5
+#15736
+rubbish~
+a huge pile of rubbish~
+A huge pile of rubbish is here.~
+~
+paper~
+13 0 A 0
+0 0 0 0 0
+19 150 190 100 100
+#15737
+rack~
+a torturer's rack~
+A torturer's rack sits near one wall.~
+~
+iron~
+12 0 0 0
+A 0 BEH DHIJKLMNOPQRSTUVWXYZabcdef 0
+24 1 240 100 100
+E
+rack~
+It is not currently in use. The warlock enjoys executions, so people he
+captures rarely live long enough to be tortured.
+~
+#15738
+gallows~
+a gallows~
+A gallows has been erected here.~
+~
+wood~
+12 0 0 0
+A 0 ADG FGHKLMNOPQRSTUVWXYZabcdef 0
+15 1 150 100 100
+E
+gallows~
+They are used regularly to hang those who piss off the warlock.
+~
+#15739
+stocks~
+the stocks~
+The stocks sit here, holding a pathetic wretch of a gnoll.~
+~
+wood~
+12 0 0 0
+A 0 CFI CDFGHIJKLMNOPQRSTUVWXYZabcdef 0
+13 1 130 100 100
+E
+stocks gnoll~
+This unfortunate has been left here for a week for insubordination.
+~
+#15740
+pot boiling oil~
+a pot of boiling oil~
+A pot of boiling oil bubbles away here.~
+~
+iron~
+12 0 0 0
+B 0 CFI CDJKLMNOPQRSTUVWXYZabcdef 0
+22 1 220 100 100
+E
+pot boiling oil~
+The warlock enjoys immersing insubordinate or irritating lackeys in here.
+~
+#15741
+flag~
+a black flag~
+A black flag flutters atop a pole here.~
+~
+cloth~
+8 0 AK 0
+0 0 0 0 0
+15 5 150 100 100
+E
+flag~
+It is plain black. The warlock isn't very imaginative.
+~
+#15742
+leg irons~
+a set of leg irons~
+A set of leg irons rest here.~
+~
+iron~
+9 M AF 0
+AC AC AC AC 0
+11 10 -9850 100 100
+A
+2 -3
+A
+14 -100
+#0
+
+
+

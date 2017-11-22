@@ -1,0 +1,537 @@
+#2500
+red crystal shard~
+a red crystal shard~
+A bright red crystal shard is here. It looks very sharp.~
+~
+crystal~
+5 ABGJS AN 0
+0 C ACE A D
+46 25 7100 100 100
+A
+19 2
+A
+18 2
+A
+1 2
+#2501
+red crystal plate~
+a suit of red crystal plate~
+A gleaming suit of red crystal plate mail is here.~
+~
+crystal~
+9 ABEGJ AD 0
+CD CD CD ABCD 0
+46 25 5500 100 100
+A
+19 1
+A
+18 1
+A
+4 1
+A
+1 1
+#2502
+bloody dagger~
+a bloody dagger~
+A bloody dagger is here. It is extraordinarily light.~
+~
+steel~
+5 G AN 0
+B A AC ABD 0
+5 1 1050 100 100
+A
+2 1
+#2503
+trash~
+some trash~
+Some trash lies here.~
+~
+paper~
+13 0 AO 0
+0 0 0 0 0
+1 1 5 100 100
+A
+3 -2
+#2504
+adarian sword~
+an Adarian sword~
+An Adarian Soldier's sword is here.~
+~
+steel~
+5 BGI AN 0
+A AB AE AB 0
+37 45 5050 100 100
+A
+19 2
+A
+18 2
+#2505
+adarian shield~
+an Adarian shield~
+A red and gold Adarain shield is here.~
+~
+bronze~
+9 0 AJ 0
+BD BD BD CD 0
+37 5 1850 100 100
+#2506
+jagged sword~
+a jagged sword~
+A huge jagged sword is here.~
+~
+steel~
+5 GJS AN 0
+A AB CE AB 0
+44 5 4200 100 100
+A
+19 2
+A
+18 2
+A
+17 -15
+A
+20 -2
+#2507
+the gold~
+gold coins~
+Gold coins~
+~
+gold~
+20 0 A 0
+BFGHK 0 0 0 0
+1 0 1250 100 100
+#2508
+grey flute~
+a grey flute~
+A grey flute is here.~
+~
+wood~
+3 G A 0
+BD BCDE AD 11 0
+1 2 500 100 100
+#2509
+steak~
+a well-done steak~
+The house specialty steak is here.~
+~
+food~
+19 0 A 0
+CD 0 0 0 0
+1 1 15 100 100
+#2510
+salad~
+a caesar salad~
+A caesar salad is here, looking great.~
+~
+food~
+19 0 A 0
+BC 0 0 0 0
+1 1 7 100 100
+#2511
+water glass~
+a glass of water~
+A cold glass of water.~
+~
+glass~
+17 0 A 0
+A A 0 0 0
+1 1 3 100 100
+#2512
+screwdriver~
+a "Screwdriver"~
+A bottle of "Screwdriver" is here.~
+~
+glass~
+17 0 A 0
+AC AC ABC 0 0
+1 2 15 100 100
+#2513
+keg whisky~
+a keg of whisky~
+A huge keg of whiskey.~
+~
+wood~
+17 0 A 0
+ABDG ABDG AC 0 0
+1 5 75 100 100
+#2514
+dagger green jeweled~
+a green jeweled dagger~
+A green jeweled dagger glows here.~
+~
+diamond~
+5 AG AN 0
+B B ACD ABD 0
+26 5 2900 100 100
+A
+3 1
+A
+4 1
+#2515
+potion steel flask~
+a steel flask~
+A steel flask is here.~
+~
+steel~
+10 GK A 0
+35 39 36 2 0
+31 1 7500 100 100
+#2516
+purse ghostly ~
+a ghostly purse~
+A ghostly purse lies here.~
+~
+unique~
+15 AGNST A 0
+ABCD AC 0 0 0
+1 5 10000 100 100
+#2517
+bench~
+an old park bench~
+The old park bench appears broken down and could fall apart at any time.~
+~
+wood~
+12 0 A 0
+0 0 0 0 0
+1 150 20 100 100
+#2518
+fountain~
+a filthy fountain.~
+A dirty, filthy fountain is here.~
+~
+stone~
+25 0 A 0
+BEF BEF AD A 0
+1 244 20 100 100
+E
+fountain~
+The fountain appears to be filled with a greenish red slime. It doesn't look
+very safe at all.
+~
+#2519
+corpse body dead mayor~
+a dead body.~
+The body of the Mayor of Adaria lies here, rotting.~
+~
+flesh~
+13 H A 0
+0 0 0 0 0
+1 125 0 100 100
+#2520
+pill blue~
+a little blue pill~
+A little blue pill is here, marked "X-23"~
+~
+pill~
+26 G A 0
+35 82 56 39 0
+27 1 2500 100 100
+#2521
+pill pink xtasy~
+a pink pill called "Xtasy"~
+A pink pill called "Xtasy" is here.~
+~
+pill~
+26 G A 0
+28 19 18 17 0
+25 1 700 100 100
+#2522
+pill red blow~
+a red pill that will blow you away~
+A red pill that will BLOW YOU AWAY is here.~
+~
+pill~
+26 G A 0
+50 2 402 36 0
+38 1 15000 100 100
+#2523
+potion bubbling bottle~
+a bubbling bottle~
+A bubbling bottle~
+~
+pill~
+10 G A 0
+35 66 68 67 0
+20 5 1250 100 100
+#2524
+key adaria~
+a key to the gates of Adaria~
+A key to the gates of Adaria is here. A small yellow tag hangs from it.~
+~
+brass~
+18 0 A 0
+0 0 0 0 0
+1 1 250 100 100
+E
+tag key yellow~
+The tag says:
+
+    Please return to GateKeeper before leaving Adaria.
+		Thank you -
+			The Fuzz
+~
+#2525
+note~
+a note~
+A note lies here.~
+~
+paper~
+13 0 A 0
+0 0 0 0 0
+1 1 0 100 100
+E
+note paper writing~
+I write this note because soon I shall not be able to tell this tale
+to anyone. If you find this, you are our last hope. The followers of
+Yar have revolted and taken over this town. Please go get help! The
+last remnants of our folk are hiding underneath the Temple that Yar
+has made his own.
+~
+#2526
+sword reginald~
+a sword made by Reginald~
+A sword made by Reginald is here. It looks quite well made.~
+~
+mithril~
+5 GI AN 0
+A C ACE AB E
+45 55 9450 100 100
+A
+18 4
+A
+19 5
+#2527
+ring blood red yar~
+a blood red ring of Yar~
+A blood red ring of Yar lies here.~
+~
+adamantite~
+9 AEGJLM AB 0
+BC BC BC ACE 0
+15 2 2350 100 100
+A
+3 2
+#2528
+necklace human ears~
+a necklace of human ears~
+A necklace of human ears is here.~
+~
+unknown~
+9 AEGJLM AC 0
+ABC ABC ABC AC 0
+20 10 3400 100 100
+A
+13 20
+A
+4 1
+#2529
+bracelet pulsing red~
+a pulsing red bracelet~
+A pulsing red bracelet of Yar is here.~
+~
+unique~
+9 AEGJL AM 0
+CD CD CD AC 0
+45 7 6250 100 100
+A
+12 30
+A
+1 2
+#2530
+dagger dainty~
+a dainty dagger~
+A dainty dagger is here.~
+~
+steel~
+5 BGK AN 0
+B A AC B 0
+3 5 3350 100 100
+A
+19 3
+A
+19 1
+#2531
+desk small~
+a small desk~
+A small desk is here with a plaque on it.~
+~
+wood~
+15 0 A 0
+DGH AC 0 0 0
+20 120 1000 100 100
+E
+plaque~
+The plaque reads:
+
+His Honor the Mayor of Adaria: Bob
+~
+#2532
+sword white guardian~
+a White Guardian's sword~
+A White Guadian's sword lies here.~
+~
+steel~
+5 AGK AN 0
+A AB ABCD AB 0
+30 35 6300 100 100
+A
+18 5
+A
+2 1
+#2533
+cloak white guardian~
+a white guardian's cloak~
+A white guardian's Cloak is here. A red cross is sewn into the beautiful
+fabric.~
+~
+cloth~
+9 GKS AK 0
+AD AD AD ABCD 0
+30 2 3500 100 100
+A
+4 1
+A
+12 15
+#2534
+plate white guardian~
+a white guardian's plate mail~
+A white guardian's plate mail is here.~
+~
+bronze~
+9 BGKS AD 0
+AD AD AD BD 0
+30 50 1100 100 100
+A
+1 1
+A
+17 -15
+#2535
+belt white guardain~
+a white guardian's belt~
+A white guardian's belt is here.~
+~
+leather~
+9 GKS AL 0
+D D D D 0
+25 5 2850 100 100
+A
+1 2
+A
+19 3
+A
+2 -3
+#2536
+gauntlets reginald~
+a pair of gauntlets made by Reginald~
+A pair of gauntlets made by Reginald is here.~
+~
+gold~
+9 GI AI 0
+BC BC BC BC 0
+15 15 2550 100 100
+A
+1 -1
+A
+2 2
+#2537
+plate mail reginald~
+a suit of plate mail made by Reginald~
+A suit of Plate Mail made by Reginald is here.~
+~
+bronze~
+9 GI AD 0
+BC BC BC BC 0
+15 20 1950 100 100
+A
+13 5
+A
+4 1
+#2538
+sword white soldier~
+a white soldier's sword~
+A white soldier's sword is here with a keen edge.~
+~
+brass~
+5 0 AN 0
+A B BD A D
+16 35 800 100 100
+#2539
+mace blue guardian shiny~
+a Blue Guardian's mace~
+A shiny blue mace is here.~
+~
+iron~
+5 ABGIKLS AN 0
+C AB ABCD CE 0
+30 40 5500 100 100
+A
+19 3
+A
+18 2
+#2540
+sword captain lorell giant~
+Captain Lorell's giant sword~
+A giant silvery sword is here.~
+~
+silver~
+5 BK AN 0
+A C ACE 0 F
+47 55 6350 100 100
+A
+19 3
+A
+18 2
+#2541
+food locker~
+the food locker~
+A food locker made of wood stands in the corner here~
+~
+wood~
+15 0 0 0
+CEFGHI AC 0 0 0
+0 40 40 100 100
+#2542
+soup bowl~
+a bowl of soup~
+A bowl of grey soup is here.~
+~
+liquid~
+19 I A 0
+C 0 0 0 0
+0 2 5 100 100
+#2543
+deck cards~
+a deck of cards~
+A deck of cards is here~
+~
+paper~
+8 0 A 0
+0 0 0 0 0
+1 1 50 100 100
+#2544
+desk large oak oaken~
+a large oaken desk~
+A large desk made of solid oak is here.~
+~
+wood~
+12 0 0 0
+0 0 0 0 0
+0 232 20 100 100
+E
+desk~
+The desk appears to be very old, yet well made. The symbol of Aecindo, a
+diamond star, is inlaid into the middle of the desk.
+~
+#2545
+altar~
+the altar of Yar~
+The Altar of Yar stands here, seething red.~
+~
+adamantite~
+31 ORST 0 0
+0 0 0 0 0
+0 5000 0 100 100
+#0
+
+
+

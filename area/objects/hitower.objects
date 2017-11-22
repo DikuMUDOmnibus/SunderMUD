@@ -1,0 +1,1003 @@
+#1301
+oven black~
+an oven~
+A huge black oven is here.~
+~
+unknown~
+15 A 0 0
+DFGHIJ AC 0 DFGHIJ CFG
+0 0 0 100 100
+#1302
+locker~
+a meat locker~
+An enormous meat locker is here.~
+~
+unknown~
+15 0 0 0
+DFGHIJ AC 0 DFGHIJ CFG
+0 0 0 100 100
+E
+locker~
+You just had the horrid thought that a cadaver might be in there.
+~
+#1304
+pizza slice~
+a slice of pizza~
+A slice of pizza is here looking very tasty.~
+~
+unknown~
+19 0 A 0
+ABCD ABCD 0 0 0
+0 10 10 100 100
+E
+pizza slice~
+Ahh!  Round Table pizza!  How appropriate.  Any root beer?
+~
+#1305
+chunk meat~
+a large chunk of meat~
+A large chunk of meat is here.~
+~
+unknown~
+19 0 A 0
+DE DE 0 A 0
+0 20 24 100 100
+#1306
+sandwich~
+a finger sandwich~
+A finger sandwich is here.~
+~
+unknown~
+19 0 A 0
+CE CE 0 0 0
+0 20 18 100 100
+E
+sandwich finger~
+It would look quite tasty if someone had first removed the fingernails!
+~
+#1307
+broom straw~
+a straw broom~
+A straw broom is here leaning against the wall.~
+~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+0 50 0 100 100
+E
+broom straw~
+A magical flying broomstick?  Nah!  Not here.
+~
+#1308
+machine coffee~
+a coffee machine~
+A coffee machine is here.~
+~
+unknown~
+15 B 0 0
+EIJKN 0 0 DFGHIJ CFG
+0 0 0 100 100
+#1309
+cabinet~
+a cabinet~
+A cabinet is here.~
+~
+unknown~
+15 0 0 0
+DHIJM AC 0 DHIJM CFG
+0 0 0 100 100
+#1310
+bar silver~
+a bar of silver~
+A bar of silver has been left here.~
+~
+unknown~
+8 0 A 0
+0 0 0 0 0
+0 60 100 100 100
+#1311
+bar gold~
+a bar of gold~
+A bar of gold has been left here.~
+~
+unknown~
+8 0 A 0
+0 0 0 0 0
+0 60 5000 100 100
+#1312
+bar mithril~
+a bar of mithril~
+A bar of mithril has been left here.~
+~
+unknown~
+8 0 A 0
+0 0 0 0 0
+0 120 5000 100 100
+#1313
+bar adamantite~
+a bar of adamantite~
+A bar of adamantite has been left here.~
+~
+unknown~
+8 0 A 0
+0 0 0 0 0
+0 150 5000 100 100
+#1314
+hammer mithril~
+a mithril hammer~
+A mithril hammer has been left here~
+~
+unknown~
+5 G AN 0
+C A D ABC 0
+12 190 1410 100 100
+A
+18 2
+A
+1 1
+#1315
+chest~
+a chest~
+A chest is here.~
+~
+unknown~
+15 A 0 0
+DHIJM ABCD CFIK CFG CFG
+0 0 0 100 100
+#1316
+key~
+a small key~
+A small key has been left here.~
+~
+unknown~
+18 0 A 0
+ABFIK 0 0 0 0
+0 10 0 100 100
+#1317
+long sword~
+a long sword~
+A long sword has been left here.~
+~
+unknown~
+5 0 AN 0
+A A BC AB 0
+6 80 720 100 100
+A
+18 1
+A
+19 2
+#1318
+dagger silver~
+a silver dagger~
+A finely crafted dagger made of silver is on the ground here.~
+~
+unknown~
+5 0 AN 0
+B A ABC ABD 0
+10 50 970 100 100
+A
+18 2
+A
+19 2
+#1319
+scimitar~
+a curved scimitar~
+A curved scimitar is here in a jewel-covered sheath.~
+~
+unknown~
+5 0 AN 0
+A A D AB 0
+13 100 990 100 100
+A
+13 3
+#1320
+staff wooden~
+a wooden staff~
+A wooden staff is against the wall here.~
+~
+unknown~
+5 0 AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef A C D 0
+0 60 42 100 100
+#1321
+cabinet silver~
+a silver chased cabinet~
+A large cabinet with a silver finish is here.~
+~
+unknown~
+15 0 0 0
+DHIJM ABCD ACDFIK CFG CFG
+0 0 0 100 100
+#1322
+cabinet silver~
+a silver chased cabinet~
+A large cabinet with a silver finish is here.~
+~
+unknown~
+15 0 0 0
+DHIJM ABCD ACDFIK CFG CFG
+0 0 0 100 100
+#1323
+key old~
+an old key~
+An old key is here~
+~
+unknown~
+18 0 A 0
+0 0 0 0 0
+0 10 0 100 100
+#1324
+silvery key~
+a silvery key~
+A silvery key has been left here.~
+~
+unknown~
+18 0 A 0
+ADFIK 0 0 0 0
+0 10 0 100 100
+#1325
+silvery key~
+a silvery key~
+A silvery key has been left here.~
+~
+unknown~
+18 0 A 0
+BDFIK 0 0 0 0
+0 10 0 100 100
+#1326
+staff red white~
+a red and white staff~
+A red and white staff is leaning against the wall here~
+~
+unknown~
+4 0 AO 0
+CE AB AB 28 0
+15 80 5600 100 100
+#1327
+staff burnt~
+a burnt staff~
+A burnt staff is leaning against the wall here.~
+~
+unknown~
+4 0 AO 0
+CE C C 4 0
+6 60 1720 100 100
+#1328
+rod black~
+a black rod~
+A black rod has been left here.~
+~
+unknown~
+3 0 AO 0
+CE AB AB 22 0
+11 40 2200 100 100
+#1329
+wand wooden~
+a wooden stick~
+A wooden stick is here~
+~
+unknown~
+3 0 AO 0
+CE BD BD 3 0
+7 40 1640 100 100
+#1330
+wand metal~
+a metal wand~
+A metal wand is here.~
+~
+unknown~
+3 0 AO 0
+CE CE C 25 0
+14 50 3200 100 100
+#1331
+cauldron black~
+a black cauldron~
+A large black cauldron is here bubbling.~
+~
+unknown~
+15 0 0 0
+DFGHIJ 0 0 DFGHIJ CFG
+0 0 0 100 100
+#1332
+wings~
+a small pair of bat wings~
+A small pair of bat wings is here.~
+~
+unknown~
+13 0 A 0
+0 0 0 0 0
+0 20 0 100 100
+#1333
+eye eyeball~
+an eyeball~
+An eyeball has been left here~
+~
+unknown~
+13 0 AO 0
+0 0 0 0 0
+0 10 0 100 100
+#1334
+book tome~
+the book of magic~
+An enormous book is lying open here~
+~
+unknown~
+15 A 0 0
+CEFGHI 0 0 CEFGHI CFG
+0 0 0 100 100
+#1335
+spectacles glasses~
+a pair of spectacles~
+A pair of wire-rimmed spectacles has been left here.~
+~
+unknown~
+11 G AE 0
+0 0 0 0 0
+7 40 1140 100 100
+A
+3 1
+A
+4 1
+#1336
+altar~
+a golden altar~
+~
+~
+unknown~
+15 0 0 0
+DFGHIJ AC 0 CFG CFG
+0 0 0 100 100
+#1337
+medallion heart~
+a heart shaped medallion~
+A heart shaped medallion is here.~
+~
+unknown~
+8 GI AC 0
+0 0 0 0 0
+13 30 2200 100 100
+A
+4 2
+A
+5 -1
+#1338
+chest~
+a large chest~
+A large chest is here.~
+~
+unknown~
+15 AG 0 0
+EGHIJK ABCD ABDEFIK DGH CFG
+0 0 0 100 100
+#1339
+key intricate~
+an intricately carved key~
+An intricately carved key has been left here.~
+~
+unknown~
+18 AG AO 0
+BDEFIK 0 0 0 0
+0 10 150 100 100
+A
+20 -1
+#1340
+a pile of coins~
+a pile of coins~
+A pile of coins is here.~
+~
+unknown~
+20 0 A 0
+ACDFGH ABD 0 0 0
+0 10 0 100 100
+#1341
+cloak brown~
+a brown cloak~
+A travel worn cloak has carelessly been left here.~
+~
+unknown~
+11 0 AC 0
+0 0 0 0 0
+35 50 4300 100 100
+A
+17 -5
+A
+20 -3
+#1342
+chameleon poncho~
+a chameleon poncho~
+Some multicolored cloth is on the ground here~
+~
+unknown~
+11 G AK 0
+0 0 0 0 0
+17 40 3600 100 100
+A
+2 2
+A
+17 -3
+#1343
+boots worn~
+a pair of old boots~
+A pair of old boots is here, they look very comfortable.~
+~
+unknown~
+11 G AG 0
+0 0 0 0 0
+10 20 270 100 100
+A
+14 15
+#1344
+ring seashell~
+a seashell ring~
+A small seashell has been left here.~
+~
+unknown~
+22 G AB 0
+0 0 0 0 0
+0 20 1000 100 100
+#1345
+backpack leather~
+a leather backpack~
+A leather backpack is here.~
+~
+unknown~
+15 GY AK 0
+BCDFGHJ 0 0 BEF BEF
+0 90 1000 100 100
+#1351
+cup brew herbal~
+a herbal brew~
+A herbal brew is here.~
+~
+glass~
+17 0 A 0
+CD CD ABD 0 0
+0 10 12 100 100
+#1352
+waybread~
+a waybread~
+A loaf of waybread has been left here.~
+~
+unknown~
+19 0 A 0
+ADE F 0 0 0
+0 10 50 100 100
+#1355
+cleaver~
+a meat cleaver~
+A meat cleaver is sticking in the wall here.~
+~
+mithril~
+5 0 AN 0
+B B BD ACE D
+17 20 840 100 100
+#1356
+shackles chain~
+some chain shackles~
+Some chain shackles have been discarded here~
+~
+unknown~
+13 GH A 0
+0 0 0 0 0
+0 150 0 100 100
+A
+12 -100
+A
+14 -82
+#1357
+dagger silvery~
+a silvery dagger~
+A long dagger that seems to be made of silver is here.~
+~
+mithril~
+5 G AN 0
+B B AD ABD 0
+15 10 910 100 100
+A
+18 1
+#1359
+scroll~
+a scroll~
+A scroll is here.~
+~
+unknown~
+2 0 A 0
+21 4 17 38 0
+11 50 1570 100 100
+#1360
+scroll bound~
+a bound scroll~
+A bound scroll is here blowing in the breeze.~
+~
+unknown~
+2 G AO 0
+16 1 2 34 0
+24 30 3000 100 100
+A
+17 -6
+#1361
+tube~
+a long cylindrical tube~
+A long cylindrical tube is rolling around here.~
+~
+unknown~
+15 GY A 0
+CFG AC ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef B BDEG
+0 10 50 100 100
+#1362
+scroll old~
+an old scroll~
+An old scroll has been left here.~
+~
+unknown~
+2 0 A 0
+10 12 0 0 0
+0 20 400 100 100
+#1363
+scroll blue~
+a scroll written on blue paper~
+A blue scroll has been left here.~
+~
+unknown~
+2 G A 0
+35 24 0 0 0
+8 50 1530 100 100
+#1364
+pouch leather~
+a leather pouch~
+A leather pouch is on the ground here.~
+~
+unknown~
+15 GY AO 0
+BCEH 0 0 AC CE
+0 20 100 100 100
+#1365
+spoon silver~
+a silver stirring spoon~
+A silver stirring spoon has been left here.~
+~
+unknown~
+12 G AO 0
+0 0 0 0 0
+0 10 150 100 100
+A
+20 -1
+#1366
+potion blue~
+a blue potion~
+A blue potion is here.~
+~
+unknown~
+10 G A 0
+24 27 27 27 0
+11 20 2100 100 100
+#1367
+potion red~
+a bright red potion~
+A bright red potion is here.~
+~
+unknown~
+10 G A 0
+15 15 0 0 0
+5 20 390 100 100
+#1368
+potion green~
+a green potion~
+A green potion is here.~
+~
+unknown~
+10 G A 0
+20 4 2 14 0
+5 20 470 100 100
+#1369
+potion effervescent~
+an effervescent potion~
+An effervescent potion is bubbling away here~
+~
+unknown~
+10 G A 0
+16 18 19 20 0
+0 20 260 100 100
+E
+potion effervescent~
+Ahh!  Schwepes Sparkling Soda a refreshing drink.
+~
+#1370
+white milky potion~
+a milky white potion~
+A milky white potion is here.~
+~
+unknown~
+10 0 A 0
+14 42 0 0 0
+17 20 1350 100 100
+#1371
+staff black~
+a black staff~
+A black staff is leaning against the wall here.~
+~
+unknown~
+4 G AO 0
+BE B B 2 0
+9 50 2600 100 100
+#1372
+flute golden~
+a golden flute~
+A golden flute has been left here.~
+~
+unknown~
+4 FG AO 0
+BCE A A 7 0
+1 40 1000 100 100
+A
+3 -6
+#1373
+figurine~
+a small figurine~
+A small figurine in the shape of a humanoid is standing here.~
+~
+unknown~
+4 G AO 0
+ACE ABCD ABCD 61 0
+8 40 3400 100 100
+#1374
+belt holster~
+a holstered belt~
+A holstered belt is here.~
+~
+unknown~
+15 0 AL 0
+CE 0 0 C CFG
+0 40 100 100 100
+#1375
+wand~
+a blackened wand~
+A blackened wand is here.~
+~
+unknown~
+3 G AO 0
+AE AC A 26 0
+14 40 3800 100 100
+#1376
+chisel runed~
+a runed chisel~
+A runed chisel is here.~
+~
+diamond~
+5 AG AN 0
+B B ABD ABD 0
+20 60 2100 100 100
+A
+2 1
+A
+19 2
+#1377
+pouch belt beltpouch~
+a beltpouch~
+A beltpouch is here.~
+~
+unknown~
+15 0 AL 0
+ADE 0 0 AC CFG
+0 50 50 100 100
+#1378
+dust~
+some sparkling dust~
+Some sparkling dust is in a pile here.~
+~
+unknown~
+4 0 AO 0
+CE A A 38 0
+5 20 1930 100 100
+#1379
+cowl dark~
+a dark cowl~
+A dark cowl is here.~
+~
+unknown~
+11 GJ AC 0
+0 0 0 0 0
+26 50 2900 100 100
+A
+17 -6
+A
+20 -2
+#1380
+wand ashen~
+an ashen wand~
+An ashen wand is here~
+~
+unknown~
+3 J AO 0
+CE C C 63 0
+9 40 1860 100 100
+#1381
+club~
+a huge spiked club~
+A huge spiked club has been left here.~
+~
+unknown~
+5 0 AN 0
+C B AD D 0
+15 290 750 100 100
+#1382
+robe grey~
+a grey robe~
+A pile of grey cloth has been left here.~
+~
+unknown~
+15 GJKY AK 0
+BEF 0 0 BD ABDG
+26 80 2900 100 100
+A
+17 -6
+A
+20 -2
+#1383
+cloak grey~
+a long grey cloak~
+A pile of grey cloth has been left here.~
+~
+unknown~
+11 GJK AC 0
+0 0 0 0 0
+29 70 3300 100 100
+A
+17 -7
+A
+20 -2
+#1384
+bracelet silver~
+a glinting silver bracelet~
+A glinting hoop of silvery metal is here.~
+~
+unknown~
+8 G AM 0
+0 0 0 0 0
+20 50 1440 100 100
+A
+17 -5
+#1385
+staff~
+an iron shod staff~
+A grey piece of wood shod in iron has been left here.~
+~
+unknown~
+5 G AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef B ACD ABC F
+27 70 1280 100 100
+A
+18 3
+#1386
+minor ward cube clear~
+a ward minor~
+A small clear cube is sitting here.~
+~
+unknown~
+8 AG AO 0
+0 0 0 0 0
+20 50 1440 100 100
+A
+17 -5
+#1387
+robe black~
+a black robe~
+A pile of black cloth is on the ground here.~
+~
+unknown~
+15 GJLY AK 0
+BEF 0 0 BD ABDG
+22 80 2400 100 100
+A
+17 -5
+A
+20 -2
+#1388
+bracelet onyx~
+an onyx bracelet~
+A hoop of black onyx is here.~
+~
+unknown~
+8 G AM 0
+0 0 0 0 0
+20 60 1150 100 100
+A
+19 2
+#1389
+cloak black dark~
+a dark black cloak~
+A pile of black cloth is on the ground here.~
+~
+unknown~
+11 GJL AC 0
+0 0 0 0 0
+29 80 3300 100 100
+A
+17 -7
+A
+20 -2
+#1390
+shard black obsidian~
+a sharp shard of obsidian~
+A piece of black glass is here.~
+~
+unknown~
+5 J AN 0
+B B BCD A 0
+29 80 2500 100 100
+A
+19 3
+#1391
+robe white~
+a white robe~
+A pile of white cloth is on the ground here.~
+~
+unknown~
+15 GKLY AK 0
+BEF 0 0 BD ABDG
+22 70 2400 100 100
+A
+17 -5
+A
+20 -2
+#1392
+bracelet white gold~
+a white gold bracelet~
+A hoop of silvery metal is here.~
+~
+unknown~
+8 G AM 0
+0 0 0 0 0
+20 50 1150 100 100
+A
+18 2
+#1393
+cloak white~
+a white cloak~
+A pile of white cloth is on the ground here.~
+~
+unknown~
+11 GIKL AC 0
+0 0 0 0 0
+29 70 3300 100 100
+A
+17 -7
+A
+20 -2
+#1394
+ivory dagger~
+an ivory hilted dagger~
+An ivory hilted dagger has been left here~
+~
+unknown~
+5 GIK AN 0
+B B ACD ABD 0
+27 10 2100 100 100
+A
+18 1
+A
+19 2
+#1395
+collar spiked~
+a spiked collar~
+A small spiked collar is here.~
+~
+unknown~
+9 G AC 0
+B B B 0 0
+20 90 1970 100 100
+A
+17 -2
+A
+19 2
+#1396
+cloak shimmering~
+a shimmering cloak of many colors~
+A multi-colored pile of cloth is here.~
+~
+unknown~
+15 AGY AC 0
+CFG 0 0 BD ADE
+50 80 10800 100 100
+A
+17 -12
+A
+20 -4
+#1397
+emerald ring~
+a small emerald ring~
+A small ring with a green gemstone is here.~
+~
+unknown~
+8 G AB 0
+0 0 0 0 0
+20 50 580 100 100
+A
+12 20
+#1398
+bracelet emerald~
+an emerald bracelet~
+A beautifully crafted hoop of emerald is here.~
+~
+unknown~
+8 G AM 0
+0 0 0 0 0
+20 50 2200 100 100
+A
+17 -5
+A
+3 1
+#1399
+ward major clear crystal~
+a ward major~
+A large clear crystal cube is here.~
+~
+unknown~
+8 AG AO 0
+0 0 0 0 0
+40 60 5100 100 100
+A
+17 -10
+A
+20 -2
+#1400
+ebony kris~
+the ebony kris~
+A wavy bladed knife made of ebony is here.~
+~
+unknown~
+5 G AN 0
+B C ACE ABD 0
+46 30 10700 100 100
+A
+2 2
+A
+19 5
+#1401
+green scale shirt~
+a tight fitting green dragon scale shirt~
+Some green dragon scales which have been sewn together are here.~
+~
+unknown~
+9 G AD 0
+BD BD BD AC 0
+37 90 17800 100 100
+A
+2 3
+A
+17 -5
+E
+green scale shirt~
+Green dragon scale shirt was made from a poor unfortunate green dragon.
+~
+#1402
+fridge refrigerator~
+a fridge~
+A small refrigerator.~
+~
+unknown~
+15 B 0 0
+CEFGHI AC 0 CFG CFG
+0 0 0 100 100
+#1403
+bottle vodka~
+a bottle of Absolut vodka~
+A bottle of Absolut vodka is here to drink.~
+~
+glass~
+17 0 AO 0
+AC AC A 0 0
+0 250 100 100 100
+#1404
+juice bottle~
+a bottle of cranberry juice~
+A bottle of cranberry juice is here.~
+~
+glass~
+17 0 AO 0
+D D ACDEHIJKLMNOPQRSTUVWXYZabcdef 0 0
+0 250 100 100 100
+#0
+
+
+

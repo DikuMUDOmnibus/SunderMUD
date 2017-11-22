@@ -1,0 +1,960 @@
+#400
+duke ruler stalatharata~
+Duke Stalatharata~
+Duke Stalatharata, ruler of the Duchy of Malathar, stands here.
+~
+The Duke is a fair elf of middle years, who carries himself with a grace
+impossible for lesser creatures to match. A palpable aura surrounds the
+good Duke, and you feel at awe in his noble presence.
+~
+~
+elf~
+ABDGT 0 EFHI C
+1000 59 59 16d234+1217 59d10+100 4d21+0 3
+EFNU 0 B Z
+8 8 1 5900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#401
+duchess wife destelandara~
+Duchess Destelandara~
+Duchess Destelandara, wife of the Duke of Malathar, stares imperiously at
+you.
+~
+The Duchess is a creature of incredible beauty, a haughty fair elf of 
+unmatched poise and appearance. She seems slightly amused by your presence,
+but never does her calm face break into even a hint of a smile. She also 
+seems to expect you to be respectful and subservient. Maybe you had better
+bow...
+~
+~
+elf~
+ABDGT 0 EFI C
+1000 57 57 16d219+1144 57d10+100 4d21+0 11
+EFNU 0 B Z
+8 8 2 5700
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#402
+archmage mage tuo~
+The Archmage Tuo~
+The Archmage Tuo, loyal half-elven advisor to the Duke, stands here.
+~
+Despite his mixed blood (half-elven, half-human), the archmage Tuo still
+commands considerable respect in the court of the Duke of Malathar. He is 
+an elderly male, but still has full control of his faculties, and has never
+been more proficient with his magicks. If you're lucky, he may even take
+the time to grant you some of his knowledge.
+~
+~
+elf~
+AJT U FGI C
+1000 56 56 16d211+1115 56d10+100 4d20+0 7
+EFNU 0 B Z
+8 8 1 5600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#403
+priest lallinthenera~
+The High Priest Lallinthera~
+The High Priest Lallinthera stands before you.
+~
+This kindly old elf has been the direct representative of the major elven
+deity, Yaegar, in the duchy of Malathar for centuries. His wisdom and
+ability in the sciences of astrology and healing are unparalleled, and he
+may even heal you.
+~
+~
+elf~
+ABLTa T EFHI C
+1000 55 55 16d204+1078 55d10+100 4d20+0 11
+EFNU 0 B Z
+8 8 1 5500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#404
+haan dragon platinum wyrm~
+The Platinum Dragon~
+The Platinum Dragon known as Haan, ally and friend of the Duke, sleeps here.
+~
+The mighty Haan served as the Duke's steed during the Goblin Wars many
+centuries ago, but is now way past his prime, and he spends most of his
+time sleeping and dreaming of past glories. For, long-lived as Wyrms are,
+Elves are much longer-lived, being virtually immortal, and it saddens both
+Haan and his master that their days together are now numbered.
+~
+~
+wyvern~
+ABCGT RT EFHI C
+1000 57 57 16d219+1144 57d10+100 4d21+0 11
+CEFHNU L 0 S
+8 8 1 57
+ABHMVZc ABCDEFHJKQRVXa 2 unknown
+#405
+guard elite elf elven~
+An Elite Elven Guard~
+One of the Duke's Elite Elven Guard stands rigidly at attention here.
+~
+The Duke's Elite Elven Guard are recruited from amongst his finest warriors,
+many of them being veterans of the Goblin Wars, and they serve their Duke
+with undying loyalty.
+~
+~
+elf~
+ABDGT 0 FI AC
+1000 46 23 16d142+815 46d10+100 4d17+0 11
+EFNU 0 B Z
+8 8 1 46
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#406
+scout elite elf elven~
+An Elite Elven Scout~
+One of the Duke's Elite Elven Scouts stares at you suspiciously.
+~
+The Duke's Elite Elven Scouts are veteran rangers and spies who have for
+many decades helped him spy on his treacherous goblin and trollish enemies,
+and have helped patrol the borders of his duchy.
+~
+~
+elf~
+ACDT 0 FHI C
+1000 40 20 16d108+648 40d10+100 3d15+0 11
+EFNU 0 B Z
+8 8 1 40
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#407
+guard city elf elven~
+A Malatharan City Guard~
+A loyal Malatharan City Guard patrols the streets of his Duke's city.
+~
+The Guards of the City of Malathar are legendary for their loyalty and
+devotion to their benevolent Duke. They are clad in the crimson and gold
+tabards of the city, and carry sharp swords and stout shields.
+~
+~
+elf~
+AT 0 I 0
+1000 20 10 11d38+238 20d10+100 2d9+0 3
+EFNU 0 B Z
+8 8 1 20
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#408
+citizen elf elven~
+A Citizen of Malathar~
+A Citizen of Malathar strolls idly by.
+~
+One of the many peaceful citizens of this city, who has reason to feel
+safe when under the protection of such powerful people as the Guard, the
+Elite Guards, Haan the Dragon and of course the Duke himself.
+~
+~
+elf~
+AHT 0 I 0
+1000 11 6 3d27+107 11d10+100 1d6+0 11
+EFNU 0 B Z
+8 8 1 1100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#409
+citizen elf elven~
+A Citizen of Malathar~
+A Citizen of Malathar strolls idly by.
+~
+One of the many peaceful citizens of this city, who has reason to feel
+safe when under the protection of such powerful people as the Guard, the
+Elite Guards, Haan the Dragon and of course the Duke himself.
+~
+~
+elf~
+AHT 0 I 0
+1000 13 7 5d38+131 13d10+100 1d7+0 11
+EFNU 0 B Z
+8 8 2 13
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#410
+acolyte~
+An Acolyte of Yaegar~
+An Acolyte of Yaegar stands here.
+~
+An Acolyte of Yaegar, protective deity of this city, rushes purposefully
+about on business of his own. He wears the traditional black robes of Yaegar,
+the color representing the doom that fell on the Elves at the hands of the
+fell Goblins of Miden'Nir from which Yaegar and the Duke rescued them.
+~
+~
+elf~
+AHT 0 FGI 0
+1000 14 7 6d33+145 14d10+100 1d7+0 3
+EFNU 0 B Z
+8 8 1 14
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#411
+acolyte~
+An Acolyte of Yaegar~
+An Acolyte of Yaegar stands here.
+~
+An Acolyte of Yaegar, protective deity of this city, rushes purposefully
+about on business of her own. She wears the traditional black robes of Yaegar,
+the color representing the doom that fell on the Elves at the hands of the
+fell Goblins of Miden'Nir from which Yaegar and the Duke rescued them.
+~
+~
+elf~
+AHT 0 FGI 0
+1000 14 7 6d33+145 14d10+100 1d7+0 3
+EFNU 0 B Z
+8 8 2 7
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#412
+guardian high elf elven~
+The High Guardian of Malathar~
+The High Guardian of Malathar stands stoically before you.
+~
+A brave Elven knight of the Goblin Wars, the High Guardian was captured by
+his foes and mutilated beyond recognition. Left for dead, he was rescued by
+Yaegar, who gave him powers unimaginable in return for the knight's vow
+to protect the City and the Duke to the best of his (significant) abilities
+for the rest of his days. This the Elf gladly did, for he was of pure heart
+and fair courage, and he has kept his vow ever since.
+~
+~
+elf~
+ABGT T EFGHI AC
+1000 99 100 16d661+2923 99d10+100 7d34+0 3
+EFNU 0 B Z
+8 8 1 150
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#413
+cooshee dog pet~
+A Cooshee~
+A Cooshee, faithful pet and hunting dog of elves across the world, is here.
+~
+A gift from the Elves of the Valley to their cousins in Malathar, this 
+species of dogs is renowned for its loyalty and intelligence. The Elves
+use them as pets, hunting dogs, guard dogs and scout dogs. To kill or injure
+one carries penalties nearly as severe as those applied to Elves who kill
+other Elves, such is the love the Elves have for these beasts.
+~
+~
+dog~
+AHT 0 FHI 0
+400 10 5 3d33+96 10d10+100 1d6+0 11
+EFHNU 0 0 0
+8 8 1 0
+AGHMV ABCDEFHJKRUVa 2 unknown
+#414
+pegasus~
+A Pegasus~
+A Pegasus, faithful steed for some Elite Guard, stands here.
+~
+Pegasii act as steeds for the High Elven Guard who protect and fight for
+the Duke. This handsome, winged cousin of the equine herds that roam the 
+plains of Human lands is noble and intelligent, and will gladly sacrifice 
+its life to save its master.
+~
+~
+centaur~
+AT T FHI C
+500 24 14 10d38+311 24d10+100 2d10+0 3
+EFHNU M E P
+8 8 1 0
+AHMV ABCDEFGHIJKPRSTZa 2 unknown
+#415
+unicorn~
+A Unicorn~
+A Unicorn, steed of one of the Nobles of Malathar, stands here.
+~
+Unicorns serve as steeds for the Nobles of Malathar who are worthy of
+such a servant. The beasts are very intelligent, and won't throw themselves
+into a fight they know they have no chance of prevailing in, though they
+will not willingly abandon their masters to an untimely death if it can
+at all be avoided.
+~
+~
+centaur~
+ADT AB FHI C
+1000 31 16 16d64+448 31d10+100 3d12+0 11
+EFHNU 0 E P
+8 8 2 0
+AHMV ABCDEFGHIJKRSTWZa 2 unknown
+#416
+scout elf elven~
+An Elven Scout~
+An Elven Scout is here, preparing to brave the frontiers to scout for Goblins.
+~
+The Scouts that serve the Duke are younger Elves who hope one day to join
+the ranks of the Elite Scouts, though full will survive the ardous tours of
+futy on the frontiers scouting the movements of and fighting the many
+enemies of Elvenkind.
+~
+~
+elf~
+ADT 0 FI 0
+1000 18 0 10d36+205 18d10+100 2d8+0 3
+EFNU 0 B Z
+8 8 1 17
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#417
+child elf elven~
+An Elven child~
+An Elven child plays here.
+~
+This child happily frolics in the streets of its parents' home town, 
+blissfully unaware of how narrowly his entire race escaped decimation at the
+hands of the Goblins so recently.
+~
+~
+elf~
+AT 0 I 0
+400 4 1 1d10+33 4d10+100 1d4+0 7
+EFNU 0 B Z
+8 8 1 400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#418
+child elf elven~
+An Elven child~
+An Elven child plays here.
+~
+This child happily frolics in the streets of its parents' home town, 
+blissfully unaware of how narrowly her entire race escaped decimation at the
+hands of the Goblins so recently.
+~
+~
+elf~
+AT 0 I 0
+400 5 2 1d16+42 5d10+100 1d4+0 3
+EFNU 0 B Z
+8 8 1 500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#419
+menelas mage~
+Menelas the Mage~
+Menelas the Mage welcome you to his place of business.
+~
+Menelas is a former apprentice of Tuo, the Archmage of Malathar, who has
+established a fluorishing business selling magical artefacts, favored items
+among the magically-inclined Elves.
+~
+~
+elf~
+ABCDGT 0 EFGHI C
+1000 100 100 16d675+2970 100d10+100 7d34+0 11
+EFNU 0 B Z
+8 8 1 100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#420
+grein armorer~
+Grein the Armorer~
+Grein the Armorer gruffly welcomes you to his armory.
+~
+Grein is a crusty old veteran of the Goblin Wars, an Elven foot soldier of
+low caste who, like so many of his fellow lesser Elves, fought valiantly for
+the Nobles who have since almost forgotten the role these "Khallq" (grunts)
+played in their salvation. Nevertheless, Grein has managed to make a healthy
+profit in his armory, and, along with his brother Tolos, is one of the most
+respected dealers in items of war in the whole nation.
+~
+~
+elf~
+ABCDGT 0 EFGHI C
+1000 98 0 10d648+2869 98d10+100 7d33+0 11
+EFNU 0 B Z
+8 8 1 9800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#421
+tolos weaponsmith smith~
+Tolos the Weaponsmith~
+Tolos the Weaponsmith stares coldly at you as you enter his store.
+~
+Tolos is the brother of Greig, and has even less liking for his fellow Elves
+for his treatment after the war. Nevertheless, he still shares the Elven
+disdain for foreigners, and will treat you coldly whatever your race. 
+Despite his shortcomings, Tolos is a fair dealer, and will give you good
+prices for your weapons.
+~
+~
+elf~
+ABCDGT 0 EFGHI C
+1000 99 0 10d661+2923 99d10+100 7d34+0 3
+EFNU 0 B Z
+8 8 1 9900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#422
+mithara herbalist healer~
+Mithara the Herbalist~
+Mithara the Herbalist welcomes you with a sweet smile to her shop.
+~
+Mithara is a respected Herbalist and Healer, and will help you with any
+purchase or sales of pills, herbs, potions or similar that you may wish
+to undertake. She will also, for a small fee, heal your injuries.
+~
+~
+elf~
+ABCDGLT 0 EFGHI C
+1000 98 0 10d648+2869 98d10+100 7d33+0 7
+EFNU 0 B Z
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#423
+loothala cook elf~
+Loothala the fine Elven Cook~
+Loothala the fine Elven Cook welcomes you to her restaurant.
+~
+<NO, she does NOT cook elves...>
+Loothala makes remarkably tasty food and refreshments, and any gastronomic
+needs you may have can be met here, and at reasonable prices besides.
+~
+~
+elf~
+ABCDGT 0 EFGHI C
+1000 99 0 10d661+2923 99d10+100 7d34+0 3
+EFNU 0 B Z
+8 8 2 9900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#424
+dyenkalas grocer~
+Dyenkalas the Grocer~
+Dyenkalas the Grocer welcomes you to his General Store.
+~
+Dyenkalas can help you with your needs in basic adventuring equipment,
+such as lamps, torches, blankets, backpacks, bags and such.
+~
+~
+elf~
+ABCDGT 0 EFGHI C
+1000 98 0 10d648+2869 98d10+100 7d33+0 3
+EFNU 0 B Z
+8 8 1 9800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#425
+wolthan blacksmith smith~
+Wolthan the Blacksmith~
+Wolthan the Blacksmith offers to repair your damaged equipment.
+~
+Wolthan is a fine smith, and will help repair your damaged equipment.
+People say he is a little expensive, but his work is excellent, his repairs
+faultless.
+~
+~
+elf~
+ABDGT 0 EFGHI C
+1000 98 0 10d648+2869 98d10+100 7d33+0 3
+EFNU 0 B Z
+8 8 1 9800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#426
+sage tasstellat~
+Tastellat the Sage~
+Tastellat the Sage is here.
+~
+Tastellat is a wise and learned, if a trifle greedy, Sage who can identify 
+any item you may have, magical or mundane. A nephew of the great Thesius,
+he does well to hide the taint of Human blood he has.
+~
+~
+elf~
+ABGT 0 EFGHI C
+1000 99 99 16d661+2923 99d10+100 7d34+0 7
+EFNU 0 B Z
+8 8 1 1980
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#427
+cartograhper kas~
+Kas the Cartographer~
+Kas the Cartographer welcomes you to his store and offers you a map.
+~
+Kas is a well-travelled Elf who has mapped virtually every corner of the
+known world, and can sell you some of the maps he has made, if you are
+of a level high enough to withstand the perils of the land it leads you to.
+(He doesn't want the death of his customers on his conscience.)
+~
+~
+elf~
+ABCDGT 0 EFGHI C
+1000 100 0 10d675+2970 100d10+100 7d34+0 11
+EFNU 0 B Z
+8 8 1 10000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#428
+noble elf elven~
+An Elven Noble~
+An Elven Noble haughtily demands your respect.
+~
+Since the Goblin Wars, the Elven Nobles, who were reduced to humility by the 
+War, have now returned to their former haughty ways. Although they are indeed 
+loyal and brave citizens, their attitude towards the "Gwellenknach" (Lower
+Castes) makes them the target of the hatred of many citizens and servants.
+~
+~
+elf~
+ACDT 0 FI 0
+1000 30 15 16d60+426 30d10+100 3d12+0 3
+EFNU 0 B Z
+8 8 1 30
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#429
+noble elf elven~
+An Elven Noble~
+An Elven Noble haughtily demands your respect.
+~
+Since the Goblin Wars, the Elven Nobles, who were reduced to humility by the 
+War, have now returned to their former haughty ways. Although they are indeed 
+loyal and brave citizens, their attitude towards the "Gwellenknach" (Lower
+Castes) makes them the target of the hatred of many citizens and servants.
+~
+~
+elf~
+ACDT 0 FI 0
+1000 30 15 16d60+426 30d10+100 3d12+0 11
+EFNU 0 B Z
+8 8 1 30
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#430
+guildmaster elven rastellagnar~
+The Elven Guildmaster~
+Rastellagnar, the Elven Guildmaster, stands ready to train you.
+~
+Rastellagnar has been helping Elves and other willing students advance in
+their knowledge of the Elven Magical Arts, and you are but one in a long
+line of students.
+~
+~
+elf~
+ABCDGKT 0 EFGHI C
+1000 29 0 16d56+405 29d10+100 2d12+0 3
+EFNU 0 B Z
+8 8 1 29
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#431
+guildmaster human julistha~
+The Human Guildmistress~
+Julistha, the Human Guildmistress, coldly appraises your abilities.
+~
+Julistha is very good at fighting, so good in fact that she even trains
+Elves in the Martial Arts, and Elves are NOT renowned for admitting ANY other
+race can do ANYTHING better than they can...
+~
+~
+human~
+ABCDGPT 0 EFGHI C
+0 29 14 16d56+405 29d10+100 2d12+0 11
+EFNU 0 0 0
+8 8 2 29
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#432
+guildmaster kender macy~
+The Kender Guildmistress~
+Macy, the Kender Guildmistress, smiles at you (wonder what she's stolen?:))
+~
+Macy is one of the best Kender scouts in history, and the Elves, who do not
+condone her skills at all, allow her to stay because she can teach their
+scouts so much about subterfuge and similar skills.
+~
+~
+elf~
+ABCDGOT 0 EFGHI C
+0 30 15 16d60+426 30d10+100 3d12+0 11
+EFNU 0 B Z
+8 8 2 3000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#433
+guildmaster dwarf keruggan~
+The Dwarven Guildmaster~
+Keruggan, the Dwarven Guildmaster, seems astonished at having a pupil.
+~
+The Elves as a whole dislike and distrust Dwarves, and the only reason that
+Keruggan is allowed to run a business is that he is also the ambassador
+to Malathar from Juargen. He has very few customers, as Elves consider
+Dwarven skills crude and vulgar, and as such will do his best to try and
+encourage any he gets to return.
+~
+~
+dwarf~
+ABCDGQT 0 EFGHI C
+0 30 15 10d60+426 30d10+100 3d12+0 3
+EFNU 0 CLQ R
+8 8 1 3000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#434
+guildmaster dryad moredhein~
+The Dryad Guildmaster~
+Moredhein, the Dryad Guildmaster, stands ready to help you practice.
+~
+Dryads are a respected and feared race in Elven lands, respected for their
+knowledge of all things natural and feared for their forbidding size and
+appearance (seven foot tall humanoids clad in flowing brown robes that
+conceal their features). None of this bothers Moredhein, as he a dryad he 
+is above succumbing to the false emotions generated by flattery, and as a
+mere mortal he finds the Elves' fear amusing.
+~
+~
+elf~
+ABCDGNT 0 EFGHI C
+0 30 15 10d60+426 30d10+100 3d12+0 11
+EFNU 0 B Z
+8 8 1 3000
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#435
+guildmaster illithid bloonit~
+The Illithid Guildmaster~
+Bloonit, the Illithid Guildmaster, welcomes you telepathically.
+~
+Bloonit is a mysterious figure, clad in flowing pruple robes that disguise
+his hideous tentacled maw, glistening purple skin and bulbous yellow
+eyes. Bloonit is nevertheless an excellent teacher, and manages to restrain
+his natural urges to devour your brain most of the time...
+~
+~
+human~
+ABCDEGT 0 EFGHI C
+0 29 29 16d56+405 29d10+100 2d12+0 3
+EFNU 0 0 0
+8 8 0 29
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#436
+guildmaster avian aelian~
+The Avian Guildmaster~
+Aelian, the Avian Guildmaster, stares grimly at you.
+~
+This imposing birdman can help you train in the skills natural to his race,
+if you have the ability. He is revered by the Elven scouts as a scout without
+parallel, and a creature of excellent vision and speed.
+~
+~
+human~
+ABCDGTY T EFGHI C
+0 31 14 10d64+448 31d10+100 3d12+0 11
+EFNU 0 0 0
+8 8 1 3100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#437
+servant elf elven~
+A surly Elven Servant~
+A surly Elven Servant glumly completes his tasks.
+~
+"It's ALWAYS me, isn't it? Just 'c os MY Daddy isn't some bigshot noble and
+just 'cos MY Daddy didn't fight in the stoopid Goblin Wars, I gotta clean up
+other people's crap an' cook their meals an' carry their stuff an'...well
+I think it sucks!"
+~
+~
+elf~
+AHT 0 I 0
+0 10 5 2d33+96 10d10+100 1d6+0 3
+EFNU 0 B Z
+8 8 1 1000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#438
+servant elf elven~
+A surly Elven Servant~
+A surly Elven Servant glumly completes her tasks.
+~
+"It's ALWAYS me, isn't it? Just 'c os MY Daddy isn't some bigshot noble and
+just 'cos MY Daddy didn't fight in the stoopid Goblin Wars, I gotta clean up
+other people's crap an' cook their meals an' carry their stuff an'...well
+I think it sucks!"
+~
+~
+human~
+AHT 0 I 0
+0 10 5 2d33+96 10d10+100 1d6+0 7
+EFNU 0 0 0
+8 8 2 1000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#439
+owner t'kana shopkeeper pet~
+T'Kana, the Pet Shop Owner~
+T'Kana welcomes you with great hospitality to his humble store.
+~
+T'Kana came to Malathar with a wide variety of strange and mysterious pets
+from the south many years ago, and his pets proved so pupular he decided to
+stay and set up shop.
+~
+~
+elf~
+ABCDGT 0 EFGHI C
+1000 100 0 10d675+2970 100d10+100 7d34+0 7
+EFNU 0 B Z
+8 8 1 10000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#440
+allertathala guard captian elf~
+Captain Allertathala~
+Captain Allertathala cordially welcomes you to his office.
+~
+The Captain is a middle-aged Elf whose hardened, muscular form speaks of
+many battles, and Elves were not immune to scarring you'd wager he would
+have accumulated more than his share. He is polite but cautious, and during
+his conversation with you he is constantly on guard. He loves his City and 
+Duke, and would sooner die than have anything happen to either of them.
+~
+~
+elf~
+ABDGT 0 EFI C
+1000 52 52 10d182+988 52d10+100 4d19+0 3
+EFNU 0 B Z
+8 8 1 5200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#441
+rabbit~
+A Rabbit~
+A cute little Rabbit hops along here.
+~
+AWWWWW! Look at da purty wabbit! Wonder what it'd look like on the end of
+my Xcalibur and then in my belly?
+Thats what you're thinking isn't it? Why dontcha find out? Yeah, abuse and
+victimise the poor rabbit.
+But be careful! Malatharan Rabbits are BAD.
+~
+~
+rabbit~
+ACDHT 0 FI C
+400 11 5 3d27+107 11d10+100 1d6+0 7
+EFHNR 0 0 0
+8 8 0 1100
+AGV ACDEFHJKRa 2 unknown
+#442
+deer~
+A noble-looking deer~
+A noble-looking deer stares proudly at you.
+~
+WOW! That sucker must be at LEAST a ten-pointer! Wouldn't THAT look great
+over the fireplace?
+But I advise caution- all the wildlife in this area have been granted special
+powers to help enable their survival...
+~
+~
+satyr~
+ACDHT 0 FIJ C
+500 13 6 3d38+131 13d10+100 1d7+0 3
+EFNU 0 BL Z
+8 8 1 0
+AHMV ABCDEFGHIJKRSTWa 2 unknown
+#443
+squirrel~
+A Squirrel~
+A ferocious-looking Squirrel is sizing you up!
+~
+Malatharan Squirrels are a by-product of an experiment by the ArchMage Tuo
+gone horribly wrong and as such they are generally avoided by sane folk.
+~
+~
+rabbit~
+ACDT T FI C
+0 14 3 4d33+145 14d10+100 1d7+0 7
+EFHNU 0 0 0
+8 8 0 0
+AGHMV ABCDEFHJKRa 2 unknown
+#444
+stablemaster master elf~
+The Stablemaster~
+The Stablemaster eyes you cautiously.
+~
+'Ere! Keep yer ruddy 'ands orf m' Pegasii, ya dirty sod!
+The Stablemaster has a terrible temper and it wouldnt do to anger him...
+~
+~
+elf~
+ABDGT 0 FI C
+1000 50 45 10d168+930 50d10+100 4d18+0 11
+EFNU 0 B Z
+8 8 1 5000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#445
+stablehand hand elf~
+A surly stablehand~
+A surly stablehand glares sullenly at you.
+~
+These half-elven orphans are used by the City for menial tasks such as 
+cleaning out the stables, scrubbing the public toilets and such. They are
+thus not the best company, due to both their manner and their godawful
+smell.
+~
+~
+elf~
+ACHT 0 I 0
+0 16 8 5d34+175 16d10+100 2d8+0 7
+EFNU 0 B Z
+8 8 1 1600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#446
+golem~
+A Huge Golem~
+A Huge Stone Golem blocks your progress.
+~
+This massive magical construct was fashioned by the Archmage Tuo and is an
+excellent guard, seeing as it never grows weary, bored or greedy, and never
+succumbs to bribery or coercion of any form.
+~
+~
+human~
+ABGT 0 EFGH AC
+0 50 50 10d168+930 50d10+100 4d18+0 3
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#447
+librarian elf elven~
+An Elven Librarian~
+An Elven Librarian rushes madly past you, scattering books everywhere.
+~
+These frantic, overworked librarians are constantly fighting to keep up
+with the demanding process of reshelving and cataloguing the millions of
+books stored here.
+~
+~
+elf~
+AHT 0 I C
+1000 31 15 10d64+448 31d10+100 3d12+0 7
+EFNU 0 B Z
+8 8 1 3100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#448
+librarian elf elven~
+An Elven Librarian~
+An Elven Librarian rushes madly past you, scattering books everywhere.
+~
+These frantic, overworked librarians are constantly fighting to keep up
+with the demanding process of reshelving and cataloguing the millions of
+books stored here.
+~
+~
+elf~
+AHT 0 I C
+1000 29 14 10d56+405 29d10+100 2d12+0 7
+EFNU 0 B Z
+8 8 2 2900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#449
+griffon~
+An Angry Griffon~
+A Griffon guard watches you warily
+~
+RRRRRROOOOOOOOAAAARRRRRR!
+~
+~
+gargoyle~
+ABGT T EFH A
+-400 30 15 10d60+426 30d10+100 3d12+0 23
+EFNU 0 N Y
+8 8 1 3000
+AHMV ABCDEFGHIJKPRSTa 2 unknown
+#450
+ocelot~
+An Ocelot~
+An Ocelot bears it claws and snarls ferociously!
+~
+Ocelots are kinda like very big domestic cats, save that they could
+probably tear your throat out.
+~
+~
+cat~
+AIT 0 J 0
+0 5 5 1d16+42 5d10+100 1d4+0 7
+EFHNU 0 0 0
+8 8 1 0
+AGHMV ABCDEFHJKQRSTUVa 2 unknown
+#451
+alsatian dog~
+An Alsatian~
+A savage Alsatian bears its teeth and growls menacingly.
+~
+Pliny wrote that if animals could talk, then they would tell us of the wonders
+of the world. But if this dog could talk, all it would probably say would be
+"Bugger Off!"
+~
+~
+dog~
+AIT 0 0 0
+0 8 8 3d21+73 8d10+100 1d5+0 7
+EFHNU 0 0 0
+8 8 1 0
+AGHMV ABCDEFHJKRUVa 2 unknown
+#452
+sloth~
+A Three-toed Sloth~
+A Three-toed Sloth hangs here.
+~
+The Sloth may look harmless enough, but get it mad and it'll kill you!.
+~
+~
+pig~
+AIT 0 0 0
+0 11 11 3d27+107 11d10+100 1d6+0 3
+EFNU 0 0 0
+8 8 1 0
+AGHMV ABCDEFHJKRa 2 unknown
+#453
+kangaroo~
+A Kangaroo~
+A friendly Kangaroo hops playfully towards you.
+~
+Playful. Yeah. Right. When this big red gets near you he'll put a hurting
+on you like you wouldn't believe.
+~
+~
+pig~
+AIT 0 0 0
+0 15 15 6d37+162 15d10+100 2d7+0 11
+EFIMNU 0 0 0
+8 8 1 0
+AGHMV ABCDEFHJKRa 2 unknown
+#454
+rhino rhinocerous~
+A Rhinocerous~
+A Rhinocerous rumbles along here.
+~
+This baby'll spear you like a shish kebab.
+~
+~
+pig~
+AIT 0 0 0
+0 17 17 5d39+187 17d10+100 2d8+0 11
+EFNU 0 0 0
+8 8 1 0
+AGHMV ABCDEFHJKRa 2 unknown
+#455
+gorilla~
+A Huge Gorilla~
+A Huge Gorilla beats its chest and growls menacingly.
+~
+This feller will tear your arms off for a banana.
+~
+~
+pig~
+AIT 0 0 0
+0 20 20 7d38+238 20d10+100 2d9+0 7
+EFNU 0 0 0
+8 8 1 0
+AGHMV ABCDEFHJKRa 2 unknown
+#456
+pegasus~
+A Pegasus~
+A well-trained Pegasus waits obediently here.
+~
+This beast is army-surplus. Having exceeded her flying hours, she is now
+sub-standard and is being flogged off to the public at rock-bottom prices.
+believe me, don't even THINK about trying to buy a new one...
+~
+~
+centaur~
+AIT T 0 C
+1000 30 30 10d60+426 30d10+100 3d12+0 11
+EFHNU 0 E P
+8 8 2 0
+AHMV ABCDEFGHIJKPRSTZa 2 unknown
+#457
+young elf receptionist~
+A young elven receptionist~
+A young elven receptionist waits on you patiently.
+~
+She is by far one of the prettiest elves in Malathar, barely 50 years
+old.  She offers her assistance to you in any way (almost) that you need it.
+~
+(no notes)~
+elf~
+ABDEK 0 0 0
+0 50 50 16d168+930 50d10+100 4d18+0 11
+0 AB B Z
+8 8 0 1000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GREET 400 100~
+#0
+
+
+

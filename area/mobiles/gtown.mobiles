@@ -1,0 +1,547 @@
+#8100
+spectre~
+a spectre~
+A Spectre screams at you and attacks!
+~
+The spirit of some former minion of this place, this foul Undead creature
+will do its best you meet the same fate as all previous intruders in this
+fell domain- DEATH.
+~
+~
+generic~
+AFGT T FH C
+-1000 79 79 16d421+1975 79d10+100 6d27+0 11
+EFGNU BLPQR 0 HN
+8 8 3 1580
+DHILM ABCDEFGHIJK 2 unknown
+#8101
+wraith~
+a wraith~
+A Wraith strides  silently toward you, death in its glowing red eyes.
+~
+The spirit of some former minion of this place, this foul Undead creature
+will do its best you meet the same fate as all previous intruders in this
+fell domain- DEATH.
+~
+~
+generic~
+AFGT T FHI C
+-1000 77 77 16d400+1890 77d10+100 6d27+0 7
+EFGNU BLPQR 0 HN
+8 8 0 1540
+DHILM ABCDEFGHIJK 2 unknown
+#8102
+wight~
+a wight~
+A ghastly wight, still clad in the armor it wore in life, strikes at you.
+~
+The spirit of some former minion of this place, this foul Undead creature
+will do its best you meet the same fate as all previous intruders in this
+fell domain- DEATH.
+~
+~
+generic~
+AFGT 0 FHI C
+-1000 75 75 16d379+1812 75d10+100 6d26+0 3
+EFGNU BLPQR 0 HN
+8 8 0 1500
+DHILM ABCDEFGHIJK 2 unknown
+#8103
+ghost~
+a ghost~
+The ghost of some long-dead adventurer howls maniacally at you.
+~
+The spirit of some former minion of this place, this foul Undead creature
+will do its best you meet the same fate as all previous intruders in this
+fell domain- DEATH.
+~
+~
+generic~
+AFGT TU FH C
+-1000 77 77 16d400+1890 77d10+100 6d27+0 11
+EFGNU BLPQR 0 HN
+8 8 0 1540
+DHILM ABCDEFGHIJK 2 unknown
+#8104
+vampire~
+a vampire~
+An evil vampire rises from the sarcophagus, bares its fangs and attacks!
+~
+The Evil Baron and his two brothers were vampires imprisoned here by Xanan
+centuries ago, who had not the power to slay them utterly, and now thanks
+to your disturbance they have risen again!
+~
+~
+undead~
+ABFGMOT 0 FHI AC
+-1000 84 84 16d476+2195 84d10+100 6d29+0 11
+EFGNU BLPQR 0 HN
+8 8 0 1680
+DHIM ABCDEFGHIJKRSTa 2 unknown
+#8105
+lich~
+a lich~
+An insane Lich cackles hideously and unleashes a volley of spells.
+~
+This powerful Undead is actually Xantharus' former master, whom he betrayed
+and slew. But he underestimated his master's power, and now he as returned
+as a Lich, seeking revenge!
+~
+~
+undead~
+ABFGMOT T FH C
+-1000 89 89 16d534+2429 89d10+100 6d31+0 3
+EFGNU BLPQR 0 HN
+8 8 0 1780
+DHIM ABCDEFGHIJKRSTa 2 unknown
+#8106
+demon~
+a lesser demon~
+A Lesser Demon slobbers, drools and cackles insanely!
+~
+This grotesque is a minion of the lower planes drawn here by the intense
+concentration of negative material energy.
+~
+~
+demon~
+AFGHT 0 FHI C
+-1000 83 83 16d465+2147 83d10+100 6d29+0 3
+BEFMNR Q B Na
+8 8 0 1660
+BHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#8107
+spirit revenant~
+a revenant~
+The spirit of a mortal horribly wronged has returned as a Revenant.
+~
+This poor soul was once a powerful, good priest of Soleil who was betrayed
+by agents of the evil Gomez and tortured and slain by them. His spirit has
+returned here, seeking out the long-dead fellows who slew him. He will 
+ignore all else in his quest, but will not hesitate to attack you if you
+interfere.
+~
+~
+generic~
+ADGMT 0 FHI AC
+0 87 87 16d510+2338 87d10+100 6d30+0 7
+EFGNU BLPQR 0 HN
+8 8 0 1740
+DHILM ABCDEFGHIJK 2 unknown
+#8108
+spirit haunt~
+a haunt~
+The spirit of an adventurer slain here long ago is now bound here as a Haunt.
+~
+This spirit was once a powerful warrior who, on a wager, entered Ghost Town.
+He was quickly slain by the inhabitants, but such was his distress at his
+death, his spirit remained behind to haunt the area where he met his end.
+~
+~
+generic~
+ABDGT TU FH C
+0 78 78 16d410+1937 78d10+100 6d27+0 7
+EFGNU BLPQR 0 HN
+8 8 0 1560
+DHILM ABCDEFGHIJK 2 unknown
+#8109
+crypt thing~
+a crypt thing~
+A Crypt Thing cackles evilly and taunts you.
+~
+This fell creature will not attack you, despite its evil- it will merely
+taunt you, though it will not hesitate to defend itself.
+~
+~
+undead~
+ABDGMOT 0 FHI AC
+-1000 84 84 16d476+2195 84d10+100 6d29+0 7
+EFGNU BLPQR 0 HN
+8 8 0 1680
+DHIM ABCDEFGHIJKRSTa 2 unknown
+#8110
+greater demon~
+a greater demon~
+A Greater demon spews forth fire and gas!
+~
+This grotesque is a minion of the lower planes drawn here by the intense
+concentration of negative material energy.
+~
+~
+demon~
+ABFGT T FHI AC
+-1000 87 87 16d510+2338 87d10+100 6d30+0 11
+BEFMNRU Q B Na
+8 8 0 1740
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#8111
+undead dragon~
+an undead dragon~
+An Undead Dragon belches forth poisonous fumes!
+~
+This foul Dracolich is the undead spirit of a dragon that served Xantharus
+so well in life that he animated it to continue serving him after its
+death.
+~
+~
+undead~
+ABFGOT T FHI C
+-1000 91 91 16d558+2528 91d10+100 7d31+0 7
+EFGNR BLPQR 0 HN
+8 8 0 1820
+DI ABCGHIRSTa 2 unknown
+#8112
+undead monster~
+an undead monster~
+An undead monster shambles forth and attacks!
+~
+The spirit of some former minion of this place, this foul Undead creature
+will do its best you meet the same fate as all previous intruders in this
+fell domain- DEATH.
+~
+~
+undead~
+AFGOT 0 FH 0
+-1000 75 75 16d379+1812 75d10+100 6d26+0 11
+EFGNR BLPQR 0 HN
+8 8 0 1500
+DI ABCGHIRSTa 2 unknown
+#8113
+giant rat~
+a giant rat~
+A GIANT Rat savagely charges you!
+~
+When I say GIANT, I am talking ten feet high...
+~
+~
+generic~
+ACFGHT Q FH 0
+-1000 69 69 16d321+1571 69d10+100 5d24+0 3
+EFNR 0 HI JP
+8 8 0 1380
+AGHV ABCDEFGHIJK 2 unknown
+#8114
+giant spider~
+a giant spider~
+A GIANT Spider drops down on you!
+~
+When I say GIANT, I am talking ten feet high...
+~
+~
+generic~
+ACFGHT Q FH 0
+-1000 75 75 16d379+1812 75d10+100 6d26+0 3
+EFNR 0 HI JP
+8 8 0 1500
+AHP ABCDEFGHIJK 2 unknown
+#8115
+lurker above~
+a lurker above~
+A Lurker Above seeks to enfold and suffocate you!
+~
+This foul abberration feeds on any and all that enter its lair- even the
+corporeal undead avoid it...
+~
+~
+generic~
+ABFGHT T I 0
+0 81 81 16d442+2068 81d10+100 6d28+0 7
+EFNU 0 0 0
+8 8 0 1620
+H ABCDEFGHIJK 2 unknown
+#8116
+succubus~
+a succubus~
+A beautiful female smiles charmingly at you, revealing sharp fangs...
+~
+OUCH! Its a Succubus. She will charm you, then waste you. FIGHT!
+~
+~
+demon~
+ABDGT T FHI C
+-1000 81 81 16d442+2068 81d10+100 6d28+0 11
+BEFMNRU Q B Na
+8 8 2 1620
+BHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#8117
+necromancer xantharus~
+Xantharus~
+A timid-looking Necromancer begs to be freed.
+~
+This pathetic wretch is none other than Xantharus, the evil mage that brought
+the Undead to this town, destroying it, before losing control of them. He
+has fled here, in the hopes that they won't find him before he finds a way
+to escape his terrible mistake.
+~
+~
+human~
+ABGHMT K 0 0
+-750 80 80 16d432+2016 80d10+100 6d28+0 11
+EFNU 0 0 0
+8 8 1 1600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#8118
+rotting corpse~
+a rotting corpse~
+A Rotting Corpse staggers clumsily toward you.
+~
+This thing and its fellows are what remains of the citizens of this once-
+fine town, reduced to a horrid state of undeath. Slaying them would be the
+best thing you could do for them...
+~
+~
+undead~
+AFGOT 0 I 0
+0 70 70 16d330+1614 70d10+100 5d25+0 11
+EFGNU BLPQR 0 HN
+8 8 0 1400
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#8119
+master~
+the master~
+The Master surveys his domain and laughs evilly.
+~
+Little is known of this mysterious stranger who came here and took control
+after the weak Xantharus lost control of his creations. He is a powerful,
+diabolically evil mage, and will not hesitate to destroy you.
+~
+~
+human~
+ABDFGHMT 0 EFGH AC
+-1000 90 90 16d546+2478 90d10+100 7d31+0 7
+EFNU 0 0 0
+8 8 1 1800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#8120
+shambling mound~
+a shambling mound~
+A Shambling Mound... well... shambles toward you.
+~
+RUN! A twelve-foot high pile of garbage is attacking you!
+~
+~
+generic~
+AFGT 0 0 A
+0 76 76 16d389+1855 76d10+100 6d26+0 7
+EFNU 0 0 0
+8 8 0 1520
+AH ABCDEFGHIJK 2 unknown
+#8121
+kampflut~
+a kampflut~
+A Kampflut attacks!
+~
+This hideous, animated tree resembles an ancient oak with tentacle-like
+branches and a huge toothed maw. Despite its nasty demeanour, it is not
+evil- it is simply hungry.
+~
+~
+generic~
+AFGT 0 0 A
+0 80 80 16d432+2016 80d10+100 6d28+0 7
+EFNU 0 0 0
+8 8 0 1600
+AEH ABCDEFGHIJK 2 unknown
+#8122
+black pudding~
+a black pudding~
+A Black Pudding slowly rolls toward you.
+~
+This huge black blob will dissolve weapons and armor it gets the chance,
+then it will devour you!
+~
+~
+generic~
+AFGT 0 0 A
+0 83 83 16d465+2147 83d10+100 6d29+0 3
+EFNU 0 0 0
+8 8 0 1660
+HM ABCDEFGHIJK 2 unknown
+#8123
+green slime~
+green slime~
+A patch of Green Slime drips on you, burning your skin!
+~
+Green Slime can dissolve even metal, so imagine what it would do to your
+skin...
+~
+~
+generic~
+ABFGT 0 0 0
+0 69 69 16d321+1571 69d10+100 5d24+0 7
+EFNU 0 0 0
+8 8 0 1380
+HM ABCDEFGHIJK 2 unknown
+#8124
+gray ooze~
+a gray ooze~
+A pile of gray liquid oozes toward you.
+~
+"Oh," I hear you say. "How threatening". Well, just you wait!
+~
+~
+generic~
+AFGT 0 I AC
+-1000 88 88 16d522+2383 88d10+100 6d30+0 3
+EFNU 0 0 0
+8 8 0 1760
+EH ABCDEFGHIJK 2 unknown
+#8125
+animated tree~
+an animated tree~
+An Animated Tree bashes you with its branches.
+~
+This tree is bad and evil- it is an anti-treant :)
+~
+~
+generic~
+AFGT 0 0 0
+0 74 74 16d369+1771 74d10+100 5d26+0 3
+EFNU 0 0 0
+8 8 0 1480
+EH ABCDEFGHIJK 2 unknown
+#8126
+tree spirit~
+a tree spirit~
+A Tree Spirit offers you shelter in this place of evil.
+~
+This spirit is the only good creature in this place. She can guard you
+while you rest, and perhaps heal your wounds if you pay her enough...
+~
+~
+generic~
+ABDGT B EFHI AC
+400 95 95 16d609+2716 95d10+100 7d32+0 3
+EFNU 0 0 0
+8 8 2 1900
+EH ABCDEFGHIJK 2 unknown
+#8127
+death knight~
+a death knight~
+A Death Knight salutes you then attacks!
+~
+This is the spirit of a Paladin corrupted by the evil of the Master, doomed
+to an eternity as an undead servant. Clad in ornate, ancient armor and 
+wielding a shiny silver sword, he would look as he did in life save for his
+rotting face...
+~
+~
+undead~
+ABDFGOT 0 FHI C
+-1000 90 90 16d546+2478 90d10+100 7d31+0 7
+EFGNU BLPQR 0 HN
+8 8 0 1800
+DHIM ABCDEFGHIJKRSTa 2 unknown
+#8128
+nightmare~
+a nightmare~
+A Nightmare, loyal steed of the denizens of the Lower Planes, rests here.
+~
+This black, winged equine hell-steed waits patiently for its master to finish 
+its business here before bearing it to its next destination.
+~
+~
+generic~
+ABGT T HI 0
+-1000 76 76 16d389+1855 76d10+100 6d26+0 11
+EFNU 0 0 0
+8 8 0 1520
+HLM ABCDEFGHIJK 2 unknown
+#8129
+retriever~
+a retriever~
+A retriever rears on four of its legs and strikes.
+~
+This demonic steed resembles a huge spider with razor sharp blades for legs
+and glowing gems for eyes.
+~
+~
+demon~
+ABFGT 0 FHI C
+-1000 88 88 16d522+2383 88d10+100 6d30+0 3
+BEFMNRU Q B Na
+8 8 0 1760
+BHMP ABCDEFGHIJKLQRSTUVWa 2 unknown
+#8130
+cambion scout~
+a cambion scout~
+A Cambion Scout eyes you cautiously.
+~
+This half-man, half-demon creature is a scout for Orcus, Prince of the 
+Undead. He is here on a covert mission, and thus will avoid trouble if at
+all possible. He is attempting to ascertain the degree of power of the
+master, and inform his master if the strange man poses a significant threat
+to his domination of all things Undead.
+~
+~
+demon~
+ACDGHT Q FGHI C
+-1000 79 79 16d421+1975 79d10+100 6d27+0 7
+BEFMNRU Q B Na
+8 8 1 1580
+BHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#8131
+orcus~
+Orcus~
+Orcus, Prince of the Undead, glowers menacingly at you.
+~
+Whoa. You are standing before Orcus. He resembles a bloated man twenty
+feet tall with a bull's nose and eyes, and goat's horns and hooves. He
+grips a rod with a goat's head in one hoof, and glares suspiciously at you.
+He is not really meant to be here, and thus will avoid attracting attention
+of the powers of the Prime Material Plane by avoiding combat.
+~
+~
+undead~
+ABDGHOT B EFGHI AC
+-1000 95 95 16d609+2716 95d10+100 7d32+0 3
+BEFGMNRU BLPQR B HNa
+8 8 1 1900
+ABDHIMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#8132
+water weird~
+a water weird~
+A Water Weird lunges at you!
+~
+This watery snake resides in the well, which it will fight to defend.
+~
+~
+snake~
+ABFGT 0 0 AC
+0 80 80 16d432+2016 80d10+100 6d28+0 3
+EFNR 0 LR I
+8 8 0 1600
+AGRWXYc ACDEFHKLPQVX 2 unknown
+#8133
+giant spider~
+a giant spider~
+A GIANT Spider drops down on you!
+~
+When I say GIANT, I am talking ten feet high...
+~
+~
+generic~
+ABCFGHT Q FH 0
+-1000 79 79 16d421+1975 79d10+100 6d27+0 3
+EFNR 0 HI JP
+8 8 0 1580
+BHP ABCDEFGHIJK 2 unknown
+#8134
+baron vampire~
+a baron vampire~
+The Baron vampire rises from the sarcophagus, bares its fangs and attacks!
+~
+The Evil Baron and his two brothers were vampires imprisoned here by Xanan
+centuries ago, who had not the power to slay them utterly, and now thanks
+to your disturbance they have risen again!
+~
+~
+undead~
+ABFGMOT 0 FHI AC
+-1000 89 89 16d534+2429 89d10+100 6d31+0 7
+EFGNU BLPQR 0 HN
+8 8 0 1780
+DHIM ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

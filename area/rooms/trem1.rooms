@@ -1,0 +1,875 @@
+#1900
+Entrance to the fair~
+A medieval fair has come to town and set up residence here!  A large
+stone arch to the east allows entrance to the fairground and through it you
+can see many stalls, competitions and exhibits, as well as lots of people
+enjoying themselves.  Back to the east, through the University Park, one can
+return to the city of Lukhan.  
+~
+~
+4 2
+E
+arch~
+The arch has been built over the entrance to the fair, and has "Welcome
+to the Fair" inscribed on it.  
+~
+E
+stalls~
+The stalls are selling an array of fairground things, you could probably
+find out more by going in and asking.  
+~
+E
+competitions~
+You can see two distinctive viewing stands, probably for people to watch
+tournaments.  There's also a strange wooden building just inside the arch to
+the north.  
+~
+E
+exhibits~
+From here you can make out a cluster of people at the north end of the
+fair, and a few people seem to be running away from something to the south. 
+~
+D1
+~
+~
+0 0 1901
+D3
+~
+~
+0 0 2120
+S
+#1901
+Inside the fairground~
+You're just inside the fairground.  To the north is a small wooden
+building with a sign on it proclaiming it to be the Hall of Mirrors.  South
+is a quiet and rather muddy path which smells terrible.  To the east are the
+first of the fair stalls.  West is the arch leading out of the fairground.  
+~
+~
+0 2
+E
+building~
+For some reason this building looks... menacing.
+~
+E
+path~
+This path is unusually wet and muddy, despite the weather...  Maybe
+there's a spring or other water source down there.  
+~
+E
+arch~
+From this side the arch's inscription reads "Come back soon!"  .  
+~
+D0
+~
+~
+0 0 1902
+D1
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1908
+D3
+~
+~
+0 0 1900
+S
+#1902
+Entrance to the Hall of Mirrors~
+This rickety wooden building is the Hall of Mirrors.  Strangely there
+seems to be very few people around.  A door into the hall is to the west,
+while another door is set into the north wall - however there seems to be no
+way of opening this door from this side.  South leads back into the
+fairground.  
+~
+~
+0 0
+D2
+~
+~
+0 0 1901
+D3
+~
+~
+1 -1 1903
+S
+#1903
+In the Hall of Mirrors~
+You find yourself standing in a dark corridor.  Bloodstains cover the
+floor, some of them fresh, and the stench of death and decay is almost
+stifling.  A strange mirror stands here, making you look funny.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1904
+S
+#1904
+In the Hall of Mirrors~
+The hall of mirrors continues north and south.  The walls here are
+splattered with gore and you can make out deep claw marks in the wood,
+Another strange mirror stands here, distorting your reflection.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1905
+D2
+~
+~
+0 0 1903
+S
+#1905
+In the Hall of Mirrors~
+You've reached a turn in the hall - maybe you're close to getting out of
+this nightmare.  Thankfully the mirror here has been broken into a thousand
+pieces.  
+~
+~
+0 0
+D1
+~
+~
+0 0 1906
+D2
+~
+~
+0 0 1904
+S
+#1906
+In the Hall of Mirrors~
+Another turn in the hall, and you catch sight of a glimmer of light to
+the south.  Perhaps this is nearly the end of the hall.  A very strange
+mirror stands here, and before it is a pile of bloody flesh and bone that
+might once have been a person.  
+~
+~
+0 0
+D2
+~
+~
+0 0 1907
+D3
+~
+~
+0 0 1905
+S
+#1907
+In the Hall of Mirrors~
+Finally, the last room in the hall.  The way out is through a door to the
+south, but here is yet another strange mirror!  
+~
+~
+0 0
+D0
+~
+~
+0 0 1906
+D2
+~
+~
+1 -1 1902
+S
+#1908
+Heading for the jakes~
+The smell gets a lot worse as you southward, and you realise that you're
+heading toward the public toilet trench!  
+~
+~
+0 2
+D0
+~
+~
+0 0 1901
+D2
+~
+~
+0 0 1909
+S
+#1909
+The jakes~
+You're standing ankle-deep in mud, and to the east is the trench itself. 
+The smell here is indescribably foul, and flies fill the air in a black
+cloud.  
+~
+~
+0 2
+D0
+~
+~
+0 0 1908
+D1
+~
+~
+0 0 1910
+S
+#1910
+Knee-deep in excrement~
+Ugh!  You're actually standing in the latrine trench.  Anything you've
+eaten recently quickly joins the noisome mess, and you can't think of
+anything but getting out of here as fast as possible!  
+~
+~
+4 2
+D3
+~
+~
+0 0 1909
+S
+#1911
+The fairground stalls~
+The west side of the fair seems to be mostly stalls selling food and
+drink.  The stall that stands here is selling hot roasted chestnuts cooked
+in an iron brazier.  To the east you can hear bright cheerful music playing.
+~
+~
+0 2
+D0
+~
+~
+0 0 1912
+D1
+~
+~
+0 0 1919
+D2
+~
+~
+0 0 1918
+D3
+~
+~
+0 0 1901
+S
+#1912
+The fairground stalls~
+The north-western corner of the fair is quite busy, with a lot of people
+gathering around the exhibition to the north.  A stall here is doing a brisk
+trade in a range of ales.  
+~
+~
+0 2
+D0
+~
+~
+0 0 1920
+D1
+~
+~
+0 0 1913
+D2
+~
+~
+0 0 1911
+S
+#1913
+The fairground stalls~
+A large stall has been set up here selling sweetmeats and cakes.  Lively
+music comes from the south, while to the north you can see and hear a large
+cheering crowd.  
+~
+~
+0 2
+D0
+~
+~
+0 0 1926
+D1
+~
+~
+0 0 1914
+D2
+~
+~
+0 0 1919
+D3
+~
+~
+0 0 1912
+S
+#1914
+The fairground stalls~
+The northeast corner of the fair is littered with the remains of food
+thrown out for the dogs.  A stall here sells mystical charms made from a
+variety of unwholesome items.  To the north you can hear the clatter and din
+of a dining tent, while to the east is the archery range.
+~
+~
+0 2
+D0
+~
+~
+0 0 1921
+D1
+~
+~
+0 0 1923
+D2
+~
+~
+0 0 1915
+D3
+~
+~
+0 0 1913
+S
+#1915
+The fairground stalls~
+Another stall stands here, apparantly selling potions, but it seems
+whoever was watching the stall has disappeared.  Maybe he drank some of his
+own goods, or maybe there's a more sinister reason...  
+~
+~
+0 2
+D0
+~
+~
+0 0 1914
+D2
+~
+~
+0 0 1916
+D3
+~
+~
+0 0 1919
+S
+#1916
+The fairground stalls~
+It's very quiet in the south-east corner of the fair.  There's no stall
+here, just a patch of open ground.  You can see the bandstand to the
+north-east, and can hear music being played with great gusto.  
+~
+~
+4 2
+E
+board~
+The board is loose and would be fairly easy to open, making a big enough
+hole for a person to fit through.  
+~
+E
+bandstand~
+Looking closely at the bandstand you realise there's a loose board near
+the bottom.  
+~
+D0
+~
+~
+0 0 1915
+D3
+~
+~
+0 0 1917
+D5
+~
+board~
+65 -1 1934
+S
+#1917
+The fairground stalls~
+The ground here is littered with sawdust which appears to have come from
+a large barrel on a stage.  A sign on the barrel reads 'Lucky Dip'.  From
+the south comes a loud braying noise which almost totally drowns out the
+music from the north.  
+~
+~
+0 2
+D0
+~
+~
+0 0 1919
+D1
+~
+~
+0 0 1916
+D2
+~
+~
+0 0 1944
+D3
+~
+~
+0 0 1918
+S
+#1918
+The fairground stalls near the jakes~
+This corner of the fair isn't very popular, probably due to the smell
+coming from the south.  A stall has been set up here selling a variety of
+dubious remedies for various illnesses.  
+~
+~
+0 2
+D0
+~
+~
+0 0 1911
+D1
+~
+~
+0 0 1917
+D2
+~
+~
+0 0 1910
+S
+#1919
+The bandstand~
+No stalls here in the centre of the fair - instead a round stage has been
+constructed and on it is a folk band belting out the latest popular music
+and old favorites on a variety of instruments.  Several people are sitting
+around on the grass listening.  
+~
+~
+0 2
+D0
+~
+~
+0 0 1913
+D1
+~
+~
+0 0 1915
+D2
+~
+~
+0 0 1917
+D3
+~
+~
+0 0 1911
+S
+#1920
+The Strongman's Stall~
+A variety of weights, pulls, and heavy objects have been gathered here. 
+A large brightly-painted sign proclaims this to be the place to see the
+World's Strongest Man, and quite a crowd has gathered.  
+~
+~
+0 0
+D2
+~
+~
+0 0 1912
+S
+#1921
+A dining tent~
+A series of planks have been laid over trestles and posts to form long
+tables and benches.  Dozens of people are here eating and drinking.  Wenches
+carry huge platters to and from the kitchen tent to the east.  
+~
+~
+0 0
+D1
+~
+flap~
+1 -1 1922
+D2
+~
+~
+0 0 1914
+S
+#1922
+A kitchen~
+This tent is fantastically steamy and smokey, and in the choking smog you
+can just about make out dozens of kitchen staff running around preparing
+food.  
+~
+~
+0 0
+D3
+~
+~
+1 -1 1921
+S
+#1923
+The archery range~
+A long stretch of field has been left open here for the archery
+tournament.  At this end of the marked-out area are the lines where the
+archers will stand, while to the west are the targets.  South from here a
+viewing stand has been erected.  
+~
+~
+0 2
+D1
+~
+~
+0 0 1924
+D2
+~
+~
+0 0 1925
+D3
+~
+~
+0 0 1914
+S
+#1924
+The archery range~
+A series of targets have been placed here for the archery tournament. 
+It's probably dangerous to be here actually, they look like they might
+mistake you for a target!  
+~
+~
+0 2
+D3
+~
+~
+0 0 1923
+S
+#1925
+A viewing stand overlooking the archery range~
+This rickety viewing stand allows spectators to watch the archery contest
+in relative safety.  A special seat has been placed here in case any VIPs
+come to watch.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1923
+S
+#1926
+Watching the joust tourney~
+A long rail with a gate in it is here stopping people walking onto the
+jousting track to the north.  There's a lot of people here waiting to see
+the next match, and on the other side of the course you can see the VIP
+stands, where it's rumoured a foreign dignatory has come to watch.  
+~
+~
+0 2
+D0
+~
+gate~
+1 -1 1927
+D2
+~
+~
+0 0 1913
+S
+#1927
+In the centre of the jousting track~
+You're standing in the centre of a jousting track.  Down the middle runs
+a sturdy wooden rail to keep the horses from colliding.  You can see three
+tents, one to the west and two to the east, and to the north is the VIP
+stands.  South is a gate leading back to safety.  
+~
+~
+4 2
+D1
+~
+~
+0 0 1930
+D2
+~
+~
+1 -1 1926
+D3
+~
+~
+0 0 1928
+S
+#1928
+The west end of the jousting track~
+This end of the jousting track is where Sir Michael the Bold has his
+tent.  He is really looking forward to getting to grips with his arch-rivel
+Sir Stephen the Bolder.  
+~
+~
+0 2
+D0
+~
+tent~
+1 -1 1929
+D1
+~
+~
+0 0 1927
+S
+#1929
+Sir Michael's Tent~
+This is the tent of Sir Michael the Bold.  It is richly appointed in the
+finest silks and furs, and has all the trappings a Knight might need,
+including a rack full of lances, a dummy to hold his armour, and a chest
+containing his valuables.  
+~
+~
+0 0
+D2
+~
+flap~
+1 -1 1928
+S
+#1930
+The east end of the jousting track~
+This end of the jousting track is where Sir Stephen the Bolder has his
+tent.  There's also a hospital tent to the east, for when things get messy
+between him and Sir Michael.  
+~
+~
+0 2
+D0
+~
+tent~
+1 -1 1931
+D1
+~
+tent~
+1 -1 1932
+D3
+~
+~
+0 0 1927
+S
+#1931
+Sir Stephen's Tent~
+This is the tent of Sir Stephan the Bolder.  It is lavishly furnished
+with tapestries and thick rugs.  A gold-plated rack holds his lances while
+an ornate stand shows where he hangs his armour between battles.  What you
+first took to be a bed turns out to be a huge chest with a fur thrown over
+it.  
+~
+~
+0 0
+D2
+~
+tent~
+1 -1 1930
+S
+#1932
+The hospital tent~
+This is the hospital tent, where surgeons and nurses await to treat the
+inevitable injuries sustained on the jousting track.  A wooden tray holds
+all manner of gruesome instruments for cutting off limbs and draining fluid
+from cracked skulls.  
+~
+~
+0 0
+D3
+~
+flap~
+1 -1 1930
+S
+#1933
+Behind the jousting stands~
+You find yourself standing behind the VIP stand that overlooks the
+jousting tournament.  The bodies of several guards are here, and it is clear
+there is something sinister going on.  
+~
+~
+0 2
+D2
+~
+~
+1 -1 1943
+D5
+~
+~
+1 -1 1940
+S
+#1934
+A secret tunnel~
+Now this is odd...  This cramped tunnel shouldn't by rights be here.  I
+wonder where it goes?  
+~
+~
+0 11
+D3
+~
+~
+0 0 1935
+D4
+~
+~
+65 -1 1916
+S
+#1935
+A secret tunnel~
+The tunnel turns north here and continues into the gloom.  Far to the
+north you think you can see light.  
+~
+~
+0 11
+D0
+~
+~
+0 0 1936
+D1
+~
+~
+0 0 1934
+S
+#1936
+A secret tunnel~
+The tunnel must be directly underneath the bandstand now, because you can
+hear the music overhead and dirt showers you with every bang of the drum.  
+~
+~
+0 11
+D0
+~
+~
+0 0 1937
+D2
+~
+~
+0 0 1935
+S
+#1937
+A secret tunnel~
+Still the tunnel continues.  The light to the north is getting much
+brighter, and you think you can hear someone or something moving around down
+here with you.  
+~
+~
+0 11
+D0
+~
+~
+0 0 1938
+D2
+~
+~
+0 0 1936
+S
+#1938
+A secret tunnel~
+The tunnel splits here, someone has dug a tunnel off to the west which
+seems to go into a chamber of some sort.  You can still see light to the
+north.  
+~
+~
+0 11
+D0
+~
+~
+0 0 1939
+D2
+~
+~
+0 0 1937
+D3
+~
+~
+0 0 1941
+S
+#1939
+A secret tunnel~
+The light to the north is much brighter now, and you can make out the end
+of the tunnel to the north.  
+~
+~
+0 11
+D0
+~
+~
+0 0 1940
+D2
+~
+~
+0 0 1938
+S
+#1940
+A secret tunnel~
+You have reached the end of the tunnel.  A badly-fitting trap door has
+been installed above your head, and it seems to lead outside, since you can
+see daylight through the gaps.  
+~
+~
+0 11
+D2
+~
+~
+0 0 1939
+D4
+~
+~
+1 -1 1933
+S
+#1941
+An underground chamber~
+Someone has hollowed out the tunnel here to make a passable chamber. 
+There are digging tools lying about and a dirt-encrusted bedroll.  Whoever
+has been making this tunnel must've been doing it for some time.  
+~
+~
+0 11
+D1
+~
+~
+0 0 1938
+S
+#1942
+Mobchute~
+If you're here, and not an Imm, report this now.
+~
+~
+34049 0
+D0
+~
+~
+0 0 1900
+D1
+~
+~
+0 0 1912
+D2
+~
+~
+0 0 1921
+D3
+~
+~
+0 0 1916
+D5
+~
+~
+0 0 1919
+S
+#1943
+The jousting stands~
+You are standing on the jousting stands that overlook the track itself. 
+From here you can clearly make out Sir Michael and Sir Stephen lining up for
+another charge at each other.  A door at the bottom of the stands leads out
+onto the track so a visiting VIP can go out and present the victor with his
+prize.  
+~
+~
+0 0
+D0
+~
+~
+1 -1 1933
+D2
+~
+~
+65 -1 1927
+S
+#1944
+The donkey ride~
+This is supposed to be the donkey ride stall but there's not much left of
+it.  You can see the owner cowering behind a pile of smashed wood that might
+have been a booth.  
+~
+~
+0 2
+E
+owner~
+There's no way he's coming out from behind there.
+~
+D0
+~
+~
+0 0 1917
+S
+#0
+
+
+

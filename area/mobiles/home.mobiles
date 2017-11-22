@@ -1,0 +1,486 @@
+#2000
+tourist lost~
+a lost tourist~
+A tourist is wandering around here, lost.
+~
+He appears quite lost.
+~
+~
+human~
+AGb 0 0 0
+50 5 0 1d16+42 5d10+100 1d4+0 17
+0 0 0 0
+8 8 1 2
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2001
+commoner sleep~
+a sleepy commoner~
+A sleepy commoner is here.
+~
+~
+~
+human~
+ABF 0 0 0
+-350 2 0 1d2+16 2d10+100 1d3+0 17
+0 A 0 0
+8 8 1 1
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2002
+spider~
+a spider~
+A spider crawls along the ground here.
+~
+~
+~
+school monster~
+AGHUb 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 10
+0 AB 0 C
+8 8 2 0
+AMV ABCDEFHJKQRUa 2 unknown
+#2003
+grandmaster master~
+the GrandMaster~
+The GrandMaster is here, ready to assist anyone.
+~
+~
+~
+human~
+ABKVd 0 FHJ C
+0 52 0 16d182+988 52d10+100 4d19+0 11
+0 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+Z 0
+#2004
+healer~
+a healer~
+A healer is here helping those in need. 
+~
+Be sure to show your insurance card! Only those below
+level 10 get free assistance. All others must pay.
+~
+~
+human~
+ABa 0 0 0
+0 35 0 16d82+534 35d10+100 3d14+0 11
+0 AB 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2005
+guard cityguard~
+a cityguard~
+A cityguard is here, protecting the citizens.
+~
+~
+~
+human~
+AGT 0 0 0
+0 15 0 6d37+162 15d10+100 2d7+0 0
+KNRT 0 0 0
+8 8 1 25
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2006
+rudo axe maker~
+the axe maker~
+Rudo the Axe Maker is here.
+~
+~
+~
+human~
+AB 0 0 0
+0 52 0 16d182+988 52d10+100 4d19+0 21
+0 AB 0 0
+8 8 1 25000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2007
+Thrulog barkeep orc~
+Thrulog~
+The barkeep, an orc named Thrulog, is here serving drinks.
+~
+This well known personality is the descendent of the founder of this bar
+Uglok Orc.  He smells just as bad too.  
+~
+~
+orc~
+AB 0 I 0
+-250 52 0 16d182+988 52d10+100 4d19+0 3
+FKLO AB Q S
+8 8 1 75
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2008
+pilgrim~
+a pilgrim~
+A pilgrim is here, heading to the temple.
+~
+Obviously loyal to his deity, this pilgrim is heading toward his destiny.
+~
+~
+human~
+AH 0 0 0
+1000 10 0 3d33+96 10d10+100 1d6+0 17
+FILU 0 M Q
+8 8 1 3
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2009
+guard temple~
+a temple guard~
+A temple guard stands here, protecting the gates.
+~
+The guard appears to be levitating a few inches off the ground!
+~
+~
+human~
+ABT TV 0 CD
+1000 45 15 16d136+786 45d10+100 4d17+0 17
+EFKLQ 0 BN M
+8 8 1 75312
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2010
+rat~
+a rat~
+A rat is here.
+~
+~
+~
+dog~
+ABF 0 IJ 0
+0 3 0 1d6+23 3d10+100 1d4+0 3
+H 0 Q H
+8 8 2 0
+AGV ACDEFHJKRUVa 1 unknown
+#2011
+marta shopkeeper~
+Marta~
+Marta is here selling various types of clothing.
+~
+~
+~
+human~
+AB 0 0 0
+0 52 0 16d182+988 52d10+100 4d19+0 11
+0 AB 0 0
+8 8 2 7000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2012
+enric shopkeeper~
+Enric~
+Enric, the shopkeeper, is here.
+~
+~
+~
+human~
+AB 0 0 0
+0 52 0 16d182+988 52d10+100 4d19+0 3
+0 AB 0 0
+8 8 1 250
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2013
+thoric armourer armorer shopkeeper~
+Thoric the Armourer~
+Thoric the Armourer is here.
+~
+~
+~
+human~
+AB 0 0 0
+0 52 0 16d182+988 52d10+100 4d19+0 3
+0 AB 0 0
+8 8 1 50000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2014
+Jac weaponsmith~
+Jac~
+Jac, the weaponsmith, is here.
+~
+~
+~
+human~
+AB 0 0 0
+0 52 0 16d182+988 52d10+100 4d19+0 3
+0 AB 0 0
+8 8 1 100000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2015
+Shadara shopkeeper~
+Shadara~
+Shadara is here selling magical components.
+~
+~
+~
+human~
+AB 0 0 0
+0 52 0 16d182+988 52d10+100 4d19+0 7
+0 AB 0 0
+8 8 2 39000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2016
+Ranna cityguard captain~
+Ranna~
+Ranna, the CityGuard Captain, is here.
+~
+~
+~
+human~
+ABFT 0 H A
+-500 48 10 16d155+869 48d10+100 4d18+0 11
+ACDEFHIKN 0 P 0
+6 6 2 71
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2017
+discount shopkeeper lkdsk~
+the discount shopkeeper~
+The Discount Shopkeeper is here, eyeing you warily.
+~
+~
+~
+human~
+AB 0 0 0
+-750 52 0 16d182+988 52d10+100 4d19+0 3
+0 AB 0 0
+8 8 1 15000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2018
+guardian elemental elements red-cloaked magus~
+the guardian of the elements~
+A red-cloaked magus stands here, guarding the door.
+~
+This tall, cloaked being can not be defined distinctly as human.  His
+patched, scarred face is a twisted mask of hideous burns, and his eyes glow
+with the power of the Crimson.  He does not speak, no, he does not even move
+- unless someone approaches the doorway to the elements.  Oddly enough, it
+is rumoured that he will sell you a key if you desire entrance into this
+tower.  Of course, he won't answer if you ask what is actually inside this
+tower.  
+~
+~
+human~
+ABRT GTV FH AB
+0 39 20 16d102+629 39d10+100 3d15+0 11
+FK AE C L
+8 8 1 5000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2019
+beggar~
+a beggar~
+A beggar is shambling along here.
+~
+~
+~
+human~
+ABGHb 0 0 0
+-500 2 0 1d2+16 2d10+100 1d3+0 3
+0 0 0 Q
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2020
+old woman~
+an old woman~
+An old woman is here.
+~
+~
+~
+human~
+AGHb 0 0 0
+250 2 0 1d2+16 2d10+100 1d3+0 13
+F 0 0 0
+8 8 2 3
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2021
+local businessman~
+a local businessman~
+A local businessman is here.
+~
+He appears to be quite busy.
+~
+~
+human~
+AGb 0 0 0
+500 3 0 1d6+23 3d10+100 1d4+0 7
+I 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2022
+warden~
+the warden~
+The warden of the city jail is here, scowling.
+~
+~
+~
+human~
+ABT a H 0
+-500 17 2 8d39+187 17d10+100 2d8+0 17
+T 0 0 P
+8 8 1 5
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2023
+questor~
+the questor~
+The questor is here, handing out quests from the king.
+~
+~
+~
+satyr~
+AGRV TUVb FGH C
+0 100 0 16d675+2970 100d10+100 7d34+0 11
+0 ABP BL Z
+8 8 1 0
+AHMV ABCDEFGHIJKRSTWa 2 unknown
+#2024
+Jebediah rich traveller~
+Jebediah~
+A rich traveller is here.
+~
+Jebediah is his name, and travelling is his game.  He seems to have tons
+of money to blow, and spends his time doing nothing but travelling.  
+~
+~
+human~
+ATb 0 0 0
+0 63 63 16d267+1355 63d10+100 5d22+0 7
+EFHLNQ 0 BN 0
+8 8 1 1260
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2025
+town crier~
+the Town Crier~
+The Town Crier stands here shouting the news to everyone.
+~
+The Town Crier is dressed in fine white linen of the highest quality,
+and holds an orb on which he receives the latest news from the castle.
+It is said that this is the most prestigious position in any land 
+because it promotes the flow of information, and the poor can seek aid
+from the town criers leading them to respect a Crier in any land.
+~
+~
+human~
+ABDEGVa 0 EFGHIJ 0
+0 120 120 16d972+4104 120d10+100 9d40+0 3
+0 ABCDEFGHIJKLMNOPQRS 0 0
+8 8 1 2400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GRALL 2025 100~
+#2026
+mad cultist wild-eyed man~
+a mad cultist~
+A wild-eyed man wearing tattered black robes staggers around.
+~
+Foaming at the mouth, chin unshaven, hair unkempt and eyes rolling, this
+man is clearly one joust short of a tournament.  His clothing consists of
+ragged filthy once-black robes that have gone grey and brown with dust and
+mud.  
+~
+~
+human~
+AEGHQb 0 0 0
+-500 6 3 1d24+51 6d10+100 1d5+0 7
+0 AB M N
+8 8 0 120
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2027
+janitor lukhan city~
+A janitor~
+A janitor for the city of Lukhan is here, cleaning up.
+~
+City tax revenues at work, this janitor is keeping the streets clean. 
+The city has equipped all their janitors with an aura of passing through
+doors, so they may come and go as they please.  Supposedly, they only pick
+up trash...  Who knows what else they pick up!  
+~
+~
+human~
+ACDGHb PU F 0
+-20 9 4 3d27+83 9d10+100 1d6+0 12
+I Q L 0
+8 8 3 75
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2028
+raving fanatic~
+a raving fanatic~
+A fanatic is here, raving about demons in the cemetary.
+~
+~
+~
+human~
+AH 0 0 0
+20 50 50 16d168+930 50d10+100 4d18+0 7
+0 0 0 0
+8 8 3 1000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2029
+dave metamob~
+D MetaMob~
+Dave MetaMob is here, testing MetaMob functionality.
+~
+~
+~
+human~
+ATc 0 0 0
+1000 1 0 1d10+10 1d10+100 1d8+1 3
+0 0 0 0
+8 8 1 20
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2030
+street urchin~
+street urchin~
+A street urchin is here, trying to panhandle.
+~
+He looks pretty poor, too bad there aren't any social programs
+to help poor kids like this.
+~
+~
+human~
+ACGb X 0 0
+-100 6 3 1d24+51 6d10+100 1d5+0 7
+0 0 0 0
+8 8 3 120
+AHMV ABCDEFGHIJKRSTa 1 unknown
+#2031
+nanny ogg~
+Nanny Ogg~
+Nanny Ogg is here, stirring her kettle.
+~
+~
+~
+human~
+ABCD 0 FH 0
+0 110 110 17d816+3522 110d10+100 8d37+0 3
+0 AB 0 0
+8 8 2 2200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2032
+rottweiller dog well trained~
+a well trained rottweiller~
+A very well trained rottweiller is here, baring its teeth.
+~
+This dog is tough and well trained.  A slight odd look in its eye
+suggests that this animal is also magically enhanced beyond the abilities of
+a normal dog.  One had best be careful in its presence.  
+~
+~
+dog~
+ABEF c FH ABCD
+0 90 90 17d546+2478 90d10+100 7d31+0 10
+DH A D 0
+8 8 1 1800
+AGV ACDEFHJKRUVa 2 unknown
+#2033
+guard bank~
+a bank guard~
+A bank guard is here, preventing entry to the vaults.
+~
+This guard looks as MEAN as he is UGLY (which is quite).  His skin seems
+to be the consistency of stone, and his muscles are reflected in the bulk of
+his armor.  There is little chance you will defeat him.  
+~
+~
+giant~
+AEFT Vc FH ABCD
+0 110 110 17d816+3522 110d10+100 8d37+0 3
+CDEFHIJKLNOU A HI JP
+8 8 1 2200
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#0
+
+
+

@@ -1,0 +1,106 @@
+#3600
+henry gardener~
+Henry the Gardener~
+Henry the Gardener is sitting here, looking drunk.
+~
+He is a tall but bulky man in his late fifties.  His features are worn with
+decades of hard work and his somewhat crouched expression is one of deep
+sorrow and depression.  He is haunted by a memory of a lost paradise.
+~
+~
+human~
+AGT 0 0 0
+350 64 64 16d276+1387 64d10+100 5d23+0 7
+EFNU 0 0 0
+6 6 1 1280
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#3601
+zombie~
+the rotting zombie~
+A rotting zombie is staggering towards you with outstretched hands.
+~
+Maggots crawl all over its decaying body.
+~
+~
+undead~
+ABFGO 0 I 0
+-750 65 65 16d285+1420 65d10+100 5d23+0 3
+EFGNU BLPQR 0 HN
+8 8 1 1300
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#3602
+ghoul~
+the ghastly ghoul~
+A ghastly ghoul is here.
+~
+It is a walking corpse with long fangs and long, sharp nails that most of
+resemble claws.  Its eyes are a dark yellow colour and glare hungrily at you.
+~
+~
+undead~
+ABFGO 0 I 0
+-750 67 67 16d303+1492 67d10+100 5d24+0 3
+EFGNU BLPQR 0 HN
+8 8 1 1340
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#3603
+skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.
+~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+~
+~
+undead~
+ABFGO 0 I 0
+-750 64 64 16d276+1387 64d10+100 5d23+0 11
+EFGNU BLPQR 0 HN
+8 8 1 1280
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#3604
+skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.
+~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+~
+~
+undead~
+AFGO 0 I 0
+-750 62 62 16d259+1316 62d10+100 5d22+0 11
+EFGNU BLPQR 0 HN
+8 8 1 1240
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#3605
+zombie~
+the rotting zombie~
+A rotting zombie is staggering towards you with outstretched hands.
+~
+Maggots crawl all over its decaying body.
+~
+~
+undead~
+AFGO 0 I 0
+-750 63 63 16d267+1355 63d10+100 5d22+0 11
+EFGNU BLPQR 0 HN
+8 8 1 1260
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#3606
+wight~
+a wight~
+A wight floats in
+~
+~
+~
+undead~
+AGO T 0 0
+-950 70 70 16d330+1614 70d10+100 5d25+0 11
+G BLPQR 0 HN
+8 8 3 1400
+DI ABCGHIRSTa 2 unknown
+#0
+
+
+

@@ -1,0 +1,1282 @@
+#22000
+green slime~
+green slime~
+A large mass of green slime covers the area.
+~
+A large green mass of goe.  
+ 
+~
+~
+generic~
+ABDG 0 0 0
+0 30 15 16d60+426 30d10+100 3d12+0 28
+CFKO CD 0 0
+8 8 0 600
+S 0 2 unknown
+#22001
+gargoyle golems~
+a stone gargoyle~
+A stone gargoyle is watching you intently.
+~
+This creature looks like some horrid form of gargoyle.  
+~
+~
+gargoyle~
+ABDFG Uc FHI AC
+-1000 35 17 16d82+534 35d10+100 3d14+0 5
+CEFK N N Y
+8 8 0 1400
+AHMV ABCDEFGHIJKPRSTa 2 unknown
+#22002
+margoyle~
+a margoyle~
+The statue of a margoyle is standing in the shadows.
+~
+Ugly, winged gargoyles with glowing red eyes.  
+ 
+~
+~
+gargoyle~
+ABDFG TV 0 0
+-1000 31 15 16d64+448 31d10+100 3d12+0 3
+FKNO 0 DN Y
+8 8 0 1240
+AHMV ABCDEFGHIJKPRSTa 2 unknown
+#22003
+strahd skeleton~
+strahd skeleton~
+A large skeleton is sitting in the throne.
+~
+These skeletons are massive and very, very horrific looking.  
+ 
+~
+~
+undead~
+ABDFGO 0 0 0
+0 40 20 16d108+648 40d10+100 3d15+0 7
+CEFGN BLPQR 0 HN
+8 8 1 800
+DI ABCGHIRSTa 2 unknown
+#22004
+Lief Lipsiege~
+Lief Lipsiege~
+Lief, the accountant, sits behind the desk.
+~
+Lief is an old man, who was pressed into service for strahd.  He keeps
+all of strahds books.  
+~
+~
+human~
+ABDG 0 0 0
+1000 40 20 16d108+648 40d10+100 3d15+0 3
+CEFKN BGP 0 0
+8 8 1 2000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22005
+Helga~
+Helga~
+Helga is crying on the floor.
+~
+This woman is very pale.  She has large blue eyes and long beautiful
+blone hair.  
+ 
+~
+~
+undead~
+ABDFGO c FH ACD
+-800 36 18 16d87+555 36d10+100 3d14+0 31
+CEFGKN BLPQR 0 HN
+8 8 2 720
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#22006
+spectre~
+a spectre~
+A spectre is hiding in the shadows.
+~
+A transparent figure, with red glowing eyes.  
+ 
+~
+~
+undead~
+ABDFGO B FH A
+-1000 32 16 16d69+462 32d10+100 3d13+0 30
+EGK BLPQR 0 HN
+8 8 0 640
+DI ABCGHIRSTa 2 unknown
+#22007
+giant spider~
+giant spider~
+A giant spider is here making its web.
+~
+A large ugly black spider.  It is furry and gross looking.  
+ 
+~
+~
+generic~
+ABDG V FH A
+-640 33 16 16d73+487 33d10+100 3d13+0 3
+EFN L 0 0
+8 8 0 660
+OP ACEFK 2 unknown
+#22008
+guardian portrait~
+guardian portrait~
+A portrait is hanging on the far wall.
+~
+This is a portrait of Dargen Rocksmasher, an ancient dwarven warrior.  He
+seems to be watching every move you make.  
+ 
+~
+~
+demon~
+ABDFG 0 FH A
+-700 42 21 16d119+700 42d10+100 3d16+0 11
+BFHKMR PQ BG Na
+8 8 0 840
+BCEHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#22009
+Felis~
+felis~
+Felis is here playing with a ball of string.
+~
+This cat has long white hair and long flowing whiskers.  
+~
+~
+cat~
+ABDG 0 0 0
+-1000 40 20 16d108+648 40d10+100 3d15+0 5
+FH B 0 0
+8 8 0 1600
+AGV ACDEFHJKQRSTUVa 2 unknown
+#22010
+Reginal~
+Reginal~
+Reginal is sleeping in the corner of the room.
+~
+This cat has long black hair and looks very peaceful while sleeping.
+~
+~
+cat~
+ABDG V 0 0
+-700 42 21 16d119+700 42d10+100 3d16+0 5
+FH 0 0 0
+8 8 1 1600
+AGV ACDEFHJKQRSTUVa 2 unknown
+#22011
+Grizelda~
+Grizelda~
+Grizelda is chanting over the kettle.
+~
+This woman is wearing an old smelly robe.  She has gray hair and a large
+hairy mole in her chin.  
+ 
+~
+~
+human~
+ABDFG I 0 AD
+-1000 43 21 16d124+733 43d10+100 3d16+0 19
+EFKN GNS 0 0
+8 8 2 2000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22012
+Annis~
+Annis~
+Annis is mixing strange spell components.
+~
+Annis is very young and pretty.  She is dressed in an almost transparent
+white gown.  Her hair is the color of flames and here eyes are jade.  
+ 
+~
+~
+human~
+ABDFG 0 0 C
+-1000 44 22 16d130+759 44d10+100 3d17+0 19
+EFK EP 0 0
+8 8 2 1700
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22013
+Lucretia~
+Lucretia~
+Lucretia is making arcane symbols in the air.
+~
+Lucretia is very old and her ebony skin is wrinkled.  Her body is thin
+and delicate.  
+ 
+~
+~
+human~
+ABDFG V FH A
+1000 45 22 16d136+786 45d10+100 4d17+0 19
+EFK BS 0 0
+8 8 2 900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22014
+Braga~
+Braga~
+Braga is in deep concentration.
+~
+Braga is a middle aged woman.  She has black hair with touches of gray
+and blue eyes.  She is wearing an ancient robe.  
+~
+~
+human~
+ABDFG IV 0 C
+-900 46 23 16d142+815 46d10+100 4d17+0 19
+EFK BE 0 0
+8 8 0 2200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22015
+Morgana~
+Morgana~
+Morgana is looking inside a jar, teasing a frog.
+~
+This woman has long honey-colored hair that is shoulders length.  She is
+the most captivating woman you have ever laid you eyes apon.  
+~
+~
+human~
+ABDG 0 0 0
+200 47 23 16d149+836 47d10+100 4d17+0 19
+FKN IS 0 0
+8 8 2 2200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22016
+Haggis~
+Haggis~
+Haggis is reading a large spellbook, and ordering the others around.
+~
+Haggis is the eldest of the order.  She is wearing a silver robe with red
+runes that mark her as the head of the conclave.  
+~
+~
+human~
+ABDG V 0 A
+0 48 24 16d155+869 48d10+100 4d18+0 19
+0 BN 0 0
+8 8 2 960
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22017
+Yaga~
+Yaga~
+Yaga is mixing the kettle.
+~
+Yaga is the daughter of Annis, she is not yet a witch.  She is adorable
+with large almond colored eyes and long staight black hair.  
+ 
+~
+~
+human~
+ABDG GI FH C
+1000 49 24 16d162+893 49d10+100 4d18+0 19
+CEFKN BHIN 0 0
+8 8 2 980
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22018
+Cyrus Belview~
+Cyrus Belview~
+Cyrus approaches you with a crazed look on his face.
+~
+Cyrus is an old man that has devoted many years to the count.  The man is
+obviously crazy.  
+~
+~
+human~
+ABDG 0 0 0
+800 41 20 16d113+678 41d10+100 3d16+0 27
+EFK G 0 0
+8 8 1 820
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22019
+Strahd Zombie~
+the Strahd Zombie~
+One of Strahd's Zombies is here looking for fresh blood.
+~
+This creature is a horrid mass of rotted skin.  Old blood soaked rags
+hangs from its body.  
+~
+~
+undead~
+ABDGO 0 0 0
+-900 34 17 16d78+505 34d10+100 3d13+0 3
+G BLPQR 0 HN
+8 8 1 680
+DI ABCGHIRSTa 2 unknown
+#22020
+Strahd Skeleton~
+a skeleton of strahd's~
+One of strahd's skeletons are here in ancient guard armor.
+~
+This poor thing must of been a guard of the castle in times past.  Little
+does one realize that loyalty can last forever.  
+~
+~
+undead~
+ABDGO 0 0 0
+-700 39 19 16d102+629 39d10+100 3d15+0 7
+EFGK BLPQR 0 HN
+8 8 1 780
+DI ABCGHIRSTa 2 unknown
+#22021
+shadow fiend~
+Shadow Fiend~
+A shadow fiend lurks here.
+~
+A mass of blackness stairs at you from within a black robe.  
+~
+~
+demon~
+ABDG B FH A
+-1000 37 18 16d92+578 37d10+100 3d14+0 29
+BFMR HIQ B Na
+8 8 1 740
+BHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#22022
+Ivan Koreshev~
+Ivan Koreshev~
+Ivan, the wolfwere, is here looking for food.
+~
+This creature is partman/partwolf.  He is covered in brown fur, his teeth
+glisten in the torch light.  
+~
+~
+wolf~
+ABDFG 0 0 0
+-999 50 50 16d168+930 50d10+100 4d18+0 11
+EFHK HNS D C
+8 8 0 1000
+AGV ACDEFJKQRVa 2 unknown
+#22023
+Strahd Skeleton~
+a Strahd Skeleton~
+A skeleton of strahd is patroling the area.
+~
+This skeleton is animate and an odd gray color.  Red eyes stair at you
+from empty sockets.  
+~
+~
+undead~
+ABDFGO 0 0 0
+-990 48 24 16d155+869 48d10+100 4d18+0 8
+CEFGK BLPQR 0 HN
+8 8 2 960
+DI ABCGHIRSTa 2 unknown
+#22024
+Strahd Zombie~
+a Strahd Zombie~
+A zombie of strahd is searching for the living.
+~
+This being endurs endless pain everyday of its eternal existance.  
+~
+~
+undead~
+ABDGO V 0 C
+-700 45 22 16d136+786 45d10+100 4d17+0 11
+G BLPQR 0 HN
+8 8 0 900
+DI ABCGHIRSTa 2 unknown
+#22025
+Iron Golem~
+Iron Golem~
+An iron golem stands as sentry to this room.
+~
+A large stone statue made of black granite.  The statue is remarkably
+carved, it almost looks alive.  
+~
+~
+generic~
+ABDG V 0 C
+-500 38 19 16d97+603 38d10+100 3d15+0 7
+BCEFKN N D C
+8 8 1 760
+AHJMV ABCDEFGHIJK 2 unknown
+#22026
+Ghost~
+the ghost of priness du plumette~
+A ghost stands guard over this tomb.
+~
+This being is tranparent, and ghastly to look apon.  It is frightening
+to think that this creature was once a princess.  
+~
+~
+undead~
+ABDGO 0 0 0
+-400 42 21 16d119+700 42d10+100 3d16+0 30
+G BLPQR 0 HN
+8 8 2 840
+DIL ABCGHIRSTa 2 unknown
+#22027
+Spectre~
+Spectre~
+A spectre is here.
+~
+This spectre was once Endoroivich.  Because of all the misdeads that this
+man accomplished in life, he was cursed to become a spectre in the
+afterlife.  
+~
+~
+undead~
+ABDGO 0 0 0
+-800 46 23 16d142+815 46d10+100 4d17+0 11
+G BLPQR 0 HN
+8 8 1 1200
+DIL ABCGHIRSTa 2 unknown
+#22028
+Wight~
+a wight~
+A wight guards this Tomb.
+~
+All of the Stahbal's family were turned into wights after he crossed the
+count.  None know what became of Stahbal himself 
+~
+~
+undead~
+ABDGO V 0 0
+-600 47 23 16d149+836 47d10+100 4d17+0 7
+FGKO BLPQR 0 HN
+8 8 0 940
+DIL ABCGHIRSTa 2 unknown
+#22029
+Vampire Maiden~
+A vampire maiden~
+A vampire maiden is here, looking very depressed.
+~
+This woman is very thin, her long black hair hangs to the middle of the
+back.  Looking at her face you notice gleeming green eyes.  Then you notice
+the pale skin and fangs.  
+~
+~
+vampire~
+ABDFGOQ 0 0 0
+0 44 22 16d130+759 44d10+100 3d17+0 7
+EGHK BLPQR IJ HNSX
+8 8 2 880
+DHIM ABCDEGHIJKRSTVa 2 unknown
+#22030
+Banshee~
+a banshee~
+A banshee is here protecting its Tomb.
+~
+This banshee was once of the living, she was known as Patrina Veliknova. 
+After strahd grew tired of her companionship, he turned her into a banshee. 
+~
+~
+undead~
+ABDGO V 0 C
+-400 47 23 16d149+836 47d10+100 4d17+0 30
+G BLPQR 0 HN
+8 8 2 940
+DIL ABCGHIRSTa 2 unknown
+#22031
+spider hound~
+a spider hound~
+A spider hound stairs at you with red eyes.
+~
+This is one of Strahds creations.  He has successfull crossed a giant
+spider with a hell hound.  
+~
+~
+dog~
+ABDG B FH AC
+-600 42 21 16d119+700 42d10+100 3d16+0 20
+CEFGHK BLPQR 0 HN
+8 8 1 840
+ADGIV ABCDEFGHIJKRUVa 2 unknown
+#22032
+hell hound~
+a hell hound~
+A hound from hell is guarding the room.
+~
+This creature looks very much like a common dog after it is removed from
+a blazing fire.  
+~
+~
+demon~
+ABDFG I FH 0
+-1000 45 22 16d136+786 45d10+100 4d17+0 29
+BFGMR BLPQR B HNa
+8 8 1 900
+BDHIM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#22033
+Strahd Von Zarovich~
+Strahd Von Zarovich~
+The Master of Barovia, Strahd Von Zarovich is here.
+~
+"I am the Ancient, I am the Land.  My beginnings are lost in the darkness
+of the past.  I was the warrior.  I was good and just.  Now I am not of the
+living.  I am undead, forever".  
+~
+~
+vampire~
+ABDFGOQRT GITUVac EFGHIJ ABCD
+-1000 50 50 16d168+930 50d10+100 4d18+0 11
+BCDEFGHJKNO ABCDJKLMOPQR IJ HNSX
+8 8 1 1000
+DHIM ABCDEGHIJKRSTVa 2 unknown
+#22034
+bat~
+a bat~
+A large bat is here.
+~
+This bat is very large and the color of onyx.  It looks eager to attack.  
+~
+~
+bat~
+ABDG TV 0 0
+-700 30 15 16d60+426 30d10+100 3d12+0 30
+FH B 0 S
+8 8 0 1200
+AGW ACDEFHJKPRSTa 2 unknown
+#22035
+large bat~
+a large bat~
+A very large bat is here.
+~
+This bat is huge and very evil looking.  
+~
+~
+bat~
+ABDG T 0 C
+-800 35 17 16d82+534 35d10+100 3d14+0 29
+FH BH 0 S
+8 8 0 1400
+AGW ACDEFHJKPRSTa 2 unknown
+#22036
+giant bat~
+a giant bat~
+A giant bat is here.
+~
+A large black bat with a wing span of 10 feet is looking at you eager for
+a kill.  
+~
+~
+bat~
+ABDFG V FH C
+-900 40 20 16d108+648 40d10+100 3d15+0 3
+FH B 0 S
+8 8 0 800
+AGW ACDEFHJKPRSTa 2 unknown
+#22037
+massive bat~
+a massive bat~
+A bat of massive size is here.
+~
+This bat is the size of a small pony.  It is black as night and has a
+very very large wing span.  
+~
+~
+bat~
+ABDFG B FH C
+-1000 45 22 16d136+786 45d10+100 4d17+0 31
+FH BIK 0 S
+8 8 0 900
+AGW ACDEFHJKPRSTa 2 unknown
+#22038
+small bat~
+a small bat~
+A small bat is here.
+~
+This bat is no larger than the palm of your hand.  It seems almost timid.  
+~
+~
+bat~
+ABDFG B FH C
+-1000 50 50 16d168+930 50d10+100 4d18+0 3
+FH I 0 S
+8 8 0 2000
+AGW ACDEFHJKPRSTa 2 unknown
+#22039
+village girl~
+a village girl~
+A village girl is hiding here.
+~
+The girl is wearing old dirty clothing and she is very very thin.  The
+girl has a profound sadness in her face.  
+~
+~
+human~
+ABDGS SV 0 0
+900 31 15 16d64+448 31d10+100 3d12+0 3
+BN 0 0 0
+8 8 2 300
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22040
+village boy~
+a village boy~
+A village boy is here searching for his mother.
+~
+This boy has lost his way.  By his clothes you gather that he is very
+poor.  
+~
+~
+human~
+ABDGS S 0 0
+700 36 18 16d87+555 36d10+100 3d14+0 8
+BCE HI 0 0
+8 8 1 720
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22041
+angry villager~
+an angry villager~
+An angry villager is here.
+~
+This villager is shouting for justice.  He wants Strahd to perish.  
+~
+~
+human~
+ABDGS S 0 0
+800 41 20 16d113+678 41d10+100 3d16+0 11
+CN B 0 0
+8 8 1 820
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22042
+enraged villager~
+an enraged villager~
+An enraged villager is here.
+~
+This villager has been pushed into the realm of insanity.  After seeing
+his family taken by strahd he now has nothing to lose and is always trying
+to storm the castle.  
+~
+~
+human~
+A 0 0 0
+0 46 23 16d142+815 46d10+100 4d17+0 3
+BCFKN HI 0 0
+8 8 1 920
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22043
+skeleton~
+a skeleton~
+A skeleton is here.
+~
+This skeleton is grey and human sized.  It glows an eerie red.  
+~
+~
+undead~
+ABDGO ac 0 D
+-600 33 16 16d73+487 33d10+100 3d13+0 7
+G BLPQR 0 HN
+8 8 2 660
+DI ABCGHIRSTa 2 unknown
+#22044
+vistani woman~
+a vistani woman~
+A vistani woman is here.
+~
+This woman is wearing gypsy garb.  She has long straight black hair and
+tan skin.  An stand powerfull aura surronds this woman.  
+~
+~
+human~
+ABDFG 0 0 0
+500 37 18 16d92+578 37d10+100 3d14+0 19
+BCFK HIJN 0 M
+8 8 2 740
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22045
+woman red widow beautiful~
+a red widow~
+A beautiful woman is here.
+~
+This woman is actually a red widow.  She is dressed in a long flowing
+gown that cover her arms.  Upon closer examination of her arms you notice
+that they end in spider claws.  
+~
+~
+generic~
+ABDFG IV FH CD
+-800 41 20 16d113+678 41d10+100 3d16+0 3
+BCFKN ABNS 0 H
+8 8 2 820
+AHMV ABCDEFGHIJK 2 unknown
+#22046
+doom guard~
+a doom guard~
+A doom guard is here.
+~
+You see armor standing upright and moving as though it has a life of its
+own.  Two small eyes stare out of the helm that seem to float above the
+armor.  
+~
+~
+undead~
+ABDFGOT 0 0 C
+-600 46 23 16d142+815 46d10+100 4d17+0 3
+G BLPQR 0 HN
+8 8 1 920
+DI ABCGHIRSTa 2 unknown
+#22047
+pool blood elemental~
+a blood elemental~
+There is pool of blood on the floor.
+~
+This pool of blood is actually an elemental.  Sensing your presence it
+immediatly attacks.  
+~
+~
+generic~
+ABDFG V FH C
+-800 34 17 16d78+505 34d10+100 3d13+0 14
+CG E 0 C
+8 8 0 680
+CES 0 2 unknown
+#22048
+assassin imp~
+an assassin imp~
+An assassin imp is hiding in the shadows.
+~
+This small black creature has two tiny wings and sharp claws.  It has
+been trained to obliterate any who pose a threat to Strahd.  
+~
+~
+demon~
+ABDFGST Bc FHI C
+-1000 38 19 16d97+603 38d10+100 3d15+0 19
+BFMR QS B Na
+8 8 1 760
+BHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#22049
+greater mummy~
+a greater mummy~
+A large mummy is here.
+~
+Straps of cloth hang from this once living creature.  The smell of
+embalming fluid is sickening.  Part of the mummys face is visable, it is
+bloated and deformed.  
+~
+~
+undead~
+ABDGO V 0 0
+-800 47 23 16d149+836 47d10+100 4d17+0 3
+EFGKO BLPQR 0 HN
+8 8 1 940
+DI ABCGHIRSTa 2 unknown
+#22050
+zombie lord~
+a zombie lord~
+A zombie lord is here.
+~
+The creature before is dressed like a king.  Even in the afterlife the
+zombie seems powerful.  
+~
+~
+undead~
+ABDFGORT 0 0 0
+-900 48 24 16d155+869 48d10+100 4d18+0 19
+EFGK BLPQR 0 HN
+8 8 1 960
+DI ABCGHIRSTa 2 unknown
+#22051
+skeletal hound~
+a skeletal hound guards the alcove~
+A skeletal hound guards the alcove
+~
+The lack of internal organs, flesh, and eyes turn your stomach. Before you stands an undead canine.
+~
+~
+undead~
+ABFGO 0 0 0
+-100 41 20 16d113+678 41d10+100 3d16+0 3
+GH BLPQR C HN
+8 8 0 820
+ADGIV ABCDEFGHIJKRSTUVa 2 unknown
+#22052
+Elvira maid~
+Elvira the maid is waiting to serve you~
+Elvira the maid is waiting to serve you.
+~
+A short red haired female stands before you. She is wearing a very interesting outfit.
+~
+~
+human~
+ABDGQ 0 0 0
+100 32 16 16d69+462 32d10+100 3d13+0 20
+P BI 0 Y
+8 8 2 640
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22053
+spider~
+a large black spider~
+A large black spider
+~
+Before you stands the ugliest creature you have ever had the un-luck to
+place your eyes upon.  This black spider also looks hungry.  You suddenly
+feel like a large piece of meat.  
+~
+~
+undead~
+ADFGHO B 0 0
+-100 50 50 16d168+930 50d10+100 4d18+0 7
+G BLPQR 0 HN
+8 8 0 1000
+DI ABCDGHIRSTVa 2 unknown
+#22054
+foot soldier~
+an undead foot soldier~
+An undead foot soldier.
+~
+The decayed ruins of a once noble soldier stand before you.  Eternal
+pain crosses the beings face.  Forced to protect its master even after the
+grave.  
+~
+~
+undead~
+ABFGOT X 0 0
+-50 48 24 16d155+869 48d10+100 4d18+0 11
+G BLPQR 0 HN
+8 8 1 960
+DI ABCGHIRSTa 2 unknown
+#22055
+zombie wolf~
+a zombie wolf~
+A zombie wolf is here.
+~
+What was once a creature of the wild has since been reduced to a
+soulless mass of fur and fangs.  The wolf circles the room endlessly looking
+for something to take its torment out on.  
+~
+~
+undead~
+AO 0 0 0
+0 49 24 16d162+893 49d10+100 4d18+0 3
+FGH BLPQRS C HN
+8 8 0 980
+ADGIV ABCDEFGHIJKQRSTVa 2 unknown
+#22056
+furry white bunny~
+a furry white bunny~
+A furry white bunny is here.
+~
+This bunny is so cute and innocent you wonder how it came to reside in
+such an evil place as Castle Ravenloft.  
+~
+~
+rabbit~
+ABDGH 0 0 0
+1000 30 15 16d60+426 30d10+100 3d12+0 30
+FH HS 0 N
+8 8 2 600
+AGV ACDEFHJKRa 2 unknown
+#22057
+stone golem~
+a stone golem~
+A stone golem is here.
+~
+This large stone being has the facial features of an elf.  The massive
+size of creature dwarfs you.  
+~
+~
+elf~
+ABFG Qac 0 0
+-1000 43 21 16d124+733 43d10+100 3d16+0 27
+CDE E B Z
+8 8 1 860
+AHJMV ABCDEFGHIJKRSTa 2 unknown
+#22058
+undead archer~
+an undead archer~
+An undead archer is silently guarding his post.
+~
+This poor soul still stands guard for the Castle of the Undead Strahd
+Von Zarovich.  
+~
+~
+undead~
+ABDGOT 0 0 0
+-1000 43 21 16d124+733 43d10+100 3d16+0 7
+GINO BLPQR 0 HN
+8 8 0 860
+DI ABCGHIRSTa 2 unknown
+#22059
+midnight cat~
+a black cat~
+A disgruntled black cat is here.
+~
+This feline is midnight black and very unhappy to see the likes of you.  
+~
+~
+cat~
+ADFG 0 0 0
+-1000 49 24 16d162+893 49d10+100 4d18+0 20
+FH BIM 0 NSY
+8 8 0 2000
+AGV ACDEFHJKQRSTUVa 2 unknown
+#22060
+puppet~
+a puppet~
+A puppet sits in the corner of the stairwell.
+~
+This puppet looks rather haggard.  At one time this toy must of been the
+target of a childs affection.  However, the toy now sits forgotten.  
+~
+~
+doll~
+ABDGT 0 0 0
+-800 44 22 16d130+759 44d10+100 3d17+0 5
+FN CI ES GHJKO
+8 8 0 880
+EJMc ABCGHKa 2 unknown
+#22061
+archer~
+an undead archer~
+An undead archer guards the courtyard.
+~
+This poor soul will spend the rest of eternity guarding this forsaken
+keep.  
+~
+~
+undead~
+ABDGOT 0 0 0
+-100 49 24 16d162+893 49d10+100 4d18+0 11
+G BLPQR 0 HN
+8 8 1 980
+DI ABCGHIRSTa 2 unknown
+#22062
+red bottle wine~
+a red bottle of vine~
+A red bottle of wine sits in the middle of the floor.
+~
+This bottle dates back centuries and is most likely worth its weight in
+gold.  
+~
+~
+demon~
+ABFGT 0 0 0
+1000 44 22 16d130+759 44d10+100 3d17+0 19
+BFMR Q B Na
+8 8 0 880
+BHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#22063
+white bottle wine~
+a white bottle of wine~
+A white bottle of wine is rolling around on the floor.
+~
+This bottle of wine looks to fairly new, it sparkles like the stars.  
+~
+~
+demon~
+ABDGQ 0 0 0
+0 43 21 16d124+733 43d10+100 3d16+0 11
+BFMR Q B Na
+8 8 0 860
+BHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#22064
+devils food cake~
+a slice of devilfood cake~
+A slice of devilfood cake is here.
+~
+Chocolate CAKE!  Need we say more?  
+~
+~
+undead~
+ABDFGO 0 0 0
+1000 39 19 16d102+629 39d10+100 3d15+0 11
+G BLPQR C HN
+8 8 0 1000
+DI ABCGHIRSTa 2 unknown
+#22065
+angel food cake~
+a slice of angelfood cake~
+A slice of angelfood cake is here.
+~
+Angelfood Cake.  Need we say more?  
+~
+~
+undead~
+ABFGO V 0 0
+-1000 38 19 16d97+603 38d10+100 3d15+0 29
+G BLPQR D HN
+8 8 0 760
+DI ABCGHIRSTa 2 unknown
+#22066
+lesser doom guard~
+a lesser doom guard~
+A lesser doom guard is here watching his post.
+~
+This guard was once a farmer in the village of Barovia.  After having his
+body, mind, and soul warped by Count Strahd Von Zarovich he now guards the
+Castle grounds.  
+~
+~
+undead~
+ABDFGO 0 0 0
+-1000 39 19 16d102+629 39d10+100 3d15+0 7
+GIN BLPQR 0 HN
+8 8 0 780
+DI ABCGHIRSTa 2 unknown
+#22067
+gremishka~
+an ugly gremishka~
+An ugly gremishka is here making a mess of things.
+~
+Cousin to the Gremlin, the Gremishka are ugly creatures with one goal in
+their small minds.  FOOD!  
+~
+~
+goblin~
+ADFG Q I 0
+-1000 38 19 16d97+603 38d10+100 3d15+0 3
+FIN I Q C
+8 8 1 760
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22068
+spectre~
+the spectre of a fallen hero~
+The spectre of a fallen hero hovers over its corpse.
+~
+The transparent you man before you was once very hansome and muscular. 
+Now his is but a shadow of his former self.  Traped to this room for
+eternity.  
+~
+~
+undead~
+ABDFGO 0 0 0
+1000 39 19 16d97+603 38d10+100 3d15+0 20
+G BLPQR D HN
+8 8 0 760
+DI ABCGHIRSTa 2 unknown
+#22069
+bathing girl~
+a bathing girl~
+A girl is here bathing.
+~
+This fine young lady doesn't seem to have a problem with the
+surroundings.  She is in fact wearing only her birthday suit.  
+~
+~
+undead~
+ABDFGO 0 0 0
+-500 30 15 16d60+426 30d10+100 3d12+0 7
+CGIN BLPQR 0 HN
+8 8 2 600
+DI ABCGHIRSTa 2 unknown
+#22070
+red candle~
+a red candle~
+A red candle burns near the end of the bed.
+~
+This candle is blood red.  
+~
+~
+undead~
+AO 0 0 0
+-500 31 15 16d64+448 31d10+100 3d12+0 3
+G BLPQR 0 HN
+8 8 0 620
+DI ABCGHIRSTa 2 unknown
+#22071
+Sprox Hardhead~
+Sprox Hardhead~
+Sprox Hardhead the Gremishka Slayer is here.
+~
+"Aye! whatcha lookin at Lad? My Names Sprox Hardhead and ey's been runnin 'round this castle for years. One day ey'sll catch that blood thirsty bastage"
+~
+~
+dwarf~
+ADGT V 0 0
+300 31 15 16d64+448 31d10+100 3d12+0 7
+CEFIN N CLQ R
+8 8 0 620
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22072
+phoenix~
+phoenix~
+A phoenix is here.
+~
+The phoenix is a great, extra-planar bird with flaming red and orange
+feathers.  
+~
+~
+song bird~
+A V 0 0
+1000 32 16 16d69+462 32d10+100 3d13+0 28
+EFHO M N Y
+8 8 2 640
+AGW ACDEFHKPRa 2 unknown
+#22073
+fire lizard~
+a fire lizard~
+A fire lizard is licking his lips as he sizes you up.
+~
+This slimely creature is the color of fire.  It looks extremely happy to
+see you!  
+~
+~
+lizard~
+ADGT 0 0 0
+-300 32 16 16d69+462 32d10+100 3d13+0 29
+FH O L I
+8 8 1 1000
+AGXc ACDEFHKQV 2 unknown
+#22074
+zombie~
+zombie~
+A zombie is drooling here.
+~
+This creature was once one of the Castles finest guards.  Now it roams
+the land endlessly, looking for a way to end its centurys long agony.  
+~
+~
+undead~
+ABDGOT 0 0 0
+-1000 33 16 16d73+487 33d10+100 3d13+0 11
+G BLPQR 0 HN
+8 8 0 660
+DI ABCGHIRSTa 2 unknown
+#22075
+xixplyx~
+xixplyx~
+Xixplyx the demon spawn is here.
+~
+Xixplyx was banished to this part of the castle when he failed to bring
+the Counts love back to him from the grave.  
+~
+~
+demon~
+ABDGQ 0 0 0
+0 33 16 16d73+487 33d10+100 3d13+0 29
+BFMR Q B Na
+8 8 0 660
+BHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#22076
+hans butler~
+Hans the Butler~
+Hans the Butler is cleaning here.
+~
+This man has to be close to 200 years old.  He is hunched over and very
+tired looking.  At any moment it seems that he may pass beyond the grasp of
+mortal men.  
+~
+~
+human~
+ADGRT KL 0 0
+-100 34 17 16d78+505 34d10+100 3d13+0 3
+0 M 0 0
+8 8 0 680
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22077
+fire elemental~
+fire elemental~
+A fire elemental is heating things up here.
+~
+A large animate ball of fire blocks your path.  Now you know what a
+marshmallow feels like.  
+~
+~
+demon~
+ABDFGQT 0 0 0
+-1000 34 17 16d78+505 34d10+100 3d13+0 11
+BFMR Q B Na
+8 8 0 680
+BHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#22078
+ghoul~
+ghoul~
+A ghoul guards this tomb.
+~
+Sir Triksky was a valiant man when he was amoung the living.  After
+causing a revolt against his Master Strahd he was killend now assumes the
+form of a ghoul.  
+~
+~
+undead~
+ABDFGOR 0 0 0
+-1000 35 17 16d82+534 35d10+100 3d14+0 3
+G BLPQR 0 HN
+8 8 0 700
+DI ABCGHIRSTa 2 unknown
+#22079
+ruby lynn~
+Ruby Lynn, Vampire Huntress~
+Ruby Lynn, the foremost Vampire Huntress is here.
+~
+Ruby is beauty incarnate with the all the features allowed to her race. 
+She makes the darkness of this place part like the sea.  Yet you cannot seem
+to think that she has a wild side to her.  
+~
+~
+elf~
+ADFG V 0 C
+1000 35 17 16d82+534 35d10+100 3d14+0 11
+EFNO BI B Z
+8 8 2 700
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22080
+ticklemop thistleton~
+Ticklemop Thisleton~
+Ticklemop Thistleton is here.
+~
+Ticklemop has 2 twin topknots that extend to his waist and is dressed in
+colorful blue and green.  He is slightly on the heavy side as far as kender
+go.  
+~
+~
+kender~
+ADGS QV 0 0
+800 35 17 16d82+534 35d10+100 3d14+0 6
+FHIJR BP M P
+8 8 1 700
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22081
+undead ranger~
+Undead Ranger~
+An undead ranger has staked claim to this tomb.
+~
+This creature still holds some of the looks it most have had during its
+time as a mortal.  You can almost sense a sadness in the creature as it trys
+to fight the cravings to throttle you.  
+~
+~
+human~
+ABDFGLQT V I 0
+0 36 18 16d87+555 36d10+100 3d14+0 11
+CEFJNO K 0 0
+8 8 0 720
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#22082
+Ciril Romulich~
+Ciril Romulich~
+The spirit of Ciril Romulich guards this tomb.
+~
+Ciril is transparent like a spectre with glowing red eyes.  If this man
+was ever goodly that ability left him at death.  
+~
+~
+undead~
+ABDGOQR 0 0 0
+-1000 36 18 16d87+555 36d10+100 3d14+0 30
+G BLPQR 0 HN
+8 8 1 720
+DIL ABCGHIRSTa 2 unknown
+#22083
+undead bear~
+undead bear~
+An undead bear is here.
+~
+This bear is big mean and ugly and that was before it became undead.  
+~
+~
+bear~
+ABDFGT 0 0 0
+0 37 18 16d92+578 37d10+100 3d14+0 7
+DEO N EI 0
+8 8 2 740
+AGV ABCDEFHJKRSTUVa 2 unknown
+#22084
+resagia~
+Resagia the Necromancer~
+Resagia the Necromancer is here.
+~
+Dressed in black robes Resagia is a force to be reckoned with.  
+~
+~
+elf~
+ABDGR 0 0 0
+-1000 37 18 16d92+578 37d10+100 3d14+0 19
+FN I B Z
+8 8 1 740
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

@@ -1,0 +1,188 @@
+#1950
+cultist guard~
+a cultist guard~
+A cultist is here on guard.
+~
+Foregoing the dark robes of his brethren, this cultist wears black
+leather armour underneath a chain-mail vest.  A wicked-looking scimitar
+hangs at his side.  He is ready to die to prevent you from getting any
+further into the cult's lair.  
+~
+~
+human~
+ABDFT 0 J A
+-1000 7 3 1d33+61 7d10+100 1d5+0 7
+0 AB M N
+8 8 1 140
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1951
+cultist~
+a cultist~
+A cultist is here.
+~
+A cultist, worshipper of the Abyss.  Wearing dark robes they blend into
+the gloom so well they're almost invisible.  You spot a dagger tucked into
+their belt.  
+~
+~
+human~
+ADGHQ 0 J 0
+-500 6 3 1d24+51 6d10+100 1d5+0 11
+0 0 M N
+8 8 3 120
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1952
+sleeping cultist~
+a sleepy cultist~
+A cultist is here trying to sleep.
+~
+Thanks to the constant gloom down here it's impossible to guess what time
+it is on the surface, so you guess it's not so strange that this cultist is
+trying to sleep.  
+~
+~
+human~
+ABDQ 0 0 0
+-500 6 3 1d24+51 6d10+100 1d5+0 3
+0 0 0 0
+4 8 3 120
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1953
+supervisor cultist~
+the supervisor~
+An older cultist is here watching over the initiates.
+~
+This cultist is older than the rest you have seen so far, and is
+"cleansing" the initiates with an unholy gleam of joy in his eye.  
+~
+~
+human~
+ABDQ 0 0 0
+-750 7 3 1d33+61 7d10+100 1d5+0 7
+0 0 0 0
+8 8 1 140
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M SPEECH 1953 cleanse me~
+M DELAY 1954 100~
+#1954
+initiate~
+a cult initiate~
+An initiate is here undergoing "cleansing".
+~
+A black-robed initiate is here being cleansed to see if they are suitable
+to join the cult.  
+~
+~
+human~
+ABD 0 0 0
+-500 5 2 1d16+42 5d10+100 1d4+0 7
+0 0 0 0
+8 8 3 100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1955
+the voice cultist leader~
+the cult leader~
+The Voice of the Abyss kneels here in prayer.
+~
+This man is the leader of the Cult of the Abyss.  He is handsome, in a
+dark brooding kind of way, and wears his robes like he was born to them,
+which perhaps he was.  His eyes dominate his face, showing a large part of
+his life has been spent underground, and as you gaze into them you feel
+yourself becoming mesmerised.  
+~
+~
+human~
+ABDQ 0 0 0
+-1000 9 4 3d27+83 9d10+100 1d6+0 7
+0 AB M N
+8 8 1 180
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GIVE 1961 1965~
+M GIVE 1960 1958~
+M GIVE 1959 1959~
+#1956
+temple guard cultist~
+a temple guard~
+A temple guard stands here ready to punish any interloper.
+~
+These cultists are big, burly, and well armed and armoured.  They serve
+as punishers for any transgressions by the cultists, as well as defending
+the temple in times of need.  
+~
+~
+human~
+ABDT 0 0 0
+-750 8 4 3d21+73 8d10+100 1d5+0 7
+0 AB M N
+8 8 1 160
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GREET 1956 100~
+#1960
+void winged large demon~
+a void demon~
+A large winged demon is here.
+~
+This is a void demon, member of a race that lives between the planes. 
+You're lucky this is only a relatively small one.  
+~
+~
+demon~
+ADF T FHJ 0
+-1000 10 5 3d33+96 10d10+100 1d6+0 5
+BFMR ABQ BM Na
+8 8 0 200
+BHM ABCDEFGHIJKLPQRSTUVWa 3 unknown
+#1961
+crazed wounded cultist~
+a wounded cultist~
+A critically wounded cultist lies here dying.
+~
+You can only imagine the strength of will it took for this cultist to get
+this far.  His body is covered in wounds and his robes are practically
+shredded, but still a mad gleam burns in his eyes.  
+~
+~
+human~
+ABDE KLY 0 0
+-900 8 4 1d1+0 8d10+100 1d5+0 11
+0 0 0 0
+8 8 1 160
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GREET 1969 100~
+#1962
+abyss warrior~
+an abyss warrior~
+An demonic warrior guarding the Abyss is here.
+~
+Tall, powerfully built, and intelligent, the Abyss Warrior is a fearsome
+foe for anyone to face.  
+~
+~
+demon~
+ADFT 0 0 0
+-1000 12 6 5d32+120 12d10+100 1d7+0 5
+BFMR ABQ BM Na
+8 8 0 240
+BHM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#1963
+abyss demon entropy~
+an entropy demon~
+A massive entropy demon has taken up residence in the Abyss.
+~
+So here, finally, is the "god" the cultist's worship.  A demon of entropy
+and chaos is manipulating the cult for it's own ends and perverse pleasure. 
+Its huge bloated form lurches towards you and you realise this is going to
+be a difficult fight indeed.  
+~
+~
+demon~
+ABCDFU 0 FHJ 0
+-1000 15 7 6d37+162 15d10+100 2d7+0 11
+BFMR ABQ BM Na
+8 8 0 300
+BHM ABCDEFGHIJKLQRSTUVWa 3 unknown
+M GREET 1974 100~
+#0
+
+
+

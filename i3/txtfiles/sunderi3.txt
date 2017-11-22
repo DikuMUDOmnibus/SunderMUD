@@ -1,0 +1,5 @@
+Sundermud 1.0 Intermud-3
+------------------------
+
+In i3.c, remove the #include statement for tables.h
+And on line 174, remove the wiznet call.

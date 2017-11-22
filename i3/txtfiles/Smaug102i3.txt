@@ -1,0 +1,9 @@
+Smaug 1.02a Intermud-3
+----------------------
+
+In i3cfg.h, in the I3SMAUG section:
+
+Find:
+   #define WIZINVIS(ch)		 (xIS_SET((ch)->act, PLR_WIZINVIS) && (ch)->pcdata->wizinvis >= this_mud->minlevel )
+Change to:
+   #define WIZINVIS(ch)		 (IS_SET((ch)->act, PLR_WIZINVIS) && (ch)->pcdata->wizinvis >= this_mud->minlevel )

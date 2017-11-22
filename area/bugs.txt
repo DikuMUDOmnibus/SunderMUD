@@ -1,0 +1,10 @@
+-- BUGLIST --
+
+[ 2102] Hooble: some sort of magical damage reduction skills :)
+[ 2105] Testguy: shops need to announce when they open
+[ 3604] Testguy: higher levels need to regen HP faster than 3 per pulse :(
+[ 1975] Lotherius: random armor should get a glowing or magic flag if it has extra boni
+[ 1975] Testguy: con all needs to say who it is you conned.
+[14932] Lotherius: need to check for abbreviations on desc keywords in rooms
+[ 2093] Lotherius: colour doesn't toggle off.
+[ 2093] Lotherius: oh that's because of mxp

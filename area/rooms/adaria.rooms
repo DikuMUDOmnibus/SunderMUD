@@ -1,0 +1,800 @@
+#2500
+The temple of Yar~
+You are standing in the temple of the Sun God, Yar. The steps are covered
+with the remnants of recent sacrifices. An altar stands in the middle of the
+room.
+~
+~
+8 0
+D2
+~
+~
+0 -1 2501
+D5
+~
+~
+1 -1 2526
+S
+#2501
+Temple Street outside the temple.~
+You are standing on Temple Street, just south of the Temple of the Yar.
+People rushing by look away from you. Temple street continues to the east
+and west, and Dal street heads south from here.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2500
+D1
+~
+~
+0 -1 2502
+D2
+~
+~
+0 -1 2512
+D3
+~
+~
+0 -1 2507
+S
+#2502
+East Temple Street.~
+To the north of here, you can see a small shop where various weapons are
+on display. To the south is a vacant building.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2503
+D1
+~
+~
+0 -1 2504
+D2
+~
+~
+0 -1 2514
+D3
+~
+~
+0 -1 2501
+S
+#2503
+Inside the dark weapons shop.~
+There are numerous weapons and pieces of armour on the shelves here.
+Many of them are still coated with the blood of their once owners. You don't
+feel very safe here, but the prices are good.
+~
+~
+8 0
+D2
+~
+~
+0 -1 2502
+S
+#2504
+East Temple Street.~
+The street is bare at this point. To the west, you can see the temple of Yar,
+and the end of the street is to the east.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2505
+D3
+~
+~
+0 -1 2502
+S
+#2505
+Near the end of East Temple Street.~
+This area is more deserted than the rest of town. You see movement in the
+shadows, but are unsure of what is here. To the north is a bar, and to the
+south you can see a small park.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2515
+D1
+~
+~
+0 -1 2506
+D2
+~
+~
+0 -1 2516
+D3
+~
+~
+0 -1 2504
+S
+#2506
+At the east end of Temple Street.~
+You are at the end of Temple Street. The stench here is horrendous.
+Trash lies everywhere here. There is a building to the north.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2517
+D3
+~
+~
+0 -1 2505
+S
+#2507
+West Temple Street~
+To the east you see the Temple of Yar. To the west you can see the
+infantry training grounds. To the south is a shop with a sign that
+says "Junk". You see a brightly painted shop to the north that looks
+relatively new. The sign on it says "Salvation on Sale". It has
+symbols of the god Yar all over it.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2522
+D1
+~
+~
+0 -1 2501
+D2
+~
+~
+0 -1 2518
+D3
+~
+~
+0 -1 2508
+S
+#2508
+West Temple Street.~
+You are farther down Temple Street now. There seems to be some excitement
+to the north. To the south stands the deserted City Hall. You can also
+hear the noise of the training grounds to the west.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2523
+D1
+~
+~
+0 -1 2507
+D2
+~
+~
+0 -1 2524
+D3
+~
+~
+0 -1 2509
+S
+#2509
+Near west end of Temple Street.~
+This section of the street is unused, with stone for building stored to
+both the north and south.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2508
+D3
+~
+~
+0 -1 2510
+S
+#2510
+The west end of Temple Street.~
+You have reached the west end of Temple street. To the north is the large
+walled training field. The noise is deafening from there.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2511
+D1
+~
+~
+0 -1 2509
+D2
+~
+~
+0 -1 2525
+S
+#2511
+The training field.~
+You are standing in the training field. You feel you had better get out fast
+since it appears that maneuvers today include a mock battle where many
+people have already been hurt.
+~
+~
+0 2
+D2
+~
+~
+0 -1 2510
+S
+#2512
+Dal Street~
+Dal street dead-ends into Temple street to the north of here. You can see the
+Temple of Yar ahead. This area seems very busy.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2501
+D2
+~
+~
+0 -1 2513
+S
+#2513
+Dal Street~
+The residential area gives way to the commercial area of Adaria here. You
+hear much noise from ahead, and can make out the Temple of Yar farther
+down the lane.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2512
+D2
+~
+~
+0 -1 2519
+S
+#2514
+A vacant building.~
+This building was apparently at one time a healer's home, but it appears to
+have been burned out. There is nothing here anymore, yet you feel an eery
+presence.
+~
+~
+8 0
+D0
+~
+~
+0 -1 2502
+S
+#2515
+Greta's Bar~
+You are in yet another sleazy bar. This one appears, at least, to offer a
+decent meal and good ale. There are several people here listening to the
+entertainment, which is also surprisingly good.
+~
+~
+8 0
+D2
+~
+~
+0 -1 2505
+S
+#2516
+A small park.~
+This small park has obviously not been taken care of for quite some time.
+Probably since the servants of Yar took over the town. Weeds are growing
+everywhere. Back to the north you can see Temple Street.
+~
+~
+0 3
+D0
+~
+~
+0 -1 2505
+S
+#2517
+A storage building.~
+This is a storage building that seems to be doubling as a home for some
+luckless individual.
+~
+~
+8 0
+D2
+~
+~
+0 -1 2506
+S
+#2518
+The Curio Shop~
+You are in a quaint shop with tons of objects piled all over the shelves.
+None of it looks very useful, but the shopkeeper appears to find some kind
+of value in this stuff.
+~
+~
+8 0
+D0
+~
+~
+0 -1 2507
+S
+#2519
+Dal Street~
+Residences line both sides of Dal Street here. People look at you with hate,
+and you feel very unwelcome in this place.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2513
+D2
+~
+~
+0 -1 2520
+S
+#2520
+Beginning of Dal Street~
+There are guardhouses on both sides of you here. The heads of the former
+townguards, several months old, are posted over the doors by the new
+owners of the town. You feel this is a dangerous place to be. The town gates
+are to the south of you, and to the far north you can just make out the temple.
+~
+~
+0 1
+D0
+~
+~
+0 -1 2519
+D2
+~
+door gate~
+33 2524 2521
+S
+#2521
+Outside the gates of Adaria.~
+You stand outside the gates of Adaria. Where once small wooden gates
+stood, now massive iron gates stand. The city has changed much since the
+armies of the Yar's supporters overthrew the government several months
+before. A small plaque adorns the wall next to the gate.
+~
+~
+0 4
+D0
+~
+gate door~
+33 2524 2520
+D2
+~
+~
+0 -1 2546
+S
+#2522
+Followers of Yar's Item Shop~
+This shop specializes in selling items to those who are followers of Yar.
+Yar's great power protects his many followers through the items which may be
+purchased here.  
+~
+~
+0 1
+D2
+~
+~
+0 -1 2507
+S
+#2523
+A dead end alley.~
+This is a dead end alley. Trash lies everywhere.
+~
+~
+0 1
+D2
+~
+~
+0 -1 2508
+S
+#2524
+The City Hall~
+You can see signs of a long-ago struggle here. There is nothing left in the
+room but a small desk in one corner.
+~
+~
+8 0
+D0
+~
+~
+0 -1 2508
+S
+#2525
+The Adaria Theatre~
+You are standing in the Adaria Theatre. Seating is minimal, and it is an open
+air theatre. A sign is posted at the entryway.
+~
+~
+0 2
+D0
+~
+~
+0 -1 2510
+S
+#2526
+A small room below the temple~
+You are standing in a small room below the temple. Symbols of the God
+Aecindo, who the people of this town once worshipped, remain on the walls
+here. Obviosly the secret passage above escaped the notice of the followers
+of Yar. A stairway leads farther down from here.
+~
+~
+12 0
+D4
+~
+~
+1 -1 2500
+D5
+~
+~
+0 -1 2527
+S
+#2527
+On the staircase~
+You are two levels below the temple. There are bright lights flickering on the
+walls here. There is a door to the south, and the staircase leads both up and
+down from here.
+~
+~
+8 0
+D2
+~
+~
+0 -1 2528
+D4
+~
+~
+0 -1 2526
+D5
+~
+~
+0 -1 2529
+S
+#2528
+A storage room.~
+This is a small storage room. There are boxes here that once had supplies in
+them, but are now empty.
+~
+~
+8 0
+D0
+~
+~
+0 -1 2527
+S
+#2529
+At the bottom of the staircase.~
+This is the bottom of the staircase. To the south of here, you can hear
+the sounds of many people. There is a gate on the south entryway that
+looks very secure.
+~
+~
+8 0
+D2
+~
+door gate~
+1 -1 2530
+D4
+~
+~
+0 -1 2527
+S
+#2530
+A brightly lit hallway.~
+This area seems well populated with refugees from above. Guards make
+sure everything runs smoothly. You smell food from the west. To the east,
+you hear many voices raised in laughter.
+~
+~
+131080 0
+D0
+~
+~
+0 -1 2529
+D1
+~
+~
+0 -1 2535
+D2
+~
+~
+0 -1 2531
+D3
+~
+~
+0 -1 2534
+S
+#2531
+A brightly lit hallway.~
+To both the east and west here, you see rooms full of refugees. This
+appears to be where the citizens who fled above are staying.
+~
+~
+8 0
+D0
+~
+~
+0 -1 2530
+D1
+~
+~
+0 -1 2537
+D2
+~
+~
+0 -1 2532
+D3
+~
+~
+0 -1 2536
+S
+#2532
+An intersection in a brightly lit hallway.~
+Here the hallway splits to the west and east. A large insignia graces the
+wall before you. To the west, you can hear both the priests of Aecindo as well
+as other voices. The east seems very quiet, and is not as well lit.
+~
+~
+8 0
+D0
+~
+~
+0 -1 2531
+D1
+~
+~
+0 -1 2538
+D3
+~
+~
+0 -1 2533
+S
+#2533
+A brightly lit hallway~
+This appears to be the end of the hallway. To the north you can see
+several important looking people in debate. The door to the south is marked
+"Training Room". To the west is the chapel.
+~
+~
+8 0
+D0
+~
+~
+0 -1 2539
+D1
+~
+~
+0 -1 2532
+D2
+~
+door~
+1 -1 2540
+D3
+~
+door~
+1 -1 2541
+S
+#2534
+The soup kitchen~
+This room appears to be a soup kitchen. Several people are lined up
+for what appears to be all that is left of the food here. Guards watch you
+closely.
+~
+~
+8 0
+D1
+~
+~
+0 -1 2530
+S
+#2535
+A small storage room.~
+This appears to be a small storage room. Boxes have been moved
+about to make tables and seating here. There is not much light here.
+~
+~
+8 0
+D3
+~
+~
+0 -1 2530
+S
+#2536
+A refugee barracks~
+This small room contains several beds, and a bath. There are decorations
+on the walls, obviously intended to make it feel more like home to those
+who are stuck here.
+~
+~
+8 0
+D1
+~
+~
+0 -1 2531
+S
+#2537
+A refugee barracks~
+This room has several beds and tables. It is obviously used as a barracks
+for many of the refugees that have fled above. There is a small curtain,
+behind which, is the bath.
+~
+~
+8 0
+D3
+~
+~
+0 -1 2531
+S
+#2538
+A large chamber~
+You are in a large chamber. The walls are made of what appears to be
+pure diamond, and every sound you make echoes over the silent room.
+In the middle, you notice a gargantuan statue that glows slightly in the
+darkness of the chamber.
+~
+~
+9 0
+D3
+~
+~
+0 -1 2532
+S
+#2539
+The Headquarters~
+This is the headquarters of the small army that belongs to these people
+There is a large oaken desk in the middle of the room. On the walls are
+various maps of the city. It appears as if those here are in deep discussion.
+~
+~
+8 0
+D2
+~
+~
+0 -1 2533
+S
+#2540
+The training room~
+This room seems to be set up to simulate a city environment. You notice
+that there are dummies all over the place which the soldiers are practicing
+with. Their captain does not appear to be here to supervise them.
+~
+~
+8 1
+D0
+~
+door~
+1 -1 2533
+S
+#2541
+The Chapel~
+This room is obviously a chapel. Upon the wall in the front of the room is
+a large diamond star, the symbol of Aecindo. The priest is praying quietly
+toward the symbol.
+~
+~
+8 0
+D1
+~
+door~
+1 -1 2533
+S
+#2542
+A well travelled trail.~
+This trail appears to be quite well travelled.  Things are very peaceful
+here, and the trail leads up into the mountains of the southwest.  A sign
+can be seen behind some bushes.  
+~
+~
+0 4
+E
+sign~
+Welcome to Adaria Road.
+
+West  -  Adaria
+East - Intersection with main Road
+~
+D1
+~
+~
+0 0 1529
+D3
+~
+~
+0 -1 2543
+S
+#2543
+The road to Adaria~
+The road continues here. The hills are giving way to mountains, and it is
+starting to get cold. The road takes a sharp turn to the north.
+~
+~
+0 4
+D0
+~
+~
+0 -1 2544
+D1
+~
+~
+0 -1 2542
+S
+#2544
+The road to Adaria~
+The mountains are beginning to get rough here. The climb is pretty hard,
+but you think you can make it. The air is pretty thin up here.
+~
+~
+0 5
+D0
+~
+~
+0 -1 2545
+D2
+~
+~
+0 -1 2543
+S
+#2545
+The road to Adaria~
+The mountains have levelled out here, but are still pretty high. Now you
+know why few people make the trek to Adaria. There is a sign along the
+road here.
+~
+~
+0 3
+E
+sign~
+Now entering the Kingdom of Adaria.
+	Under the Rulership of the Priesthood of Yar
+~
+D0
+~
+~
+0 -1 2546
+D2
+~
+~
+0 -1 2544
+S
+#2546
+The road to Adaria~
+You see the city of Adaria in the distance. Here and there you see burned
+out farmhouses. Nobody seems to be around. The city appears to be
+active though, for you can almost here the sounds from here.
+~
+~
+0 4
+D0
+~
+~
+0 -1 2521
+D2
+~
+~
+0 -1 2545
+S
+#0
+
+
+

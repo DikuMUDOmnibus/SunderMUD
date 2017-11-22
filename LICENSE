@@ -1,0 +1,262 @@
+SunderMud 2.1a
+--------------
+File Updated: November 24, 2003
+By:           Lotherius (lotherius@yahoo.com)
+
+-----------
+This file contains intact copies of the licenses which apply to this code.
+Please note that emails listed in previous licenses may be no good,
+including the one for myself in the release of SunderMud 1. These have not
+been updated or changed, but it does not invalidate the licenses.
+
+The applicable licenses, listed below include:
+SunderMud 2.x
+SunderMud 1
+Rom 2.3     (NOT 2.4)
+Merc 2.1
+DikuMud Gamma 0.0
+
+Each license is seperated by a dividing line of the following type:
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>name of license<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+SunderMud 2 License
+-------------------
+1) The credits for Diku, Merc, Rom and SunderMud *MUST* remain in the 
+   login sequence. The appearance may change, but the essential content
+   must remain. This includes any content required by Diku, Merc or Rom
+   licenses, as well as that provided regarding SunderMud.
+2) Your mud cannot be called "SunderMud".
+3) If you release a dirivitive work, this license still applies. I had
+   to add this section in because of attempts by some who are less than
+   honorable (*cough*cthulhumud*cough*) to hide their true origins.
+4) If you are unsure if your changes to the apearance of the login credits
+   meet with the spirit of these License, you may mail me and ask my
+   opinion. My opinion, of course, only applies for that portion of the
+   license I grant herein which is the SunderMud portion. I have no
+   authority over previous licenses.
+4) All previous licenses apply to this work. 
+5) The contact address for SunderMud 2.1a is lotherius@yahoo.com
+6) A request rather than a requirement - If you open a mud based on
+   SunderMud, please contact me to let me know.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>SunderMud 1<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+SunderMud 1
+-----------
+Tue Sep 9 1997
+-----------
+
+The following items are to be considered license requirements for
+SunderMud 1.
+
+1) following all guidelines in the diku license (contained in the file
+   license.doc), the Merc license (contained in the file license.txt),
+   and the Rom license (contained in the file rom.license).
+2) The credits message after username/password has been entered needs
+   to remain intact. You may add to it or change the colors, but may
+   not remove it.
+   --<strike out #3, the email is invalid now>--
+3) You must email elfren@aros.net with your mud name and address.
+4) You may not release a mud code by the name of SunderMud. Only
+   the original creator of SunderMud may do so. If you make a
+   dirivitive work, you may release it under another name so long as
+   proper credit to SunderMud is given and this license is followed.
+
+
+If you have any questions about this license, please send email to
+elfren@aros.net.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>Dark Times<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+This is included because you may see reference to it. Dark Times was never
+publicly released and has no license other than those inherited from previous
+works.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>Rom 2.3<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+In compiling this code, you have agreed to the following restrictions on
+any operating version of ROM code:
+
+1) following all guidelines in the diku license (contained in the file
+   license.doc )
+2) following	 all guidelines in the Merc license (contained in the file
+   license.txt)
+3) The login message to your mud must contain a notice that it is based
+   on ROM code. Including Russ Taylor or Alander in the message, or in
+   other credits, is optional
+4) Before opening a ROM-based mud, you must send email to the author
+   (rtaylor@cie-2.uoregon.edu), so that I can keep track of sites for
+   future code releases.
+5) Any use of the term Rivers of Mud remains the exclusive copyright of
+   Russ Taylor, this includes the sole right to release future versions
+   of ROM source code, and the title Rivers of Mud as pertains to a mud.
+   Permission to use the name Rivers of Mud has been granted to Zump,
+   the current ROM implementer, his mud will remain the only one with
+   that privilige.  As a coder, you have full rights to release
+   your own derivatives of the ROM code, provided they follow the restrictions of
+   this license, contain all appropriate README and credits files, and are
+   properly labelled as being derivatives of the ROM 2.3 code (just as ROM
+   is itself a derivative of Gamma 0.0 and Merc 2.1 code).
+			
+   (In English, this means that Alander is the only one allowed to release
+   ROM source code, as apposed to ROM derived source code, and that you
+   cannot call your mud ROM even though it uses ROM code)
+
+   If you have any questions about this license, please send email to
+   rtaylor@cie-2.uoregon.edu.
+   
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>Merc 2.1<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Merc Release 2.1
+Sunday 01 August 1993
+
+Furey	mec@shell.portal.com
+Hatchet	hatchet@uclink.berkeley.edu
+Kahn	michael@uclink.berkeley.edu
+
+
+
+=== Copyright and License Terms
+
+Diku Mud is copyright (C) 1990, 1991 by Sebastian Hammer, Michael Seifert,
+Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.  Their license agreement
+is in the file 'license.doc'.
+
+Merc Diku Mud is a derivative of the original Diku Mud and is subject to their
+copyright and license agreement.  Merc Diku Mud contains substantial
+enhancements to Diku Mud.  These enhancements are copyright 1992, 1993 by
+Michael Chastain, Michael Quan, and Mitchell Tse.
+
+In order to use Merc you must follow the Diku license and our license.  The
+exact terms of the Diku license are in the file 'license.doc'.  A summary of
+these terms is:
+
+	-- No resale or operation for profit.
+	-- Original author's names must appear in login sequence.
+	-- The 'credits' command must report original authors.
+	-- You must notify the Diku creators that you are operating a Diku mud.
+
+Our license terms are:
+
+	-- Copyrights must remain in original source.
+	-- 'Help merc' must report our help text, as shipped.
+
+Notice that our license terms don't include keeping our names in the login
+sequence.  If you want to keep a line in there referring to Merc, or referring
+to us by name (Furey, Hatchet, and Kahn), we'd appreciate that, but we don't
+require it.  But you must keep the original Diku authors in the login sequence.
+
+If you do not follow these license terms, we will ask you to comply.  If that
+doesn't work, then we will talk to your system administrators (not about your
+running a mud, but on the grounds that you're using our copyrighted software
+without permission).
+
+These are very generous terms for any software.  If you don't want to accept
+them, feel free to run some other software, or write your own.
+
+			
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>DikuMUD<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+/* ************************************************************************
+*  Copyright (C) 1990, 1991                                               *
+*  All Rights Reserved                                                    *
+************************************************************************* */
+
+                             DikuMud License
+
+                      Program & Concept created by
+
+
+Sebastian Hammer
+Prss. Maries Alle 15, 1
+1908 Frb. C.
+DENMARK
+(email quinn@freja.diku.dk)
+
+Michael Seifert
+Nr. Soeg. 37C, 1, doer 3
+1370 Copenhagen K.
+DENMARK
+(email seifert@freja.diku.dk)
+
+Hans Henrik St{rfeldt
+Langs} 19
+3500 V{rl|se
+DENMARK
+(email bombman@freja.diku.dk)
+
+Tom Madsen
+R|de Mellemvej 94B, 64
+2300 Copenhagen S.
+DENMARK
+(email noop@freja.diku.dk)
+
+Katja Nyboe
+Kildeg}rdsvej 2
+2900 Hellerup
+31 62 82 84
+DENMARK
+(email katz@freja.diku.dk)
+
+
+This document contains the rules by which you can use, alter or publish
+parts of DikuMud. DikuMud has been created by the above five listed persons
+in their spare time, at DIKU (Computer Science Instutute at Copenhagen
+University). You are legally bound to follow the rules described in this
+document.
+
+Rules:
+
+   !! DikuMud is NOT Public Domain, shareware, careware or the like !!
+
+   You may under no circumstances make profit on *ANY* part of DikuMud in
+   any possible way. You may under no circumstances charge money for
+   distributing any part of dikumud - this includes the usual $5 charge
+   for "sending the disk" or "just for the disk" etc.
+   By breaking these rules you violate the agreement between us and the
+   University, and hence will be sued.
+
+   You may not remove any copyright notices from any of the documents or
+   sources given to you.
+
+   This license must *always* be included "as is" if you copy or give
+   away any part of DikuMud (which is to be done as described in this
+   document).
+
+   If you publish *any* part of dikumud, we as creators must appear in the
+   article, and the article must be clearly copyrighted subject to this
+   license. Before publishing you must first send us a message, by
+   snail-mail or e-mail, and inform us what, where and when you are
+   publishing (remember to include your address, name etc.)
+
+   If you wish to setup a version of DikuMud on any computer system, you
+   must send us a message , by snail-mail or e-mail, and inform us where
+   and when you are running the game. (remember to include
+   your address, name etc.)
+
+
+   Any running version of DikuMud must include our names in the login
+   sequence. Furthermore the "credits" command shall always cointain
+   our name, addresses, and a notice which states we have created DikuMud.
+
+   You are allowed to alter DikuMud, source and documentation as long as
+   you do not violate any of the above stated rules.
+
+
+Regards,
+
+
+
+The DikuMud Group
+
+
+Note:
+
+We hope you will enjoy DikuMud, and encourage you to send us any reports
+on bugs (when you find 'it'). Remember that we are all using our spare
+time to write and improve DikuMud, bugs, etc. - and changes will take their
+time. We have so far put extremely many programming hours into this project.
+If you make any major improvements on DikuMud we would be happy to
+hear from you. As you will naturally honor the above rules, you will receive
+new updates and improvements made to the game.

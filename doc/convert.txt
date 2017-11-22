@@ -1,0 +1,16 @@
+SunderMud 2.0
+-------------
+
+There are many who may pass on SunderMud due to its non-compatible 
+areafile format. The old methods of #objold and #mobold, etc, no 
+longer are fully compatible with sundermud.
+
+I have my reasons for this -- mostly I got tired of the bloat of 
+supporting 3 areafile formats, that for all pracitcal purposes, were
+very different - Merc, Rom and Sunder, each with their own subdivisions,
+with Sunder being based on Rom 2.3 rather than 2.4, and most areas
+being 2.4 based.
+
+I was going to include functions to load Rom 2.4 areas, however I do
+not wish to subject SunderMud to the Rom 2.4 license so I did not do
+that.

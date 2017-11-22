@@ -1,0 +1,43 @@
+#MOBPROGS
+#14200
+if isnpc $n
+say Pets are only allowed in the stables!
+mob echo Looney calls in a stable hand who leads $n to the stables.
+mob transfer $n 14230
+else
+ramble $n
+endif
+~
+#14201
+mob echo Looney looks bored and begins making a fur cap from a rabbitskin.
+~
+#14202
+mob echoat $n Looney smiles as you give him the rabbitskin.
+mob echoaround $n Looney smiles as $n gives him a rabbitskin.
+say Since you're such a good customer, $n, I'll make you a rabbitskin cap out of this!
+mob echo Looney begins cutting & sewing the rabbitskin into a cap
+mob echo Looney utters some magical words, and the cap glows blue.
+smile $n
+mob oload 14204 15
+give cap $n
+mob junk skin
+mob junk cap
+~
+#14203
+mob cast 'exorcism' $n
+~
+#14204
+mob cast 'dispel magic' $n
+~
+#14205
+say Puny mortal! I am no bunny rabbit!
+  say I am the ever-feared Bunny Dragon!
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+

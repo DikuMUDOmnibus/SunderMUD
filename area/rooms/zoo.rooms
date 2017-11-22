@@ -1,0 +1,475 @@
+#5000
+Entrance to The Zoo~
+A wrought iron fence stands before you, with a gate in the middle,
+leading into the Zoo.  Rumour has it that people have been disappearing
+inside, but the idyllic appearance of the zoo implies that it is nothing
+more than a fun family spot.  Moon lilys climb all over the gate, blooming
+at night.  
+~
+~
+0 1
+D1
+~
+gate~
+1 -1 5001
+D3
+~
+~
+0 0 2074
+S
+#5001
+In the Zoo~
+A small gravel path leads through the zoo here.  To the north and south
+are cages with various animals in them.  The exit from the zoo lies to the
+west here.  A small {Rsign{w stands here.  
+~
+~
+0 1
+E
+sign~
+North: Squirrel Cage
+South: Tropical Aviary
+~
+D0
+~
+gate~
+1 -1 5007
+D1
+~
+~
+0 0 5002
+D2
+~
+gate~
+1 -1 5008
+D3
+~
+~
+1 -1 5000
+S
+#5002
+In the Zoo~
+A small gravel path leads through the zoo here.  To the north and south
+are cages with various animals in them.  The exit lies to the west, and the
+path continues to the east.  A small {Rsign{w stands here, obscured by a
+pretzel vendor.  
+~
+~
+0 1
+E
+sign~
+North: Elephants
+South: Duck Pond
+~
+D0
+~
+gate~
+1 -1 5009
+D1
+~
+~
+0 0 5003
+D2
+~
+gate~
+1 -1 5010
+D3
+~
+~
+0 0 5001
+S
+#5003
+In the Zoo~
+A small gravel path leads through the zoo here.  To the north and south
+are cages with various animals in them.  The exit lies to the west, and the
+path continues to the east.  A small {Rsign{w stands here.  
+~
+~
+0 1
+E
+sign~
+North: Snake Cage
+South: Buffalo Pen
+~
+D0
+~
+gate~
+1 -1 5011
+D1
+~
+~
+0 0 5004
+D2
+~
+gate~
+1 -1 5012
+D3
+~
+~
+0 0 5002
+S
+#5004
+In the Zoo~
+A small gravel path leads through the zoo here.  To the south and east
+are cages with various animals in them.  The exit lies to the west, and the
+path continues to the north.  A small {Rsign{w stands here.  
+~
+~
+0 1
+E
+sign~
+South: Wolf Den
+East: Fish Pond
+~
+D0
+~
+~
+0 0 5005
+D1
+~
+gate~
+1 -1 5014
+D2
+~
+gate~
+1 -1 5013
+D3
+~
+~
+0 0 5003
+S
+#5005
+In the Zoo~
+A small gravel path leads through the zoo here.  To the east and west are
+cages with various animals in them.  The path continues to the north and
+south.  A small {Rsign{w stands here.  
+~
+~
+0 1
+E
+sign~
+West: Snakes
+East: Kangarros
+~
+D0
+~
+~
+0 0 5006
+D1
+~
+gate~
+1 -1 5016
+D2
+~
+~
+0 0 5004
+D3
+~
+~
+1 -1 5011
+S
+#5006
+In the Zoo~
+A small gravel path leads to the south from here.  To the north, a
+barricade is across the path, blocking off the part of the zoo that is being
+held for future expansion.  A manhole cover smokes slightly.  A small
+{Rsign{w is here.  
+~
+~
+0 1
+E
+sign~
+West: Lion's Den
+East: Pandas
+~
+E
+sign~
+East: Alligator Pond
+ 
+North: {RClosed for Construction{w
+~
+D2
+~
+~
+0 0 5005
+D5
+~
+~
+1 -1 5017
+S
+#5007
+Inside the Squirrel Cage~
+Dead tree branches hang from the bars of this cage, providing a place for
+the squirrels to play.  
+~
+~
+8 0
+D2
+~
+~
+1 -1 5001
+S
+#5008
+Inside the Tropical Aviary~
+This cage is filled with bird droppings, and stinks to high heaven.
+~
+~
+8 0
+D0
+~
+~
+1 -1 5001
+S
+#5009
+The Elephant Pen~
+This small pasture is enclosed by a fence, giving the elephants here very
+little room to move.  There is a bit of hay strewn around for them to eat,
+but little else.  
+~
+~
+0 2
+D2
+~
+~
+1 -1 5002
+S
+#5010
+In the Duck Pond~
+This is a somewhat muddy pond, with lilys around the edges.
+~
+~
+0 6
+D0
+~
+~
+1 -1 5002
+S
+#5011
+The Snake Cage~
+There are rocks all about here, with weeds around them.  Something is
+slithering amongst them!  
+~
+~
+8 0
+D1
+~
+~
+1 -1 5005
+D2
+~
+~
+1 -1 5003
+S
+#5012
+The Buffalo Pen~
+A rather small pen, with grass piled in one corner, and buffalo patties
+on the ground.  
+~
+~
+0 2
+D0
+~
+~
+1 -1 5003
+S
+#5013
+The Wolf Den~
+This room is mostly a small cave-like room designed for the wolves to
+feel at home.  
+~
+~
+0 0
+D0
+~
+~
+1 -1 5004
+S
+#5014
+The Fish Pond~
+This is a muddy pond, filled with fish.
+~
+~
+0 0
+D3
+~
+~
+1 -1 5004
+S
+#5015
+The Alligator Pond~
+You've stumbled INTO the alligator's pond, and they don't seem to be too
+happy about it.  There are suspiscious piles around the shore too.  
+~
+~
+4 6
+S
+#5016
+The Kangaroo Cage~
+You are in the Kangaroo Cage.  The floor is covered with grasses, and it
+appears that the kangaroos are quite cramped in here.  
+~
+~
+0 0
+D3
+~
+~
+1 -1 5005
+S
+#5017
+Inside a manhole, under the zoo.~
+This chamber is small and cramped, unlit, and very smelly.  Apparently
+this is an access chamber to the pipes that supply water to the zoo, and run
+the, err, waste, back out.  Some of the pipes are leaking, and it appears
+that one of them is leaking something strange...  
+ 
+A small passageway leads south from here.
+~
+~
+1 11
+E
+pipe~
+A few of the pipes are leaking water or smelly sewage from the animal
+cages.  One, however, catches your attention.  The liquid it is leaking is
+{Gglowing{w, and appears to be etching holes in the brick floor of the
+chamber.  
+~
+D2
+~
+~
+0 0 5018
+D4
+~
+manhole~
+1 -1 5006
+S
+#5018
+A cramped passageway~
+Pipes run through this very cramped passageway, leaking water and sewage
+from the animal cages.  Silence permeates the air louder than any noise is
+capable of, with at least 15 feet of rock, dirt and paving above the
+chamber.  There is no dust, however, suggesting someone is down here often. 
+Routine maintenance is not likely considering the state of disrepair of
+these pipes.  The pipes enter a small tunnel which is much to small for
+anything larger than a pixie to fit through.  Something doesn't seem right,
+however.  There has to be another way out of this room than back to the
+north ...  
+~
+~
+1 11
+D0
+~
+~
+0 0 5017
+D1
+~
+secret door~
+65 -1 5019
+S
+#5019
+A narrow crawlspace~
+This crawspace is dug out of the dirt, and looks very dangerous.  It is
+barely large enough to crawl through, and has a distinctive smell that is a
+mixture of the deep soil and something else.  
+~
+~
+5 11
+D1
+~
+~
+0 0 5020
+D3
+~
+secret door~
+65 -1 5018
+S
+#5020
+A narrow crawlspace~
+This crawspace is dug out of the dirt, and looks very dangerous.  It is
+barely large enough to crawl through, and has a distinctive smell that is a
+mixture of the deep soil and something else.  
+~
+~
+1 11
+D1
+~
+~
+0 0 5021
+D3
+~
+~
+0 0 5019
+S
+#5021
+A narrow crawlspace~
+This crawspace is dug out of the dirt, and looks very dangerous.  It is
+barely large enough to crawl through, and has a distinctive smell that is a
+mixture of the deep soil and something else.  The crawlspace takes a
+southern turn here.  The air is getting warmer than the cool underground,
+and coming from the south.  
+~
+~
+1 11
+D2
+~
+~
+0 0 5022
+D3
+~
+~
+0 0 5020
+S
+#5022
+A narrow crawlspace~
+This crawspace is dug out of the dirt, and looks very dangerous.  It is
+barely large enough to crawl through, and has a distinctive smell that is a
+mixture of the deep soil and something else.  A warm breeze is blowing
+through the crawlspace from the south.  
+~
+~
+1 11
+D0
+~
+~
+0 0 5021
+D2
+~
+~
+0 0 5023
+S
+#5023
+Dead-End~
+The crawlspace ends here.  There is no apparent exit, but the warm
+breeze is still coming from the south.  An illusion perhaps?  
+~
+~
+1 11
+D0
+~
+~
+0 0 5022
+D2
+~
+~
+65 -1 5024
+S
+#5024
+A small room~
+Behind the door, the crawlspace opens out into a small wood-walled
+chamber.  A small torch flickers weakly on the wall, keeping the room warm
+and lit.  A ladder leads down through a hole in the floor.  
+~
+~
+276 0
+D0
+~
+~
+65 -1 5023
+D5
+~
+~
+0 0 10401
+S
+#0
+
+
+

@@ -1,0 +1,26 @@
+#MOBPROGS
+#1943
+say $n, you have saved me from the assassin!
+hug $n
+say You must take my scepter as a reward!
+remove scepter
+give scepter $n
+mob echo The king tears up the contract in disgust!
+mob junk contract
+mob delay 2
+break
+~
+#1944
+mob echo The king pulls a spare scepter from inside his robes.
+mob oload 1943 5
+wield scepter
+smile
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+

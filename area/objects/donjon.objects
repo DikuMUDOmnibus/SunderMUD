@@ -1,0 +1,762 @@
+#15100
+manacles~
+a pair of iron manacles~
+A pair of iron manacles lie here.~
+~
+iron~
+9 M AI 0
+C C C C 0
+8 15 -6000 100 100
+A
+14 -50
+A
+2 -3
+#15101
+straw~
+some filthy straw~
+Some filthy straw is scattered about the floor of this cell.~
+~
+paper~
+12 0 0 0
+C 0 A AC 0
+1 1 50 100 100
+#15102
+bowl~
+a wooden bowl~
+A wooden bowl sits here.~
+~
+wood~
+15 0 AO 0
+B A 0 0 0
+8 1 400 100 100
+#15103
+gruel~
+some watery gruel~
+Some watery gruel has been slopped here.~
+~
+food~
+19 0 A 0
+C 0 0 0 0
+8 1 400 100 100
+#15104
+ball chain~
+a ball and chain~
+A ball and chain has been left here.~
+~
+iron~
+9 M AF 0
+C C C C 0
+8 25 -18000 100 100
+A
+14 -200
+A
+2 -3
+#15105
+bones~
+some bones~
+Some bones are scattered about here.~
+~
+bone~
+13 0 A 0
+0 0 0 0 0
+1 10 10 100 100
+#15106
+iron maiden~
+an iron maiden~
+An iron maiden stands in one corner.~
+~
+iron~
+12 0 0 0
+A 0 CFI CEGHJKLMNOPQRSTUVWXYZabcdef 0
+1 1 10 100 100
+#15107
+rack~
+a rack~
+The rack is being used to stretch a dying prisoner.~
+~
+iron~
+12 0 0 0
+A 0 BEH BCDGHIJKLMNOPQRSTUVWXYZabcdef 0
+1 1 10 100 100
+#15108
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell A"
+~
+#15109
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell B"
+~
+#15110
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell C"
+~
+#15111
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell D"
+~
+#15112
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell E"
+~
+#15113
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell F"
+~
+#15114
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell G"
+~
+#15115
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell H"
+~
+#15116
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell I"
+~
+#15117
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell J"
+~
+#15118
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell K"
+~
+#15119
+key~
+a cell key~
+A cell key hangs here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+30 1 300 100 100
+E
+key~
+it is labelled "Cell L"
+~
+#15120
+bottle grog~
+a bottle of grog~
+A bottle of grog sits here.~
+~
+glass~
+17 0 AO 0
+AC AB ABC 0 0
+32 2 320 100 100
+#15121
+axe~
+a sturdy axe~
+A sturdy hand axe lies here.~
+~
+iron~
+5 0 AN 0
+AC B ABD A 0
+21 10 4250 100 100
+A
+19 4
+#15122
+belt~
+a leather belt~
+A leather belt once held up someone's trousers.~
+~
+leather~
+9 0 AL 0
+AD AD AD AD 0
+32 3 1600 100 100
+#15123
+trousers~
+a pair of stained trousers~
+A pair of stained trousers lie here.~
+~
+cloth~
+9 B AF 0
+AD AD AD AD 0
+32 5 1600 100 100
+#15124
+hairy chest~
+a hairy chest~
+A hairy chest lies here. Yes, someone's hairy chest.~
+~
+flesh~
+9 M AD 0
+AD AD AD AD 0
+32 2 3200 100 100
+A
+5 2
+#15125
+robes~
+the inquisitor's robes~
+The inquisitor's robes lie crumpled up here.~
+~
+cloth~
+9 0 AK 0
+BD BD BD BD 0
+39 4 3950 100 100
+A
+12 25
+#15126
+boots~
+the inquisitor's boots~
+The inquisitor's boots sit here.~
+~
+leather~
+9 0 AG 0
+BD BD BD BD 0
+39 5 13950 100 100
+A
+14 150
+#15127
+hood~
+the inquisitor's hood~
+The inquisitor's hood has been left here.~
+~
+cloth~
+9 0 AE 0
+BD BD BD BD 0
+39 2 3550 100 100
+A
+3 2
+#15128
+hot iron~
+a hot iron~
+A hot iron lies here.~
+~
+iron~
+1 A AO 0
+0 0 100 0 0
+1 2 50 100 100
+#15129
+brazier~
+a metal brazier~
+A metal brazier sits on a tripod here.~
+~
+brass~
+15 A 0 0
+BD A 0 0 0
+1 1 50 100 100
+#15130
+cabinet~
+a cabinet~
+A cabinet full of torture implements stands near one wall.~
+~
+wood~
+15 0 0 0
+DFGHIJ A 0 0 0
+1 1 50 100 100
+#15131
+iron mask~
+an iron mask~
+The man's iron mask has been removed.~
+~
+iron~
+9 M AE 0
+D D D D 0
+28 10 -200 100 100
+A
+17 -20
+#15132
+prison rags~
+prison rags~
+Some rags worn by a prisoner fester here.~
+~
+cloth~
+9 0 AD 0
+C C C C 0
+8 1 400 100 100
+#15133
+bed~
+a narrow bed~
+A narrow bed sits here.~
+~
+cloth~
+12 0 0 0
+C B A ADE 0
+22 1 1100 100 100
+#15134
+bat shit~
+some bat shit~
+Some bat shit is scattered about here.~
+~
+meat~
+19 0 A 0
+A 0 0 A 0
+18 1 180 100 100
+#15135
+rat shit~
+some rat shit~
+Some rat shit is scattered about here.~
+~
+meat~
+19 0 A 0
+A 0 0 A 0
+2 1 20 100 100
+#15136
+roach shit~
+some cockroach shit~
+Some cockroach shit is scattered about here.~
+~
+meat~
+19 0 A 0
+A 0 0 A 0
+1 1 10 100 100
+#15137
+pot~
+a massive iron pot~
+A massive iron pot bubbles away over a hearth here.~
+~
+iron~
+15 A 0 0
+BD A 0 0 0
+19 1 950 100 100
+#15138
+stew~
+a huge amount of stew~
+This stew is enough to feed a man for days.~
+~
+food~
+19 0 A 0
+FG 0 0 0 0
+0 10 0 100 100
+#15139
+hearth~
+a hearth~
+A hearth burns away here.~
+~
+stone~
+1 A 0 0
+0 0 999 0 0
+19 1 190 100 100
+#15140
+sword~
+a broad sword~
+A broad sword rests here, gleaming dully.~
+~
+bronze~
+5 G AN 0
+A AB ABCD AB 0
+31 10 6350 100 100
+A
+19 3
+A
+18 3
+#15141
+shield~
+a shield~
+A shield bearing the Coat of Arms of Anon rests here.~
+~
+wood~
+9 0 AJ 0
+AD AD AD AD 0
+31 5 750 100 100
+A
+17 -10
+#15142
+tunic~
+a black and gold tunic~
+A tunic bearing the Coat of Arms of Anon rests here.~
+~
+cloth~
+9 0 AD 0
+AD AD AD AD 0
+31 2 2350 100 100
+A
+5 1
+#15143
+coif~
+a metal coif~
+A metal coif lies here.~
+~
+brass~
+9 0 AE 0
+AD AD AD AD 0
+31 4 2750 100 100
+A
+25 -1
+A
+24 -2
+A
+23 -2
+#15144
+leggings~
+some metal leggings~
+A pair of metal leggings lie here.~
+~
+bronze~
+9 0 AF 0
+AD AD AD AD 0
+31 7 3550 100 100
+A
+14 25
+#15145
+gloves~
+a pair of leather gloves~
+A pair of leather gloves lies here.~
+~
+leather~
+9 0 AH 0
+AD AD AD AD 0
+31 2 3150 100 100
+A
+2 2
+#15146
+torch~
+a torch~
+A torch burns brightly here.~
+~
+wood~
+1 0 AO 0
+0 0 48 0 0
+31 1 1550 100 100
+#15147
+bracer~
+a steel bracer~
+A steel bracer lies here.~
+~
+steel~
+9 0 AM 0
+AD AD AD AD 0
+31 5 3150 100 100
+A
+13 10
+A
+1 1
+#15148
+dog collar~
+a spiked dog collar~
+A spiked dog collar would make a good punching weapon.~
+~
+leather~
+5 R AN 0
+0 B ABD B 0
+21 5 4250 100 100
+A
+19 4
+#15149
+file~
+an iron file~
+An iron file lies here.~
+~
+iron~
+5 0 AN 0
+0 B ABD ABD 0
+19 3 950 100 100
+#15150
+spoon~
+a spoon~
+This spoon has done a LOT of digging.~
+~
+brass~
+5 0 AN 0
+0 B BCD ABC 0
+28 1 1400 100 100
+#15151
+chains~
+some rattling chains~
+Some chains that could be rattled lie here.~
+~
+iron~
+9 M AK 0
+ABD ABD ABD ABD 0
+40 15 -1600 100 100
+A
+14 -25
+A
+2 -2
+#15152
+saliva coated fangs~
+some saliva coated fangs~
+Some saliva coated fangs have been torn from a dog's maw.~
+~
+bone~
+9 0 AE 0
+ABC ABC ABC ABC 0
+21 1 5850 100 100
+A
+19 3
+A
+18 3
+#15153
+thumbscrews~
+some thumbscrews~
+Some tumbscrews lie here.~
+~
+brass~
+9 M AH 0
+AB AB AB AB 0
+1 1 -2350 100 100
+A
+13 -10
+A
+2 -1
+A
+1 -1
+#15154
+pincers~
+a pair of pincers~
+A pair of pincers hang here.~
+~
+iron~
+5 0 AN 0
+0 A C BD 0
+1 5 50 100 100
+#15155
+iron chair~
+an iron chair~
+An iron chair with leather straps sits here.~
+~
+iron~
+12 0 0 0
+A 0 BEH BCEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+1 1 10 100 100
+#15156
+flaming feather dulphur~
+a flaming feather dipped in sulphur~
+A flaming feather dipped in sulphur has been placed here.~
+~
+unknown~
+1 Q AO 0
+0 0 120 0 0
+1 1 50 100 100
+#15157
+hot bath lime~
+a hot bath containing lime~
+A hot bath containing lime bubbles away here.~
+~
+ice~
+12 0 0 0
+A 0 CFI 0 0
+1 1 10 100 100
+#15158
+a pulley~
+a pulley~
+A pulley with a hooked rope attached hangs from the ceiling.~
+~
+iron~
+13 0 0 0
+0 0 0 0 0
+1 1 10 100 100
+#15159
+heavy weights~
+a row of heavy weights~
+A row of heavy weights sit here.~
+~
+stone~
+13 0 A 0
+0 0 0 0 0
+1 75 10 100 100
+#15160
+bellows~
+a bellows~
+A bellows used to fan the fires rests here.~
+~
+leather~
+13 0 0 0
+0 0 0 0 0
+1 1 10 100 100
+#15161
+hot coals~
+some hot coals~
+Ouch! These coals will burn your fingers!~
+~
+wood~
+1 Q AO 0
+0 0 50 0 0
+1 5 2450 100 100
+A
+19 3
+#15162
+scourge~
+a scourge~
+A spiky scourge affixed to a wheel is used to beat victims.~
+~
+iron~
+13 0 0 0
+0 0 0 0 0
+1 1 10 100 100
+#15163
+sword ael~
+the sword of Ael~
+The sword of Ael glows evilly here.~
+~
+unique~
+5 ABEGJM AN 0
+A C ACE ABD 0
+45 20 17850 100 100
+A
+19 8
+A
+18 8
+A
+17 -15
+A
+13 15
+A
+12 20
+A
+1 2
+#15164
+necklace~
+a jewelled necklace~
+A jewelled necklace lies here.~
+~
+crystal~
+9 AEJ AC 0
+ABD ABD ABD ABD 0
+43 1 7350 100 100
+A
+24 -2
+A
+23 -2
+A
+17 -5
+A
+12 25
+A
+4 2
+A
+3 2
+#15165
+boots~
+boots of quickness~
+A pair of nice boots rest here.~
+~
+leather~
+9 0 AG 0
+BD BD BD BD 0
+38 1 10700 100 100
+A
+17 -15
+A
+14 100
+A
+2 3
+#15166
+helm~
+a platinum helm~
+A platinum helm rests here.~
+~
+adamantite~
+9 BEJM AE 0
+BD BD BD BD 0
+35 5 3350 100 100
+A
+17 -25
+A
+12 50
+A
+4 3
+A
+3 -3
+#15167
+cloak~
+a plain gray cloak~
+A plain gray cloak has been left here.~
+~
+cloth~
+9 0 AK 0
+AD AD AD AD 0
+33 2 1650 100 100
+#0
+
+
+

@@ -1,0 +1,28 @@
+DOTD2 Intermud-3
+----------------
+
+For versions from 2.3.2 and up:
+
+You must first remove the I3 code that is in place now and follow the complete instructions
+for Smaug derivatives once you've done that. This will be necessary until Garil decides to
+upgrade his included I3 support in a later DOTDII code release.
+
+Versions 2.3.1 and lower have no included I3 support and can simply proceed with a full install
+according to the Smaug instructions and then do the modifications required here.
+
+In the comm.c install, the act_string section is not required.
+The code already has it in place.
+
+In i3cfg.h, in the #ifdef I3SMAUG section:
+
+Find:
+   #define CH_LEVEL(ch)	((ch)->level)
+Replace with:
+   #define CH_LEVEL(ch)	GetMaxLevel((ch))
+
+Find:
+   #define WIZINVIS(ch)		 (xIS_SET((ch)->act, PLR_WIZINVIS) && (ch)->pcdata->wizinvis >= this_mud->minlevel )
+Replace with:
+   #define WIZINVIS(ch)		( (IS_IMMORTAL(ch) && (ch)->pcdata->wizinvis > 0) )
+
+

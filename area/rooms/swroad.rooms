@@ -1,0 +1,2150 @@
+#14200
+On the Southwest Road~
+The road wanders through the rough terrain here.  Mount Solace can be
+seen almost immediately to the north, and the city of Solace itself,
+immediately to the northeast.
+~
+~
+0 5
+D1
+~
+~
+0 0 14228
+D3
+~
+~
+0 0 14237
+S
+#14201
+A small guardpost~
+A small guardpost is here, guarding the end of the Great Southwest Road. 
+Trees shadow the ramshackle building, and to the west of the building, past
+a gate, you can make out the road itself.  To the stands the gates of the
+City of Lukhan.  A small trail wanders off.  A rotten wooden {rsign{x is
+posted over the door of the guardhouse.  
+~
+~
+0 3
+E
+sign rotten wooden~
+GateHouse maintained jointly under the Lukhan - Solace compact.
+ 
+West: Solace
+East: City of Lukhan
+~
+D1
+~
+~
+0 0 2041
+D3
+A huge gate blocks the way.
+~
+gate door~
+1 -1 14202
+S
+#14202
+A westerly road~
+The road is muddy here, and well covered with grass. It appears as though
+not very many people traverse the road here. To the north you can see the
+peaks of the southern Dorn mountains in the far distance, and to the west,
+looms the great peak of Mt. Krestin.
+~
+~
+0 4
+D1
+~
+gate door~
+1 -1 14201
+D3
+~
+~
+0 -1 14203
+S
+#14203
+A southwest curve in the road~
+Here the road curves to the southwest gradually, avoiding some jagged hills
+immeidiately to the west. The altitude is rising sharply, and the air is getting
+thinner. The trees here are more and more evergreen than before.
+~
+~
+0 4
+D1
+~
+~
+0 -1 14202
+D2
+~
+~
+0 -1 14204
+S
+#14204
+A north-south stretch of the road~
+The road runs from north to south here through a proud stand of trees. To
+the north the road bends to the east, and farther north in the misty distance
+is the southern Dorn range of mountains. South of here, the road turns
+west again, skirting the jagged hills.
+~
+~
+0 4
+D0
+~
+~
+0 -1 14203
+D2
+~
+~
+0 -1 14205
+S
+#14205
+A westerly bend in the road~
+The road turns a westerly direction here, and through a gap in the trees you
+can see the soaring peak of Mt. Krestin piercing the sky to the west. You
+can are much higher in altitude than before. The road here is becoming very
+rocky, and the mud is a thing of the past.
+
+A pile of wreckage sits alongside the road here.
+~
+~
+0 5
+E
+wreckage pile~
+The pile of wreckage looks like it may have once been a wagon. There are
+useless chunks of metal laying amidst charred boards. There doesn't appear
+to be anything of use here.
+~
+D0
+~
+~
+0 -1 14204
+D3
+~
+~
+0 -1 14206
+S
+#14206
+A paved road sloping up~
+The road here is now paved, though not well maintained. The road
+appears to be climbing the slopes of Mt. Krestin now.To the north is a
+mine entrance which appears to have been closed off by an avalanche.
+~
+~
+0 5
+D0
+~
+~
+1 -1 14236
+D1
+~
+~
+0 -1 14205
+D3
+~
+~
+0 -1 14207
+S
+#14207
+A paved road on the slopes of Mt. Krestin~
+You can see the steep peak of Mt. Krestin towering over you to the west.
+The road appears to head straight toward it from here. Back to the east, the
+trail drops back down into the foothills sharply. Jagged spikes of rock line
+the road to the north.
+~
+~
+0 5
+D1
+~
+~
+0 -1 14206
+D3
+~
+~
+0 -1 14208
+S
+#14208
+The road at the edge of the treeline~
+The road begins to break out of the trees here, and the peak of Mt. Krestin
+obliterates anything else from view to the west. What seems like a mile up
+the slope, the road turns to the south to skirt the peak itself. A cold wind
+whips at you here. You see a small building to the south with a {rsign{w
+hanging over the door.
+~
+~
+0 5
+E
+building~
+The building is a small, dilapidated deal, with old dusty windows.
+~
+E
+sign~
+The Looney Elf Inn
+~
+D1
+~
+~
+0 -1 14207
+D2
+~
+~
+1 -1 14229
+D3
+~
+~
+0 -1 14209
+S
+#14209
+A road high on the east slope~
+You are high on the east slope of Mt. Krestin. The snowfields on the tall
+peak loom before you to the west. To the south you can make out the dark
+Thornhaven Forest. A cold wind rips at you here.
+~
+~
+0 5
+D1
+~
+~
+0 -1 14208
+D3
+~
+~
+0 -1 14210
+S
+#14210
+Along the road skirting the main peak~
+The road turns south here to skirt the main peak of Mt. Krestin, which
+looms above you. A cold wind tears through your clothing and chills you to
+the bone. Far, far to the east, you can make out the faint outline of the walls
+of Midgaard.
+~
+~
+0 5
+D1
+~
+~
+0 -1 14209
+D2
+~
+~
+0 -1 14211
+S
+#14211
+Along the road skirting the main peak~
+The road runs north to south here, skirting the main peak of Mt. Krestin.
+The air is still extremely thin, and the wind is ripping at your clothing.
+~
+~
+0 5
+D0
+~
+~
+0 -1 14210
+D2
+~
+~
+0 -1 14212
+S
+#14212
+A curve in the road around Mt. Krestin~
+The road curves around the southeast of Mt. Krestin here. To the south,
+you see the dark green carpet of Thornhaven Forest. To the northwest you
+can see nothing put the looming peak of the mountain.
+~
+~
+0 5
+D0
+~
+~
+0 -1 14211
+D3
+~
+~
+0 -1 14213
+S
+#14213
+Along the road south of Mt. Krestin~
+The road is pretty level here, albeit quite high above the Thornhaven forest
+to the south. To the north is the looming peak of Mt. Krestin. The cold wind
+rips at your clothing here.
+~
+~
+0 5
+D1
+~
+~
+0 -1 14212
+D3
+~
+~
+0 -1 14214
+S
+#14214
+Along the road south of Mt. Krestin~
+The road is pretty level here, albeit quite high above the Thornhaven forest
+to the south. To the north is the looming peak of Mt. Krestin. The cold wind
+rips at your clothing here.
+~
+~
+0 5
+D1
+~
+~
+0 -1 14213
+D3
+~
+~
+0 -1 14215
+S
+#14215
+Along the road south of Mt. Krestin~
+The road is pretty level here, albeit quite high above the Thornhaven forest
+to the south. To the north is the looming peak of Mt. Krestin. The cold wind
+rips at your clothing here.
+~
+~
+0 5
+D1
+~
+~
+0 -1 14214
+D3
+~
+~
+0 -1 14216
+S
+#14216
+Along the road south of Mt. Krestin~
+The road is pretty level here, albeit quite high above the Thornhaven forest
+to the south. The cold wind rips at your clothing here. You can see the road
+curving to the northwest and down around the other side of the mountain
+ahead.
+~
+~
+0 5
+D0
+~
+~
+0 -1 14217
+D1
+~
+~
+0 -1 14215
+S
+#14217
+On the road southwest of Mt. Krestin~
+The road is slowly sloping down off of the mountain now, and in the
+distance you can see the blue ribbon of a river.  To the northeast, Mt. 
+Krestin looms high and proud.  
+~
+~
+0 5
+D2
+~
+~
+0 -1 14216
+D3
+~
+~
+0 -1 14218
+S
+#14218
+On the road southwest of Mt. Krestin~
+The road is slowly sloping down off of the mountain now, and in the
+distance you can see the blue ribbon of a river.  To the northeast, Mt. 
+Krestin looms high and proud.  
+~
+~
+0 5
+D0
+~
+~
+0 -1 14219
+D1
+~
+~
+0 -1 14217
+S
+#14219
+On the road west of Mt. Krestin~
+The road is slowly sloping down off of the mountain now, and in the
+distance you can see the blue ribbon of a river.  To the east, the great
+mountain still fills the sky.  
+~
+~
+0 5
+D2
+~
+~
+0 -1 14218
+D3
+~
+~
+0 -1 14220
+S
+#14220
+On the road west of Mt. Krestin~
+The road is slowly sloping down off of the mountain now, and in the
+distance you can see the blue ribbon of a river.  To the east, the great
+mountain still fills the sky.  The road is now surrounded by a sparse
+highland pine forest.  
+~
+~
+0 5
+D0
+~
+~
+0 -1 14221
+D1
+~
+~
+0 -1 14219
+S
+#14221
+On the road near the Canyon Gorge~
+To the east, Mt. Krestin fills the sky here. To the west, you can see the
+great Chermatin Canyon Gorge, and the sounds of it can be heard even from
+this distance. The smell of pine and the roar of the nearby canyon fill the air.
+~
+~
+0 4
+D0
+~
+~
+0 -1 14222
+D2
+~
+~
+0 -1 14220
+S
+#14222
+On the road east of the the Canyon Gorge~
+This is the east edge of the Chermatin Canyon Gorge.  A huge bridge
+crosses the canyon, which must be over a mile across.  The roar of the water
+in the gorge deafens out almost all other sounds.  
+~
+~
+0 4
+D2
+~
+~
+0 -1 14221
+D3
+~
+~
+0 -1 14223
+S
+#14223
+On the bridge of Chermatin Canyon~
+This is a humoungous bridge crossing the canyon gorge. The bridge itself
+is wide enough to march an army across, and no doubt that is what it was
+built for. Thousands of feet below the water roars past, drowning out all
+other sounds here.
+~
+~
+0 0
+D1
+~
+~
+0 -1 14222
+D3
+~
+~
+0 -1 14224
+S
+#14224
+On the bridge of Chermatin Canyon~
+This is a humongous bridge crossing the canyon gorge. The bridge itself
+is wide enough to march an army across, and no doubt that is what it was
+built for. Thousands of feet below the water roars past, drowning out all
+other sounds here.
+~
+~
+0 0
+D1
+~
+~
+0 -1 14223
+D3
+~
+~
+0 -1 14225
+S
+#14225
+On the road west of the Canyon Gorge~
+To the east is the Great Chermatin Canyon Gorge. The bridge crossing it
+seems to be well over a mile across, and the technologies needed to build
+such a bridge obviously no longer exist in the lands.
+~
+~
+0 4
+D0
+~
+~
+0 -1 14226
+D1
+~
+~
+0 -1 14224
+S
+#14226
+Along the Solace Road~
+There are fields and pastures along the road here, and you can see the
+towers of the legendary city of Solace ahead to the northwest. The
+road seems quite well maintained here.
+~
+~
+0 4
+D2
+~
+~
+0 -1 14225
+D3
+~
+~
+0 -1 14227
+S
+#14227
+Along the Solace Road~
+Farmhouses line the road here, and the traffic of people slow you down
+somewhat. To the north you can see the towers of Solace, and to the
+southeast in the distance you can make out the blue ribbon of the Chermatin
+Canyon. Far to the southeast you can see the graceful peak of Mt. Krestin.
+Past Solace to the northwest you can see the even higher peak of
+Center Mountain.
+~
+~
+0 2
+D0
+~
+~
+0 -1 14228
+D1
+~
+~
+0 -1 14226
+S
+#14228
+The CrossRoads~
+You stand outside the south gate of Solace.  Guards stand to both sides
+of the gate keeping order.  The gates are made of clean white stone, and the
+fabled city lies beyond.  To the west, the road continues down into the
+hills.  To the east, it rises sharply toward the Krestin mountain range.  A
+{rsign{x is here.  
+~
+~
+0 1
+E
+sign~
+Welcome to the CrossRoads.
+ 
+North: Solace
+East: City of Lukhan
+West: City of Ashton
+~
+D0
+~
+gate~
+1 -1 10201
+D2
+~
+~
+0 -1 14227
+D3
+~
+~
+0 0 14200
+S
+#14229
+Main room of the Looney Elf Inn~
+This is the main room of the looney elf inn. There are several people around,
+and the atmosphere seems very relaxed. The walls have flowers and portraits
+on them. You notice a couple of the portraits have been hung upside down.
+There is a door to the west to the stables, and a staircase which leads to the
+rooms.
+~
+This room is mine. - Lotherius
+~
+8 0
+E
+portrait~
+Only one of the portraits is labeled, and it reads "Looney Meeting Drijian".
+Oddly enough, it has a painting of Looney meeting Drijian on it.
+Looney sees you looking at the portrait and says "Dats when I met Drijian, yup.
+Back when dis ol' in were lot more den it is now, yup."
+~
+D0
+~
+~
+1 -1 14208
+D3
+~
+~
+1 -1 14230
+D4
+~
+~
+0 -1 14231
+S
+#14230
+The stables~
+This is the stables of the Inn. A horseshoe hangs over the door back into the
+inn. The smell of horses is strong here. In the dim light, you can see lots of
+stalls and such where horses are kept, yet they are all empty. The door back
+to the inn is east.
+~
+~
+9 0
+D1
+~
+~
+1 -1 14229
+S
+#14231
+Upstairs hallway~
+This is the upstairs hallway of the Looney Elf Inn. There are rooms to both
+the north and south, and the hallway continues a short distance to the west.
+~
+~
+8 0
+D0
+~
+~
+1 -1 14232
+D2
+~
+~
+1 -1 14233
+D3
+~
+~
+0 -1 14234
+D5
+~
+~
+0 -1 14229
+S
+#14232
+A room in the inn~
+This room is pretty bare. There is nothing but a straw bed and a dresser in
+here, and the bed doesn't look very comfortable.
+~
+~
+2056 0
+D2
+~
+~
+1 -1 14231
+S
+#14233
+A room in the inn~
+This room has a straw bed that looks like it *could* be comfortable after a
+long journey on the road. It also looks occupied - clothing is hanging on a
+small bar at the back of the room.
+~
+~
+2056 0
+D0
+~
+~
+1 -1 14231
+S
+#14234
+The end of the hallway.~
+This is the end of the short upstairs hallway. Back to the east are the two
+rooms this inn offers for rent as well as the staircase down. To the west is
+a door marked "Looney's Room". There is a {Rsign{w on the door with a
+{Rwarning{w in big red letters.
+~
+~
+8 0
+E
+sign~
+{RWarning - Do Not Enter.
+{WProtected by Looney's Guard Cooshie.
+{GYou have been warned. Death will be your fault.
+~
+D1
+~
+~
+0 -1 14231
+D3
+~
+~
+1 -1 14235
+S
+#14235
+Inside Looney's Room~
+When you enter the room, you realize that Looney has definitely earned
+his name. This room does not even appear to be level - it is angled sharply
+to the left. The light is annoyingly flashing between purple and red, and the
+strong smell of incense is on the air.
+~
+~
+8 11
+D1
+~
+~
+1 -1 14234
+S
+#14236
+Behind the boulders covering the entrance to the mine~
+This is a small room behind the boulders. It appears that there are yet more
+boulders covering the entrance beyond here, and you can go no farther.
+~
+~
+521 0
+D2
+~
+~
+1 -1 14206
+S
+#14237
+The Southwest Road west of Solace~
+The road wanders through the rough terrain here.  You can see Mount
+Solace to the north, and to the east is Solace.  
+~
+~
+0 5
+D1
+~
+~
+0 0 14200
+D3
+~
+~
+0 0 14238
+S
+#14238
+On the road in the foothills~
+The road descends into foothills here.  To the east mountains loom above,
+and you can see the towering peak of Mount Solace to the north.  Trees are
+growing thinly around the road here.  
+~
+~
+0 5
+D1
+~
+~
+0 0 14237
+D3
+~
+~
+0 0 14239
+S
+#14239
+On the road in the foothills~
+The road plunges on through the foothills to the southwest of the
+mountain range.  Mount Solace looms to the north.  To the west, a grand
+vista can be seen, with the lands stretching out all the way to the horizon
+below the foothills.  
+~
+~
+0 4
+D1
+~
+~
+0 0 14238
+D3
+~
+~
+0 0 14240
+S
+#14240
+On the road in the foothills~
+The road plunges on through the foothills to the southwest of the
+mountain range.  Mount Solace looms to the north.  To the west, a grand
+vista can be seen, with the lands stretching out all the way to the horizon
+below the foothills.  
+~
+~
+0 4
+D1
+~
+~
+0 0 14239
+D3
+~
+~
+0 0 14241
+S
+#14241
+On the SouthWest Road at the edge of the Great Plateau~
+The road stretches out across the Great Plateau to the west, and climbs
+into the foothills to the east.  Mount Solace can be seen to the northeast,
+and an entire mountain range farther east, which marks the backbone of the
+continent.  To the north, the sounds of a small city or village can be
+heard.  
+~
+~
+0 4
+D0
+~
+~
+0 0 14900
+D1
+~
+~
+0 0 14240
+D3
+~
+~
+0 0 14242
+S
+#14242
+On the road at the edge of the High Plateau~
+The road takes a slight turn here, heading due east into the hills, and
+southwest across the High Plateau.  The Solace River can be seen in the
+distant west cutting a green swath through the plateau.  
+~
+~
+0 2
+D1
+~
+~
+0 0 14241
+D2
+~
+~
+0 0 14243
+S
+#14243
+On the road across the High Plateau~
+The high plateau here stretches in all directions, back east toward
+Solace and the hills, and to the west toward the Solace River Valley.  In
+the distant south, the plains of Malathar can be seen as though covered by
+mist.  
+~
+~
+0 2
+D0
+~
+~
+0 0 14242
+D3
+~
+~
+0 0 14244
+S
+#14244
+On the road across the High Plateau~
+The high plateau here stretches in all directions, back east toward
+Solace and the hills, and to the west toward the Solace River Valley.  In
+the distant south, the plains of Malathar can be seen as though covered by
+mist.  
+~
+~
+0 2
+D1
+~
+~
+0 0 14243
+D2
+~
+~
+0 0 14245
+S
+#14245
+On the road descending into the Solace River Valley~
+The plateau abrupty stops as the road descends into a lush and hilly
+river valley.  The sounds of life surround this valley, with birds and other
+creatures livening the atmosphere.  The gravel of the road is well packed,
+but neatly maintained here in this valley.  
+~
+~
+0 4
+D0
+~
+~
+0 0 14244
+D3
+~
+~
+0 0 14246
+S
+#14246
+On the road through the Solace River Valley~
+The floor of the Solace River Valley is a picture of utopia, with the
+road following the river closely.  Sounds of nature pleasantly fill the air
+and were it not for the neatly maintained road it would be easy to forget
+about civilization in this pastoral country valley.  
+~
+~
+0 3
+D1
+~
+~
+0 0 14245
+D3
+~
+~
+0 0 14247
+S
+#14247
+On the road east of the Solace River~
+The floor of the Solace River Valley is a picture of utopia, with the
+road following the river closely.  Sounds of nature pleasantly fill the air
+and were it not for the neatly maintained road it would be easy to forget
+about civilization in this pastoral country valley.  The sounds of the
+Solace River can be heard to the west, and the sweet smell of water fills
+the air.  To the east, hills can be seen as the road approaches the Great
+Plateau.  
+~
+~
+0 3
+D1
+~
+~
+0 0 14246
+D3
+~
+~
+0 0 14248
+S
+#14248
+On a wooden bridge across the Solace River~
+The Solace River rushes underneath, sending spray up through the plank
+floor of the bridge.  On both sides of the river the road winds through a
+lush river valley forest.  Almost everyone recognizes this bridge, as the
+pastoral scene it sets is the subject of many famous paintings.  
+~
+~
+0 3
+D1
+~
+~
+0 0 14247
+D3
+~
+~
+0 0 14249
+S
+#14249
+On a wooden bridge across the Solace River~
+The Solace River rushes underneath, sending spray up through the plank
+floor of the bridge.  On both sides of the river the road winds through a
+lush river valley forest.  Almost everyone recognizes this bridge, as the
+pastoral scene it sets is the subject of many famous paintings.  
+~
+~
+0 3
+D1
+~
+~
+0 0 14248
+D3
+~
+~
+0 0 14250
+S
+#14250
+The road on the east bank of the Solace River~
+~
+~
+0 3
+D1
+~
+~
+0 0 14249
+D2
+~
+~
+0 0 14251
+S
+#14251
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14250
+D3
+~
+~
+0 0 14252
+S
+#14252
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14251
+D2
+~
+~
+0 0 14253
+S
+#14253
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14252
+D1
+~
+~
+0 0 400
+D2
+~
+~
+0 0 14254
+S
+#14254
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14253
+D2
+~
+~
+0 0 14255
+S
+#14255
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14254
+D3
+~
+~
+0 0 14256
+S
+#14256
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14255
+D2
+~
+~
+0 0 14257
+S
+#14257
+On the north bank of the Solace River~
+~
+~
+0 3
+D0
+~
+~
+0 0 14256
+D2
+~
+~
+0 0 14260
+S
+#14258
+Outside the city of New Thalos~
+The southwest road winds to an end here before the gates of New Thalos.  The
+road even outside the city is busy, and you can see the huge stone walls
+immediately to the south.  To the north, the road leads off into the jungle.
+A {rsign{x graces the road here with a brass rim on it.  
+~
+~
+0 0
+E
+sign~
+In the distance on this road lay the cities of Lukhan, Adaria, Solace,
+and many others.  May you find adventure or profits meeting your
+expectations.  
+~
+D0
+~
+~
+0 0 14319
+D3
+~
+~
+0 0 9707
+S
+#14259
+In a covered bridge over the Solace River~
+~
+~
+1 0
+D0
+~
+~
+0 0 14260
+D2
+~
+~
+0 0 14261
+S
+#14260
+In a covered bridge over the Solace River~
+~
+~
+1 0
+D0
+~
+~
+0 0 14257
+D2
+~
+~
+0 0 14259
+S
+#14261
+On the south bank of the Solace River~
+~
+~
+0 3
+D0
+~
+~
+0 0 14259
+D2
+~
+~
+0 0 14262
+S
+#14262
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14261
+D3
+~
+~
+0 0 14263
+S
+#14263
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14262
+D2
+~
+~
+0 0 14264
+S
+#14264
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14263
+D2
+~
+~
+0 0 14265
+S
+#14265
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14264
+D3
+~
+~
+0 0 14266
+S
+#14266
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14265
+D3
+~
+~
+0 0 14267
+S
+#14267
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14266
+D3
+~
+~
+0 0 14268
+S
+#14268
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14267
+D3
+~
+~
+0 0 14269
+S
+#14269
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14268
+D2
+~
+~
+0 0 14270
+S
+#14270
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14269
+D2
+~
+~
+0 0 14271
+S
+#14271
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14270
+D2
+~
+~
+0 0 14272
+S
+#14272
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14271
+D3
+~
+~
+0 0 14273
+S
+#14273
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14272
+D3
+~
+~
+0 0 14274
+S
+#14274
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14273
+D3
+~
+~
+0 0 14275
+S
+#14275
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14274
+D3
+~
+~
+0 0 14276
+S
+#14276
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14275
+D3
+~
+~
+0 0 14277
+S
+#14277
+On the road through the Solace River Valley~
+~
+~
+0 3
+D1
+~
+~
+0 0 14276
+D2
+~
+~
+0 0 14278
+S
+#14278
+On the road through the Solace River Valley~
+~
+~
+0 3
+D0
+~
+~
+0 0 14277
+D3
+~
+~
+0 0 14279
+S
+#14279
+On the east bank of the Solace River~
+~
+~
+0 3
+D1
+~
+~
+0 0 14278
+D3
+~
+~
+0 0 14280
+S
+#14280
+In the Solace River at the fallen bridge.~
+~
+~
+16 6
+D1
+~
+~
+0 0 14279
+D3
+~
+~
+0 0 14281
+S
+#14281
+In the Solace River at the fallen bridge.~
+~
+~
+16 6
+D1
+~
+~
+0 0 14280
+D3
+~
+~
+0 0 14282
+S
+#14282
+On the west bank of the Solace River~
+~
+~
+0 3
+D1
+~
+~
+0 0 14281
+D3
+~
+~
+0 0 14283
+S
+#14283
+On the road leading out of the Solace River Valley~
+~
+~
+0 4
+D1
+~
+~
+0 0 14282
+D3
+~
+~
+0 0 14284
+S
+#14284
+The road on the eastern fringe of the Great Western Desert~
+~
+~
+0 2
+D1
+~
+~
+0 0 14283
+D3
+~
+~
+0 0 14285
+S
+#14285
+The road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14284
+D3
+~
+~
+0 0 14286
+S
+#14286
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14285
+D3
+~
+~
+0 0 14287
+S
+#14287
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14286
+D3
+~
+~
+0 0 14288
+S
+#14288
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14287
+D3
+~
+~
+0 0 14289
+S
+#14289
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14288
+D3
+~
+~
+0 0 14290
+S
+#14290
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14289
+D3
+~
+~
+0 0 14291
+S
+#14291
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14290
+D3
+~
+~
+0 0 14292
+S
+#14292
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14291
+D3
+~
+~
+0 0 14293
+S
+#14293
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14292
+D3
+~
+~
+0 0 14294
+S
+#14294
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14293
+D3
+~
+~
+0 0 14295
+S
+#14295
+On the road through the Great Western Desert~
+~
+~
+0 10
+D0
+~
+~
+0 0 14296
+D1
+~
+~
+0 0 14294
+S
+#14296
+On the road through the Great Western Desert~
+~
+~
+0 10
+D2
+~
+~
+0 0 14295
+D3
+~
+~
+0 0 14297
+S
+#14297
+On the road through the Great Western Desert~
+~
+~
+0 10
+D0
+~
+~
+0 0 14323
+D1
+~
+~
+0 0 14296
+D3
+~
+~
+0 0 14298
+S
+#14298
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14297
+D3
+~
+~
+0 0 14299
+S
+#14299
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14298
+D3
+~
+~
+0 0 14300
+S
+#14300
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14299
+D3
+~
+~
+0 0 14301
+S
+#14301
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14300
+D3
+~
+~
+0 0 14302
+S
+#14302
+On the road through the Great Western Desert~
+The desert is as foreboding as ever to the casual traveller.  Hardy
+adventurers still find little comfort here.  The road is little more here
+than a faint sign of wagon-ruts from past traffic, little as that has been. 
+Signs dot the landscape both east and west, marking the road out so it can
+be found again in case of a sandstorm.  Without them, it would be very easy
+to get lost on this road.  To the north a fortress of some type can be seen,
+built into an outcropping the size of a mountain.  
+~
+~
+0 10
+D0
+~
+~
+0 0 30800
+D1
+~
+~
+0 0 14301
+D3
+~
+~
+0 0 14303
+S
+#14303
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14302
+D3
+~
+~
+0 0 14304
+S
+#14304
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14303
+D3
+~
+~
+0 0 14305
+S
+#14305
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14304
+D3
+~
+~
+0 0 14306
+S
+#14306
+On the road through the Great Western Desert~
+~
+~
+0 10
+D0
+~
+~
+0 0 8100
+D1
+~
+~
+0 0 14305
+D2
+~
+~
+0 0 14307
+S
+#14307
+On the road through the Great Western Desert~
+~
+~
+0 10
+D0
+~
+~
+0 0 14306
+D3
+~
+~
+0 0 14308
+S
+#14308
+On the road through the Great Western Desert~
+~
+~
+0 10
+D1
+~
+~
+0 0 14307
+D2
+~
+~
+0 0 14309
+S
+#14309
+On the road through the Great Western Desert~
+~
+~
+0 10
+D0
+~
+~
+0 0 14308
+D2
+~
+~
+0 0 14310
+S
+#14310
+On the road near the western fringe of the Great Western Desert~
+~
+~
+0 2
+D0
+~
+~
+0 0 14309
+D2
+~
+~
+0 0 14311
+S
+#14311
+On the road near the edge of a Jungle~
+The road curves through the edge of the jungle here, leading north into
+the Great Western Desert, and farther southwest toward the city of New
+Thalos.  
+~
+~
+0 3
+D0
+~
+~
+0 0 14310
+D3
+~
+~
+0 0 14312
+S
+#14312
+On the road winding through the dense jungle~
+~
+~
+0 3
+D1
+~
+~
+0 0 14311
+D2
+~
+~
+0 0 14313
+S
+#14313
+On the road through the dense jungle~
+~
+~
+0 3
+D0
+~
+~
+0 0 14312
+D3
+~
+~
+0 0 14314
+S
+#14314
+On the road through the dense jungle~
+~
+~
+0 3
+D1
+~
+~
+0 0 14313
+D2
+~
+~
+0 0 14315
+S
+#14315
+On the New Thalos Road~
+~
+~
+0 3
+D0
+~
+~
+0 0 14314
+D3
+~
+~
+0 0 14316
+S
+#14316
+On the New Thalos Road~
+~
+~
+0 3
+D1
+~
+~
+0 0 14315
+D2
+~
+~
+0 0 14317
+S
+#14317
+On the New Thalos Road~
+~
+~
+0 3
+D0
+~
+~
+0 0 14316
+D2
+~
+~
+0 0 14318
+S
+#14318
+On the New Thalos Road~
+~
+~
+0 3
+D0
+~
+~
+0 0 14317
+D3
+~
+~
+0 0 14319
+S
+#14319
+On the New Thalos Road~
+~
+~
+0 3
+D1
+~
+~
+0 0 14318
+D2
+~
+~
+0 0 14258
+S
+#14320
+Mob Chute Distribution Point~
+All exits lead to spots on sw road.
+UP goes to mob chute central.
+~
+~
+41216 0
+D0
+~
+~
+0 0 14207
+D1
+~
+~
+0 0 14247
+D2
+~
+~
+0 0 14240
+D3
+~
+~
+0 0 14224
+D4
+~
+~
+0 0 14321
+D5
+~
+~
+0 0 14254
+S
+#14321
+Mob Chute Central~
+Mobs reset here and move out in all directions to the distribution rooms.  
+~
+~
+41216 0
+D4
+~
+~
+0 0 14322
+D5
+~
+~
+0 0 14320
+S
+#14322
+Mob Chute Distribution Point.~
+All exits lead to spots on sw road.
+DOWN leads to mob chute central.
+~
+~
+33024 0
+D0
+~
+~
+0 0 14286
+D1
+~
+~
+0 0 14296
+D2
+~
+~
+0 0 14305
+D3
+~
+~
+0 0 14280
+D4
+~
+~
+0 0 14263
+D5
+~
+~
+0 0 14321
+S
+#14323
+A small path leading north~
+A small path meanders north here, leading to a few small foothills.  In
+the distance larger mountains are visable, with one particularly large peek
+reaching high above the others.  Most likely this path has been worn out by
+travelers seeking shelter from the scorching desert.  The road also heads
+south into the Great Western Desert.  
+~
+~
+0 10
+D0
+~
+~
+0 0 14324
+D2
+~
+~
+0 0 14297
+S
+#14324
+A small path leading north through the desert~
+A small path travels north into some foothills, while south leads into a
+vast desert.  A short distance away to the north a large volcano can be seen
+dominating the horizen.  
+~
+~
+0 10
+D0
+~
+~
+0 0 14325
+D2
+~
+~
+0 0 14323
+S
+#14325
+A small path leading toward a volcano~
+From here, the direction of the path can be seen very clearly.  After
+wandering through the foothills to the north of here, it travels directly
+into the volcano.  To the south, the Great Western Desert is all that can be
+seen for miles around.  
+~
+~
+0 4
+D0
+~
+~
+0 0 14326
+D2
+~
+~
+0 0 14324
+S
+#14326
+A path leading toward a Volcano~
+Just north of here a huge volcano can be seen within the mountains.  The
+trail continues north onto the volcano, or south onto the edge of a vast
+desert.  
+~
+~
+0 4
+D0
+~
+~
+0 0 14327
+D2
+~
+~
+0 0 14325
+S
+#14327
+On the slopes of a volcano~
+This is the northern most point of the trail, half way up the volcano. 
+Looking south, a vast desert can be seen streching out as far as the eye can
+see.
+~
+~
+0 5
+D2
+~
+~
+0 0 14326
+S
+#14328
+A Small Fort~
+The courtyard of this small fort is filled with training equipment for
+the soldiers who are based here.  The stone looks ancient, and is covered
+with moss and ivy.  A staircase on the back wall of the courtyard leads to a
+room which overlooks the courtyard.  
+~
+~
+104 13
+D0
+~
+~
+0 0 14241
+D4
+~
+~
+0 0 14329
+S
+#14329
+Headquarters~
+This office is obviously the headquarters for a war machine.  Maps of the
+land cover the walls in the room, and a window overlooks the courtyard
+below.  
+~
+~
+104 13
+D5
+~
+~
+0 0 14328
+S
+#0
+
+
+

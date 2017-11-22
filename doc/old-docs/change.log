@@ -1,0 +1,110 @@
+
+(Gave up a long time ago keeping this file up to date) - Lotherius
+SunderMud 
+---------
+
+These are some notes of changes to code that are NOT included in 
+Help Changes. Note that not all changes are listed here, so some 
+changes which affect executable size aren't found here. Also, changes in
+size are based on immediately before compile of a change, and therefore
+may not reflect the last recorded size.
+
+merc executable starting 8/23/97 : 1,218,832
+
+8/24/97
+Removed mudschool check on repop, should speed repops a little.
+Removed some spells that weren't used.
+- merc executable down to : 1,218,720 in size (112 bytes saved).
+
+8/25/97
+Moved includes (except for some in comm.c) to a file called everything.h. 
+Now you only need to include this to make a new file. Notable exceptions
+are db.h, interp.h, magic.h and olc.h, since these are not used in many 
+of the files. The AMAZING results: 
+- merc executable down to 1,179,187 in size (39,665 bytes saved).
+Turned on malloc debugging.
+- merc executable up to 1,179,519 in size (332 byte increase).
+Removed all dependence on stock areas such as midgaard and the school.
+Required objects all moved to limbo where they should be.
+Removed YET MORE hardcoded vnums. What where these dudes thinking?
+
+8/28/97
+Turned malloc debugging OFF again since it was causing crashes on memory
+allocation when equipping a mob in OLC. Anybody got any ideas?
+
+
+8/29/97
+In the never-ending search for what has started causing OLC crashes, made
+ many changes to game_loop_unix in comm.c, a few in mem.c. Also changed
+ part of olc_save.c to get rid of (null) in object fields that aren't used.
+ Also attempted changes to olc_help.c.Also removed all hardcoded bans and
+ an odd line that replaced 2 hosts with another hostname.
+- merc executable down to : 1,177,354 in size ( 2,165 bytes saved ).
+Test shows: (null) no longer shows up on unused object strings! Yay!
+Turns out that the olc_help bug is a nasty corruption of variable maxdesc 
+ in comm.c! 
+Fixed the help save bug!!! It was an obscure mis-defined char variable in 
+ help_fix routine (which wasn't even needed). Mighty Lotherius Wins Again!
+
+09/01/97
+Numerous changes, mostly pk added (see help mods).
+Full speed optimizations set on compile, thus a larger executable.
+- merc executable up to : 1,321,806 in size
+
+9/05/97
+Removed Some More Bloat! (removed useless wear, use, remove strings)
+- merc executable down to : 1,313,948 in size.
+  Pretty sure that this is going to save even more RAM.
+
+9/08/97
+Removed spell and skill groups. Also removed the difficulty modifier for
+each class (may put back later).
+- merc executable down to : 1,296,387 in size.
+
+09/13/97
+After various changes (most listed in help mods):
+- merc executable up to : 1,297,871 in size.
+Last Vestiges of Train/Gain code wiped out.
+
+09/15/97
+Removed brew_table & scribe_table (added in Dark Times)
+ Added new field to skill_type "component" which will be
+ the required component for casting/brewing/scribing.
+- merc executable up to : 1,368,553
+
+09/21/97
+After numerous changes and most importantly ripping out old
+ note rom 2.4 style note system and adding a note board system:
+- merc executable up to : 1,379,498
+
+09/25/97
+After minor changes and adding move messages:
+- merc executable up to : 1,382,226
+
+09/27/97
+Added "debuginfo" define. Currently only used in a few places.
+
+09/28/97
+Began lease.c. Other stuff in changes list.
+- merc executable up to : 1,395,461
+
+10/07/97
+Added "gotoxy" function, as well as VT_ defines in merc.h for
+cursor control. Other changes in help mods (entropy spell) and more
+work on lease code. Why code size went down, I am clueless.
+- merc executable down to : 1,392,942
+File act_skill.c added. New boolean: skill_available (sn, ch)
+returns TRUE if skill is available to char, and FALSE if it is
+not. This should be used instead of skill table checks at all times.
+Skill = 0 is a different situation and should be handled seperately.
+This is to support skills that are not normal for a class (ie, race 
+skills)
+
+10/08/97
+<stat skill> added. Also added saving of skill information to a textfile,
+but haven't set up to load it back yet. Levels are still kept in classfiles.
+
+-- SunderMud 1 Released --
+
+12/25/97
+Can no longer: cast 'reserved'

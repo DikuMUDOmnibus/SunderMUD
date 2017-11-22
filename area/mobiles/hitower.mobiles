@@ -1,0 +1,949 @@
+#1300
+oldstyle shadow guardian~
+a shadow guardian~
+A shadow guardian screams a challenge and attacks.
+~
+It seems to be made of nothing more than darkness ...
+~
+~
+human~
+ACFG BP FI 0
+-350 9 0 2d6+110 4d9+100 1d6+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1301
+oldstyle adventurer~
+a lost adventurer~
+An emaciated adventurer is here looking lost and hopeless.
+~
+He looks haggard and sickly; no doubt he's been lost here for quite some time.
+~
+~
+human~
+ABCHQ 0 0 0
+400 8 0 2d7+96 8d9+100 1d5+0 -99
+EIKU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1302
+oldstyle edgar~
+Edgar~
+Edgar the Human Swordpupil
+~
+Edgar says 'pardon me, can you tell me where to buy cups?'
+
+You see before you, one of Midgaard's finest fighting elite, the mighty
+bunny slayer himself, Edgar the Horrible!
+~
+~
+human~
+ACEH 0 0 0
+1000 1 0 2d6+10 0d9+100 1d3+0 -99
+EFNU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1303
+oldstyle diamond golem~
+the golem~
+A huge diamond golem is standing guard here.
+~
+It looks quite strong.
+~
+~
+human~
+ABG 0 F 0
+500 23 0 5d10+450 11d9+100 2d10+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1304
+oldstyle mage young~
+a mage~
+A young mage wanders about, oblivious to all.
+~
+He seems to be contemplating life, love and the mysteries of the universe.
+Then again, he may just have a headache.
+~
+~
+human~
+AGHR 0 F 0
+450 10 0 2d6+110 10d9+100 1d6+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1305
+oldstyle strick bartender~
+Strick the bartender~
+Strick is here levitating drinks to his customers.
+~
+He looks rather harmless, but then again so does a sleeping dragon.
+~
+~
+human~
+ABG 0 F 0
+750 25 0 5d10+550 12d9+100 2d11+0 -99
+EFNU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1306
+oldstyle tatorious wizard~
+Tatorious~
+Tatorious the wizard is here counting his earnings.
+~
+Tatorious winks at you mischievously.
+~
+~
+human~
+ABGR 0 F 0
+900 25 0 5d10+500 25d9+100 2d11+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1307
+oldstyle ezmerelda cook~
+Ezmerelda~
+Ezmerelda the cook is here stirring a large pot of something.
+~
+~
+~
+human~
+ABGR 0 F 0
+-500 20 0 3d9+308 20d9+100 2d9+0 -99
+FU 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1308
+oldstyle assistant mage~
+The cook's assistant~
+The cook's assistant is here assisting the cook.
+~
+~
+~
+human~
+ABGHR 0 F 0
+-200 11 0 2d7+121 11d9+100 1d6+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1309
+oldstyle prisoner~
+The prisoner~
+A prisoner is chained to the wall here.
+~
+Though his clothes are all in rags, you can see that at one time they must
+have been fine garments. A metal muzzle has been fitted over the poor
+wretch's mouth, whether to keep him from screaming, or to silence his spell
+casting you cannot tell.
+
+He looks quite mad, no doubt he's been mistreated horribly.
+~
+~
+human~
+ABCFGHR 0 0 0
+100 16 0 3d9+208 16d9+100 2d8+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1310
+oldstyle jailor mage~
+the Jailor~
+The Jailor is here enjoying a comfortable nap.
+~
+He looks rather dirty.
+~
+~
+human~
+ABGR 0 F 0
+100 17 0 3d9+233 17d9+100 2d8+0 -99
+FU 0 0 0
+4 4 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1311
+oldstyle broom~
+a broom~
+A straw broom is here leaning against the wall.
+~
+The broom screams 'Take that you lout!'
+~
+~
+human~
+ABCFGS 0 FH 0
+50 7 0 2d7+71 3d9+100 1d5+0 -99
+BEFJNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1312
+oldstyle lesser guardian hands~
+a pair of disembodied hands~
+A pair of disembodied hands floats in the air here.
+~
+The hands twitch with anticipation of strangling someone.
+~
+~
+human~
+AFG 0 0 0
+-400 9 0 2d6+110 4d9+100 1d6+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1313
+oldstyle guardian greater eyes~
+a pair of disembodied eyes~
+A pair of disembodied eyes floats here glaring at you.
+~
+The eyes smolder with hatred.
+~
+~
+human~
+AFG 0 F 0
+-600 15 0 3d9+208 7d9+100 2d7+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1314
+oldstyle mage visitor~
+the mage~
+A visiting mage is here snoring away in peaceful slumber.
+~
+He looks quite sleepy.
+~
+~
+human~
+ABCGHR 0 F 0
+250 12 0 2d8+134 12d9+100 1d7+0 -99
+FU 0 0 0
+4 4 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1315
+oldstyle apprentice young~
+a young apprentice magic user~
+A young apprentice magic user is here doing magical studies.
+~
+She looks quite intent on her studies.
+~
+~
+human~
+ABGHR 0 0 0
+400 7 0 2d7+71 7d9+100 1d5+0 -99
+FU 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1316
+oldstyle apprentice young~
+a young apprentice~
+A young apprentice is here mumbling words of magic to himself.
+~
+He looks to be oblivious to all but the spell he is memorizing.
+~
+~
+human~
+ABGHR 0 0 0
+380 7 0 2d7+71 7d9+100 1d5+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1317
+oldstyle apprentice young~
+a young apprentice~
+A young apprentice is sleeping here.
+~
+He seems to be dreaming.
+~
+~
+human~
+ABGHR 0 0 0
+350 7 0 2d7+71 7d9+100 1d5+0 -99
+FU 0 0 0
+4 4 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1318
+oldstyle apprentice young~
+A young apprentice~
+A young apprentice is here teasing a cornered kitten.
+~
+He looks like a mischievous youth.
+~
+~
+human~
+ABGHR 0 0 0
+-200 7 0 2d7+71 7d9+100 1d5+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1319
+oldstyle kitten~
+a small kitten~
+A small kitten is here meowing in terror.
+~
+The little ball of fur looks very unhappy.  Singed fur and a few minor burns
+mark its mottled coat.
+~
+~
+human~
+ABGH 0 0 0
+500 1 0 2d6+10 0d9+100 1d3+0 -99
+EFNU 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1320
+oldstyle student~
+a student~
+A student of spells is here looking quite bored
+~
+The student yawns.
+~
+~
+human~
+ABGHR 0 0 0
+350 8 0 2d6+85 8d9+100 1d5+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1321
+oldstyle instructor teacher mage~
+an instructor of magic~
+The instructor screams at your interruption and attacks you.
+~
+He looks quite angry at your interruption.
+~
+~
+human~
+ABFGR 0 F 0
+300 14 0 2d10+170 14d9+100 1d7+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1322
+oldstyle student~
+a student of spells~
+A student of spells is here trying to master invisibility.
+~
+He blinks in and out of existence, trying to master the spell.
+~
+~
+human~
+ABGHR B F 0
+400 8 0 2d6+85 8d9+100 1d5+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1323
+oldstyle teacher mage~
+a spell teacher~
+A spell teacher screams at your interruption and attacks.
+~
+~
+~
+human~
+ABFGR B F 0
+300 15 0 2d10+190 15d9+100 2d7+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1324
+oldstyle student~
+a student of spells~
+A student of spells has fallen asleep at her desk here.
+~
+She looks to have collapsed from sheer boredom.
+~
+~
+human~
+ABGHR 0 F 0
+400 9 0 2d7+96 9d9+100 1d6+0 -99
+FU 0 0 0
+4 4 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1325
+oldstyle wizard speaker mage~
+a wizard~
+An old wizard is here making a speech
+~
+~
+~
+human~
+ABGHR 0 F 0
+400 18 0 3d9+258 18d9+100 2d8+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1326
+oldstyle mage young~
+a young mage~
+A young mage is here learning hand to hand combat.
+~
+~
+~
+human~
+ABGHR 0 F 0
+300 9 0 2d7+96 9d9+100 1d6+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1327
+oldstyle mistress battle~
+the battle mistress~
+The battle mistress is here teaching the fine uses of a dagger.
+~
+She looks quite rugged. In fact, she more resembles a warrior than a magic
+user.
+~
+~
+human~
+ABFGR 0 F 0
+200 17 0 3d9+233 17d9+100 2d8+0 -99
+FU 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1328
+oldstyle mage teacher~
+a spell teacher~
+A spell teacher is here relaxing.
+~
+~
+~
+human~
+ABGR 0 F 0
+200 15 0 2d10+190 15d9+100 2d7+0 -99
+FU 0 0 0
+6 6 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1329
+oldstyle wizard~
+an aged wizard~
+An aged wizard is sleeping here.
+~
+~
+~
+human~
+ABFGHR 0 F 0
+350 20 0 3d9+308 20d9+100 2d9+0 -99
+FU 0 0 0
+4 4 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1330
+oldstyle scribe mage~
+a scribe~
+A scribe is here working on some manuscripts.
+~
+~
+~
+human~
+ABCGHR 0 F 0
+400 14 0 2d10+170 14d9+100 1d7+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1331
+oldstyle scribe mage~
+a scribe~
+A scribe is here working diligently on some translations.
+~
+She's quite cute.  Too bad her only interest seems to be the words of
+lore she is translating.
+~
+~
+human~
+ABGHR 0 F 0
+500 15 0 2d10+190 15d9+100 2d7+0 -99
+FU 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1332
+oldstyle master scribe~
+the master scribe~
+The master scribe is here looking a little upset
+~
+He seems to be so old, his skin has become nothing but a giant wrinkle.
+The master scribe screams 'How dare you interrupt my important work???'
+~
+~
+human~
+ABFGHR 0 F 0
+100 22 0 4d10+360 22d9+100 2d10+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1333
+oldstyle assistant scribe~
+the scribe's assistant~
+The scribe's assistant is here folding parchments.
+~
+~
+~
+human~
+ABFGHR 0 F 0
+100 16 0 3d9+208 16d9+100 2d8+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1334
+oldstyle master enchanter mage~
+the Enchanter~
+The Enchanter is here placing a dweomer upon well made sword.
+~
+~
+~
+human~
+ABFGR 0 F 0
+-200 23 0 5d10+400 23d9+100 2d10+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1335
+oldstyle sword dancing~
+a dancing sword~
+A well crafted sword lies on the work table here.
+~
+It looks quite sharp.
+~
+~
+human~
+ABFG 0 0 0
+-500 10 0 2d7+121 5d9+100 1d6+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1336
+oldstyle alchemist~
+the Mad Alchemist~
+The Mad Alchemist babbles something incomprehensible and attacks.
+~
+He looks like he's been quaffing too many potions. His eyes dart around
+wildly, and he starts to drool.
+
+The Mad Alchemist throws back his head and cackles with insane glee!
+~
+~
+human~
+ABCFGHR 0 F 0
+150 24 0 5d10+450 24d9+100 2d10+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1337
+oldstyle master summoner~
+the master summoner~
+The master summoner is here holding gateways open to other planes.
+~
+~
+~
+human~
+ABFGHR 0 F 0
+-200 22 0 4d10+360 22d9+100 2d10+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1338
+oldstyle master charmer~
+the master charmer~
+The master charmer utters the words, 'uuuzzldctz'.
+~
+The master charmer sizes you up, always looking for a new pet.
+~
+~
+human~
+ABFR 0 F 0
+-400 23 0 5d10+400 23d9+100 2d10+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1339
+oldstyle golem wooden~
+a wooden golem~
+A wooden golem stands a silent vigil here, guarding the stairs.
+~
+He looks flammable.
+~
+~
+human~
+ABFG 0 F 0
+100 16 0 3d9+233 8d9+100 2d8+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1340
+oldstyle master binder~
+the master spell binder~
+The master spell binder is here re-charging a blackened wand.
+~
+The master spell binder snarls at you and attacks.
+~
+~
+human~
+ABCFGHR 0 F 0
+-500 23 0 5d10+400 23d9+100 2d10+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1341
+oldstyle master maker~
+the golem maker~
+The golem maker is here chiseling some stone.
+~
+~
+~
+human~
+ABFGR 0 F 0
+300 21 0 3d9+333 21d9+100 2d9+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1342
+oldstyle golem granite~
+a granite golem~
+A granite golem stands here waiting to do its master's bidding.
+~
+It looks like a statue, until you see it shamble towards you.
+~
+~
+human~
+ABFG 0 0 0
+300 20 0 3d9+333 10d9+100 2d9+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1343
+oldstyle golem bronze~
+a bronze golem~
+A bronze golem stands here shining in the light.
+~
+He looks rather dim witted.
+~
+~
+human~
+ABG 0 0 0
+350 18 0 3d9+283 9d9+100 2d8+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1344
+oldstyle golem flesh~
+a flesh golem~
+A flesh golem stands guard here
+~
+It looks to be made of a potpourri of different body parts; some don't even
+resemble anything human.
+~
+~
+human~
+ABFG 0 0 0
+200 12 0 2d10+150 6d9+100 1d7+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1345
+oldstyle golem cloth~
+a cloth golem~
+A cloth golem wanders around here.
+~
+It looks like a bunch of old rags, quite surprising it can actually walk.
+~
+~
+human~
+ABCG 0 0 0
+350 8 0 2d7+96 4d9+100 1d5+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1346
+oldstyle golem adamantite~
+an adamantite golem~
+An adamantite golem stands here looking very dangerous.
+~
+It seems to be forged of dark metal.  It looks strong and durable,
+but somewhat un-intelligent.
+~
+~
+human~
+ABCG 0 0 0
+350 25 0 5d10+550 12d9+100 2d11+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1347
+oldstyle golem clay~
+a clay golem~
+A clay golem stands guard here.
+~
+~
+~
+human~
+ABCFG 0 F 0
+200 15 0 3d9+208 7d9+100 2d7+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1348
+oldstyle master illusionist mage~
+the master of illusions~
+An enormous multi-colored three-headed dragon growls at you.
+~
+The image of an ugly dragon flickers slightly, and where the dragon was
+now stands a small harmless looking old man.
+~
+~
+human~
+ABCGHR 0 F 0
+150 21 0 3d9+333 21d9+100 2d9+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1349
+oldstyle necromancer master~
+the Necromancer~
+The Necromancer is here raising undead servants
+~
+Attired all in black, the Necromancer is tall and gangly, but still quite
+an imposing figure.  A dark cowl shrouds most of his face, but two blazing
+embers which serve as eyes can be seen through the shadow.
+The Necromancer shrieks some obscenities and orders his minions to attack.
+~
+~
+human~
+ABCFGHR 0 F 0
+-950 25 0 5d10+500 25d9+100 2d11+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1350
+oldstyle skeleton undead~
+an animated skeleton~
+An animated skeleton screams silently and attacks.
+~
+It feels no pain, and hacks at you ruthlessly.
+~
+~
+human~
+ABFG 0 F 0
+-500 15 0 3d9+208 7d9+100 2d7+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1351
+oldstyle undead giant~
+an undead giant~
+An undead giant lumbers towards you.
+~
+~
+~
+human~
+ABCFG 0 F 0
+-500 18 0 3d9+283 9d9+100 2d8+0 -99
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1352
+oldstyle witch hag~
+an ugly witch~
+An ugly witch is here scrying out secrets.
+~
+She has no face at all, just blank skin, rather disturbing.  From about where
+her mouth should be, comes a disgusting giggling sound that makes your skin
+crawl with revulsion.
+~
+~
+human~
+ABCFGR 0 F 0
+-450 20 0 3d9+308 20d9+100 2d9+0 -99
+FU 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1353
+oldstyle librarian mage~
+the Librarian~
+The Librarian has fallen asleep at his desk here.
+~
+He looks like a rather peaceful old man.
+~
+~
+human~
+ABFGHR 0 F 0
+450 23 0 5d10+400 23d9+100 2d10+0 -99
+FU 0 0 0
+4 4 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1354
+oldstyle apprentice~
+the master's apprentice~
+The master's apprentice leaps to halt your passage.
+~
+A powerful wizard in his own right, the apprentice of the master of balance
+has given up his station in the mage guild hierarchy in order to serve the
+great master in hopes of gleaning secrets one could never hope to uncover
+alone.
+~
+~
+human~
+ABCFGR 0 F 0
+0 24 0 5d10+450 24d9+100 2d10+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1355
+oldstyle cat grey familiar~
+a grey cat~
+A grey cat is lounging lazily here.
+~
+The grey cat cocks an ear towards you, sensing your scrutiny, then purrs
+contentedly.  It looks rather harmless, until you notice its very large claws.
+~
+~
+cat~
+ABGR BP J 0
+0 15 0 2d10+190 15d9+100 2d7+0 -99
+FHR 0 0 0
+8 8 2 0
+AGV ACDEFHJKQRSTUVa 2 unknown
+#1356
+oldstyle master guildmaster grey~
+the master of Neutrality~
+The master of Neutrality stands here contemplating the balance of the universe.
+~
+He looks quite peaceful.
+~
+~
+human~
+ABGR 0 F C
+0 30 0 6d12+778 30d9+100 3d12+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1357
+oldstyle apprentice black~
+a black robed apprentice~
+A black robed apprentice jumps from the shadows and attacks.
+~
+She bears a wicked looking scar down the side of her face, though once she
+must have been beautiful, now the scar combined with what seems to be a
+permanent scowl make her looks quite fearsome.
+~
+~
+human~
+ABCFGR P F 0
+-750 20 0 3d9+308 20d9+100 2d9+0 -99
+FU 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1358
+oldstyle cat black familiar~
+a black cat~
+A black cat with its fur up hisses at you.
+~
+It looks both mean and dangerous.  Petting seems to be completely out of
+the question.
+~
+~
+cat~
+ABGR P FJ 0
+-800 16 0 3d9+208 16d9+100 2d8+0 -99
+FHR 0 0 0
+8 8 0 0
+AGV ACDEFHJKQRSTUVa 2 unknown
+#1359
+oldstyle master guildmaster black~
+the master of the black robes~
+The master of the black robes is here plotting vile deeds.
+~
+The master glares at you.
+~
+~
+human~
+ABCGR 0 F C
+-1000 30 0 6d12+778 30d9+100 3d12+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1360
+oldstyle apprentice white~
+a white robed apprentice~
+A white robed apprentice screams at your desecration of goodness.
+~
+He looks like a fanatic.
+The apprentice screams 'Thou art unworthy of this honor!'
+~
+~
+human~
+ABFGR 0 F 0
+750 20 0 3d9+308 20d9+100 2d9+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1361
+oldstyle cat white familiar~
+a white cat~
+A white cat is here preening its fur.
+~
+It seems to be nothing more than a large ball of fluff with claws.
+~
+~
+cat~
+ABGR P FJ 0
+800 15 0 2d10+190 15d9+100 2d7+0 -99
+FHR 0 0 0
+8 8 0 0
+AGV ACDEFHJKQRSTUVa 2 unknown
+#1362
+oldstyle master guildmaster white~
+The master of goodness~
+The master of goodness is here frowning at your intrusion.
+~
+He looks like a self-righteous bastard.
+~
+~
+human~
+ABGR 0 F C
+1000 30 0 6d12+778 30d9+100 3d12+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1363
+oldstyle cat calico familiar~
+A calico cat~
+A large calico cat is here
+~
+It looks incredibly large for a cat, no doubt a giant of its species.
+A beautiful jewel encrusted collar about its neck is its only adornment.
+~
+~
+cat~
+ABGR P FJ 0
+800 25 0 5d10+500 25d9+100 2d11+0 -99
+FHR 0 0 0
+8 8 2 0
+AGV ACDEFHJKQRSTUVa 2 unknown
+#1364
+oldstyle guildmaster grand mistress~
+The Grand Mistress~
+The Grand Mistress of Magic is sitting here.
+~
+She looks quite comfortable on her emerald throne. Amazingly young and
+pretty for one of such stature in the guild, no doubt she has kept her
+youthful appearance through the use of strong magics.
+The Grand Master pets her familiar and smiles at you in confidence.
+~
+~
+human~
+ABGR 0 F C
+0 50 0 50d10+4000 50d9+100 4d18+0 -99
+FU 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1365
+oldstyle wizard~
+a wizard~
+A wandering wizard is here mumbling to himself.
+~
+~
+~
+human~
+ACGR P F 0
+350 17 0 3d9+233 17d9+100 2d8+0 -99
+FU 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

@@ -1,0 +1,17 @@
+#NAME
+The Fates~
+
+#LEADER
+Lotherius~
+@~
+
+#WAR
+-1~
+
+#MEMCOUNT
+1
+
+#BANK
+50
+
+#$

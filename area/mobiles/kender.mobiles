@@ -1,0 +1,266 @@
+#14900
+kender scout~
+a kender scout~
+A kender scout patrols for enemies.
+~
+Kender scouts are respected by the whole community for their role in
+detecting potential threats to their village. They are rather serious by
+Kender standards, as recent attacks have made them constantly alert for
+any invaders. They thus glare at you VERY suspiciously.
+~
+~
+kender~
+AGSTX 0 HI B
+400 14 7 6d33+145 14d10+100 1d7+0 3
+EFHIJNRU 0 M P
+8 8 1 140
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14901
+kender adult male~
+an adult male kender~
+An adult male kender rushes past you, topknot bobbing madly.
+~
+He sure seemed to be in a hurry. Doubtless he'd just discovered something
+curious he wanted to examine as soon as possible... Hey! Didn't you have
+TWO of those silver bracelets???
+~
+~
+kender~
+AGHSTX 0 I B
+400 9 4 3d27+83 9d10+100 1d6+0 11
+EFHIJNRU 0 M P
+8 8 1 90
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14902
+kender adult female~
+an adult female kender~
+An adult female kender smiles at you and curtseys.
+~
+She seems friendly enough. In fact she seems quite nice. Imagine people
+thinking such sweet people could be THIEVES... You smile as you reach for
+a trinket to give to her, only to notice that your trinkets are all gone...
+~
+~
+kender~
+AGHSTX 0 I B
+400 8 4 3d21+73 8d10+100 1d5+0 11
+EFHIJNRU 0 M P
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14903
+kender child~
+a kender child~
+A small kender child gazes at you curiously.
+~
+Younger kender, unused to the outside world, find strangers and the strange
+items they bear of GREAT interest...
+~
+~
+kender~
+AGHSTX 0 I B
+400 4 2 1d10+33 4d10+100 1d4+0 3
+EFHIJNRU 0 M P
+8 8 1 40
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14904
+kender healer~
+the kender healer~
+An ancient kender smiles benevolently at you.
+~
+This fellow cures the ailments of the locals and travellers alike. He seems
+to be a sweet old fellow... WAIT! Did you just see him steal a loaf of bread
+off an elderly woman? No, that's ok... he just BORROWED it.
+~
+~
+kender~
+ABGSa 0 EFGHI ABC
+1000 109 218 16d801+3467 109d10+100 8d37+0 3
+EFHIJNRU 0 M P
+8 8 1 109
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14905
+kender warrior~
+a kender warrior~
+A kender warrior swaggers past you, chased by a flock of young girls.
+~
+Kender warriors as a scary lot, scary in the way that it's scary to trust
+nuclear weapons in the hands of people with the minds of eight year olds-
+WAIT! We do that anyway! Ah well... Kender warriors, indeed all Kender, are
+most feared (to them, other races consider it avoiding) for their taunt
+ability, with which they can stoke the temper of the most placid of foes into
+a raging fury.
+~
+~
+kender~
+ADGSTX 0 I B
+400 25 12 16d42+322 25d10+100 2d11+0 7
+EFHIJNRU 0 M P
+8 8 1 5
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14906
+kender storyteller~
+the kender storyteller~
+The kender storyteller is amusing a horde of children with his tales.
+~
+Kender fairytales are quite fascinating and very humorous. Unfortunately,
+you don't have time to sit and listen to one (and I don't have the time to
+sit here and write one :P).
+~
+~
+kender~
+ABGHSTX 0 I BC
+500 39 19 16d102+629 39d10+100 3d15+0 3
+EFHIJNRU 0 M P
+8 8 1 700
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14907
+kender chief~
+the kender chief~
+The chief of Kendermore greets you.
+~
+The chief is a cheery fellow, full of energy and humor. He grabs your hand
+and shakes it rapidly, then pounds you on the back (or more likely your
+buttocks if you are over four feet tall) and invites you to the tavern for
+a drink and a chat. What a splendid fellow! You find yourself suddenly
+reaching for your wallet. You could have SWORN you had it in your back
+pocket...
+~
+~
+kender~
+ADGSTX 0 I BC
+400 54 54 16d196+1053 54d10+100 4d20+0 3
+EFHIJNRU 0 M P
+8 8 1 1080
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14908
+kender tas tasslehoff burrfoot~
+Tasslehoff Burrfoot~
+A particularly inquisitive kender introduces himself as Tas.
+~
+Everyone knows Tas, that most famous of Kender. Guard your possessions
+carefully.
+~
+~
+kender~
+ABGSTX 0 I BC
+1000 44 22 16d130+759 44d10+100 3d17+0 11
+EFHIJNRU 0 M P
+8 8 1 880
+AHMV ABCDEFGHIJKRSTa 1 unknown
+#14909
+kender drunk~
+a drunk kender~
+A drunk kender staggers into you.
+~
+Watch your wallet!
+~
+~
+kender~
+AGHSTX 0 I B
+400 10 5 3d33+96 10d10+100 1d6+0 3
+EFHIJNRU 0 M P
+8 8 1 200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14910
+kender baker~
+the kender baker~
+A kender baker greets you.
+~
+This fellow stocks a wide variety of goods.
+~
+~
+kender~
+ABGST 0 0 B
+1000 108 108 16d787+3405 108d10+100 8d36+0 7
+EFHIJNRU 0 M P
+8 8 1 108
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14911
+kender grocer~
+the kender grocer~
+A kender grocer greets you.
+~
+This woman stocks a wide variety of goods.
+~
+~
+kender~
+ABGST 0 0 B
+1000 108 0 10d787+3405 108d10+100 8d36+0 3
+EFHIJNRU 0 M P
+8 8 2 10800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14912
+kender armorer~
+the kender armorer~
+A kender armorer greets you.
+~
+This fellow stocks a wide variety of goods.
+~
+~
+kender~
+ABGST 0 0 B
+1000 108 0 10d787+3405 108d10+100 8d36+0 7
+EFHIJNRU 0 M P
+8 8 1 10800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14913
+kender herbalist~
+the kender herbalist~
+A kender herbalist greets you.
+~
+This woman stocks a wide variety of goods.
+~
+~
+kender~
+ABGST 0 0 B
+1000 109 0 10d801+3467 109d10+100 8d37+0 11
+EFHIJNRU 0 M P
+8 8 2 10900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14914
+kender bartender~
+the kender bartender~
+The bartender smiles and offers you a drink.
+~
+This rotund fellow was once an adventurer like yourself. As he pours your
+beers he recounts a tale of a time when he slew two dragons.
+~
+~
+kender~
+ABGST 0 0 B
+1000 109 0 10d801+3467 109d10+100 8d37+0 3
+EFHIJNRU 0 M P
+8 8 1 10900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14915
+wild boar~
+a wild boar~
+A wild boar charges at you!
+~
+These boar are hunted by the Kender. They deserve it.
+~
+~
+pig~
+AFGTX 0 0 0
+0 11 5 5d27+107 11d10+100 1d6+0 15
+EFNU 0 0 0
+8 8 0 0
+AGHMV ABCDEFGHIJKRa 2 unknown
+#14916
+hunting dog~
+a hunting dog~
+A hunting dog barks at you.
+~
+Don't kill it- it's a natural reaction ;)
+~
+~
+dog~
+AGHT 0 0 0
+0 9 4 3d27+83 9d10+100 1d6+0 10
+EFHNU 0 0 0
+8 8 0 0
+AGHMV ABCDEFGHIJKRUVa 2 unknown
+#0
+
+
+

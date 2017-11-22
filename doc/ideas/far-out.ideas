@@ -1,0 +1,33 @@
+
+
+---
+Trade system where shopkeepers are seperate from manufacturing, and have
+to purchase items from manufacturers. This means the the most frequented
+shops will have the most items for sale.
+
+---
+
+A program to take a map input file and create rooms based off of it.
+The rooms would be output into a basic merc format so that any
+Merc/Rom/Envy, etc, mud could read it. The program would have defaults for
+each areatype including a brief description. The file would use keycodes
+for the type of room, and the program or routine would read the file and
+interpret them into rooms starting at a specified vnum. The file would
+look like the sample below, which would create mountains on the west,
+bordered by hills, then plans to the east, and at the farthest east of the
+area, water. 
+
+#VNUM 5000
+
+#MAP
+MMMMMMMMHHHPPPPPPPPWWWWW
+MMMMMMHHHHPPPPPPWWWWWWWW
+MMMMMMMHHPPPPPPPWWWWWWWW
+MMMMMMCCCPPPPPPPPPWWWWWW
+MMMMMCCCCCPPPPPPWWWWWWWW
+MMMMMMMCCPPPPPPWWWWWWWWW
+MMMMMMMHHPPPPWWWWWWWWWWW
+MMMMMMMMHHPPWWWWWWWWWWWW
+MMMMMMMMMHHWWWWWWWWWWWWW
+#END
+

@@ -1,0 +1,3309 @@
+#2048
+South Market Street~
+To the north is the intersection of Market and Temple street, which is
+the center of this city.  This is a relatively quiet section of Market
+Street, but business is heavy to both the south and north.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2000
+D2
+~
+~
+0 -1 2049
+S
+#2049
+South Market Street~
+Market street continues to the north and south here.  East is a tavern
+with a {Ysign{x hanging out front, and to the west is a small shop.  
+~
+~
+0 1
+E
+sign~
+{GThe Orc Bladder Pub{x
+~
+D0
+~
+~
+0 -1 2048
+D1
+~
+~
+0 0 2085
+D2
+~
+~
+0 -1 2050
+D3
+~
+~
+0 0 2084
+S
+#2050
+South Market Street~
+Market stret stretches to both the north and south here.  The street is
+made of cobblestones which are inlaid smoothly, providing a smooth surface. 
+An arch stretches across the roadway here, and a {Yplaque{x is attatched to
+the bottom of it.  
+~
+~
+0 1
+E
+plaque~
+{GThe City of Lukhan
+ 
+{WWritten totally from scratch for SunderMud by
+Lotherius. This arch was erected by the citizens 
+of Lukhan in his honour.
+~
+D0
+~
+~
+0 -1 2049
+D1
+~
+~
+0 0 2087
+D2
+~
+~
+0 -1 2051
+D3
+~
+~
+0 0 2086
+S
+#2051
+South Market Street~
+Market street continues north to Temple street, and south to SouthLine. 
+An arch can be seen across the road to the north.  A nearby sign proclaims
+that this street is the busiest in the world.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2050
+D1
+~
+~
+0 0 2105
+D2
+~
+~
+0 -1 2052
+S
+#2052
+South Market Street~
+Market street continues to the north and south here.  Not far to the
+south is the intersection with SouthLine street.  Shops line Market street
+on both sides all the way.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2051
+D2
+~
+~
+0 -1 2053
+D3
+~
+~
+0 0 2106
+S
+#2053
+South Market Street~
+To the south, Market ends in the intersection with SouthLine street. 
+Shops line Market street as far as can be seen to the north.  A {Gtree{x
+provides shade along this stretch of the road.  
+~
+~
+0 1
+E
+tree~
+Someone's initials are carved in it, but the writing can't be made out.  
+~
+D0
+~
+~
+0 -1 2052
+D1
+~
+~
+0 0 2107
+D2
+~
+~
+0 -1 2054
+S
+#2054
+Intersection of Market and SouthLine Street~
+Market Street, perhaps the busiest street in the world, intersects with
+SouthLine here.  A circular {Ggarden{x sits in the middle of the
+intersection with a {xstatue{x in the middle.  Huge {riron{x gates stand to
+the south, broken off their hinges from the long ago war.  
+~
+~
+0 1
+E
+garden~
+The garden is filled with beautifil {Ydaisies{x, {Rroses{x, and other
+flowers.  A sign warns that these plants are magically protected and cannot
+be picked.  
+~
+E
+statue~
+This statue is of the beautiful goddess, Freyhana.  It is said that she
+died at the jealous hands of Shari, the goddess of love.  Thus it is said
+among many till this day that Love kills Beauty.  
+~
+D0
+~
+~
+0 -1 2053
+D1
+~
+~
+0 -1 2068
+D2
+~
+~
+0 0 1500
+D3
+~
+~
+0 -1 2067
+S
+#2055
+South Sunset Avenue~
+You are on South Sunset Avenue. Vacant lots line both sides of the street 
+here, where homes will be built someday. 
+~
+~
+0 1
+D0
+~
+~
+0 -1 2007
+D2
+~
+~
+0 -1 2056
+S
+#2056
+South Sunset Avenue~
+You are on South Sunset Avenue. Vacant lots line both sides of the street 
+here, where homes will be built someday. 
+~
+~
+0 1
+D0
+~
+~
+0 -1 2055
+D2
+~
+~
+0 -1 2057
+S
+#2057
+South Sunset Avenue~
+You are on South Sunset Avenue. Vacant lots line both sides of the street 
+here, where homes will be built someday. 
+~
+~
+0 1
+D0
+~
+~
+0 -1 2056
+D2
+~
+~
+0 -1 2058
+S
+#2058
+South Sunset Avenue~
+You are on South Sunset Avenue. Vacant lots line both sides of the street 
+here, where homes will be built someday. 
+~
+~
+0 1
+D0
+~
+~
+0 -1 2057
+D2
+~
+~
+0 -1 2059
+S
+#2059
+South Sunset Avenue~
+You are on South Sunset Avenue. Vacant lots line both sides of the street 
+here, where homes will be built someday. 
+~
+~
+0 1
+D0
+~
+~
+0 -1 2058
+D2
+~
+~
+0 -1 2060
+S
+#2060
+South Sunset Avenue~
+{GGrassy{x paths line both sides of Sunset Avenue here, in front of the
+homes of the wealthy inhabitants of the city.  To the south, Sunset ends in
+an intersection with SouthLine.  To the west you see a home with a wrought
+iron fence around it.  However, it seems as if the gate is barred and cannot
+be breached.  
+~
+~
+0 1
+E
+fence~
+The wrought iron fence looks very old, and is topped with pointed spikes.
+~
+D0
+~
+~
+0 -1 2059
+D2
+~
+~
+0 -1 2061
+S
+#2061
+Intersection of Sunset and Southline Street~
+SouthLine Street intersects with SunSet Avenue here.  SouthLine goes to
+the east, and SunSet toward the north.  A huge sign hangs over the beginning
+of SoutLine street here.  
+~
+~
+0 1
+E
+sign~
+Welcome to SouthLine Street, HOME of the City Administration.
+~
+D0
+~
+~
+0 -1 2060
+D1
+~
+~
+0 -1 2062
+S
+#2062
+West SouthLine Street~
+SouthLine Street follows the wall here.  To the east is Market Street,
+and to the west is SunSet Avenue.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2063
+D3
+~
+~
+0 -1 2061
+S
+#2063
+West SouthLine Street~
+SouthLine Street follows the wall here.  To the east is Market Street,
+and to the west is SunSet Avenue.  The Lukhan City Jail, a hulking stone
+building, is located to the north.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2115
+D1
+~
+~
+0 -1 2064
+D3
+~
+~
+0 -1 2062
+S
+#2064
+West SouthLine Street~
+SouthLine Street follows the wall here.  To the east is Market Street,
+and to the west is SunSet Avenue.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2065
+D3
+~
+~
+0 -1 2063
+S
+#2065
+West SouthLine Street~
+SouthLine Street follows the wall here.  To the north is the entrance to
+the CityGuard office.  The entryway is decorated with plaques and weapons
+that comemorate the grand history of the CityGuards.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2108
+D1
+~
+~
+0 -1 2066
+D3
+~
+~
+0 -1 2064
+S
+#2066
+West SouthLine Street~
+SouthLine street runs below the wall here.  Shrubs line the north side of
+the street, and the traffic is light.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2067
+D3
+~
+~
+0 -1 2065
+S
+#2067
+West SouthLine Street~
+SouthLine street runs below the wall here.  Shrubs line the north side of
+the street, and the traffic is light.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2054
+D3
+~
+~
+0 -1 2066
+S
+#2068
+East SouthLine Street~
+SouthLine street runs east along the southern city wall here through the
+governmental district of the city.  Large iron fences block the way off of
+the street here except at designated points.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2069
+D3
+~
+~
+0 -1 2054
+S
+#2069
+East SouthLine Street~
+SouthLine street runs east along the southern city wall here through the
+governmental district of the city.  Large iron fences block the way off of
+the street here except at designated points.  
+~
+~
+0 1
+D1
+~
+~
+0 0 2070
+D3
+~
+~
+0 -1 2068
+S
+#2070
+East SouthLine Street~
+Southline street runs east-west here through the old government district
+of Lukhan.  Large iron fences line the street on both sides, with an ornate
+iron gate in the fence to the south.  Little is known about what goes on
+beyond the north fence, and rumour has it that the old City Graveyard and
+Chapel lie to the south, condemned for years due to alleged haunting.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2071
+D2
+~
+~
+1 2053 3600
+D3
+~
+~
+0 0 2069
+S
+#2071
+East SouthLine Street~
+~
+~
+0 1
+D1
+~
+~
+0 -1 2072
+D3
+~
+~
+0 -1 2070
+S
+#2072
+East SouthLine Street~
+East SouthLine meets South Sunrise street to the east of here.  There is
+nothing of interest in this empty section of town, but for the graffiti on
+the walls and even that contains no real artistic value.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2073
+D3
+~
+~
+0 -1 2071
+S
+#2073
+East SouthLine Street~
+East SouthLine meets South Sunrise street to the east of here.  There is
+nothing of interest in this empty section of town, but for the graffiti on
+the walls and even that contains no real artistic value.  
+~
+~
+0 1
+D1
+~
+~
+0 0 2074
+D3
+~
+~
+0 -1 2072
+S
+#2074
+Intersection of Sunrise and SouthLine Street~
+Sunrise street ends in a dusty corner, where east SouthLine meets it in
+this unused corner of town.  All sorts of activity can take place here,
+mostly illegal, and graffiti covers the walls of the city to the edge of the
+streets.  The only activity in this part of town is a small amount of
+traffic to and from the zoo, but even that has dropped in recent years due
+to rumours about people disappearing inside.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2080
+D1
+~
+~
+0 0 5000
+D3
+~
+~
+0 0 2073
+S
+#2075
+South Sunrise Street~
+Sunrise Street runs north-south here.  To the north can be seen the
+magnificent temple of Aecindo.  To the south lies the Academy, where the
+learned of the city gather to pass on their skills.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2014
+D2
+~
+~
+0 -1 2076
+S
+#2076
+South Sunrise Street~
+Sunrise Street runs north-south here.  To the north can be seen the
+magnificent temple of Aecindo.  To the south lies the Academy, where the
+learned of the city gather to pass on their skills.  University Park
+straddles the street to both sides here.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2075
+D1
+~
+~
+0 0 2120
+D2
+~
+~
+0 -1 2077
+D3
+~
+~
+0 0 2119
+S
+#2077
+South Sunrise Street~
+The Academy strattles both sides of Sunrise Street here, with its
+graceful architecture accenting reaching nearly as high as the city walls to
+the east.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2076
+D2
+~
+~
+0 -1 2078
+S
+#2078
+South Sunrise Street~
+The Academy strattles both sides of Sunrise Street here, with its
+graceful architecture accenting reaching nearly as high as the city walls to
+the east.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2077
+D2
+~
+~
+0 -1 2079
+S
+#2079
+South Sunrise Street~
+To the north on Sunrise Street is the Academy, where the learned of the
+city gather to pass on their skills.  Sunrise street is mostly vacant here,
+with lands being held by the local government for future expansion.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2078
+D2
+~
+~
+0 -1 2080
+S
+#2080
+South Sunrise Street~
+Sunrise street is mostly vacant here, with the lands being held for
+future expansion by the local government.  Weeds and trash line the street,
+giving it an overall deserted appearance.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2079
+D2
+~
+~
+0 -1 2074
+S
+#2081
+A den~
+This home is unlit and appears to be empty at the moment.  A strong smell
+comes from every fibre of this building, and the floor feels somewhat greasy
+under your feet.  
+~
+~
+9 0
+D2
+~
+~
+0 0 2008
+D4
+~
+~
+0 0 2083
+S
+#2082
+Hall of Heroes~
+This temple is dedicated to those who have achieved hero status in this
+world. You notice that each statue is adorned with a plaque at its base.
+~
+climb statue...
+~
+256 0
+E
+lotherius~
+By far the oldest statue in the room, Lotherius' statue shows the figure of
+a tall man with black hair and blacker eyes. His build is that of a well
+excercised woodsman. He carries a sword on his back and an eternal smirk
+that spelled the doom of thousands.
+~
+D0
+~
+~
+0 0 2010
+S
+#2083
+Loft in the small dwelling~
+This appears to be a sleeping loft.  Hay is strewn all over the floor
+here, and the ladder pokes up through the middle of the floor.  The odor is
+even stronger here.  
+~
+~
+9 0
+D5
+~
+~
+0 0 2081
+S
+#2084
+The Axe Shack~
+This shop appears dedicated solely to selling axes in various forms.  The
+walls are lined with axes of many different materials and sizes.  Upon
+closer inspection, they appear to all be made rather hastily, but they are
+generally solid.  
+~
+~
+0 0
+D1
+~
+~
+0 0 2049
+S
+#2085
+The Common Room of the {GOrc Bladder Pub{x~
+This room smells almost as bad as the name of this place.  Despite this,
+it appears to have no orcs in sight.  Tables cover the floor, many with
+names of adventurers long gone carved in them.  A rickety staircase leads
+up.  
+~
+~
+0 0
+D0
+~
+~
+0 0 2097
+D3
+~
+~
+0 0 2049
+D4
+~
+~
+0 0 2088
+S
+#2086
+Enric's Supply House~
+Barrels and boxes clutter this small shop, and various items hang from
+the ceiling.  A sign proclaims that any item that you need for your travels
+can be bought here, and that you can also sell items here.  
+~
+~
+0 0
+D1
+~
+~
+0 0 2050
+S
+#2087
+Marta's Clothing Shoppe~
+Bolts of cloth of different colours line the walls in this shop.  On the
+floor, racks contain different types of clothing from all over the lands.  
+~
+~
+8 0
+D3
+~
+~
+0 0 2050
+S
+#2088
+The Upper Landing in the {GOrc Bladder Pub{x~
+This is a simple landing on the second floor of the pub.  There are rooms
+in all four directions from this small staircase landing, and a {ywooden
+plaque{x is located at the top of the staircase.  
+~
+~
+0 0
+E
+wooden~
+You are guaranteed a good night's sleep or yer money back.
+ 
+Da Management.
+~
+D0
+~
+~
+1 -1 2089
+D1
+~
+~
+1 -1 2092
+D2
+~
+~
+1 -1 2090
+D3
+~
+~
+1 -1 2091
+D5
+~
+~
+0 0 2085
+S
+#2089
+A room in the {GOrc Bladder Pub{x~
+Just a plain inn room, with a bed and a window.
+~
+~
+2072 0
+D2
+~
+~
+1 -1 2088
+S
+#2090
+A room in the {GOrc Bladder Pub{x~
+Just a plain inn room, with a bed and a window.
+~
+~
+2072 0
+D0
+~
+~
+1 -1 2088
+S
+#2091
+A room in the {GOrc Bladder Pub{x~
+Just a plain inn room, with a bed and a window.
+~
+~
+2072 0
+D1
+~
+~
+1 -1 2088
+S
+#2092
+A room in the {GOrc Bladder Pub{x~
+Just a plain inn room, with a bed and a window.
+~
+~
+2072 0
+D3
+~
+~
+1 -1 2088
+S
+#2093
+The City Common Room~
+This is the common room of the City of Lukhan.  It was built by the
+founders of this city to serve as a public building where people could
+gather to talk to each other and spend their free time.  It can get quite
+busy here at some times of the day.  
+~
+~
+262408 0
+D0
+~
+~
+0 0 2009
+D4
+~
+~
+0 0 2094
+D5
+~
+~
+0 0 1000
+S
+#2094
+The Grand Master's Quarters~
+Many years ago, the citizens of Lukhan elected a Grand Master to teach
+their descendents the knowledge that they had gained.  Through many
+generations, there has always been a Grand Master in residence at these
+quarters as they had hoped, and learning has flourished throughout the city.
+~
+~
+264 0
+D5
+~
+~
+0 0 2093
+S
+#2095
+The Hospital Lobby~
+This small lobby has several chairs for people who are waiting for loved
+ones to come out of the hospital.  Several ugly paintings line the walls,
+and there is a putrid {ggreen{x carpet.  
+~
+~
+263176 0
+D0
+~
+~
+0 0 2096
+D2
+~
+~
+0 0 2010
+S
+#2096
+The Hospital~
+This room is full of people who are either ill or who have just been
+brought in from distant realms nearly dead.  There are beds in the room and
+a healer helping those who are in dire need.  
+~
+~
+263448 0
+D2
+~
+~
+0 0 2095
+S
+#2097
+The Bar of the {GOrc Bladder Pub{x~
+A long oak bar is here, with cuts and scratches from the swords of the
+many adventurers who have drunk their fill here.  Along the wall are kegs of
+various liquors, and glasses to serve them in.  The Common Room is south of
+here.  
+~
+~
+0 0
+D2
+~
+~
+0 0 2085
+S
+#2098
+A small park~
+{GThis small park focuses around a statue in the center, with cobblestone
+walkways going all around it, and bright green grass covering the rest of
+the ground.  Buildings surround the park on all sides except the south,
+where Temple Street passes by.  {x 
+~
+~
+0 2
+E
+plaque~
+The Plaque Reads:
+Constructed in the Year of King Rufus 12.
+In Honour of the Goddess FreyHana whose beauty shall never die,
+though she may be banished from the realm by the evils 
+of Love.
+ 
+Erected by the Priestess of FreyHana, Emeri Dugan.
+~
+E
+statue~
+A weather-worn statue of the Goddess Freyhana is here. Even through the
+years of wear on the stone, her eternal beauty shows through. A {Yplaque{x
+is mounted on the ground before the statue.
+~
+D2
+~
+~
+0 0 2011
+S
+#2099
+A small park~
+{GTrees{x are placed sporadically around this park, and stretch high into
+the sky above the building which surround the park to three sides. 
+Underneath the towering trees, the ground is covered sparsely with grass,
+and {Wbenches{x are placed underneath several of the trees.  
+~
+~
+0 4
+E
+benches~
+The benches are made of a sturdy wood and appear to be well-kept.
+~
+E
+trees~
+One of the trees has several names carved in it, apparently a number of
+years old judging by the growth of the bark around the letters.  You can
+barely make out a couple of the names, "Freyhana & Veros".  
+~
+D0
+~
+~
+0 0 2011
+S
+#2100
+The Monument of the Sundering~
+A huge {Wstone pillar{x rises from the ground here, rising hundreds of
+feet into the sky.  The Monument of the Sundering was built to remember the
+Dark Times that followed the Sundering, and to honour those who helped
+rebuild civilization.  The stone is a stark white, and atop it rests a
+{Ygolden star{x with seven points, the symbol of Aecindo.  It is said that
+the Monument, even more than the Temple, is the first thing visitors see
+from afar when approaching the City of Lukhan.  
+~
+~
+0 0
+D0
+~
+~
+0 0 2012
+S
+#2101
+Elgoth's Curio Shop~
+The Curio Shop is rather sparse, and appears abandonded.  The shelves are
+lined with dust, and cobwebs hang from the rafters.  A small {Wnote{x is
+hanging on the shelf over the counter.  
+~
+~
+256 0
+E
+note~
+In my search for Interesting Curiousities, my travels have taken me away
+from my shop for some time.  If I find anything interesting, I shall bring
+it back and auction it to you.  I will send the town crier about to notify
+of this, because you can trust that it will be worth it.  
+ 
+Yours in Providing Excellent Curiousities, Elgoth.
+~
+D2
+~
+~
+0 0 2012
+S
+#2102
+A deserted cafe~
+Dust lines the old tables in this deserted cafe, and broken glass litters 
+the floor. A sign sits against the wall inside the door, apparently brought
+in from the street years ago.
+~
+~
+9 0
+E
+sign~
+Horath's Cafe
+Due to the recent conflict in this city,
+Horath's Cafe has moved back to his homeland
+and is closed in the fine city of Rekartha.
+~
+D1
+~
+~
+0 0 2104
+D2
+~
+~
+1 -1 2002
+S
+#2103
+An empty building~
+This room is totally vacant, and there is no sign of what once was here. 
+All that can be seen is a thick layer of dust covering the hardwood floor.  
+~
+~
+0 0
+D0
+~
+~
+1 -1 2002
+D5
+~
+trapdoor~
+65 -1 2173
+S
+#2104
+A deserted kitchen~
+This appears to have once been a kitchen.  Many of the supplies have been
+removed, but the old stove remains, as does a huge table in the middle of
+the room which is covered with knicks and cuts.  
+~
+~
+9 0
+D3
+~
+~
+0 0 2102
+S
+#2105
+Thoric's Armour Shop~
+This armour shop is a well organized and laid out display of some of the
+finest armours in the land.  One corner is littered with used armour brought
+in by adventurers who were buying newer items.  
+~
+~
+0 0
+D3
+~
+~
+0 0 2051
+S
+#2106
+Jac's Weapon Emporium~
+Weapons hang along the walls here in a vast array of different types. There
+are also a few scattered around the floor, and behind the counter.
+~
+~
+0 0
+D1
+~
+~
+0 0 2052
+S
+#2107
+The Little Shop of Magic~
+All sorts of oddities can be seen here. Most are behind glass and aren't
+for sale, but there are a few items you can purchase. A stack of vellum
+from distant lands is near the counter, and is the most popular item here.
+~
+~
+0 0
+D3
+~
+~
+0 0 2053
+S
+#2108
+The Foyer to the CityGuard Headquarters~
+This bare room has only one door other than the exit to the street, and
+it is marked by a sign that warns that there is no public access to the rest
+of CityGuard HeadQuarters.  
+~
+~
+264 0
+D0
+~
+~
+1 2032 2109
+D2
+~
+~
+0 0 2065
+S
+#2109
+Hallway in the CityGuard HeadQuarters~
+This hallway is floored with a checker-tiled floor. Weapons line the walls
+on both sides, and the smell of incense fills the air.
+~
+~
+264 0
+D2
+~
+~
+1 2032 2108
+D3
+~
+~
+1 -1 2110
+S
+#2110
+The CityGuard Captain's Office~
+This room is furnished rather plushly, with huge oak trimwork and a large
+desk in the center.  Paintings hang upon the walls, which are papered with a
+gold coloured quilting.  
+~
+~
+265 0
+D1
+~
+~
+1 -1 2109
+S
+#2111
+Temple Street Discount Shop~
+This hole-in-the wall type building is filled with various items, many
+which could be considered trash, but others which are very useful.  All of
+them are at highly discounted prices.  You wonder where they get their
+merchandise.  
+~
+~
+8 0
+D2
+~
+~
+0 0 2004
+S
+#2112
+The Great Red Tower~
+The baked, cobblestoned road ends abruptly here in front of an
+astonishingly crimson tower that dwarfs the buildings to either side.  The
+smooth, red walls of this large tower stretch unerringly upwards, a symbol
+of the great works of the builder.  Although the deep red walls are unmarred
+and not marked in any way as they rise into the sky, the front of the tower
+is set with a large portal barred shut by a great metal door.  Above this
+door, etched into the impressionless material are complex runes which shine
+in a brilliant white light that during the night turns the road in front as
+bright as the daylight during the high afternoons.  The formidable tower
+looks impenetrable to those not invited.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2004
+D2
+~
+~
+225 2113 2141
+S
+#2113
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D1
+~
+~
+0 0 2035
+S
+#2114
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D3
+~
+~
+0 0 2035
+S
+#2115
+The City Jail Office~
+Cells line all the walls of this room, and a plain desk sits in the
+center.  There is a ladder located near the front door.  
+~
+~
+264 0
+D0
+~
+~
+1 2040 2116
+D1
+~
+~
+1 2040 2117
+D2
+~
+~
+0 0 2063
+D3
+~
+~
+33 2040 2118
+S
+#2116
+A Prison Cell~
+A floor drain is the main feature of this jail cell. The door to the 
+cell appears to be solid iron, and is several inches thick. Silence 
+fills the room, with the exception of the occasional drip from the water
+line that slowly fills a pail which is to be used for drinking, washing,
+and anything that water is needed for.
+~
+~
+0 0
+D2
+~
+~
+1 2040 2115
+S
+#2117
+A dreary jail cell~
+A floor drain is the main feature of this jail cell. The door to the 
+cell appears to be solid iron, and is several inches thick. Silence 
+fills the room, with the exception of the occasional drip from the water
+line that slowly fills a pail which is to be used for drinking, washing,
+and anything that water is needed for.
+~
+~
+0 0
+D3
+~
+~
+1 -1 2115
+S
+#2118
+A dreary jail cell.~
+A floor drain is the main feature of this jail cell. The door to the 
+cell appears to be solid iron, and is several inches thick. Silence 
+fills the room, with the exception of the occasional drip from the water
+line that slowly fills a pail which is to be used for drinking, washing,
+and anything that water is needed for.
+~
+~
+9 0
+D1
+~
+~
+33 -1 2115
+S
+#2119
+University Park West~
+A peaceful reprieve from the bustle of the rest of the city, University
+Park seems almost out of place here.  It is quiet with small paths winding
+among flower gardens and trees.  A small pond rests in the middle of the
+park.  
+~
+~
+0 2
+D1
+~
+~
+0 0 2076
+S
+#2120
+University Park East~
+A peaceful reprieve from the bustle of the rest of the city, University
+park.  Seems almost out of place here.  It is quiet with small paths winding
+among flower gardens and trees.  A small pond rests in the middle of the
+park.  To the east of the park, a commotion can be heard disturbing the
+peace and quiet.  In that direction can be seen the entrance to the fair,
+which is a regular attraction in the city.  
+~
+~
+1024 2
+D1
+~
+~
+0 0 1900
+D3
+~
+~
+0 0 2076
+S
+#2121
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D1
+~
+~
+0 0 2036
+S
+#2122
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D3
+~
+~
+0 0 2036
+S
+#2123
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D1
+~
+~
+0 0 2037
+S
+#2124
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D3
+~
+~
+0 0 2037
+S
+#2125
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D1
+~
+~
+0 0 2038
+S
+#2126
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D3
+~
+~
+0 0 2038
+S
+#2127
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D1
+~
+~
+0 0 2039
+S
+#2128
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D3
+~
+~
+0 0 2039
+S
+#2129
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D1
+~
+~
+0 0 2040
+S
+#2130
+A cheap apartment~
+A cheap apartment with no furnishings.  Just the place to spend your
+holidays.  
+~
+~
+72 0
+D3
+~
+~
+0 0 2040
+S
+#2131
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D1
+~
+~
+0 0 2020
+S
+#2132
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D3
+~
+~
+0 0 2020
+S
+#2133
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D1
+~
+~
+0 0 2019
+S
+#2134
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D3
+~
+~
+0 0 2019
+S
+#2135
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D1
+~
+~
+0 0 2018
+S
+#2136
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D3
+~
+~
+0 0 2018
+S
+#2137
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D1
+~
+~
+0 0 2017
+S
+#2138
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D3
+~
+~
+0 0 2017
+S
+#2139
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D1
+~
+~
+0 0 2016
+S
+#2140
+An empty shop.~
+This shop is clean and bare, awaiting a new merchant to stock its shelves.
+~
+~
+262216 0
+D3
+~
+~
+0 0 2016
+S
+#2141
+{RArena Tower{x~
+The floor in this tower is marble.  Bloody marble.  An incription on the
+inside of the doors explains in clear detail - the protection of law does
+not apply in this tower.  Apparently, this place was created by a secrety
+society of mages many years ago to test those who would be worth to join
+their ranks.  The location of this society is unknown, but the Arena still
+exists and the screams of the fallen echo throughout the open floors of the
+arena.  There is no way out but through these doors to the north.  
+~
+~
+8489 0
+D0
+~
+~
+225 -1 2112
+D1
+~
+~
+0 0 2142
+D2
+~
+~
+0 0 2144
+D3
+~
+~
+0 0 2149
+S
+#2142
+{RArena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D2
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2141
+S
+#2143
+{RArena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2149
+D1
+~
+~
+0 0 2144
+D2
+~
+~
+0 0 2146
+S
+#2144
+{RArena Tower{x~
+Wrought iron stairs circle a central pillar here, heading up to the next
+floor.  The ironwork is very intricate, and complements the bloody marble
+nicely.  
+~
+~
+8489 0
+D0
+~
+~
+0 0 2141
+D1
+~
+~
+0 0 2145
+D2
+~
+~
+0 0 2147
+D3
+~
+~
+0 0 2143
+D4
+~
+~
+0 0 2150
+S
+#2145
+{RArena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8488 0
+D0
+~
+~
+0 0 2142
+D2
+~
+~
+0 0 2148
+D3
+~
+~
+0 0 2144
+S
+#2146
+{RArena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2143
+D1
+~
+~
+0 0 2147
+S
+#2147
+{RArena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2144
+D1
+~
+~
+0 0 2148
+D3
+~
+~
+0 0 2146
+S
+#2148
+{RArena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2147
+S
+#2149
+{RArena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D1
+~
+~
+0 0 2141
+D2
+~
+~
+0 0 2143
+S
+#2150
+{RSecond Floor of the Arena Tower{x~
+Wrought iron stairs circle a central pillar here, heading up to the next
+floor and back down as well.  The ironwork is very intricate, and
+complements the bloody marble nicely.  
+~
+~
+8489 0
+D0
+~
+~
+0 0 2152
+D1
+~
+~
+0 0 2154
+D2
+~
+~
+0 0 2156
+D3
+~
+~
+0 0 2158
+D4
+~
+~
+0 0 2159
+D5
+~
+~
+0 0 2144
+S
+#2151
+{RSecond Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D1
+~
+~
+0 0 2152
+D2
+~
+~
+0 0 2158
+S
+#2152
+{RSecond Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D1
+~
+~
+0 0 2153
+D2
+~
+~
+0 0 2150
+D3
+~
+~
+0 0 2151
+S
+#2153
+{RSecond Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D2
+~
+~
+0 0 2154
+D3
+~
+~
+0 0 2152
+S
+#2154
+{RSecond Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2153
+D2
+~
+~
+0 0 2155
+D3
+~
+~
+0 0 2150
+S
+#2155
+{RSecond Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2154
+D3
+~
+~
+0 0 2156
+S
+#2156
+{RSecond Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2150
+D1
+~
+~
+0 0 2155
+D3
+~
+~
+0 0 2157
+S
+#2157
+{RSecond Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2158
+D1
+~
+~
+0 0 2156
+S
+#2158
+{RSecond Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8488 0
+D0
+~
+~
+0 0 2151
+D1
+~
+~
+0 0 2150
+D2
+~
+~
+0 0 2157
+S
+#2159
+{RThird Floor of the Arena Tower{x~
+Wrought iron stairs circle a central pillar here, heading up to the next
+floor and back down as well.  The ironwork is very intricate, and
+complements the bloody marble nicely.  
+~
+~
+8489 0
+D0
+~
+~
+0 0 2161
+D1
+~
+~
+0 0 2164
+D2
+~
+~
+0 0 2166
+D3
+~
+~
+0 0 2163
+D4
+~
+~
+0 0 2168
+D5
+~
+~
+0 0 2150
+S
+#2160
+{RThird Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D1
+~
+~
+0 0 2161
+D2
+~
+~
+0 0 2163
+S
+#2161
+{RThird Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8488 0
+D1
+~
+~
+0 0 2162
+D2
+~
+~
+0 0 2159
+D3
+~
+~
+0 0 2160
+S
+#2162
+{RThird Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D2
+~
+~
+0 0 2164
+D3
+~
+~
+0 0 2161
+S
+#2163
+{RThird Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2160
+D1
+~
+~
+0 0 2159
+D2
+~
+~
+0 0 2165
+S
+#2164
+{RThird Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2162
+D2
+~
+~
+0 0 2167
+D3
+~
+~
+0 0 2159
+S
+#2165
+{RThird Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2163
+D1
+~
+~
+0 0 2166
+S
+#2166
+{RThird Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2159
+D1
+~
+~
+0 0 2167
+D3
+~
+~
+0 0 2165
+S
+#2167
+{RThird Floor of the Arena Tower{x~
+The arena here is just like the rest of the arena. Bloody marble.
+~
+~
+8489 0
+D0
+~
+~
+0 0 2164
+D3
+~
+~
+0 0 2166
+S
+#2168
+{RThe Top of Arena Tower{x~
+Wrought iron stairs lead back downstairs while the central pillar rises
+overhead to meet the soaring buttresses which meet at the top of this
+building in the style of a grand cathedral.  The ironwork is quite
+intricate, and complements the bloody marble quite nicely.  
+~
+~
+8489 0
+D0
+~
+~
+0 0 2170
+D1
+~
+~
+0 0 2169
+D2
+~
+~
+0 0 2172
+D3
+~
+~
+0 0 2171
+D5
+~
+~
+0 0 2159
+S
+#2169
+{RThe Top of Arena Tower{x~
+This room seems to be a nice place to hide and snipe people coming up the
+stairs.  There is a small window that looks out over the city of Lukhan, but
+the outside is dirty and not much light passes through.  
+~
+~
+8489 0
+D3
+~
+~
+0 0 2168
+S
+#2170
+{RThe Top of Arena Tower{x~
+This room seems to be a nice place to hide and snipe people coming up the
+stairs.  There is a small window that looks out over the city of Lukhan, but
+the outside is dirty and not much light passes through.  
+~
+~
+8489 0
+D2
+~
+~
+0 0 2168
+S
+#2171
+{RThe Top of Arena Tower{x~
+This room seems to be a nice place to hide and snipe people coming up the
+stairs.  There is a small window that looks out over the city of Lukhan, but
+the outside is dirty and not much light passes through.  
+~
+~
+8489 0
+D1
+~
+~
+0 0 2168
+S
+#2172
+{RThe Top of Arena Tower{x~
+This room seems to be a nice place to hide and snipe people coming up the
+stairs.  There is a small window that looks out over the city of Lukhan, but
+the outside is dirty and not much light passes through.  
+~
+~
+8489 0
+D0
+~
+~
+0 0 2168
+S
+#2173
+An empty storeroom~
+Shafts of light and particles of dust filter through the floorboards
+above to give the air in here a mystical quality.  Other than the dust, the
+room is empty.  
+~
+~
+0 0
+D4
+~
+trapdoor~
+65 -1 2103
+D5
+~
+trapdoor~
+65 2051 1950
+S
+#2174
+On top of the Statue of Lotherius~
+You are on top of the Statue of Lotherius.  From here you can see the
+intricate detail of the inlaid gold on the roof of the temple, as well as a
+few interesting panels that look like they might be slightly loose.  The top
+of the statue itself is a bit rounded, and to be honest, it is difficult to
+stand here.  
+~
+climb down, push panel, climb rope...
+~
+268 0
+S
+#2175
+Above the temple, in the ceiling.~
+It is dark and cramped here in the ceiling above the temple, yet it seems
+as though there is no dust in this space, which is strange...  Perhaps there
+is something here that is of interest to someone.  It might be a good idea
+to look....  
+~
+~
+4 0
+S
+#2176
+Nanny Ogg's~
+A strange assortment of smells and tastes congregate here in the brewpot
+that is Nanny Ogg's.  The witch is infamous throughout the many planes of
+existence, and is currently plying her trade in the City of Lukhan.  Your
+nose warns that eating here could be risky, but the price seems right...  
+~
+~
+0 0
+D2
+~
+~
+0 0 2008
+S
+#2177
+Bank of Lukhan~
+The lobby of the Bank of Lukhan is small yet beautiful.  Expensive
+mosaics line the walls with floral patterns, and leather armchairs are
+available for those customers who need to wait.  A single window at the back
+holds the teller, a large ogre that overybody knows not to mess with.  
+~
+~
+524288 0
+D1
+A heavily armored door into the bank vault.
+~
+~
+161 -1 2178
+D2
+~
+~
+0 0 2022
+S
+#2178
+Before the Vault~
+This room is bare grey stone.  Stains of blood fill the cracks in the
+stonework as testimony to the determination of the bank guards.  A small
+stone lever is on the east wall to the left of a huge iron door.  
+~
+~
+0 0
+D1
+~
+~
+0 0 2179
+D2
+~
+~
+193 -1 2023
+D3
+~
+~
+161 -1 2177
+S
+#2179
+~
+~
+~
+0 0
+D3
+~
+~
+0 0 2178
+S
+#2199
+Telepop Room for City of Lukhan~
+~
+~
+40964 0
+S
+#2000
+The Intersection of Temple and Market Streets~
+Temple Street and Market Street both intersect here, making this easily
+the busiest spot in all of Lukhan.  Market stretches to the north and south,
+with vendors lining both sides.  To the east on Temple Street can be seen
+the glistening white towers of the Temple of Aecindo.  To the west are the
+ruins of Roqmin's temple.  A {Rsign{w stands in the middle of the road to
+the north.  
+~
+~
+0 1
+E
+sign~
+Welcome to the Market Square of Lukhan, Center of the World!
+(Or so we like to claim)
+ 
+-- The City Council
+~
+D0
+~
+~
+0 0 2015
+D1
+~
+~
+0 -1 2008
+D2
+~
+~
+0 -1 2048
+D3
+~
+~
+0 -1 2001
+S
+#2001
+West Temple Street~
+The busy intersection with Market Street is to the east. Farther to the
+west can be seen the ruins of Roqmin's temple. This street appears to be
+much less used than the others in town.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2000
+D3
+~
+~
+0 -1 2002
+S
+#2002
+West Temple Street~
+To the east is the intersection with Market Street, and even farther east
+is the Temple of Aecindo.  To the west are the ruins of Roqmin's temple. 
+The street here is littered with trash.  What used to be shops to the north
+and south are both now boarded up buildings.  
+~
+~
+0 1
+D0
+~
+~
+1 -1 2102
+D1
+~
+~
+0 -1 2001
+D2
+~
+~
+1 -1 2103
+D3
+~
+~
+0 -1 2003
+S
+#2003
+West Temple Street~
+West Temple Street continues here.  To the west can be seen the ruins of
+Roqmin's temple.  East of here is the center of town where the intersection
+with Market Street is.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2002
+D3
+~
+~
+0 -1 2004
+S
+#2004
+West Temple Street~
+West Temple Street continues here, leading to an intersection with Sunset
+Avenue to the west, and Roqmin's temple.  To the distant east is Market
+Street.  A small shop sits to the north.  
+ 
+~
+~
+0 1
+D0
+~
+~
+0 0 2111
+D1
+~
+~
+0 -1 2003
+D2
+~
+~
+0 0 2112
+D3
+~
+~
+0 -1 2005
+S
+#2005
+West Temple Street~
+West Temple street continues heading toward the west end here.  To the
+east is Market Street.  Weeds poke up through the edges of the cobblestones
+here, and solid stone walls line both the north and south.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2004
+D3
+~
+~
+0 -1 2006
+S
+#2006
+West Temple Street~
+Temple Street continues to the west here, intersecting with Sunset Avenue
+not far from here.  The ruins of the Temple of Roqmin overshadow the western
+portion of the street.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2005
+D3
+~
+~
+0 -1 2007
+S
+#2007
+Intersection of West Temple and Sunset Avenue~
+You are at the intersection of Temple Street and Sunset Avenue.  Temple
+street leads off to the east, and Sunset to both the north and south.  The
+ruins of the Temple of Roqmin tower to the west.  Sunset Avenue seems to be
+much more maintained than Temple.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2035
+D1
+~
+~
+0 -1 2006
+D2
+~
+~
+0 -1 2055
+S
+#2008
+East Temple Street~
+You are on East Temple Street.  To the west is Market Street and to the
+east is Sunrise Avenue and the Temple of Aecindo.  To your north you see a
+small home, and to the south a small temple stands.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2176
+D1
+~
+~
+0 -1 2009
+D3
+~
+~
+0 -1 2000
+S
+#2009
+East Temple Street~
+Temple street runs east to west here.  The intersection with Market
+street is to the west, and the Temple of Aecindo can be seen to the east. 
+South is the City Common Room.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2010
+D2
+One of the busiest rooms in the city lies this way.
+~
+~
+0 0 2093
+D3
+~
+~
+0 -1 2008
+S
+#2010
+East Temple Street~
+Temple street runs east to west here, toward the markets in the west. 
+The ground is kept swept clean for the pilgrims to the temple of Aecindo in
+the east.  To the north is the hospital.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2095
+D1
+~
+~
+0 -1 2011
+D2
+~
+~
+0 0 2082
+D3
+~
+~
+0 -1 2009
+S
+#2011
+East Temple Street~
+The street continues to the east here.  Parks grace both the north and
+south sides of Temple Street here.  The Temple of Aecindo can be seen to the
+east, and to the west is the intersection with Market Street.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2098
+D1
+~
+~
+0 -1 2012
+D2
+~
+~
+0 0 2099
+D3
+~
+~
+0 -1 2010
+S
+#2012
+East Temple Street~
+The Temple of Aecindo looms to the east here, and the traffic has
+increased dramatically on the street.  The cobblestone has given way to iron
+as the surfacing for the road, an obviously expensive way to deal with the
+heavy traffic that converges here on holidays.  To the north is a shop which
+sells souvenirs, and to the south is the Sundering Monument, which stands
+nearly as tall as the temple to the east.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2101
+D1
+~
+~
+0 -1 2013
+D2
+~
+~
+0 0 2100
+D3
+~
+~
+0 -1 2011
+S
+#2013
+East Temple Street~
+The Temple of Aecindo stands proudly to the east, directly past the
+intersection with Sunrise Avenue.  To the west, the city stretches out in
+urban sprawl.  Huge walls line the street to both the north and south here,
+with no entryways.  Murals depicting the battles of Aecindo's followers with
+the forces of evil cover both walls.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2014
+D3
+~
+~
+0 -1 2012
+S
+#2014
+Intersection of East Temple and Sunrise Avenue~
+The Temple of Aecindo rises high overhead on the east side of this busy
+street intersection.  The front of the temple is a huge gateway with a spire
+rising hundreds of feet above the already tall arch of the gate.  Intricate
+designs and patterns cover the stonework as it leads out to the north and
+south towers which each approach the height of the central spire.  The
+entire temple seems to radiate with a holy glow.  Sunrise Avenue leads off
+to the north and south, and Temple Street heads west from here.  
+~
+~
+262144 1
+D0
+~
+~
+0 -1 2034
+D2
+~
+~
+0 -1 2075
+D3
+~
+~
+0 -1 2013
+S
+#2015
+North Market Street~
+North Market Street is the capitalist center in Lukhan.  While the
+merchants on South Market are well established, and own their buildings,
+North Market was built more recently.  The shops here are leased by their
+shopkeepers, and change often.  You never know what you'll find on North
+Market, but you can be sure that it will always provide two things.  Variety
+and profit.  The shops of North Market line the street to the north, and the
+intersection of Market and Temple streets lie to the south.  Bare walls are
+to both sides of the street here.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2016
+D2
+~
+~
+0 0 2000
+S
+#2016
+North Market Street~
+North market street here is a bustle of activity with traders passing
+through here heading to and from Port Street to the north.  This main
+thouroughfare through the city of Lukhan is often called the World's Market,
+and for good reason.  Almost anything can be had here.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2017
+D1
+~
+~
+0 0 2140
+D2
+~
+~
+0 -1 2015
+D3
+~
+~
+0 0 2139
+S
+#2017
+North Market Street~
+North Market Street is the capitalist center in Lukhan.  While the
+merchants on South Market are well established, and own their buildings,
+North Market was built more recently.  The shops here are leased by their
+shopkeepers, and change often.  You never know what you'll find on North
+Market, but you can be sure that it will always provide two things.  Variety
+and profit.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2018
+D1
+~
+~
+0 0 2138
+D2
+~
+~
+0 -1 2016
+D3
+~
+~
+0 0 2137
+S
+#2018
+North Market Street~
+North market street here is a bustle of activity with traders passing
+through here heading to and from Port Street to the north.  This main
+thouroughfare through the city of Lukhan is often called the World's Market,
+and for good reason.  Almost anything can be had here.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2019
+D1
+~
+~
+0 0 2136
+D2
+~
+~
+0 -1 2017
+D3
+~
+~
+0 0 2135
+S
+#2019
+North Market Street~
+North Market Street is the capitalist center in Lukhan.  While the
+merchants on South Market are well established, and own their buildings,
+North Market was built more recently.  The shops here are leased by their
+shopkeepers, and change often.  You never know what you'll find on North
+Market, but you can be sure that it will always provide two things.  Variety
+and profit.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2020
+D1
+~
+~
+0 0 2134
+D2
+~
+~
+0 -1 2018
+D3
+~
+~
+0 0 2133
+S
+#2020
+North Market Street~
+North market street here is a bustle of activity with traders passing
+through here heading to and from Port Street to the north.  This main
+thouroughfare through the city of Lukhan is often called the World's Market,
+and for good reason.  Almost anything can be had here.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2021
+D1
+~
+~
+0 0 2132
+D2
+~
+~
+0 -1 2019
+D3
+~
+~
+0 0 2131
+S
+#2021
+Intersection of North Market and Port Street~
+Port street crosses the end of North Market here, a very busy and wealthy
+intersection.  To the south, the elite of Lukhan earn their wealth, while
+everyone else vies for bargains and more goods are traded than anywhere in
+the world.  A plaque lies in the North wall here.  
+~
+~
+0 1
+E
+plaque~
+Dedicated to the SunderMUD Construction Co.
+Erected at the North Center of the City of Lukhan.
+ 
+A Brief Map of Lukhan:
+ 
++$$$$$$$+$$$$$$$+
+#       @       %
+#       @       %
+#       @       %
++&&&&&&&+&&&&&&&+
+#       @       %
+#       @       %
+#       @       %
++*******+*******+
+Key:
+$ = Port Street
+# = Sunset Avenue
+Market Street = @
+& = Temple Street
+% = SunRise Avenue
+* = SouthLine Street
+ 
+Exits from the city are located at the intersection of  Port 
+and SunSet. Also, at the intersection of SoutLine and Market.
+~
+D1
+~
+~
+0 -1 2022
+D2
+~
+~
+0 0 2020
+D3
+~
+~
+0 -1 2047
+S
+#2022
+East Port Street~
+East Port Street intersects with Market Street to the west, and with
+Sunrise Avenue to the east.  The sounds of the ocean surf can be heard from
+the Port Gate.  A small passageway in the north wall leads to the Bank of
+Lukhan.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2177
+D1
+~
+~
+0 -1 2023
+D3
+~
+~
+0 -1 2021
+S
+#2023
+East Port Street~
+East Port Street intersects with Market Street to the west, and with
+Sunrise Avenue to the east.  The sounds of the ocean surf can be heard from
+the Port Gate.  
+~
+~
+0 1
+D0
+~
+~
+193 -1 2178
+D1
+~
+~
+0 -1 2024
+D3
+~
+~
+0 -1 2022
+S
+#2024
+East Port Street~
+East Port Street intersects with Market Street to the west, and with
+Sunrise Avenue to the east.  The sounds of the ocean surf can be heard from
+the Port Gate.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2025
+D3
+~
+~
+0 -1 2023
+S
+#2025
+East Port Street~
+East Port Street intersects with Market Street to the west, and with
+Sunrise Avenue to the east.  The sounds of the ocean surf can be heard from
+the Port Gate.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2026
+D3
+~
+~
+0 -1 2024
+S
+#2026
+East Port Street~
+East Port Street intersects with Market Street to the west, and with
+Sunrise Avenue to the east.  The sounds of the ocean surf can be heard from
+the Port Gate.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2027
+D3
+~
+~
+0 -1 2025
+S
+#2027
+East Port Street~
+East Port Street intersects with Market Street to the west, and with
+Sunrise Avenue to the east.  The sounds of the ocean surf can be heard from
+the Port Gate.  
+~
+~
+0 1
+D1
+~
+~
+0 -1 2028
+D3
+~
+~
+0 -1 2026
+S
+#2028
+Intersection of Port and Sunrise Avenue~
+Sunrise Avenue intersects with Port Street here.  To the west, Port
+Street heads off along the northern city wall, and to the east, the Port
+Gate stands perpetually open.  The sounds of surf and the smell of salt fill
+the air.  
+~
+~
+0 1
+D1
+~
+~
+0 0 14100
+D2
+~
+~
+0 -1 2029
+D3
+~
+~
+0 -1 2027
+S
+#2029
+North Sunrise Avenue~
+North Sunrise Avenue heads off north to Port Street, and south to the
+intersection with Temple Street.  The sounds of the surf can be heard over
+the wall to the east.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2028
+D2
+~
+~
+0 -1 2030
+S
+#2030
+North Sunrise Avenue~
+North Sunrise Avenue heads off north to Port Street, and south to the
+intersection with Temple Street.  The sounds of the surf can be heard over
+the wall to the east.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2029
+D2
+~
+~
+0 -1 2031
+S
+#2031
+North Sunrise Avenue~
+North Sunrise Avenue heads off north to Port Street, and south to the
+intersection with Temple Street.  The sounds of the surf can be heard over
+the wall to the east.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2030
+D2
+~
+~
+0 -1 2032
+S
+#2032
+North Sunrise Avenue~
+North Sunrise Avenue heads off north to Port Street, and south to the
+intersection with Temple Street.  The sounds of the surf can be heard over
+the wall to the east.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2031
+D2
+~
+~
+0 -1 2033
+S
+#2033
+North Sunrise Avenue~
+North Sunrise Avenue heads off north to Port Street, and south to the
+intersection with Temple Street.  The sounds of the surf can be heard over
+the wall to the east.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2032
+D2
+~
+~
+0 -1 2034
+S
+#2034
+North Sunrise Avenue~
+North Sunrise Avenue heads off north to Port Street, and south to the
+intersection with Temple Street.  The sounds of the surf can be heard over
+the wall to the east.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2033
+D2
+~
+~
+0 -1 2014
+S
+#2035
+North Sunset Avenue~
+North Sunset Avenue is lined with middle-class apartments on both sides
+here.  The traffic is slightly heavy here with people coming from the gates
+to the north.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2036
+D1
+~
+~
+0 0 2114
+D2
+~
+~
+0 -1 2007
+D3
+~
+~
+0 0 2113
+S
+#2036
+North Sunset Avenue~
+North Sunset Avenue is lined with middle-class apartments on both sides
+here.  The traffic is slightly heavy here with people coming from the gates
+to the north.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2037
+D1
+~
+~
+0 0 2122
+D2
+~
+~
+0 -1 2035
+D3
+~
+~
+0 0 2121
+S
+#2037
+North Sunset Avenue~
+North Sunset Avenue is lined with middle-class apartments on both sides
+here.  The traffic is slightly heavy here with people coming from the gates
+to the north.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2038
+D1
+~
+~
+0 0 2124
+D2
+~
+~
+0 -1 2036
+D3
+~
+~
+0 0 2123
+S
+#2038
+North Sunset Avenue~
+North Sunset Avenue is lined with middle-class apartments on both sides
+here.  The traffic is slightly heavy here with people coming from the gates
+to the north.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2039
+D1
+~
+~
+0 0 2126
+D2
+~
+~
+0 -1 2037
+D3
+~
+~
+0 0 2125
+S
+#2039
+North Sunset Avenue~
+North Sunset Avenue is lined with middle-class apartments on both sides
+here.  The traffic is slightly heavy here with people coming from the gates
+to the north.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2040
+D1
+~
+~
+0 0 2128
+D2
+~
+~
+0 -1 2038
+D3
+~
+~
+0 0 2127
+S
+#2040
+North Sunset Avenue~
+North Sunset Avenue is line with middle-class apartments on both sides
+here.  Directly to the north can be seen the Northern and Western gates of
+the city.  
+~
+~
+0 1
+D0
+~
+~
+0 -1 2041
+D1
+~
+~
+0 0 2130
+D2
+~
+~
+0 -1 2039
+D3
+~
+~
+0 0 2129
+S
+#2041
+Intersection of Port and Sunset Avenue~
+Port and Sunset Avenue intersect here, under the shadow of the NorthWest
+Gates.  Huge Arches lead out of the city to both the north and the south.  
+~
+~
+0 1
+D0
+~
+~
+0 0 4003
+D1
+~
+~
+0 -1 2042
+D2
+~
+~
+0 -1 2040
+D3
+~
+~
+0 0 14201
+S
+#2042
+West Port Street~
+Port Street intersects with Market to the east, and heads off toward
+the NorthWest Gates in the west.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2043
+D3
+~
+~
+0 -1 2041
+S
+#2043
+West Port Street~
+Port Street intersects with Market to the east, and heads off toward
+the NorthWest Gates in the west.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2044
+D3
+~
+~
+0 -1 2042
+S
+#2044
+West Port Street~
+Port Street intersects with Market to the east, and heads off toward
+the NorthWest Gates in the west.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2045
+D3
+~
+~
+0 -1 2043
+S
+#2045
+West Port Street~
+Port Street intersects with Market to the east, and heads off toward
+the NorthWest Gates in the west.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2046
+D3
+~
+~
+0 -1 2044
+S
+#2046
+West Port Street~
+Port Street intersects with Market to the east, and heads off toward
+the NorthWest Gates in the west.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2047
+D3
+~
+~
+0 -1 2045
+S
+#2047
+West Port Street~
+Port Street intersects with Market to the east, and heads off toward
+the NorthWest Gates in the west.
+~
+~
+0 1
+D1
+~
+~
+0 -1 2021
+D3
+~
+~
+0 -1 2046
+S
+#0
+
+
+

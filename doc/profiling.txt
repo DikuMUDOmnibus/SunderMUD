@@ -1,0 +1,32 @@
+SunderMud 2
+----------- 
+File Updated: June 23, 2002
+By:           Lotherius (elfren@blkbox.com)
+
+-----------
+
+Profiling is useful to find out where the mud is spending its time, and which
+commands are taking longer than they should.
+
+CAVEAT EMPTOR:
+  Profiling does not play nicely with copyover. I have no idea why, but
+  it seems to set off a time alarm when you do it, which forces the mud
+  to close. DO NOT COPYOVER WHEN PROFILING!
+
+To profile the mud, make sure you have gprof instealled.
+
+Then, add -pg after PROF in the Makefile (in this case, Make.sunder).
+
+Do a make clean, and recompile the mud. Reboot. Wait a while, preferably
+days or weeks so you can get an accurate representation of what is really
+being used on your mud and not just what was used during boottime (if you
+look at the results right after bootup, it isn't very accurate).
+
+After a sufficient amount of time, shutdown the mud. You will have a file in 
+the ./area/ directory called "gmon.out".
+
+From the area directory, type "gprof ../bin/sundermud gmon.out > profile"
+
+Now you have a file called "Profile" which you can read. It does include
+some explanations, but for more, type "info gprof" at your system prompt,
+and if docs are installed it will show them to you.

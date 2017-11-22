@@ -1,0 +1,66 @@
+#!/bin/csh
+# Written by Furey.
+# With additions from Tony.
+# Hacked many times later, only to find the real problem was in the .c files.
+
+# Set the port number -- this is in the RCfile now 
+# set port = 4000
+# if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+cd ../area
+
+# Set Limits
+#
+# Sets it such that group bits are set read/write
+umask 006
+unlimit core
+if ( -e shutdown.txt ) rm -f shutdown.txt
+if ( -e reboot.txt ) rm -f reboot.txt
+
+while ( 1 )
+# If you want to have logs in a different directory,
+#   change the 'set logfile' line to reflect the directory name.
+# Additionally, logfiles now are archived after shutdown/crash/reboot,
+# so the current logfile is always "current.log".
+
+set index = 1000
+#set coreind = 1000
+
+while ( 1 )
+  set logarchive = ../log/$index.log
+  if ( ! -e $logarchive ) break
+  @ index++
+end
+
+set logfile = ../log/current.log
+
+#while ( 1 )
+# set corefile = ../area/core.$coreind
+# if ( ! -e $corefile.gz ) break
+# @ coreind++
+#end
+
+    # Preserve any corefiles
+
+#    if ( -e ../area/core ) mv ../area/core ../bin/$corefile
+
+    # Run sundermud.
+
+    ../bin/sundermud 0 >&! $logfile    
+    mv -f $logfile $logarchive
+
+    # Restart, giving old connections a chance to die.
+    if ( -e shutdown.txt ) then
+        rm -f shutdown.txt
+        exit 0
+    endif
+	# If we aren't in a reboot, then we crashed.
+	# In which case we don't wanna slam the f'ing server with tons of restarts
+	# if we are gonna keep crashing. But we do need to try to restart, so just be
+	# nice about it.
+	if ( ! -e reboot.txt ) then
+	    sleep 100
+	endif
+    sleep 5
+end

@@ -1,0 +1,27 @@
+#MOBPROGS
+#400
+if ispc $n
+if level $n < 5
+tell $n Welcome, friend.
+tell $n If you are new to Malathar, then you will need to learn some of
+tell $n our ways. If you would like, the Duke has offered a portal to
+tell $n the Academy in Lukhan, which you may enter to the west, but
+tell $n only while you are still new.
+smile $n
+tell $n Oh, one more thing.
+tell $n The Duke doesn't allow us to operate the portal in both directions,
+tell $n otherwise Humans might over-run Malathar, and we won't want that.
+tell $n So to get back here, you need to 'recall'.
+tell $n Also, I will be here to help you learn things from our library.
+wave $n
+endif
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+

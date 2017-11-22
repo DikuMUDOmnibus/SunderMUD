@@ -1,0 +1,144 @@
+#14200
+pike road guardian~
+a road guardian's pike~
+A solid iron pike is here.~
+~
+iron~
+5 G AN 0
+D AB BE ABCD 0
+39 15 11150 100 100
+A
+21 -3
+A
+19 5
+A
+18 4
+A
+14 20
+#14201
+axe brass orc~
+an orc axe~
+A brass orc axe is here~
+~
+brass~
+5 0 AN 0
+AC B AD ACE 0
+15 10 750 100 100
+#14202
+blacklight light strobe orb wierd~
+a nifty blacklight strobe~
+A wierd orb is here flashing wierd purple and blue colors.		~
+My favorite lighting device :) -- Lotherius
+~
+glass~
+1 A AO 0
+0 0 360 0 0
+35 4 4150 100 100
+A
+4 1
+A
+12 20
+#14203
+fountain cold~
+a fountain~
+A fountain is here with a cold liquid flowing forth.~
+~
+stone~
+25 O 0 0
+BEF BEF AB 0 0
+1 244 5000 100 100
+E
+fountain cold~
+You realize that the liquid is nothing but water. Looney, of course, denies this,
+insisting that it is ale. Somehow, you think he really believes what he says.
+~
+#14204
+rabbitskin cap~
+a rabbitskin cap~
+A cap made out of soft rabbitskin is here.~
+~
+fur~
+9 GI AE 0
+A BC BC BC 0
+15 6 2350 100 100
+A
+4 1
+A
+12 10
+#14205
+rabbitskin skin~
+a rabbit skin~
+The skin of a rabbit is here.~
+~
+flesh~
+13 0 A 0
+0 0 0 0 0
+1 5 25 100 100
+#14206
+belt golden looney~
+Looney's Golden Belt~
+A gold belt with magical runes etched on it lies here.~
+~
+gold~
+9 K AL 0
+ACD ACD ACD ACD 0
+50 5 10500 100 100
+A
+18 5
+A
+19 5
+#14207
+longsword blackened iron black sword~
+a black iron longsword~
+A blackened longsword is here~
+~
+iron~
+5 GK AN 0
+A C BCE A 0
+50 25 9700 100 100
+A
+19 4
+A
+18 4
+A
+12 10
+#14208
+cloak burlap~
+a burlap cloak~
+A cloak made of burlap is here.~
+~
+cloth~
+9 0 AK 0
+AD AD AD D 0
+31 4 1550 100 75
+#14209
+box floating~
+A floating box~
+A box is floating here.~
+~
+steel~
+15 BGI AT 0
+CFG ABCD BHIJKMN 0 0
+38 0 1900 100 12
+#14210
+key steel~
+a steel key~
+A steel key is here.~
+~
+steel~
+18 0 A 0
+0 0 0 0 0
+38 1 0 100 100
+#14211
+knotted ash staff~
+a knotted ash staff~
+A staff made of knotted ash is here.~
+~
+wood~
+4 AG AO 0
+CF ABC BC 56 0
+36 2 11300 100 100
+#0
+
+
+

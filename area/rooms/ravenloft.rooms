@@ -1,0 +1,3233 @@
+#22000
+The Gates of Ravenloft~
+The awesome presence of Castle Ravenloft towers before you.  Twin
+guardhouses or turreted stone, broken from years of use and exposure, stand
+before you.  Beyond these, a 50 foot wide precipice gapes between the
+Balinok cliffs and the wall of Castle Ravenloft.  A rusted {ysign{x hangs
+from the gates.  
+~
+~
+8448 5
+E
+sign~
+Ravenloft is a registered trademark of TSR Corp.  All rights reserved.
+~
+D0
+Two massive iron gates loom before you.  They have not been used in
+decades.  
+~
+gate~
+129 -1 22001
+D2
+~
+~
+0 0 4040
+S
+#22001
+The Drawbridge~
+A chasm of dizzying depth that disappears into the fog-shrouded distance
+far below can be seen as you look over the drawbridge.  The drawbridge is
+old, shorn-up wooden beams hangs precariously between you and the arched
+entrance to the courtyard.  The chains of the drawbridge creak in the wind. 
+Their rusty iron straining with the weight.  From atop the high walls, stone
+gargoyles seem to stare at you from their hollow sockets and grin hideously.
+~
+~
+8449 5
+D0
+~
+~
+0 0 22002
+D2
+Two massive iron gates loom before you.  They have not been used in
+decades.  
+~
+gate~
+129 -1 22000
+S
+#22002
+The Entry Tunnel~
+A rotting wooden portcullis, green with growth, hangs in the entry
+tunnel.  Beyond this, the main doors of Castle Ravenloft stand open.  A rich
+warm light spills from them into the courtyard.  Torches flutter sadly in
+sconces on both sides of the open doors.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22003
+D2
+~
+~
+0 0 22001
+S
+#22003
+Front Courtyard~
+Thick, cold fog swirls in the darkened courtyard.  Sporadic flashes of
+lightning lance the angry clouds overhead.  Thunder pounds the courtyard.  
+~
+~
+8448 2
+D0
+a massive ornate door stands before you made of ironwood.
+~
+~
+129 -1 22006
+D1
+~
+~
+0 0 22005
+D2
+~
+~
+0 0 22002
+D3
+~
+~
+0 0 22004
+S
+#22004
+Front Courtyard~
+A light drizzle begins to fall.  A howling wind rushes through the
+courtyard.  Lightning is flashing menacing in the cloudy sky.  
+ 
+~
+~
+8448 2
+D0
+~
+~
+0 0 22007
+D1
+~
+~
+0 0 22003
+S
+#22005
+Front Courtyard~
+The dark towers of the keep loom above in the mists.  Flickering lights
+shine from the southeast side of the keep.  The rain is now pelting you,
+leaving small bruises on your body.  
+~
+~
+8448 2
+D0
+~
+~
+0 0 22008
+D3
+~
+~
+0 0 22003
+S
+#22006
+Entry~
+The ornate, massive doors stand open.  Fluttering torches cast dim
+yellow flickers of light out from the entry way.  Twenty feet into the
+castle a second set of doors suddenly swings open effortlessly and the
+sounds of organ music flow out.  Overhead, in the entryway, four statues of
+horned and winged monstrosities glare down, their eyes flickering in the
+torchlight.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22014
+D2
+~
+~
+129 -1 22003
+S
+#22007
+Center Court Gate~
+A massive wall joins the outer walls of the castle to the keep.  A flash
+of lightning reveals a single gate, more than wide enough to admit a
+carriage.  The gate is blocked by a rusting portcullis.  
+ 
+~
+~
+8448 0
+D0
+a rusted portcullis.
+~
+portcullis~
+129 -1 22012
+D2
+~
+~
+0 0 22004
+S
+#22008
+Wall~
+A massive wall joins the outer walls of the castle to the keep.  A flash
+of lightning reveals a single gate, more than wide enough to admit a
+carriage.  The gate is blocked by a rusting portcullis.  
+~
+~
+8448 0
+D0
+A rusted portcullis.
+~
+portcullis~
+129 -1 22009
+D2
+~
+~
+0 0 22005
+S
+#22009
+Rear Courtyard~
+Thick, cold fog swirls in the darkened courtyard.  Sporadic flashes of
+lightning lance the angry clouds overhead.  Thunder pounds the courtyard.  
+~
+~
+8448 2
+D2
+a rusted portcullis.
+~
+portcullis~
+129 -1 22008
+D3
+~
+~
+0 0 22010
+S
+#22010
+Chapel Garden~
+Behind the towering boarded windows at the back of the keep, a small
+garden struggles to survive.  Small flowers press sadly skyward against the
+gloom.  Raindrops beat against the fragile petals.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22011
+D1
+~
+~
+0 0 22009
+D3
+~
+~
+0 0 22012
+S
+#22011
+Overlook~
+Dead leaves turn spirals about your feet, wheeling and careening over
+the stone railing.  Dark, surging clouds overhead drizzle continuously.  By
+looking over the edge you see that you are on a construction jutting out
+some two dozen feet from the cliff face.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22010
+S
+#22012
+Rear Courtyard~
+A light drizzle begins to fall.  A howling wind rushes through the
+courtyard.  Lightning is flashing menacing in the cloudy sky.  
+ 
+~
+~
+8448 2
+D1
+~
+~
+0 0 22010
+D2
+a rusted portcullis.
+~
+portcullis~
+129 -1 22007
+D3
+~
+~
+0 0 22013
+S
+#22013
+Carriage House~
+The double doors swing open to reveal a sleek, black carriage fitted
+with glass walls and a polished wood roof.  Next to the carriage is an empty
+stall.  No horses are in sight.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22012
+S
+#22014
+Great Entry~
+Cobwebs hang from the dust-covered columns of his great hall,
+illuminated by torches sputtering in iron sconces.  The dust and webs cast
+strange, moving shadows across the faces of stone gargoyles squatting
+motionlessly around the rim of the domed ceiling.  Cracked and faded ceiling
+frescoes display centuries of decay.  Two doors of bronze stand closed to
+the north.  To the east, a wide staircase climbs into darkness.  The sounds
+of the growing storn outside are subdued here.  Sad and majestic organ tones
+float in from a lit hallway to the right.  
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22022
+D1
+~
+~
+0 0 22015
+D2
+~
+~
+1 -1 22006
+D3
+~
+~
+0 0 22028
+S
+#22015
+Guest Hall~
+Torchlight flickers against the wall of this vaulted hall.  To the north
+, a dark forbidding hallwas runs into darkness.  Beside the opening, a suit
+of armor, oiled and glistening, stands at the attention in a shallow alcove.
+To the south, large double doors stand slightly open, a steady bright light
+escaping through the crack.  Swells of organ music come from behind the
+doors, spilling their melody of power and defeat into the hall.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22111
+D2
+~
+~
+0 0 22016
+D3
+~
+~
+0 0 22014
+S
+#22016
+Dining Hall~
+This magnificent room, brillantly lit by three massive crystal
+chandeliers.  Pillars of stone gleam against dull white marble walls, This
+magnificent room, brillantly lit by three massive crystal chandeliers. 
+Pillars of stone gleam against dull white marble walls, supporting the
+ceiling.  In the center of the room a long, heavy table is covered with a
+fine white damask cloth.  The table is laden with delectable foods of every
+type: roasted beast basted in a savory sauce, roots and herbs of wide
+variety, and sweet fruits and vegetables.  At the center of the far south
+wall stands a massive organ.  Its pipes blare out a thunderous melody whose
+tone blends greatness and despair.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22015
+D2
+~
+~
+65 0 22017
+S
+#22017
+South Ground Archers' Post~
+This is where archers once defended the keep.  The castle courtyard is
+visible through narrow slits that line the walls.  
+~
+~
+8456 0
+D0
+~
+~
+65 0 22016
+D1
+~
+~
+0 0 22018
+S
+#22018
+Turret Post Access Hall~
+This long narrow corridor runs north and south, it also branches to the
+west.  Cobwebs fill the hall and obstruct sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22020
+D2
+~
+~
+0 0 22019
+D3
+~
+~
+0 0 22017
+S
+#22019
+Turret Post~
+A high, domed ceiling caps the three-foot-diameter room before you. 
+Frescoes, faded with age adorn the ceiling but are impossible to make out. 
+Thin arrow slits, 2 feet tall and 4 inches wide, peer out into the
+courtyard.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22018
+S
+#22020
+Turret Post Access Hall~
+This long, narrow corridor runs north and south.  Cobwebs fill the hall
+and obstruct sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22021
+D2
+~
+~
+0 0 22018
+S
+#22021
+Guard Stairs~
+This is a spiral staircase of gray, dusty stones.  The staircase travels
+up and down.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22020
+D4
+~
+~
+0 0 22032
+D5
+~
+~
+0 0 22063
+S
+#22022
+Hall of Faith~
+This long, dusty hall leads eastward into the dark heart of Castle
+Ravenloft.  Statues line the hallway on both sides, their eyes seeming to
+watch you as you pass.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22023
+D2
+~
+~
+1 -1 22014
+S
+#22023
+Chapel of Ravenloft~
+Flashes of lightning blaze through broken and boarded-up stained glass
+windows, illuminating the ancient chapel of Ravenloft.  An alter, lit by a
+single piercing shaft of light, stands upon a platform.  A figure is drapped
+over the alter.  
+~
+~
+8448 0
+D1
+~
+~
+0 0 22025
+D2
+~
+~
+1 -1 22022
+D3
+~
+~
+0 0 22024
+S
+#22024
+Chapel of Ravenloft~
+Pews and benches lie on the floor in jumbled disarray, coated with
+centuries of dust.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22023
+D2
+~
+~
+0 0 22027
+S
+#22025
+Chapel of Ravenloft~
+Pews and benches lie on the floor in jumbled disarray, coated with
+centuries of dust.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22026
+D3
+~
+~
+0 0 22023
+S
+#22026
+Chapel Alcoves~
+This small, arched room opens into a vast chamber, obviously some sort of
+chapel.  The other side of the room reveals a set of dusty stairs.  Within
+the dark confines of the side alcoves lurk inhumanly tall shadowy figures. 
+Their stone forms show mighty muscled arms and legs.  Black shadows fall
+across the features of their faces.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22025
+D2
+~
+~
+0 0 22114
+S
+#22027
+Chapel Alcoves~
+This small, arched room opens into a vast chamber, obviously some sort of
+chapel.  The other side of the room reveals a set of dusty stairs.  Within
+the dark confines of the side alcoves lurk inhumanly tall shadowy figures. 
+Their stone forms show mighty muscled arms and legs.  Black shadows fall
+across the features of their faces.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22024
+D4
+~
+~
+0 0 22042
+S
+#22028
+Grand Landing~
+Massive stairs rise to a long, narrow landing.  Stone arches support a
+ceiling covered with frescoes.  The frecoes' faded lines depict the stone
+mountain atop which Castle Ravenloft stands, the castle being assaulted by
+armored forces on horseback.  The faces of the characters in the fresco are
+scuffed beyond recognition.  Dust floats in the air here, making it
+difficult to see details.  There are twin staircases leading upward on one
+wall.  Light filtering through dust shows two suits of armor covered with
+dark stains, one standing along the wall between the stairs.  Each suit of
+armor holds a mace designed like a curved dragon head.  Engraved words on
+the archers above the alcoves are scratched out.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22014
+D4
+~
+~
+0 0 22029
+S
+#22029
+Kings Audience Hall~
+Rain and dust burst into this room through broken glass and iron framing
+of a large window in the long wall.  This immense room stands in chilly,
+brooding darkness.  Hundreds of dusty cobwebs drape the room, hiding the
+ceiling from view.  Directly across from the window are a set of double
+doors, the ornate carvings in their wood obscured by a thick layer of grime.
+ 
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22038
+D1
+~
+~
+0 0 22030
+D5
+~
+~
+0 0 22028
+S
+#22030
+Kings Audience Hall~
+A single door is tucked into the small wall,, like a lost and forlorn
+child.  At the far end of the hall, a huge thrown is turned to the room.  At
+the other end of the hall opposite the thrown, twin staircases lead down
+into darkness.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22033
+D1
+~
+~
+65 0 22031
+D3
+~
+~
+0 0 22029
+S
+#22031
+Behind the Thrown~
+This long, narrow corridor runs north and south.  Cobwebs fill the hall
+and obstruct sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22032
+D2
+~
+~
+0 0 22037
+D3
+~
+~
+65 0 22030
+S
+#22032
+Guard Stairs~
+This is a spiral staircase of gray, dusty stones.  The staircase travels
+up and down.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22031
+D4
+~
+~
+0 0 22113
+D5
+~
+~
+0 0 22021
+S
+#22033
+Office of the Kings Accountant~
+Dusty scrolls and tomes line the walls of this room and are scattered
+across the floor.  In the center of all this clutter stands a huge
+accountant's desk.  A man sits hunched atop a tall stool, scratching at a
+seemingly endless scroll of paper with a quill pen.  A rope hangs next to
+him from a hole in the ceiling.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+65 0 22034
+D2
+~
+~
+1 -1 22030
+S
+#22034
+South Tower Stair~
+This stairwell is lit by flickering torches in iron sconces.  A chilly
+wind rushes down the circling stairway, seeming to kill the very heat of the
+torches.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+65 0 22033
+D4
+~
+~
+0 0 22110
+D5
+~
+~
+0 0 22111
+S
+#22035
+Turret Post~
+A high, domed ceiling caps the three-foot-diameter room before you. 
+Frescoes, faded with age adorn the ceiling but are impossible to make out. 
+Thin arrow slits, 2 feet tall and 4 inches wide, peer out into the
+courtyard.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22037
+S
+#22036
+South Ground Archers' Post~
+This is where archers once defended the keep.  The castle courtyard is
+visible through narrow slits that line the walls.  
+~
+~
+8448 0
+D1
+~
+~
+0 0 22037
+S
+#22037
+Turret Post Access Hall~
+~
+~
+8448 0
+D0
+~
+~
+0 0 22031
+D2
+~
+~
+0 0 22035
+D3
+~
+~
+0 0 22036
+S
+#22038
+Guard Post~
+Massive double doors open from both sides into this quiet section of
+dark corridor.  From both ends of the corridor, deep alcoves of darkness
+face each other with deathlike silence.  Nearly out of sight seeming to
+float within the alcoves' blackness human figures can be seen.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22039
+D2
+~
+~
+1 -1 22029
+D3
+~
+~
+65 0 22043
+S
+#22039
+Hall of Grace~
+This wide hall has a dark, vaulted ceiling.  Shadows seem to dance
+across the distant ceiling.  A low moan rises and falls the length of the
+corridor, intoning sadness and dispair.  
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22041
+D1
+~
+~
+65 0 22040
+D2
+~
+~
+1 -1 22038
+S
+#22040
+Trapworks~
+The aroma of grease and well-oiled wood fills your nostrils as you enter
+the room.  The entire place is filled with intricate machinery.  These are
+small passages between the gears and pulleys.  Behind all the machinery, a
+cold shaft rises up from the darkness and continues down past the room.  As
+you attempt to operate the machinery, your feet come out from under you. 
+Sending you sprawling to your death.  
+ 
+~
+~
+260 0
+S
+#22041
+Kings Worship Place~
+This balcony overlooks a vast rubble-strewn room.  Two large, ornate
+thrones stand in the middle of the dust-choked balcony.  The thrones face
+away from the brassbound double doors leading to the balcony.  Somene
+sitting in the thrones could easily be shielded from anyone behind the
+thrones.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+1 -1 22039
+D5
+~
+~
+0 0 22042
+S
+#22042
+Creaking Landing~
+A staircase of ancient wood climbs shakily up a stonework shaft.  With
+each step upon it, the wood strains underfoot, creaking and groaning.  
+ 
+~
+~
+8448 0
+D4
+~
+~
+0 0 22041
+D5
+~
+~
+0 0 22027
+S
+#22043
+King's Appartment Stair~
+The hallway is completely filled with cobwebs, after a few feet of
+travel inside this hall you are completely covered in the sticky webs.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+65 0 22038
+D2
+~
+~
+0 0 22045
+D3
+~
+~
+0 0 22044
+S
+#22044
+King's Appartment Stair~
+The hallway is completely filled with cobwebs, after a few feet of
+travel inside this hall you are completely covered in the sticky webs.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22043
+D2
+~
+~
+0 0 22046
+D3
+~
+~
+65 0 22047
+S
+#22045
+King's Appartment Stair~
+A steep flight of stairs lead up into darkness.  The wood is old and
+brittle under your feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22043
+D4
+~
+~
+65 -1 22082
+S
+#22046
+Maid's Hall~
+Stained yellow lace hangs neatly from eight canopied beds.  The single
+lithe figure of a woman moves about the room, dusting the furniture.  She
+sees you immediately, falls to her knees, and cries out, "Please!  , you
+must save me from this place!"  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22044
+S
+#22047
+Turret Post Access Hall~
+The long narrow corridor runs north and south.  Cobwebs fill the hall
+obstructing your sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22048
+D1
+~
+~
+65 0 22044
+D2
+~
+~
+0 0 22049
+S
+#22048
+Tower Hall of Honor~
+A spiral staircase rises slowly into the darkness circling the open
+shaft.  Cold air flows up the shaft, chilling you to the bone.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+65 0 22053
+D2
+~
+~
+0 0 22047
+D4
+~
+~
+0 0 22083
+D5
+~
+~
+0 0 22075
+S
+#22049
+Turret Post Access Hall~
+This long, narrow corridor runs north and south.  Cobwebs fill the hall
+and obstruct sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22047
+D2
+~
+~
+0 0 22050
+S
+#22050
+Turret Post Access Hall~
+This long, narrow corridor runs north and south.  Cobwebs fill the hall
+and obstruct sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22049
+D1
+~
+~
+0 0 22051
+D2
+~
+~
+0 0 22052
+S
+#22051
+Archers' Post~
+This is where archers once defended the keep.  The castle courtyard is
+visible through narrow slits that line the walls.  
+~
+~
+8448 0
+D3
+~
+~
+0 0 22050
+S
+#22052
+Turret Post~
+Cobwebs fill the hall and obsruct sight beyond a few feet.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22050
+S
+#22053
+Servants' Upper Floor~
+The floor sags in the middle of this room.  Dirt caked windows allow
+little light through from outside.  Broken beframes little the floor.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+65 0 22048
+D5
+~
+~
+0 0 22054
+S
+#22054
+Servants' Quarters~
+Broken furniture and ragged cloth are strewn about this room.  Dim
+illumination comes grom the dirt-caked windows to the east and north walls. 
+A rickety staircase climbs up to a higher floor.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22055
+D4
+~
+~
+0 0 22053
+S
+#22055
+Servants' Entrance~
+Flashes of lightning blaze through dust-caked windows to the north wall.
+The rhythmic drumming of raindrops beats againts the glass.  A large, heavy
+table sits in the center of the roomm coated with dust.  A thick book lies
+open on the desktop with an inkwell and quill next to it.  A staircase drops
+into total darkness in the east wall.  On each side of the staircase, a
+skeleton in bright armor stands at sagging attention holding a rusty
+halberd.  
+ 
+~
+~
+8448 0
+D3
+~
+~
+0 0 22054
+D5
+~
+~
+0 0 22056
+S
+#22056
+Servants' Hall~
+This hall stands in deadly silence.  The low ceiling sags from heavy
+beams.  A fog clings to the floor in thick patches, obscuring everything
+below hip level.  A giant shadow is cast across the ceiling as a dark figure
+shuffles purposefully down the corridor toward you.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22057
+D2
+~
+~
+0 0 22059
+D3
+~
+~
+0 0 22058
+D4
+~
+~
+0 0 22055
+S
+#22057
+Wine Cellar~
+Behind an iron gate, arched frames of stone form a low, wet ceiling over
+this wine cellar.  Greak casks of wine line the wallsm their bands rusting
+and their contents long since spilled onto the ground.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+1 -1 22056
+S
+#22058
+Kitchen~
+A horrible smell of decay assaults your senses as you enter this
+steam-filled room.  It is clearly a kitchen, although dust, cobwebs, and
+mold cover all surfaces, including the rusted cookware.  A huge pot bubbles
+over a blazing fire in the center of the floor, its greem muddy contents
+rolling over and over.  
+~
+~
+8448 0
+D1
+~
+~
+0 0 22056
+S
+#22059
+Servant's Hall~
+The hall is very silent.  Double doors made of heavy planks banded with
+steel can be seen through the fog.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22056
+D1
+~
+~
+1 -1 22060
+D2
+~
+~
+1 -1 22061
+D3
+~
+~
+0 0 22065
+S
+#22060
+Hallway~
+A web-filled stairway at the end of this short, arched hallway spirals
+down from the upper floors of the castle.  The stairs continue to wind down
+farther into the foul depths of Ravenloft.  The other end of the hallway
+ends at a door.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22112
+D3
+~
+~
+1 -1 22059
+S
+#22061
+Guards Hall~
+Darkness, cold as a winter sweat, wraps around you.  Large oak tables
+scarred and beaten, lie scattered like toys about this room, their wood
+crushed and splintered.  Dark stains cover the floor and the wall.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+1 -1 22059
+D1
+~
+~
+1 -1 22062
+D3
+~
+~
+0 0 22066
+S
+#22062
+Guards' Run~
+This short, arched corridor starts at a heavy wooden door.  Cool, moist
+air blows out from an archway in the side wall.  Just around the corner, a
+spiral stair leads up into darkness.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22063
+D2
+~
+~
+0 0 22064
+D3
+~
+~
+1 -1 22061
+S
+#22063
+Guard Stairs~
+This is a spiral staircase of gray, dusty stones.  The staircase leads
+up.  
+~
+~
+8448 0
+D3
+~
+~
+0 0 22062
+D4
+~
+~
+0 0 22021
+S
+#22064
+Guards' Quarters~
+Sickly yellow lichen covers the ceiling of this passage.  Opening to
+both sides are small square alcoves.  Rotting cots and rags squat in the
+shadows of the alcoves.  A deathly silence fills the hall.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22062
+S
+#22065
+Butlers' Quarters~
+The square room is cramped by numerous items filling it from wall to
+wall.  A small, sagging bed sits to one side under a huge faded tapestry
+depicting Castle Ravenloft.  Dustly lanterns sit in various places.  Huge,
+rich curtains are drapped haphazardly about the room.  Thousands of pieces
+of junk cover the floor.  Broken swords, crumpled shields, and battered
+helmets lie in piles all about.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22059
+S
+#22066
+Kingsman Hall~
+This square room drowns in chaos.  Shattered furniture lies in heaps
+around the walls.  Broken bones lie scattered amid crumpled and crushed
+plate armor.  Shields and swords jut from walls as if driven there by some
+tremendous force.  There is a door in the center of the west wall and a door
+in the center of the east wall.  A small archwall leads out through the
+north wall.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22074
+D1
+~
+~
+0 0 22061
+D3
+~
+~
+0 0 22067
+S
+#22067
+Office of Vengeance~
+This shadowy room is in perfect order.  An old cot stands to one side,
+its heavy blanket made taut and straight.  A great table stands with its
+chair, inkwell, and quill set carefully in place.  Lances and swords are
+carefully hung on the walls.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22066
+D2
+~
+~
+65 0 22068
+S
+#22068
+Western Stair~
+This staircase of ancient stone is worn smooth through use in ages long
+forgotten.  Dust covers the floor and dry cobwebs choke the passage.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+65 0 22067
+D5
+~
+~
+0 0 22073
+S
+#22069
+Brazier Room~
+This square room rises to a flat ceiling.  Gargoyle carvings smile,
+revealing their teeth, from high apon the walls.  Three faces are lit by
+braziers, which is planted in the center of the floor.  High overhead, an
+hourglass with writing on its base hangs suspended above the brazier.  All
+of its sand is in the upper portion, somehow refusing to run down into the
+bottom.  In the center of the room, next to the brazier, is a golden chest. 
+In the alcoves in the center of the two side walls stand two bronze statues
+of giant skeletons.  Each statue has four arms, one with a shield, one with
+a spear, and the other have their palms turned toward the ceiling.  Their
+eyes seem to watch you as you walk around the room.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22073
+D1
+~
+~
+0 0 22070
+D3
+~
+~
+0 0 22071
+S
+#22070
+Observation Balcony~
+Two large thrones stand in this balcony.  Behind the thrones is a wide,
+red velvet curtain running from wall to wall.  The room is oppressively
+silent, as quiet as a tomb.  Dampness and mildew fill your nostrils.  
+ 
+~
+~
+8448 0
+D3
+~
+~
+0 0 22069
+S
+#22071
+Center Strair~
+The door creaks open to reveal stone a stone staircase between rough
+masonry walls.  The hall is relatively free of obstruction and there is
+little dust on the steps.  A cool dampness flows from within as a think fog
+slowly forms in the room.  The staircase is obscured in the swirling mists. 
+The wind within howls mournfully.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22072
+D1
+~
+~
+0 0 22069
+S
+#22072
+Tunnel~
+This is a long, low tunnel.  The rough damp walls are barely discernable
+through thick fog.  This tunnel passes through the natural rock foundation
+of Ravenloft itself.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22149
+D2
+~
+~
+0 0 22071
+S
+#22073
+Western Stair~
+This is a dark spiral staircase of rough-hewn stone.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22069
+D4
+~
+~
+0 0 22068
+S
+#22074
+Kingsmen Quarters~
+A dark, low passage leads to an ascending staircase.  Sickly yellow
+lichen covers the ceilings.  There are four small room on each side of the
+passage, they are true ashambles.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22066
+D4
+~
+~
+0 0 22075
+S
+#22075
+Tower Hall of Honor~
+A mosaic floor streches across the round room.  A vast, empty tower
+rises above you.  You cannot see more than a few yards up, yet you feel the
+towers cold expanse pressing down on you.  A spiral staircase rises slowly
+into the darkness circling the open shaft.  In the center of the room
+another set of stairs leads down.  
+~
+~
+8448 0
+D3
+~
+~
+0 0 22076
+D4
+~
+~
+0 0 22048
+D5
+~
+~
+0 0 22074
+S
+#22076
+Turret Post Access Hall~
+The long narrow corridor runs south.  Cobwebs fill the hall obstrucking
+your sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22075
+D2
+~
+~
+0 0 22077
+S
+#22077
+Turret Post Access Hall~
+The long narrow corridor runs north and south.  Cobwebs fill the hall
+obstructing your sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22076
+D2
+~
+~
+0 0 22078
+S
+#22078
+Turret Post Access Hall~
+The long narrow corridor runs north and south.  Cobwebs fill the hall
+obstructing your sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22077
+D2
+~
+~
+0 0 22079
+S
+#22079
+Turret Post Access Hall~
+The long narrow corridor runs north and south.  Cobwebs fill the hall
+obstructing your sight beyond a few feet.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22078
+D1
+~
+~
+0 0 22081
+D2
+~
+~
+0 0 22080
+S
+#22080
+Turret Post~
+A high, domed ceiling caps the three-foot-diameter room before you. 
+Frescoes, faded with age adorn the ceiling but are impossible to make out. 
+Thin arrow slits, 2 feet tall and 4 inches wide, peer out into the
+courtyard.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22079
+S
+#22081
+Archers' Post~
+This is where archers once defended the keep.  The castle courtyard is
+visible through narrow slits that line the walls.  
+~
+~
+8448 0
+D3
+~
+~
+0 0 22079
+S
+#22082
+Hall of Heroes~
+Long, low moans drift down from the alcoves that line both walls of this
+long hall.  The ceiling has fallen here, leaving rubble strewn across the
+floor.  Overhead, the beams of Castle Ravenloft are exposed.  Sporadic
+lightning from the cloads above flashes into this hall.  A graven statue
+stands within each of the eight alcoves.  Shafts of light cross the statues'
+faces at obscure angles.  Another sudden flash and crack of lightning
+reveals the faces formed in the shapes of terrified men and women.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22083
+D1
+~
+~
+0 0 22085
+D5
+~
+~
+65 -1 22045
+S
+#22083
+Tower Hall of Honor~
+A spiral staircase rises slowly into the darkness circling the open
+shaft.  Cold air flows up the shaft, chilling you to the bone.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22082
+D3
+~
+~
+0 0 22084
+D4
+~
+~
+0 0 22096
+D5
+~
+~
+0 0 22048
+S
+#22084
+Courtyard Overlook~
+This is a wide walkway surrounding most of the keep.  The pouring rain
+continues amid the flashes of lightning and the sharp cracks of thunder. 
+Far below these parapets is the shinning wet courtyard.  Another walkway is
+west, leading to the outer wall that surrounds the castle.  Between the
+flashes of lightning you can see that most of the passage has collapsed,
+forever closing off the walkway.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22083
+S
+#22085
+Study~
+A blazing hearthfire fills this room with rolling waves of red and amber
+light.  The walls are lined with ancient books and tomes, their leather
+covers well oiled and preserved carefully.  All is in order here.  The stone
+floor is hidden beneath a luxurious rug of a deep-patterned weave.  A large,
+low table sits in the center of the room, waxed and polished to a mirror
+finish.  Even the poker next to the blazing fireplace is polished.  
+~
+~
+8448 0
+D0
+~
+~
+65 -1 22092
+D1
+~
+~
+0 0 22086
+D2
+~
+~
+0 0 22091
+D3
+~
+~
+0 0 22082
+S
+#22086
+Dinning Hall of the Count~
+Dust fills your lungs.  The musty smell of death and decay swirls around
+you.  Before you, a long table of polished oak lies beneath a blanket of
+dust.  The rotting tablecloth lies tattered beneath dusty china plates and
+stained silverware.  In the center of the table, a large, tiered cake leans
+heavily to one side.  The once white frosting has turned to green with age. 
+Cobwebs drape like dusty lace down everyside.  A single china figure of a
+well-dressed woman adorns the top of the cake under thick layers of dust. 
+The window is draped with heavy curtains, muffling the sounds of rain and
+thunder.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22087
+D2
+~
+~
+0 0 22089
+D3
+~
+~
+0 0 22085
+S
+#22087
+Facing Guardians~
+A door of delicately engraved steel stands at the end of a dark hallway,
+intricate details still stand out clearly on the door's surface.  The door
+seems to almost shine with a light of its own, untouched by time.  Yet on
+each side of this door is an alcove filled with a darkness that shames the
+night.  A motionless figure stands like a shadow within each alcove, as
+still as the cliffs of Balinok.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+65 0 22088
+D2
+~
+~
+0 0 22086
+S
+#22088
+South Tower Stair~
+This stairwell is lit by flickering torches in iron sconces.  A chilly
+wind rushes down the circling stairway, seeming to kill the very heat of the
+torches.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+65 0 22087
+S
+#22089
+Bath Chamber~
+In the center of this room stands a large, ornate iron tub.  Scented
+steam is rising from the heated water in it.  Moldering curtains of black
+and gold brocade hang on either side of the tub.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22086
+D1
+~
+~
+65 0 22090
+D3
+~
+~
+0 0 22091
+S
+#22090
+Closet~
+Within this room hang 28 capes and an assortment of black formal wear. 
+Two windows in the wall are covered with heavy curtains, thick with dust of
+centuries.  
+ 
+~
+~
+8448 0
+D3
+~
+~
+65 0 22089
+S
+#22091
+Bedchamber~
+Sweat smells waft from the delicately lit room.  A large window is
+covered by heavy red draperies, hanging swiftly from the high ceiling.  The
+sounds of rain and thunder are muffled by the fabric.  Their tassels of
+golden fiber glint in the light of three candelabras sitting atop small
+tables about the room.  Tall white candles burn with bright, steady light. 
+A large bed, canopied by silken curtains, sit with its headboard against the
+north wall.  Lying amid the velvet and satin sheets and bedclothes is a
+young maided in a nightcoat.  One of her dainty slippers has fallen to the
+floor at the foot of the bed.  Carved into the headboard with great skill
+and care is a large letter "Z".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22085
+D1
+~
+~
+0 0 22089
+S
+#22092
+Treasury~
+This smoky room lies behind the fireplace.  Glinting through the smoke,
+gold, silver, and copper coins lie scattered around a closed chest.  The
+fittings on the chest tell of superior workmanship.  On the north wall are
+This smoky room lies behind the fireplace.  Glinting through the smoke,
+gold, silver, and copper coins lie scattered around a closed chest.  The
+fittings on the chest tell of superior workmanship.  On the north wall are
+two torch sconces.  The eastern most sconce holds a torch with an intricate
+metal base.  The other is empty.  A skeleton of a man lies against the wall
+in broken plate armor.  His right hand at his throat, while is left hand
+holds the matching torch from the empty sconce.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+65 -1 22093
+D2
+~
+~
+65 -1 22085
+S
+#22093
+Hall of Riches~
+This ancient hall is choked with spider webs.  Their dusty threads hide
+the very walls and ceiling.  The webs are broken by a single clear path down
+the center of the room.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22094
+D2
+~
+~
+65 -1 22092
+S
+#22094
+Belfry~
+Dusty cobwebs fill the area, their musty smell assaulting your senses and
+obscuring sight.  Deep pools of darkness lie all about you, broken only by
+the occasional flash of lightning.  Vainly attempting to penetrate the
+spidery veils.  A single path leads to the corner of the room, where a rope
+dangles from high above.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22093
+D3
+~
+~
+0 0 22095
+S
+#22095
+Treasury~
+This room is filled with rotting wooden chests and moldering sacks. 
+Dust and cobwebs are everywhere.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22094
+S
+#22096
+Tower Hall of Honor~
+A spiral staircase rises slowly into the darkness circling the open
+shaft.  Cold air flows up the shaft, chilling you to the bone.  
+ 
+~
+~
+8448 0
+D4
+~
+~
+0 0 22097
+D5
+~
+~
+0 0 22083
+S
+#22097
+Tower Hall of Honor~
+A spiral staircase rises slowly into the darkness circling the open
+shaft.  Cold air flows up the shaft, chilling you to the bone.  
+ 
+~
+~
+8448 0
+D4
+~
+~
+0 0 22098
+D5
+~
+~
+0 0 22096
+S
+#22098
+Tower Hall of Honor~
+A spiral staircase rises slowly into the darkness circling the open
+shaft.  Cold air flows up the shaft, chilling you to the bone.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22099
+D5
+~
+~
+0 0 22097
+S
+#22099
+Bridge~
+This slender stone and masory bridge hangs over the dark gap between the
+towers.  The stones are wet and slippery from the rain.  The old iron
+railings rusted away years ago, leaving the bridge without handholds.  
+~
+~
+8448 0
+D1
+~
+~
+0 0 22100
+D3
+~
+~
+0 0 22098
+D4
+~
+~
+0 0 22101
+S
+#22100
+Parapet~
+This is the top of the tower.  A turmoil of black boiling clouds rolls
+unceasingly over the dark towers of Ravenloft.  A chill rain soaks you to
+the bone.  Occasional flashes of lightning reveal the slick rooftop dozens
+of feet below.  This tower roof is rimmed with broken parapets.  A slender
+stone bridge spans the gap between this tower and the one nearby, some two
+dozen feet away.  Rising from the side of the tower on which you are rimmed
+with broken parapets.  A slender stone bridge spans the gap between this
+tower and the one nearby, some two dozen feet away.  Rising from the side of
+the tower on which you are standing, the featureless of the high tower of
+Ravenloft thrusts skyward.  
+ 
+~
+~
+8448 0
+D3
+~
+~
+0 0 22099
+D5
+~
+~
+0 0 22102
+S
+#22101
+Northtower Peak~
+The stairs emerge into a brightly lit room that has manacles attached to
+the walls and a wooden frame bed.  
+~
+~
+8448 0
+D5
+~
+~
+0 0 22099
+S
+#22102
+Offstair~
+This stair well rises and ends at the top of the tower.  Cobwebs have
+brushed away leaving a clear trail to the top.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22103
+D4
+~
+~
+0 0 22100
+D5
+~
+~
+0 0 22106
+S
+#22103
+Cauldron~
+Through the darkness of this room, you can just barely see green-glowing
+wisps bubbling ip from a huge black kettle.  Jolting sounds of cackling
+suddenly strike, sending a shudder through you.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22104
+D3
+~
+~
+0 0 22102
+S
+#22104
+Familiar Room~
+As you enter this room, an evil essence embraces you.  Torn and broken
+couches lie in heaps, haphazardly strewn about the room.  The low ceiling
+seems to press down upon you.  Deep claw marks cover the hardword furniture.
+Claw marks also have sliced the once-lush upholstery to shreds.  From the
+darkshadows on the floor, amid the rubble, three pairs of green eyes stare
+at you.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22103
+D1
+~
+~
+0 0 22105
+S
+#22105
+Element Room~
+This is a large, oppressive room with a low ceiling of heavy beams, lit
+only by the dim light of two leaded glass windows in the south wall.  Steel
+latticework covers both windows, illuminated by flashes of lightning. 
+Several tables fill the room, their legs seeming to barely support the glass
+jarsand bottles that sit atop them.  
+ 
+~
+~
+8448 0
+D3
+~
+~
+0 0 22104
+S
+#22106
+Offstair~
+The path is covered in cobwebs blocking all sight.  The stairs are
+covered with an oil based substance making walking very difficult.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22107
+D4
+~
+~
+0 0 22102
+S
+#22107
+Landing~
+A small flagstone landing wobbles slightly underfoot.  The chill draft of
+wind whistles mournfully through the small room.  A single doorway with a
+heavy wooden door, fortified with metal bandsm stands in the south wall. 
+Beside this door, an ancient portrait of a bearded man stands watch over the
+area, its still eyes stairing defiantly back at your own.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22106
+D1
+~
+~
+0 0 22110
+D2
+~
+~
+0 0 22108
+S
+#22108
+Lounge~
+A low ceiling, supported by heavy beams, seems to press down on this
+room.  The west wall curves with the tower and is fitted with three windows
+of beveled glass.  Flashes of lightning reveal black clouds outside.  Plush,
+overstuffed chairs and couches stand about the room.  Their fabric is faded
+with age, the patterns are nearly gone.  A bookcase lines the east wall.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22107
+D1
+~
+~
+0 0 22109
+S
+#22109
+Guestroom~
+A huge bed sits in the center of this room, its four posts rising to a
+black canopy trimmed with gold tassels.  Several comfortable divans are
+placed about the room.  
+~
+~
+8448 0
+D3
+~
+~
+0 0 22108
+S
+#22110
+South Tower Stair~
+This stairway is lit by flickering torches in iron sconces.  
+ 
+~
+~
+8448 0
+D3
+~
+~
+0 0 22107
+D5
+~
+~
+0 0 22034
+S
+#22111
+South Tower Stair~
+This stairwell is lit by flickering torches in iron sconces.  A chilly
+wind rushes down the circling stairway, seeming to kill the very heat of the
+torches.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22015
+D4
+~
+~
+0 0 22034
+D5
+~
+~
+0 0 22112
+S
+#22112
+South Tower Stair~
+This stairwell is lit by flickering torches in iron sconces.  A chilly
+wind rushes down the circling stairway, seeming to kill the very heat of the
+torches.  
+ 
+~
+~
+8448 0
+D3
+~
+~
+0 0 22060
+D4
+~
+~
+0 0 22111
+D5
+~
+~
+0 0 22160
+S
+#22113
+Guard Stair~
+The stairs end here, an ancient door can be seen through rubble to the
+east.  Long ago the door led to a parapet that overlooked the courtyard.  
+ 
+~
+~
+8448 0
+D5
+~
+~
+0 0 22032
+S
+#22114
+High Tower Staircase~
+The large grey flagstones of this spiraling staircase lead up and down
+around a massive stone core.  Cobwebs fill the staircase, making it
+difficult to see even the ceiling.  Heavy beams sag overhead from centuries
+of burden.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22026
+D4
+~
+~
+0 0 22165
+D5
+~
+~
+0 0 22115
+S
+#22115
+High Tower Staircase~
+The large grey flagstones of this spiraling staircase lead up and down
+around a massive stone core.  Cobwebs fill the staircase, making it
+difficult to see even the ceiling.  Heavy beams sag overhead from centuries
+of burden.  
+~
+~
+8448 0
+D4
+~
+~
+0 0 22114
+D5
+~
+~
+0 0 22116
+S
+#22116
+High Tower Staircase~
+The large gray flagstones of this spiraling staircase lead up around a
+massive stone core.  Cobwebs fill the staircase, making it difficult to see
+even the ceiling.  Heavy beams sag overhead from centuries of burden.  
+~
+~
+8448 0
+D0
+~
+~
+65 0 22117
+D4
+~
+~
+0 0 22115
+S
+#22117
+Main Catacombs~
+Buried deep beneath the keep of Ravenloft, this arched ceiling sags over
+squat crypts, forming these catacombs.  A thick fog, about knee deep, clings
+to the floor.  Cobwebs hangs limply in the musty air, Thick dust is settled
+over everything, filling the crypts' engravings, making it difficult to make
+out the names of those buried here.  The black ceiling seems to be moving.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22118
+D1
+~
+~
+0 0 22130
+D2
+~
+~
+65 0 22116
+D3
+~
+~
+1 -1 22120
+S
+#22118
+Guardians~
+Wide steps decend to a landing flanked by two alcoves.  Within each
+alcove, standing fully three times as tall as a man, is a bronze statue of a
+warrior holding a spear.  A soft blue curtain of light flows between the two
+alcoves.  Dimly visible on the other side of the light are more descending
+stairs.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22119
+D2
+~
+~
+0 0 22117
+S
+#22119
+Tomb of Barov and Ravenovia~
+This tomb rests in hushed silence.  Windows, stained black from ages gone
+by, filter on each side of the chamber.  Over the coffin to the right of the
+stairs is a mural of a great warrior king, astride a horse.  His army is
+spread out in the valley below him.  Over the coffin to the left of the
+stairs is a beautiful woman standing upon a balcony.  Three young boys stand
+at her side.  In the castle courtyard below the woman, a jousting contest is
+being held.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22118
+S
+#22120
+Tomb of Tasha Petrovna~
+The coffin inside this cobweb infested crypt reads, "Tasha Petrovna,
+Healer or Kings.  Light unto the West.  Servant, Companion".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22121
+D1
+~
+~
+1 -1 22117
+S
+#22121
+Tomb of King Toisky~
+The coffin is missing from this crypt.  A small golden plaque hangs on
+the wall, the only words you can make out are "King Toisky,".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22122
+D2
+~
+~
+0 0 22120
+S
+#22122
+Tomb of King Katsky~
+The coffin is open, a skeleton of a man lay inside, wearing once rich
+clothes.  Above the skeletons head "King Intree Katsky, Kasky the Bright,
+King, Ruler, Inventor" is etched.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22123
+D2
+~
+~
+0 0 22121
+S
+#22123
+Tomb of Stahbal Indi-Bhak~
+Inside the vault are nine coffins with heavy lids, stacked three high on
+each wall.  A small alter stands in the center of the room it reads "Stahbal
+Indi-Bhak: Advisor to Endorovich from eastern lands.  A truer friend no
+ruler ever had.  Here lies his family of honor".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22124
+D2
+~
+~
+0 0 22122
+S
+#22124
+Tomb of Khazan~
+This room is small and smells of decay.  A small coffin sits in the
+middle of the room, covered in cobwebs.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22123
+D3
+~
+~
+0 0 22125
+S
+#22125
+Tomb of Elsa Fallona~
+The coffin in this room is open, A very pale, yet very attractive
+female, lays inside it.  She is wearing a cream dress, As you look more
+intently at the body, you notice that she is beathing.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22124
+D2
+~
+~
+0 0 22126
+S
+#22126
+Tomb of Sir Sedrik Spinwitowich~
+The coffin in this room resembles a small ship.  Golden bands run its
+length.  On the top of the coffin, near the main mast, you can see writting
+through the many cobwebs.  They read "Admiral Spinwitovich, confused though
+he was, he built the greatest naval force ever essembled in a land locked
+country".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22125
+D2
+~
+~
+0 0 22127
+S
+#22127
+Tomb of Ireena Kolyana~
+The stone has been carefully laid to one side.  Through swirly mists of
+the perpetual fog, newly engraved letters can be read: "Ireena Kolyana:
+Wife".  The crypt is empty except for a brand new coffin.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22126
+D2
+~
+~
+0 0 22128
+S
+#22128
+Tomb of Artimus~
+Through the cobwebs and fog words can be seen engraved in the north
+wall, they read "Artimus (Builder of the Keep).  Thou standeth amist the
+monument to his life".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22127
+D2
+~
+~
+0 0 22129
+S
+#22129
+Tomb of Sasha Ivliskova~
+This is the tomb of one of Strahd's wives.  A small closed coffin rests
+in the center of the room with engraved words on its top, they read "Sasha
+Ivliskova: Wife".  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22128
+S
+#22130
+Tomb of Patrina Velkovna~
+The room is full of cobwebs that obscure sight.  After clearing away the
+foul webs you notice that this tomb is newer than most, The engravings on
+the southern wall read "Patrina Velikovna: Bride".  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22131
+D3
+~
+~
+0 0 22117
+S
+#22131
+Tomb of Sire Erik Vonderbucks~
+The tomb is empty and silent as death.  Small etching can be seen on the
+northern wall, they have faded through the years and cannot be read.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22132
+D2
+~
+~
+0 0 22130
+S
+#22132
+Empty Tomb~
+The room is empty the stones seem to moan in refusal of being alone.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22133
+D2
+~
+~
+0 0 22131
+S
+#22133
+Tomb of Ivan Derose~
+A racing carriage is broken and covered in dust.  A stuffed dog
+eternally guards the carriage.  A mural is faded on the northern wall, it
+seems to be depicting some sort of dog race.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22134
+D2
+~
+~
+0 0 22132
+S
+#22134
+Tomb of Stephan Gregorovich~
+The coffin is cracked and broken, a foul smell wafts up from it.  The
+coffin reads "Stephan Gregorovich, First Counselor to Baron Von Zarovich".  
+~
+~
+8448 0
+D1
+~
+~
+0 0 22135
+D2
+~
+~
+0 0 22133
+S
+#22135
+Tomb of Melding~
+This room is completely covered from floor to ceiling in cobwebs.  Two
+red eyes peirce through the darkness to stare at you.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22136
+D3
+~
+~
+0 0 22134
+S
+#22136
+Tomb of Ardent Pallette~
+A small oven can looms in the far corner of this tomb, etching of fine
+gold shine from the ovens door.  The etching reads "Ardent Pallete, Chef
+Deluxe".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22135
+D2
+~
+~
+0 0 22137
+S
+#22137
+Tomb of Ivan Ivanovich~
+Cobwebs fill this room, a small urn is covered in years of dust.  Silver
+etchings can be seen through the darkness.  The etchings read "Ivan
+Ivanovich, beloved of Anna Petrovna".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22136
+D2
+~
+~
+0 0 22138
+S
+#22138
+Tomb of Ciril Romulich~
+A body in white clothing decays on the slab, its skull resting atop a
+small chest.  Cobwebs hang from the ceiling.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22137
+D2
+~
+~
+0 0 22139
+S
+#22139
+Nameless Tomb~
+There is a large, buldging chest in the center of this crypt.  The chest
+is filled with gold.  As you pick up some of the gold it turns green in your
+hand.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22138
+D1
+~
+~
+0 0 22140
+S
+#22140
+Tomb of St. Finderway~
+The crypt is featureless exept for two archways in the back wall, each
+filled with swirling mists.  Over the archways is written "Pass not these
+portals, ye foolish mortals!"  .  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22141
+D3
+~
+~
+0 0 22139
+S
+#22141
+Empty Tomb~
+The room is empty the stones seem to moan in refusal of being alone.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22142
+D2
+~
+~
+0 0 22140
+S
+#22142
+Tomb of King Dostron~
+The stones are fairly new in this crypt.  A small throne is the only
+item here.  It was once probably very beautiful, now the golden trim has
+faided and the soft silk pillows are covered in mildew.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22143
+D2
+~
+~
+0 0 22141
+S
+#22143
+Nameless Tomb~
+The etchings on this coffin have been clawed and marked so that the name
+is unreadable.  The coffin is closed.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22144
+D2
+~
+~
+0 0 22142
+S
+#22144
+Tomb of Gralmore Nimblenobs~
+A decaying body in red robes lies on a stone slab in the center of the
+room.  Around the corpse objects are littered.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22145
+D2
+~
+~
+0 0 22143
+S
+#22145
+Tomb of Pets~
+There are many red eyes stairing at you from this dark and forboding
+crypt.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22146
+D3
+~
+~
+0 0 22144
+S
+#22146
+Tomb of Beucephalus~
+A black horse stands in this crypt.  Smoke rolls from the beasts nose
+and its hoves are aflame.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22145
+D2
+~
+~
+0 0 22147
+S
+#22147
+Tomb of Tatsaul Eris~
+A small urn sits on a raised plateform in the center of the room.  A
+small plaque is bolted to the platform, it reads "Tatsaul Eris: Last of the
+Line".  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22146
+D1
+~
+~
+161 22021 22148
+S
+#22148
+Tomb of Strahd Von Zarovich~
+A darkness clouds this room and the essence of evil permeates the very
+air.  The smell of freshly turned earth is here.  There are three archways
+in the far wall, each filled with a swirling fog.  A low ground fog seeps
+down from the catacombs, over the stairs and covers the floor.  Settled into
+the dirt on the floor is a shining black coffin of finely waxed wood.  The
+coffin's fittings are of brilliant brass.  The lid is closed.  
+~
+~
+8448 0
+D1
+swirling fog.
+~
+fog~
+65 0 22064
+D2
+swirling fog.
+~
+fog~
+65 0 22000
+D3
+~
+~
+161 22021 22147
+D5
+swirling fog.
+~
+fog~
+65 0 22103
+S
+#22149
+Tomb of Spectre Ab-Centeer~
+The coffin in this room is open.  You can see the body inside the coffin
+has endured pain and torment.  You shudder at the sight of such a horror.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22150
+D2
+~
+~
+0 0 22072
+S
+#22150
+Tomb of Artista DeSlop~
+This crypt was once brightly painted, now the all the colors seem to
+have run together leaving the wall a putrid gray.  An epitaph is set into
+the west wall, it reads "Artista DeSlop Court Ceiling Painter".  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22151
+D2
+~
+~
+0 0 22149
+S
+#22151
+Tomb of Lady Yunk~
+This crypt is completely empty.  Not even cobwebs have taken residence
+in this room.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22152
+D2
+~
+~
+0 0 22150
+S
+#22152
+Tomb of Princess Du Plumette~
+A small corpse is laid out on a black slab in the center of the room. 
+The corpse looks human, yet wings are wrapped around the body.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22153
+D2
+~
+~
+0 0 22151
+S
+#22153
+Tomb of Artank Swilovich~
+Small bottles of wine and other fine drinks are lined around a small
+pine coffin in the far west wall of the room.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22152
+D3
+~
+~
+0 0 22154
+S
+#22154
+Tomb of Marya Markovia~
+A beautiful young woman is standing over an open coffin weaping
+violently.  She is wearing an ancient white wedding gown.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22153
+D2
+~
+~
+0 0 22155
+S
+#22155
+Tomb of Endorovich~
+The room is obscured with fog.  Rags of white linen lie flat on the slab
+in the center of the room.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22154
+D2
+~
+~
+0 0 22156
+S
+#22156
+Tomb of Duchess Dilisnya~
+A small body lays in the center of the room on a cold gray slab.  The
+body is covered in old black robes.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22155
+D2
+~
+~
+0 0 22157
+S
+#22157
+Tomb of Pidlwik~
+Small jars cover the stone slab, the smell of death and decay fills the
+room.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22156
+D2
+~
+~
+0 0 22158
+S
+#22158
+Tomb of Sir Triksky~
+A large ornate sword glistens in the torchlight.  It is stuck into the
+otherwise empty stone slab in the center of the room.  
+ 
+~
+~
+8448 0
+D0
+~
+~
+0 0 22157
+D3
+~
+~
+0 0 22159
+S
+#22159
+Tomb of Sergie Von Zarovich~
+A peaceful stillness, like a calm before the storm, is felt here.  In the
+center of the tomb, a white marble slab bears the coffin of Sergie Von
+Zarovich.  Behind the intricately inlaid coffin, there are three alcoves. 
+Beautifully carved statues stand in each alcove, just as perfect as the day
+they were placed here.  The left wall is painted with a beautiful mural,
+depicting a young man playing a lute on a grassy knoll.  Forest creatures,
+including unicorns and fairyfolk, sit at the base of the knoll, enraptured. 
+The right wall bears an inscription in an ancient tongue unknown to you.  
+ 
+~
+~
+8448 0
+D1
+~
+~
+0 0 22158
+S
+#22160
+South Tower Stair~
+This stairway is lit by flickering torches in iron sconces.  
+ 
+~
+~
+8448 0
+D2
+~
+~
+0 0 22161
+D4
+~
+~
+0 0 22112
+S
+#22161
+Dungeon Hall~
+The stairs descend into black, still water that fills the arched hallway
+before you.  The water's surface is like dark, mirrored glass, disturbed
+only occasionally by the "thwuck" of a drop of falling water from the
+ceiling.  Two dozen feet down the hall, arched doorways lead from each side
+of the hallway.  In each arched doorway, an iron door stands closed and
+partially submerged.  All is still exept for a weak cry for help coming from
+one door.  There seems to be something in the floor.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22160
+D1
+~
+~
+1 -1 22163
+D2
+~
+~
+0 0 22164
+D3
+~
+~
+1 -1 22162
+D5
+~
+~
+65 -1 16223
+S
+#22162
+West Dungeon~
+The fungus-laden ceiling hangs only a few feet above still black water
+that fills this dungeon corridor.  The water is shoulder deep.  Small cells,
+their entrances blocked by iron bars, are on both sides of the arched
+central hall.  Liquid drips from the hanging growth on the ceiling.  
+~
+~
+8448 0
+D1
+~
+~
+1 -1 22161
+S
+#22163
+East Dungeon~
+The fungus-laden ceiling hangs only a few feet above still black water
+that fills this dungeon corridor.  The water is shoulder deep.  Small cells,
+their entrances blocked by iron bars, are on both sides of the arched
+central hall.  Liquid drips from the hanging growth on the ceiling.  
+~
+~
+8448 0
+D3
+~
+~
+1 -1 22161
+S
+#22164
+Torture Room~
+Dark, ominous shaped jut up from the still, brakish water that fills this
+room.  An indefined chill crawls down your spine as you survey the
+motionless shapes.  An arched passage, also partly submerged, lies on one
+side of the square room.  On a rounded balcony, high above the water, two
+high-backed chairs look down upon you.  
+~
+~
+8448 0
+D0
+~
+~
+0 0 22161
+S
+#22165
+High Tower Staircase~
+The large grey flagstones of this spiraling staircase lead up and down
+around a massive stone core.  Cobwebs fill the staircase, making it
+difficult to see even the ceiling.  Heavy beams sag overhead from centuries
+of burden.  
+~
+~
+8448 0
+D4
+~
+~
+0 0 22166
+D5
+~
+~
+0 0 22114
+S
+#22166
+High Tower Staircase~
+The large grey flagstones of this spiraling staircase lead up and down
+around a massive stone core.  Cobwebs fill the staircase, making it
+difficult to see even the ceiling.  Heavy beams sag overhead from centuries
+of burden.  
+~
+~
+8448 0
+D4
+~
+~
+0 0 22167
+D5
+~
+~
+0 0 22165
+S
+#22167
+High Tower Staircase~
+The large grey flagstones of this spiraling staircase lead up and down
+around a massive stone core.  Cobwebs fill the staircase, making it
+difficult to see even the ceiling.  Heavy beams sag overhead from centuries
+of burden.  
+~
+~
+8448 0
+D4
+~
+~
+0 0 22168
+D5
+~
+~
+0 0 22166
+S
+#22168
+High Tower Staircase~
+The large grey flagstones of this spiraling staircase lead up and down
+around a massive stone core.  Cobwebs fill the staircase, making it
+difficult to see even the ceiling.  Heavy beams sag overhead from centuries
+of burden.  
+~
+~
+8448 0
+D4
+~
+~
+0 0 22169
+D5
+~
+~
+0 0 22167
+S
+#22169
+High Tower Staircase~
+The large grey flagstones of this spiraling staircase lead up and down
+around a massive stone core.  Cobwebs fill the staircase, making it
+difficult to see even the ceiling.  Heavy beams sag overhead from centuries
+of burden.  
+~
+~
+8448 0
+D4
+~
+~
+0 0 22170
+D5
+~
+~
+0 0 22168
+S
+#22170
+Hightower Peak~
+The spiraling staircase finally ends at a 5-foot-wide walkway the circles
+the shaft.  In the center of the towers highest floor, a 15-foot-diameter
+hole drops into the cold heart of Castle Ravenloft itself.  Air rushes up
+the shaft, sending the supernatural chill of the grave through your every
+bone.  Archers' slits line the walls.  Aging beams support a steap roof. 
+One beam and part of the room have fallen away, leaving a gaping hole to the
+sky.  
+~
+~
+8448 0
+D5
+~
+~
+0 0 22169
+S
+#0
+
+
+

@@ -1,0 +1,450 @@
+#2500
+guardian of yar~
+a guardian of Yar~
+The guardian of Yar stands here protecting the entry to her Lord's temple.
+~
+The guardian looks very well trained and dedicated. She occasionally picks
+things up to keep the area clean, as well.
+~
+~
+demon~
+ABCGT Vc EFHJ ABC
+-1000 47 0 16d149+836 47d10+100 4d17+0 7
+BCDEFHJKMNOQR PQ BHIQ Na
+8 8 2 4
+ABCHMV ABCDEFGHIJKLPQRSTUVWa 4 unknown
+M GRALL 2500 100~
+#2501
+Reginald shopkeeper blacksmith~
+Reginald the blacksmith~
+The blacksmith, Reginald, stands here.
+~
+Reginald squints at you. "What do you want?" he asks as he eyes your equipment
+with greed.
+~
+~
+human~
+ABCGTV 0 FG 0
+-1000 90 0 90d90+5000 1d1+99 7d31+0 0
+0 ABCDEFGHIJKLMNO 0 0
+8 8 1 500000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2502
+sneaky thief~
+a sneaky thief~
+A sneaky thief is here eyeing you warily.
+~
+The poor guy seems to be half-starved. Maybe you should offer him some money?
+~
+~
+human~
+ACGHS PQ 0 0
+-1000 7 0 1d33+61 7d10+100 1d5+0 7
+BFHJ 0 0 0
+8 8 1 15
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2503
+soldier adarian red~
+a red-clad soldier~
+An Adarian soldier stands here clad in red.
+~
+This young man looks like he is prepared to die for Adaria.
+~
+~
+human~
+ABGT 0 0 0
+-1000 37 0 16d92+578 37d10+100 3d14+0 3
+EFJN 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2504
+soldier adarian gold~
+a gold-clad soldier.~
+An Adarian soldier stands here clad in gold.
+~
+This soldier looks prepared to kill for Adaria.
+~
+~
+human~
+ABGT 0 0 0
+-1000 43 6 16d124+733 43d10+100 3d16+0 11
+DEFIJK 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2505
+Gindar captain~
+Captain Gindar~
+Gindar, the captain of the Adarian Infantry, stands here solemnly.
+~
+Gindar stares back at you with hate.
+~
+~
+human~
+ABGT 0 FH ABC
+-1000 45 0 16d136+786 45d10+100 4d17+0 3
+ACDEFHIJK 0 0 0
+8 8 1 70
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2506
+ghost healer~
+the ghost of the healer~
+The ghost of the healer stands here, weeping in eternal silence.
+~
+You can see right through her. She looks at you pleadingly.
+~
+~
+unique~
+ABGOQ BT 0 AC
+1000 45 0 16d136+786 45d10+100 4d17+0 11
+HQ BLPQR E H
+8 8 2 7
+B 0 2 unknown
+#2507
+yar statue~
+the statue of Yar~
+The statue of Yar keeps stands here silent.
+~
+It looks almost as if Yar were here himself.
+~
+~
+avatar~
+ABGQ V FH ABC
+-1000 50 0 16d168+930 50d10+100 4d18+0 7
+ACDEFHKNOQR ABMN BCPQ MN
+8 8 0 1000
+BCHM ABCDEFGHIJKPRSTa 4 unknown
+M FIGHT 2507 50~
+#2508
+greta barkeeper innkeeper~
+Greta~
+Greta stands here watching over the bar and picking up after people.
+~
+She looks like she would rather be somewhere else.
+~
+~
+dwarf~
+ABCG 0 I 0
+0 90 0 99d99+9999 99d99+99 7d31+0 0
+0 ABCDEFGHIJKLMNO CLQ R
+8 8 2 500000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2509
+town drunk~
+the town drunk~
+The town drunk is here, drunk to the core.
+~
+His eyes are quite red.
+~
+~
+human~
+AGH 0 0 0
+-1000 6 0 1d24+51 6d10+100 1d5+0 11
+S 0 0 0
+8 8 1 0
+ABHMV ABCDEFGHIJKRSTa 2 unknown
+#2510
+bard~
+the bard~
+A wandering elven bard is here entertaining all who listen.
+~
+The bard looks as evil as his music.
+~
+~
+elf~
+AHR PU I ABC
+-1000 27 0 16d49+360 27d10+100 2d11+0 3
+HKR 0 BCP Z
+8 8 1 150
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2511
+Dargon~
+Dargon~
+Dargon, the Curio Keeper, stands here waiting to help you.
+~
+He is wearing glasses and appears to be the kindest looking person you've seen
+in town. You wonder why they let him live.
+~
+~
+human~
+ABGH 0 0 0
+300 90 0 9d9+9999 1d1+99 7d31+0 0
+0 0 0 0
+8 8 1 500000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2512
+dealer drug shady~
+a shady drug dealer~
+A shady drug dealer stands here trying to sell you some drugs.
+~
+He sees your interest and says "Pst! Hey buddy! Want some drugs?"
+~
+~
+human~
+AH P FH 0
+-250 90 0 1d1+9999 1d1+9999 7d31+0 0
+H BDEFGHIJKLMNOPQ 0 0
+8 8 1 500000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2513
+gatekeeper~
+the gatekeeper~
+The gatekeeper stops you and says "You must buy a key to enter."
+~
+The gatekeeper looks tough. Don't think about it.
+~
+~
+human~
+ABGV 0 0 0
+0 90 0 1d1+9999 1d1+99 7d31+0 0
+0 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2514
+man blind old~
+a blind old man~
+A blind old man stands here begging for food.
+~
+His eyes have been burned out. You shiver in thought of the tortures he must
+have suffered.
+~
+~
+human~
+ABG 0 0 AB
+1000 8 0 3d21+73 8d10+100 1d5+0 3
+EFKN 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2515
+woman adarian~
+an Adarian woman~
+An Adarian woman stands here taking care of business.
+~
+She looks away from you in fear.
+~
+~
+human~
+AGH P 0 ABC
+-1000 13 0 5d38+131 13d10+100 1d7+0 7
+FHIKNU 0 0 0
+8 8 2 4
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2516
+man adarian~
+an Adarian man~
+An Adarian man rushes by.
+~
+He glances at you nervously and rushes by.
+~
+~
+human~
+AGH P 0 ABC
+-1000 17 0 8d39+187 17d10+100 2d8+0 3
+CDEFHIJKU 0 0 0
+8 8 1 12
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2517
+priest~
+the priest of yar~
+The Priest of Yar stands here glaring at you.
+~
+He is dressed in blood red robes, and is obviously faithful in his Lord.
+~
+~
+human~
+ABG 0 FI C
+-1000 90 0 1d1+14399 1d1+99 7d31+0 0
+0 0 0 0
+8 8 1 500000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2518
+woman~
+the poor woman~
+A poor woman is here being stoned.
+~
+The poor woman has bruises all over, and pleads for you to help her.
+~
+~
+human~
+ABGQ 0 0 AB
+1000 12 0 5d32+120 12d10+100 1d7+0 3
+BFIJKQS 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2519
+vagabond~
+an evil vagabond~
+An evil-looking vagabond is here throwing stones at a poor woman.
+~
+~
+~
+human~
+ABGS 0 0 ABC
+-1000 23 0 15d39+290 23d10+100 2d10+0 7
+ABDFHJ 0 0 0
+8 8 1 15
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2520
+guardian white~
+a white guardian~
+A white guardian stands here.
+~
+He looks at you and smiles. "Things down here are pretty bad, my friend.
+I am sad that we cannot return to the city that is ours."
+~
+~
+human~
+AG 0 F ABC
+1000 33 0 16d73+487 33d10+100 3d13+0 7
+CEFHKP 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2521
+acolyte of yar~
+an acolyte of Yar~
+An acolyte of Yar is here preaching to the masses about his Lord.
+~
+You notice that he seems to be hiding something under his robe while he
+is asking for donations to his "impoverished" church.
+~
+~
+human~
+AGHQ V J ABC
+-1000 33 0 16d73+487 33d10+100 3d13+0 3
+BEFK 0 0 N
+8 8 1 5
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2522
+male refugee~
+a refugee~
+A refugee stands here looking trying to look useful.
+~
+He appears to have many wounds from the battles several months ago, like
+many of the other people here.
+~
+~
+human~
+AGT 0 0 AB
+1000 9 0 3d27+83 9d10+100 1d6+0 3
+CEHKL 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2523
+refugee female~
+a refugee~
+A refugee stands here weeping over her lost children.
+~
+She looks at you and says "Please... find my children."
+~
+~
+human~
+AGT 0 0 AB
+1000 13 0 5d38+131 13d10+100 1d7+0 3
+DFHIJN 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2524
+soldier white~
+a white clad soldier~
+A soldier clad in white stands here.
+~
+He looks very young and untrained. You can see the fear in his eyes of the
+terrors above, and know that is why he is training for what he is now.
+~
+~
+human~
+ABGT 0 0 ABC
+1000 17 0 8d39+187 17d10+100 2d8+0 11
+CEK 0 0 0
+8 8 1 7
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2525
+soldier blue~
+a soldier clad in blue~
+A blue-clad soldier is here.
+~
+This soldier looks a little more trained than the ones in white. He looks at
+you with a smile. You notice he has no weapons.
+~
+~
+human~
+ABGT 0 0 ABC
+1000 23 0 15d39+290 23d10+100 2d10+0 11
+CDEFHIKNU 0 P 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2526
+strategist~
+a strategist~
+A strategist is here, making plans.
+~
+He looks at you and says "Have you come to help?"
+~
+~
+human~
+ABGHT 0 0 ABC
+1000 27 0 16d49+360 27d10+100 2d11+0 7
+EFHK 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2527
+guardian blue~
+a blue guardian~
+A Blue Guardian is here protecting the innocent.
+~
+Her eyes are alive with the fire of her Lord. She looks pretty tough.
+~
+~
+human~
+AGT V 0 ABC
+1000 37 0 16d92+578 37d10+100 3d14+0 11
+CEFHKNP 0 0 0
+8 8 2 10
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2528
+priest aecindo~
+a priest of Aecindo~
+A priest of Aecindo is here, preaching the gospel.
+~
+Noticing your interest, the priest comes over to you. "Wishest thou to know
+of the light?" he asks, and then proceeds to tell you about his Lord.
+~
+~
+human~
+AGHQ 0 EFJ ABC
+1000 43 0 16d124+733 43d10+100 3d16+0 7
+CEINU Q P 0
+8 8 1 23
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2529
+Lorell captain~
+Captain Lorell~
+Captain Lorell is here, drilling his soldiers.
+~
+Looking closer at Captain Lorell, you see that he is built very strong. He
+holds a Sword in one hand and his Lord in his heart.
+~
+~
+human~
+ABT V 0 ABC
+1000 47 0 16d149+836 47d10+100 4d17+0 11
+CDEFHIKLNQ 0 0 0
+8 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2530
+Aecindo statue~
+the statue of Aecindo~
+The gigantic statue of Aecindo overlooks this room.
+~
+As you stare at the statue, you feel a warmth coming over your soul.
+~
+~
+avatar~
+ABQ V EFGHIJ ABC
+1000 55 5 16d204+1078 55d10+100 4d20+0 3
+CEFHIKNOQR ABENPQ BCFQS M
+8 8 1 950
+ACHM ABCDEFGHIJKPRSTa 5 unknown
+#0
+
+
+

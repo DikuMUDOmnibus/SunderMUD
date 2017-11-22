@@ -1,0 +1,518 @@
+#2300
+oldstyle knight ethereal dark~
+the Dark Ethereal Knight~
+A dark ethereal knight hovers over the bloody clearing.
+~
+The ethereal knight is clad in shadowy black armor. It appears as though he
+was involved in the carnage that occurred here. His soul is trapped here, as
+he waits for release.
+~
+~
+human~
+AB 0 F C
+-1000 25 12 16d42+322 25d10+100 2d11+0 3
+EFNU 0 0 0
+8 8 1 500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2301
+oldstyle treant tree~
+the Old Treant~
+A huge, gnarled tree stands here, battered by age and nature.
+~
+The old tree looks as though the wind has battered and torn at it for years.
+Very few leaves remain. Its limbs are crooked and gnarled. It moans as the 
+wind pushes it back and forth.
+~
+~
+generic~
+AB 0 0 0
+250 20 10 11d38+238 20d10+100 2d9+0 11
+EFNU 0 0 0
+8 8 0 400
+AHMV ABCDEFGHIJK 2 unknown
+#2302
+oldstyle dweller cave creature~
+the Cave Dweller~
+A slimy, gross creature is here munching on a corpse.
+~
+The cave dweller looks like a mixture of several disgusting monsters. It has
+a bird's beak, huge white eyes, a furry body, and long clawed hands and feet.
+It sees you and snarls.
+~
+~
+demon~
+ABF Pc EGJ A
+0 15 7 6d37+162 15d10+100 2d7+0 3
+BEFMNRU Q B Na
+8 8 0 300
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#2303
+oldstyle toad rock~
+the Rock Toad~
+A rather large rock toad sits here, croaking loudly.
+~
+A grey toad. Its about the size of a cow. Small horns grow all over its body.
+~
+~
+generic~
+AB 0 0 0
+-250 14 7 6d33+145 14d10+100 1d7+0 3
+EFNU 0 L I
+8 8 0 280
+AGHMVXc ABCDEFGHIJKQV 2 unknown
+#2304
+oldstyle weeping willow tree~
+the Weeping Willow~
+A large willow tree stands here, weeping.
+~
+The weeping willow has long thins branches. These branches seem to droop in
+anguish and dismay. You hear a faint sound of crying.
+~
+~
+generic~
+AB 0 F C
+1000 25 12 16d42+322 25d10+100 2d11+0 7
+EFNU 0 0 0
+8 8 2 500
+AHMV ABCDEFGHIJK 2 unknown
+#2305
+oldstyle mist mistling~
+the Mistling~
+A mistling emerges from the mist surrounding you.
+~
+It looks like a thin wisp of mist that has gained substance and size.
+~
+~
+generic~
+ABF Q 0 0
+0 15 7 6d37+162 15d10+100 2d7+0 11
+EFNU 0 0 0
+8 8 0 300
+HK E 2 unknown
+#2306
+oldstyle swamp wraith~
+the Swamp Wraith~
+A swamp wraith emerges from the mist here.
+~
+The swamp wraith is made of mist and is in the image of a great warrior. He
+appears to emerge from the mist. You feel the cold radiating from his form as
+he nears you.
+~
+~
+undead~
+ABCFO K 0 A
+-1000 20 10 11d38+238 20d10+100 2d9+0 3
+EFGNU BLPQR 0 HN
+8 8 1 400
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#2307
+oldstyle ogre villager~
+the Ogre Villager~
+The ogre villager is here, going about its chores.
+~
+You see a pitifully overworked ogre. It is dressed in rags and shuffles along
+with its head hung low. It sees you and cringes in mortal terror.
+~
+~
+generic~
+AGH 0 0 0
+-200 10 5 3d33+96 10d10+100 1d6+0 11
+EFNU 0 0 0
+8 8 0 200
+AHMV ABCDEFGHIJK 2 unknown
+#2308
+oldstyle warrior ogre~
+the Ogre Warrior~
+The ogre warrior stands here, growling fiercely.
+~
+The ogre warrior is dressed in thick fur armor. He looks quite large and
+formidable.
+~
+~
+generic~
+ACFGH 0 0 0
+-350 15 7 6d37+162 15d10+100 2d7+0 3
+EFNU 0 0 S
+8 8 1 300
+AHMV ABCDEFGHIJK 2 unknown
+#2309
+oldstyle guard ogre~
+the Ogre Guard~
+The ogre guard is here manning his post faithfully.
+~
+The ogre guard stands here manning his post. It appears as though he would
+fight to the death before abandoning his post.
+~
+~
+generic~
+ABCFG 0 0 0
+-500 19 9 11d34+223 19d10+100 2d9+0 3
+EFNU 0 0 0
+8 8 1 380
+AHMV ABCDEFGHIJK 2 unknown
+#2310
+oldstyle shaman ogre~
+The Ogre Shaman~
+The ogre shaman is here chanting arcane words and waving his arms.
+~
+The ogre shaman is draped in thick fur cloaks and pelts. He has all types of
+charms and holy symbols draped about him. He looks at you and snarls.
+~
+~
+generic~
+ABCFGHQ 0 F C
+-750 20 10 11d38+238 20d10+100 2d9+0 11
+EIKU 0 0 0
+8 8 1 400
+AHMV ABCDEFGHIJK 2 unknown
+#2311
+oldstyle chief chieftain ogre~
+the Ogre Chieftain~
+The ogre chieftain is here, observing his subjects.
+~
+This is the biggest ogre you have ever seen. He is heavily equipped and looks
+quite formidable. He towers high above you and growls menacingly.
+~
+~
+generic~
+ABCFGH 0 F C
+-1000 25 12 16d42+322 25d10+100 2d11+0 7
+EFNU 0 0 0
+8 8 1 500
+AHMV ABCDEFGHIJK 2 unknown
+#2312
+oldstyle barbarian~
+the Plains Barbarian~
+A plains barbarian is here, clad in heavy furs.
+~
+The plains barbarian is clad in heavy furs. He seems used to the chilling cold
+and icy wastes.
+~
+~
+human~
+ABCFGH 0 0 0
+0 20 10 11d38+238 20d10+100 2d9+0 11
+EFNU 0 0 0
+8 8 1 400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2313
+oldstyle yeti white~
+the White Yeti~
+The white yeti crouches here snarling.
+~
+The white yeti looks like a huge white snow ape. Its long arms end in long
+curved talons and its mouth is full of sharp teeth.
+~
+~
+generic~
+ABCFGH 0 0 0
+-350 16 8 8d34+175 16d10+100 2d8+0 3
+EFNU 0 0 0
+8 8 0 320
+AHMV ABCDEFGHIJK 2 unknown
+#2314
+oldstyle worm ice iceworm~
+the Ice Worm~
+A huge ice worm burrows through the ice and snow here. It rears up and
+attacks!
+~
+The huge worm is almost 50 feet long. Its huge gaping mouth spews ice and snow
+as it charges directly at you.
+~
+~
+generic~
+ABCFG 0 0 0
+0 20 10 11d38+238 20d10+100 2d9+0 11
+EFNU 0 IL H
+8 8 0 400
+AGHMRVXYc ABCDEFGHIJKLQVX 2 unknown
+#2315
+oldstyle citizen minotaur~
+the Minotaur Citizen~
+A minotaur citizen is here, hurrying through the icy streets.
+~
+You see a rather ragged and cold minotaur. It appears to be looking for a warm
+place to seek refuge from the cold.
+~
+~
+generic~
+ABCGH 0 0 0
+100 15 7 6d37+162 15d10+100 2d7+0 11
+EFNU 0 0 0
+8 8 0 300
+AHMV ABCDEFGHIJK 2 unknown
+#2316
+oldstyle guard minotaur~
+the Minotaur Guard~
+A minotaur guard catches you trespassing and attacks!
+~
+The minotaur is clad in heavy furs. Beneath these furs, you see the gleam of
+his armor.
+~
+~
+generic~
+ABCFG 0 0 0
+-330 22 11 15d36+270 22d10+100 2d10+0 3
+EFNU 0 0 0
+8 8 1 440
+AHMV ABCDEFGHIJK 2 unknown
+#2317
+oldstyle warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is here looking for intruders.
+~
+You see a huge minotaur that is dressed in thick furs and armor. He has black
+fur and red eyes. He looks quite capable of protecting the city.
+~
+~
+generic~
+ACFG 0 0 0
+-330 21 10 13d37+252 21d10+100 2d9+0 7
+EFNU 0 0 0
+8 8 1 420
+AHMV ABCDEFGHIJK 2 unknown
+#2318
+oldstyle minotaur gatekeeper~
+the Minotaur Gatekeeper~
+A minotaur is here guarding the Keep of Mahn-Tor.
+~
+The minotaur stands rigidly before the gates of the keep. It looks quite
+miserable standing in the driven snow and ice.
+~
+~
+generic~
+ABCG 0 F 0
+-330 25 12 16d42+322 25d10+100 2d11+0 3
+EFNU 0 0 0
+8 8 0 500
+AHMV ABCDEFGHIJK 2 unknown
+#2319
+oldstyle minotaur high guard~
+the High Minotaur Guard~
+The minotaur high guard is here guarding the Keep.
+~
+The high guard is dressed in blue plate armour. He looks quite dangerous and
+skilled.
+~
+~
+generic~
+ABCFG 0 F 0
+-330 25 12 16d42+322 25d10+100 2d11+0 3
+EFNU 0 0 0
+8 8 1 500
+AHMV ABCDEFGHIJK 2 unknown
+#2320
+oldstyle minotaur royal guard~
+the Royal Minotaur Guard~
+The royal minotaur guard considers you an intruder and attacks!
+~
+The royal guard is quite huge. He is dressed in heavy red armor and wields a
+huge glaive. He looks quite capable of protecting the keep.
+~
+~
+human~
+ABCFG 0 F 0
+-330 26 13 16d45+345 26d10+100 2d11+0 3
+EFNU 0 0 0
+8 8 1 520
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2321
+oldstyle guard minotaur elite~
+the Elite Minotaur Guard~
+The elite minotaur guard sees you and attacks!
+~
+This minotaur wields a huge morningstar and is clad in heavy crimson plate and
+furs.
+~
+~
+generic~
+ABCFG 0 F 0
+-250 28 14 16d52+387 28d10+100 2d12+0 11
+EFNU 0 0 0
+8 8 1 560
+AHMV ABCDEFGHIJK 2 unknown
+#2322
+oldstyle girl haremgirl harem slave~
+the Harem Girl~
+A harem girl cowers here in fear.
+~
+She looks quite attractive. Her low cut gown reveals why she was chosen to be
+in the harem.
+~
+~
+human~
+ABCGH 0 0 0
+1000 2 1 1d2+16 2d10+100 1d3+0 3
+EFNU 0 0 0
+8 8 1 40
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2323
+oldstyle butler minotaur~
+the Minotaur Butler~
+A minotaur butler stands here rigidly, awaiting orders.
+~
+He looks quite regal and refined to be a minotaur.
+~
+~
+generic~
+ABCGH 0 0 0
+250 20 10 11d38+238 20d10+100 2d9+0 3
+EFNU 0 0 0
+8 8 1 400
+AHMV ABCDEFGHIJK 2 unknown
+#2324
+oldstyle keeper minotaur ring-keeper~
+the Minotaur Ring-Keeper~
+The minotaur ring-keeper stands guarding his post.
+~
+The ring-keeper is a huge minotaur. You notice a huge ring of multicolored
+keys hanging from his belt. He wears huge, spiked brass knuckles.
+~
+~
+generic~
+ABCGR 0 F C
+-300 29 14 16d56+405 29d10+100 2d12+0 11
+FU 0 0 0
+8 8 1 580
+AHMV ABCDEFGHIJK 2 unknown
+#2325
+oldstyle gorak minotaur warrior master~
+Gorak~
+Gorak, the Minotaur Master Warrior, is here practicing his skills.
+~
+Gorak is HUGE. His bulging muscles are confined beneath heavy armor. He is the
+master of the warrior guild of Mahn-Tor.
+~
+~
+generic~
+ABF 0 F C
+-300 30 15 16d60+426 30d10+100 3d12+0 3
+EFNU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJK 2 unknown
+#2326
+oldstyle darkoth minotaur anti-paladin master~
+Darkoth~
+Darkoth, the minotaur anti-paladin, stands here grinning wickedly.
+~
+Darkoth is a living incarnation of evil. He radiates a dark aura, and a cold
+chill runs down your spine. He is the master of the Mahn-Tor anti-paladins.
+~
+~
+generic~
+ABF 0 F C
+-1000 30 15 16d60+426 30d10+100 3d12+0 11
+EFNU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJK 2 unknown
+#2327
+oldstyle tyrgoth minotaur paladin master~
+Tyrgoth~
+Tyrgoth, the minotaur paladin, is here worshipping silently.
+~
+Tyrgoth is the minotaur incarnation of good. You feel safe and at ease in his
+presence. He is the leader of the Mahn-Tor paladins.
+~
+~
+generic~
+AB 0 F C
+1000 30 15 16d60+426 30d10+100 3d12+0 11
+EFNU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJK 2 unknown
+#2328
+oldstyle amyrok minotaur mage master~
+Amyrok~
+Amyrok, the minotaur archmage, is here chanting arcane spells.
+~
+Amyrok is a small minotaur. He is clad in loose robes and emits an aura of
+power. He appears quite dangerous, despite his size. He is the leader of the
+mages of Mahn-Tor.
+~
+~
+generic~
+ABFR 0 F C
+300 30 15 16d60+426 30d10+100 3d12+0 11
+FU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJK 2 unknown
+#2329
+oldstyle sumaron minotaur cleric master~
+Sumaron~
+Sumaron, master cleric of Mahn-Tor, is here looking holy.
+~
+Sumaron is clad in white glowing robes. He is goodness incarnate. He is the
+master of all the clerics of Mahn-Tor.
+~
+~
+generic~
+ABFQ 0 F C
+1000 30 15 16d60+426 30d10+100 3d12+0 3
+EIKU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJK 2 unknown
+#2330
+oldstyle nasturn minotaur druid master~
+Nasturn~
+Nasturn, the minotaur druid, is here studying the arts of nature.
+~
+Nasturn is quite a natural looking minotaur. He is dressed in leather and
+wears no metal of any type. He looks at you and smiles.
+~
+~
+generic~
+ABQ 0 F C
+500 30 15 16d60+426 30d10+100 3d12+0 7
+EIKU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJK 2 unknown
+#2331
+oldstyle belrak minotaur ranger master~
+Belrak~
+Belrak, the minotaur ranger, looks unhappy about having visitors.
+~
+Belrak is clad in green and brown leather. He looks quite agile and thin, when
+compared to the normal minotaur. He looks at you with a slight smirk.
+~
+~
+generic~
+ABF 0 F C
+500 30 15 16d60+426 30d10+100 3d12+0 7
+EFNU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJK 2 unknown
+#2332
+oldstyle dorgar minotaur thief master~
+Dorgar~
+Dorgar, the minotaur thief, is here hiding in the shadows.
+~
+Dorgar is clad all in black. He is tall and slender, unlike most minotaurs. He
+appears to be quite a skilled thief.
+~
+~
+generic~
+ABCF Q 0 0
+-500 30 15 16d60+426 30d10+100 3d12+0 7
+EFNU 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJK 2 unknown
+#2333
+oldstyle mahn-tor minotaur grand master~
+Mahn-Tor~
+Mahn-Tor, the minotaur grand master, is here looking down at you.
+~
+Mahn-Tor towers above you. He is simply huge. Mahn-Tor is clad in the best of
+armor and robes. He wields the largest axe you have ever seen. You can see why
+Mahn-Tor is the leader of the minotaurs. He is awe-inspiring.
+~
+~
+generic~
+ABCR BTU F C
+-500 33 16 16d73+487 33d10+100 3d13+0 7
+FU 0 0 0
+8 8 1 660
+AHMV ABCDEFGHIJK 2 unknown
+#0
+
+
+

@@ -1,0 +1,32 @@
+Star Wars Reality 1.0 + Star Wars Reality 2.0 Intermud-3
+--------------------------------------------------------
+
+In the install, when opening mud.h to place the #include, find the following:
+
+#define PULSE_PER_SECOND	    4
+#define PULSE_MINUTE              ( 60 * PULSE_PER_SECOND)
+#define PULSE_VIOLENCE		  (  3 * PULSE_PER_SECOND)
+#define PULSE_MOBILE		  (  4 * PULSE_PER_SECOND)
+#define PULSE_TICK		  ( 70 * PULSE_PER_SECOND)
+#define PULSE_AREA		  ( 60 * PULSE_PER_SECOND)
+#define PULSE_AUCTION             ( 10 * PULSE_PER_SECOND)
+#define PULSE_SPACE               ( 10 * PULSE_PER_SECOND)
+#define PULSE_TAXES               ( 60 * PULSE_MINUTE)
+
+Directly below that, add:
+
+#ifdef I3
+   #include "i3.h"
+#endif
+
+In i3cfg.h, in the #ifdef I3SMAUG section:
+
+Find:
+   #define CH_LEVEL(ch)		((ch)->level)
+Replace with:
+   #define CH_LEVEL(ch)		((ch)->top_level)
+
+Find:
+   #define WIZINVIS(ch)		 (xIS_SET((ch)->act, PLR_WIZINVIS) && (ch)->pcdata->wizinvis >= this_mud->minlevel )
+Change to:
+   #define WIZINVIS(ch)		 (IS_SET((ch)->act, PLR_WIZINVIS) && (ch)->pcdata->wizinvis >= this_mud->minlevel )

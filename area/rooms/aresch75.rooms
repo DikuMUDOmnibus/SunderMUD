@@ -1,0 +1,3036 @@
+#30800
+{CForeboding Gate{n~
+{MThe warm cloak of night envelops the sun and stars.  There is grass in
+this town, but dry and lavender.  Foreboding cliffs rise from the earth,
+surrounding the barren, forsaken town.  They lift themselves to the velvet
+black sky, wounding it and leaving only the scar of the scarlet moon to
+light the way.  An immense black gate erupts from the ground, its iron fangs
+barring entrance to the torched city.  
+~
+~
+9 0
+E
+fangs~
+{D Tall, iron rods once protecting the city from intruders now protect
+the realm from the horrors contained within it.  {n 
+~
+E
+gate~
+{D Tall, iron rods once protecting the city from intruders now protect
+the realm from the horrors contained within it.  {n 
+~
+E
+moon~
+{r The moon glows with a deep red life, and casts an unearthly hue over
+the city.  {n 
+~
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+E
+cliffs~
+{D The mountainous terrain surrounds this once prosperous city.  The
+cliffs had housed famed temples of ancient heros.  
+~
+D0
+A barren field stretches beyond the gate.
+~
+gate~
+33 30800 30804
+D1
+A towering wall lies in the distance.
+~
+~
+0 0 30802
+D2
+~
+~
+0 0 14302
+D3
+A towering wall lies in the distance.
+~
+~
+0 0 30801
+S
+#30801
+{CScorched Wasteland{n~
+{m A massive stone wall rises from the ground.  Dried, crusted blood
+marks the stone, faintly outlining forgotten wounds.  Deadly iron spears
+decorate the top of the wall, inviting death to the living that dare to
+cross.  The wall continues around the perimeter of the wasted city with the
+only entrance lying to the east.  {n 
+~
+~
+9 0
+E
+walls~
+{m With a heavy sigh of defeat, you realize that the only entrance to the
+city is to the west.  {n 
+~
+E
+perimiter~
+{m With a heavy sigh of defeat, you realize that the only entrance to the
+city is to the west.  {n 
+~
+E
+spears~
+{D Rotting, impaled corpses lie atop some of the sharp iron rods.  {n 
+~
+E
+iron~
+{D Rotting, impaled corpses lie atop some of the sharp iron rods.  {n 
+~
+E
+stones~
+{r Small patches of dried blood are still caked between the stones.  {n 
+~
+E
+blood~
+{r A thick splotch of dried blood roughly the shape of a human hand is
+imprinted on the stone.  A second equally dry patch of blood runs down the
+wall and to the ground.  {n 
+~
+D1
+~
+~
+0 0 30800
+S
+#30802
+{CScorched Wasteland{n~
+{m A massive stone wall rises from the ground.  Dried, crusted blood
+marks the stone, faintly outlining forgotten wounds.  Deadly iron spears
+decorate the top of the wall, inviting death to the living that dare to
+cross.  The wall continues around the perimeter of the wasted city with the
+only entrance lying to the west.  {n 
+~
+~
+9 0
+E
+walls~
+{m With a heavy sigh of defeat, you realize that the only entrance to the
+city is to the west.  {n 
+~
+E
+perimiter~
+{m With a heavy sigh of defeat, you realize that the only entrance to the
+city is to the west.  {n 
+~
+E
+spears~
+{D Rotting, impaled corpses lie atop some of the sharp iron rods.  {n 
+~
+E
+iron~
+{D Rotting, impaled corpses lie atop some of the sharp iron rods.  {n 
+~
+E
+stone~
+{r Small patches of dried blood are still caked between the stones.  {n 
+~
+E
+blood~
+{r A thick splotch of dried blood roughly the shape of a human hand is
+imprinted on the stone.  A second equally dry patch of blood runs down the
+wall and to the ground.  {n 
+~
+D3
+~
+~
+0 0 30800
+S
+#30803
+{CA Barren Field{n~
+{m Dried bushes extend their wicked arms up the stone wall encircling the
+city, digging their thorned fingers deep within the blood stained stones.  A
+crisp lavender grass swims across the dead, sterile earth, drawing what life
+remains from the barren soil.  {n 
+~
+~
+8201 0
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+E
+cliffs~
+{D The mountainous terrain surrounds this once prosperous city.  The
+cliffs had housed famed temples of ancient heros.  
+~
+E
+stones~
+{r Small patches of dried blood are still caked between the stones.  {n 
+~
+E
+bushes~
+{B The branches of the bushes seem to claw at cracks between the stones,
+searching for a way out.  {n 
+~
+D0
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30806
+D1
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30804
+S
+#30804
+{CA Barren Field{n~
+{m The lavender grass crackles with each footstep.  Despite the deathly
+quiet, the dry, crisp wind seems to call from a distance, echoing just
+beyond the distant cliffs.  The wind extends its icy fingers and caresses
+the earth.  A howl crescendos far in the distance before remitting to a
+hushed, agonized groan.  {n 
+~
+~
+8201 0
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+E
+cliffs~
+{D The mountainous terrain surrounds this once prosperous city.  The
+cliffs had housed famed temples of ancient heros.  
+~
+D0
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30807
+D1
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30805
+D2
+You briefly consider leaving through the southern gate.
+~
+gate~
+33 -1 30800
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30803
+S
+#30805
+{CA Barren Field{n~
+{m Dried bushes extend their wicked arms up the stone wall encircling the
+city, digging their thorned fingers deep within the blood stained stones.  A
+crisp lavender grass swims across the dead, sterile earth, drawing what life
+remains from the barren soil.  {n 
+~
+~
+8201 0
+E
+bushes~
+{B The branches of the bushes seem to claw at cracks between the stones,
+searching for a way out.  {n 
+~
+E
+stone~
+{r Small patches of dried blood are still caked between the stones.  {n 
+~
+D0
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30808
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30804
+S
+#30806
+{CA Barren Field{n~
+{m Dried bushes extend their wicked arms up the stone wall encircling the
+city, digging their thorned fingers deep within the blood stained stones. 
+The lavender grass crackles with each footstep, sucking the last living
+breath from the sterile earth.  Despite the deathly quiet, the dry, crisp
+wind seems to call from a distance, echoing just beyond the distant cliffs. 
+The icy wind curls its fingers about the barren earth and screams to a
+fevered pitch before dropping to a steadily pulsing whisper.  {n 
+~
+~
+8201 0
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+E
+stones~
+{r Small patches of dried blood are still caked between the stones.  {n 
+~
+E
+bushes~
+{B The branches of the bushes seem to claw at cracks between the stones,
+searching for a way out.  {n 
+~
+D1
+~
+~
+0 0 30807
+D2
+~
+~
+0 0 30803
+S
+#30807
+{CA Barren Field{n~
+{m The red moonlight bleeds across the obsidian sky and trickles slowly
+across the ground, feeding the dry earth with a renewed vitality.  Crisp,
+lavender grass crackles underfoot, swimming lavishly in the eternal
+darkness.  The chilling wind opens its arms in an embrace, sweetly beckoning
+towards the distant cliffs.  {n 
+~
+~
+8201 0
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+E
+moon~
+{r The moon glows with a deep red life, and casts an unearthly hue over
+the city.  {n 
+~
+D0
+A clearing lies to the north.
+~
+~
+0 0 30816
+D1
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30808
+D2
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30804
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30806
+S
+#30808
+{CA Barren Field~
+{m Dried bushes extend their wicked arms up the stone wall encircling the
+city, digging their thorned fingers deep within the blood stained stones. 
+The lavender grass crackles with each footstep, sucking the last living
+breath from the sterile earth.  Despite the deathly quiet, the dry, crisp
+wind seems to call from a distance, echoing just beyond the distant cliffs. 
+The icy wind curls its fingers about the barren earth and screams to a
+fevered pitch before dropping to a steadily pulsing whisper.  {n 
+~
+~
+8201 0
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+E
+bushes~
+{B The branches of the bushes seem to claw at cracks between the stones,
+searching for a way out.  {n 
+~
+E
+stones~
+{r Small patches of dried blood are still caked between the stones.  {n 
+~
+D2
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30805
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30807
+S
+#30809
+{CBefore the Western Cliff{n~
+{m A gargantuan cliff splits the brittle earth in half and stretches
+towards the obsidian sky.  The blue rocks of the mountain shimmer a deep
+purple under the blood red moon.  The jagged crags reach towards the town,
+warning a painful death to any who attempt passage, but a faint trail
+leading upwards tempts the fates.  {n 
+~
+~
+8201 0
+E
+crags~
+{B The sharp rocks promise a perilous journey for those that venture up
+the cliff.  {n 
+~
+E
+rocks~
+{B The sharp rocks promise a perilous journey for those that venture up
+the cliff.  {n 
+~
+E
+trail~
+{y The trail does not appear to have been traveled in centuries.  It
+leads up the steep cliff.  {n 
+~
+E
+moon~
+{r The moon glows with a deep red life, and casts an unearthly hue over
+the city.  {n 
+~
+E
+cliffs~
+{D The mountainous terrain surrounds this once prosperous city.  The
+cliffs had housed famed temples of ancient heros.  {n 
+~
+D1
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30812
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30851
+S
+#30810
+{CThe Well{n~
+{m The stone wall surrounds the city to the south.  To the west, a
+gargantuan cliff stretches nearly to the moon herself.  Grass grows sparsely
+between the rocks remaining on the ground.  The rocks thin, and a crumbling
+stone well rises from the earth.  {n 
+~
+~
+8201 0
+E
+cliff~
+{D The mountainous terrain surrounds this once properous city.  The
+cliffs had housed famed temples of ancient heros.  {n 
+~
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+E
+walls~
+{D The height of the walls ensures that nothing can enter the city, and
+that nothing can exit.  {n 
+~
+E
+stone~
+{D {D The height of the walls ensures that nothing can enter the city,
+and that nothing can exit.  {n 
+~
+D0
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30812
+S
+#30811
+{CA Small home{n~
+{m The remains of a small wooden bed stand against the crumbled stone
+wall.  Long, decaying vines creep over its remains.  The vines move fluidly
+and in time with the pulsing sound of the wind.  The towering stone wall
+remains fortified with the most unholy of evils, protecting the city.  {n 
+~
+~
+8201 0
+E
+walls~
+{D The height of the walls ensures that nothing can enter the city, and
+that nothing can exit.  {n 
+~
+E
+stone~
+{D The height of the walls ensures that nothing can enter the city, and
+that nothing can exit.  {n 
+~
+E
+stone~
+{D The height of the walls ensure that nothing can enter the city, and
+that nothing can exit.  {n 
+~
+E
+vines~
+{D Creeping vines swarm across the ground.  {n 
+~
+D2
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30812
+S
+#30812
+{CA Barren Field{n~
+{m The scarlet light from the slivered moon bleeds freely across the
+clear, obsidian sky.  The dry, barren earth soaks in the light, it's only
+form of sustenance.  The towering stone wall remains fortified with the most
+unholy of evils, protecting the city in all directions.  {n 
+~
+~
+8201 0
+E
+sky~
+{D The only light is provided by the red moon.  {n 
+~
+E
+walls~
+{D The height of the walls ensures that nothing can enter the city, and
+that nothing can exit.  {n 
+~
+E
+stone~
+{D The height of the walls ensures that nothing can enter the city, and
+that nothing can exit.  {n 
+~
+E
+moon~
+{r The red-tinged light from the moon illuminates the dark sky.  {n 
+~
+D0
+A small home lies to the north.
+~
+~
+0 0 30811
+D1
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30815
+D2
+A small well lies to the south.
+~
+~
+0 0 30810
+D3
+A gargantuan cliff rises in the distance.
+~
+~
+0 0 30809
+S
+#30813
+{CA Vast Pond{n~
+{m The fresh liquid of the peaceful pond laps gently against its banks,
+the level rising and falling as if breathing of its own.  Strange vegetation
+grows nearby.  Mangled stems reach from the black vines.  Grotesque flowers
+bud from the red weeds.  {n 
+~
+~
+8201 0
+E
+banks~
+{r Grotesquely beautiful flowers bloom on the bank of the pond.  {n 
+~
+E
+vines~
+{D Creeping vines swarm across the ground.  {n 
+~
+E
+stems~
+{D Creeping vines swarm across the ground.  {n 
+~
+E
+weeds~
+{R A new bud stretches upwards on its thin stem.  It opens its rough
+petals to the sky as if a mouth seeking the means to quench its thirst.  {n 
+~
+E
+flowers~
+{R A new bud stretches upwards on its thin stem.  It opens its rough
+petals to the sky as if a mouth seeking the means to quench its thirst.  {n 
+~
+D0
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30815
+S
+#30814
+{CA Humble Home{n~
+{m The remains of a small wooden home lie charred and decaying on the
+cold ground.  A bitter wind scatters the loose ash.  Ever so slowly, dead
+branches reach from the shadows and encompass larger objects until they are
+completely dismantled.  Small stones, the remains of a hearth, lie scattered
+haphazardly on the ground.  {n 
+~
+~
+8201 0
+E
+branches~
+{y The branches creep over the ground and wind their fingers around
+another stone, attempting to strangle the life from it.  {n 
+~
+E
+stones~
+{y What once was the center of this home lies broken and scattered on the
+dead earth.  {n 
+~
+E
+hearth~
+{y What once was the center of this home lies broken and scattered on the
+dead earth.  {n 
+~
+E
+ash~
+{D The only reminder of what once stood here begins to scatter with the
+chill wind.  {n 
+~
+D2
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30815
+S
+#30815
+{CA Barren Field{n~
+{m The sterile earth soaks in the light from the scarlet moon and breaths
+with each gust of the black wind.  The red moonlight reflects off the
+distant crags, giving them a purple hue.  The sky is the blackest night,
+pure untainted darkness.  The stillness and silence penetrate living flesh,
+revitalizing it with a calm and steadily pulsing evil.  {n 
+~
+~
+8201 0
+E
+sky~
+{D The only light is provided by the red moon.  {n 
+~
+E
+crags~
+{m The crags appear gaping mouths with vicious fangs, ready to swallow
+you whole.  {n 
+~
+E
+moon~
+{r The red-tinged light from the moon illuminates the dark sky above and
+the dried earth below.  {n 
+~
+D0
+The entrance to a small home lies to the north.
+~
+~
+0 0 30814
+D1
+A clearing lies to the east.
+~
+~
+0 0 30816
+D2
+A serene pond reflects the moonlight.
+~
+~
+0 0 30813
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30812
+S
+#30816
+{CThe Circle{n~
+{m In the distance, enormous cliffs sprout from the earth, touching the
+obsidian sky.  The red moonlight reflects off the crags, giving them a
+slight purple hue.  The sky is the blackest night, pure untainted darkness. 
+Long ago the suns were purged, leaving only the red crescent moon to bleed
+its light over the earth.  The town is deathly quiet, and the burdened
+silence caresses the night.  {n 
+~
+~
+8201 0
+E
+entrance~
+{y A small rickety gate is barely held in place by its hinges.  {n 
+~
+E
+moon~
+{r The red-tinged light from the moon illuminates the dark sky.  {n 
+~
+E
+sky~
+{D The only light is provided by the red moon.  {n 
+~
+E
+crags~
+{m The crags appear gaping mouths with vicious fangs, ready to swallow
+you whole.  {n 
+~
+E
+cliffs~
+{m The crags appear gaping mouths with vicious fangs, ready to swallow
+you whole.  {n 
+~
+D0
+The entrance to a small graveyard lies to the north.
+~
+gate~
+1 -1 30826
+D1
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30817
+D2
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30807
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30815
+S
+#30817
+{CA Barren Field{n~
+{m The sterile earth soaks in the light from the scarlet moon and
+breathes with each gust of the black wind.  The red moonlight reflects off
+the distant crags, giving them a purple hue.  The sky is the blackest night,
+pure untainted darkness.  The stillness and silence penetrate living flesh,
+revitalizing it with a calm and steadily pulsing evil.  {n 
+~
+~
+8201 0
+E
+cliffs~
+{m The crags appear gaping mouths with vicious fangs, ready to swallow
+you whole.  {n 
+~
+E
+crags~
+{m The crags appear gaping mouths with vicious fangs, ready to swallow
+you whole.  {n 
+~
+E
+sky~
+{D The only light is provided by the red moon.  {n 
+~
+E
+moon~
+{r The red-tinged light from the moon illuminates the dark sky.  {n 
+~
+E
+moon~
+{r The red-tinged light from the moon illuminates the dark sky.  {n 
+~
+D0
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30818
+D1
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30820
+D2
+A tranquil garden lies to the south.
+~
+~
+0 0 30819
+D3
+A clearing lies to the west.
+~
+~
+0 0 30816
+S
+#30818
+{CA Barren Field{n~
+{m The sterile earth soaks in the light from the scarlet moon and
+breathes with each gust of the black wind.  The red moonlight reflects off
+the distant crags, giving them a purple hue.  The sky is the blackest night,
+pure untainted darkness.  The stillness and silence penetrate living flesh,
+revitalizing it with a calm and steadily pulsing evil.  {n 
+~
+~
+8201 0
+E
+sky~
+{D The only light is provided by the red moon.  {n 
+~
+E
+crags~
+{m The crags appear gaping mouths with vicious fangs, ready to swallow
+you whole.  {n 
+~
+E
+cliff~
+{m The crags appear gaping mouths with vicious fangs, ready to swallow
+you whole.  {n 
+~
+E
+moon~
+{r The moon glows with a deep red life, and casts an unearthly hue over {n 
+~
+D2
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30817
+S
+#30819
+{CA Garden{n~
+{m Enormous bushes rise from the ground.  Deadly thorns protrude from
+their branches.  Velvety black roses, the color of the purest midnight sky,
+still bloom.  Their delicate petals open towards the moon, drinking in the
+darkness surrounding them.  Dried blood still lies on some of the thorns,
+the only remaining warning for would-be poachers in this garden.  {n 
+~
+~
+8201 0
+E
+bushes~
+The soft petals of the rose buds are protected by sharp thorns.  But one
+rose looks like it could easily be plucked from the thorns.  
+~
+E
+thorns~
+{y Several thorns protect the roses from being plucked from the bushes. 
+Some are thick and as sharp as daggers, others as thin as a cactus needle. 
+You want neither type stuck in your hand.  {n 
+~
+E
+petals~
+{D The color has been bled from these roses long ago.  The lack of
+sunlight has left them a deep black color...  Except for one.  {n 
+~
+D0
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30817
+S
+#30820
+{CA Barren Field{n~
+{m The scarlet light from the slivered moon bleeds freely across the
+clear, obsidian sky.  The dry, barren earth soaks in the light, it's only
+form of sustenance.  The towering stone wall remains fortified with the most
+unholy of evils, protecting the city in all directions.  {n 
+~
+~
+8201 0
+E
+stone~
+{D The height of the walls ensures that nothing can enter the city, and
+that nothing can exit.  {n 
+~
+E
+moon~
+{r The red-tinged light from the moon illuminates the dark sky.  {n 
+~
+D0
+A decrepit playground is to the north.
+~
+~
+0 0 30822
+D1
+A gargantuan cliff rises to the east.
+~
+~
+0 0 30821
+D2
+To the south is an abandoned church.
+~
+~
+0 0 30823
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30817
+S
+#30821
+{CBefore the Eastern Cliff{n~
+{m A gargantuan cliff splits the brittle earth in half and stretches
+towards the obsidian sky.  The blue rocks of the mountain shimmer a deep
+purple under the blood red moon.  The jagged crags reach towards the town,
+warning a painful death to any who attempt passage, but a faint trail
+leading upwards tempts the fates.  {n 
+~
+~
+8201 0
+E
+moon~
+{r The moon glows with a deep red life, and casts an unearthly hue over
+the city 
+~
+E
+trail~
+{y The trail does not appear to have been traveled in centuries.  It
+leads up the steep cliff.  {n 
+~
+E
+crags~
+{B The sharp rocks promise a perilous journey for those that venture up
+the cliff.  {n 
+~
+E
+cliffs~
+{B The sharp rocks promise a perilous journey for those that venture up
+the cliff.  {n 
+~
+D1
+A rocky path climbs onwards.
+~
+~
+0 0 30824
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30820
+S
+#30822
+{CA Playground{n~
+{m Oaken logs planted upright deep within the ground now lie at a slant,
+slowing caving to the insects and decay rotting them from the core.  A
+thick, stiff rope droops from one of the logs and coils on the ground.  The
+remains of a small wooden seat, dried by the winds and gnawed by what life
+remains within the city's walls, stands as the only recognizable remains of
+these swings.  {n 
+~
+~
+8201 0
+E
+logs~
+{y Maggots and earth worms swarm through the moist, rotting wood.  {n 
+~
+E
+rope~
+{y For an instant, the rope becomes a coiled serpant, ready to strike. 
+Just as suddenly, it collapses back on the ground.  {n 
+~
+E
+insects~
+{c Maggots and worms crawl through the rotting wood.  {n 
+~
+D2
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30820
+S
+#30823
+{CA Church{n~
+{m The remains of a small baptismal font crumble in what was once a small
+church.  Black scars remain on the stone where holy symbols once stood.  A
+small altar, drenched in blood, stands as a morbid memorial to those who
+perished, and a warning to those seeking to overpower the darkness.  {n 
+~
+~
+8201 0
+E
+altar~
+{r Fresh blood still drips from the aging marble altar.  {n 
+~
+E
+scars~
+{D The holy symbols seem to have been incinerated, leaving only the deep
+black ash as a scar upon the stones.  {n 
+~
+E
+stone~
+{D The holy symbols seem to have been incinerated, leaving only the deep
+black ash as a scar upon the stones.  {n 
+~
+D0
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30820
+S
+#30824
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D3
+A barren field stretches as far as the eye can see.
+~
+~
+0 0 30821
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30863
+S
+#30825
+{CA Small Graveyard{n~
+{m An immense stone monument rises from the crisp, dry earth.  Two angels
+stand atop the stone, intertwined in a song of blissful agony and pain. 
+Their harps string a silent melody of isolation and immortality, the songs
+tones lost to the chilling wind.  {n {n 
+~
+~
+8201 0
+E
+monument~
+{D Two small angels stand atop this stone monument.  {n 
+~
+E
+stone~
+{D Two small angels stand atop this stone monument.  {n 
+~
+D0
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30828
+D1
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30826
+D5
+The darkness is overwhelming.
+~
+~
+0 0 30859
+S
+#30826
+{CEntrance to the Graveyard{n~
+{m The branches of ancient weeping willows, long past their prime, hang
+delicately over the small entrance to a long forgotten graveyard.  Dead
+vines climb the trees, strangling the remaining life from them.  The dry
+grass crackles with each footstep, and small weeds grasp at the noise.  {n 
+~
+~
+9 0
+E
+entrance~
+{y A small rickety gate is barely held in place by its hinges.  {n 
+~
+E
+vines~
+{D Creeping vines swarm across the ground.  {n 
+~
+D0
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30829
+D1
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30827
+D2
+A barren field stretches as far as the eye can see.
+~
+gate~
+1 -1 30816
+D3
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30825
+S
+#30827
+{CA Small Graveyard{n~
+{m A small stone plaque lies sunken in the earth, buried by the coiling
+weeds.  A faint inscription is barely visible in the aged and weathered
+stone through the tangled stems.  {n 
+~
+~
+8201 0
+E
+stems~
+{D The weeds curls and consume the earth beneath them.  {n 
+~
+E
+weeds~
+{D The weeds curls and consume the earth beneath them.  {n 
+~
+E
+stems~
+{D Creeping vines swarm across the ground.  {n 
+~
+E
+inscription~
+{c
+     Here lies the remains of old Martha Dias
+     Always uneasy, and not overzealous
+     She lived to the age of four score and ten
+     And gave to the worms what she kept from the men.
+{n
+~
+E
+plaque~
+{n
+{c     Here lie the remains of old Martha Dias
+{c     Always uneasy, and not overzealous
+{c     She lived to the age of four score and ten
+{c     And gave to the worms what she kept from the men.
+{n
+~
+D0
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30830
+D3
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30826
+D5
+The darkness is overwhelming.
+~
+~
+0 0 30862
+S
+#30828
+{CA Small Graveyard{n~
+{m A small rusted bell swings with the chilling breeze.  Time halts as
+the delicate clang intones its death toll.  As the wind settles, the bell
+rocks to a stop, the worn hinge creaking echoing across the empty field.  {n
+~
+~
+8201 0
+E
+bell~
+{y The wind rocks the bell again.  Its heavy tones invade the air and
+permeate to your bones.  
+~
+D0
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30831
+D1
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30829
+D2
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30825
+D5
+The darkness is overwhelming.
+~
+~
+0 0 30858
+S
+#30829
+{CA Small Graveyard{n~
+{m Three delicate rose buds mark this grave.  Their petals withered by
+both time and the wind.  Two of the cuttings remain standing erect in the
+cold earth, the blackened stems now crisp with age.  The remaining bud lies
+cut upon the earth, slowly bleeding its color into the faded grass.  {n 
+~
+~
+8201 0
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+E
+grass~
+~
+E
+cuttings~
+{D The dried roses would crumble at any mortal touch.  {n ed add stems {D
+The dried roses would crumble at any mortal touch.  {n 
+~
+E
+bud~
+{y
+A message has been scrawled onto a yellowed scrap of paper attached to the bud:
+ 
+{G          I love you Hosuay.
+ 
+~
+E
+rose~
+{y
+A message has been scrawled onto a yellowed scrap of paper attached to the bud:
+ 
+{G          I love you Hosuay.{n
+ 
+~
+D0
+A gargantuan cliff rises to the north.
+~
+~
+0 0 30833
+D1
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30830
+D2
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30826
+D3
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30828
+D5
+The darkness is overwhelming.
+~
+~
+0 0 30857
+S
+#30830
+{CA Small Grave{n~
+{m Green rust from a weathered copper urn stains the granite stone
+beneath it.  With a growing wind, the thick unattended grass laps against
+the monument.  
+~
+~
+8201 0
+E
+rust~
+{g The green rust bleeds onto the grass, giving a small patch of it a
+more familiar color.  {n 
+~
+E
+grass~
+{m The strange terrain is a product of the years of darkness and death.  {n 
+~
+D0
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30832
+D2
+Small monuments mark long forgotten graves.
+west desc
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30827
+D3
+~
+~
+0 0 30829
+D5
+The darkness is overwhelming.
+~
+~
+0 0 30861
+S
+#30831
+{CA Small Graveyard{n~
+{m A misshapen tree spreads its blackened, dried limbs towards the
+midnight sky, its roots sprawled hungrily across the barren earth.  The
+limbs creak wearily with the wind's every breath.  {n 
+~
+~
+8201 0
+E
+limbs~
+{y The dried limbs sway with the winds.  They bear no leaves and no
+fruits.  {n 
+~
+E
+roots~
+{y The thick roots dive into and out of the dried earth, searching for
+any sustinance to nourish the tree.  {n 
+~
+E
+tree~
+{y
+          Dis Manibus
+          T R B
+          Vixit Annos LXXII
+          Hic Sita Est
+{n
+~
+D1
+A gargantuan cliff rises to the west.
+~
+~
+0 0 30833
+D2
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30828
+D5
+The darkness is overwhelming.
+~
+~
+0 0 30850
+S
+#30832
+{CA Small Graveyard{n~
+{m A delicate fountain carved from granite marks this grave.  Stagnant
+water with a repulsively pungent stench lurks in its shallow basin.  A deep
+green moss grows from it, discoloring the once-white stone.  {n 
+~
+~
+8201 0
+E
+moss~
+{g The moss corrodes the stone as it grows across the basin of the
+fountain.  {n 
+~
+D2
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30830
+D3
+A gargantuan cliff rises to the west.
+~
+~
+0 0 30833
+D5
+The darkness is overwhelming.
+~
+~
+0 0 30860
+S
+#30833
+{CThe Northern Cliff{n~
+{m A gargantuan cliff splits the brittle earth in half and stretches
+towards the obsidian sky.  The blue rocks of the mountain shimmer a deep
+purple under the blood red moon.  The jagged crags reach towards the town,
+warning a painful death to any who attempt passage, but a faint trail
+leading upwards tempts the fates.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+E
+trail~
+{y The trail does not appear to have been traveled in centuries.  It
+leads up the steep cliff.  There is no way to access the trail from this
+point.  {n 
+~
+E
+crags~
+{B The sharp rocks promise a perilous journey for those that venture up
+the cliff.  {n 
+~
+E
+cliffs~
+{B The sharp rocks promise a perilous journey for those that venture up
+the cliff.  {n 
+~
+E
+moon~
+{r The moon glows with a deep red life, and casts an unearthly hue over
+the city 
+~
+D1
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30832
+D2
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30829
+D3
+Small monuments mark long forgotten graves.
+~
+~
+0 0 30831
+S
+#30834
+{CA Treacherous Path Along the Northern Cliff{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30836
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30847
+S
+#30835
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D0
+A rocky path climbs onwards.
+~
+~
+0 0 30836
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30837
+D5
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+S
+#30836
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.  They rise to the sky, blocking any clear view of the distant path.  The small crevices between
+them are just large enough for a traveler and his belongings.  Rocks slide down the winding path, tumbling to the dismal depths below the mountain and landing with an ear shattering crash.{n
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+A rocky path climbs onwards.
+~
+~
+0 0 30835
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30834
+S
+#30837
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+~
+~
+0 0 30838
+D4
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30835
+S
+#30838
+{CA Diverging Path{n~
+{m The path smooths as it approaches the entrance to a dark cavern tucked
+into the side of the moutain.  Tunnels open to the north and west.  An
+eastward journey promises a daunting climb.  {n 
+~
+~
+8201 0
+D0
+~
+~
+0 0 30839
+D1
+~
+~
+0 0 30837
+D3
+~
+~
+0 0 30843
+S
+#30839
+{CA Dark Cavern{n~
+{m The walls appear chewed.  Each stone bears a jagged edge.  Despite the
+ominous appearance, the cave is surprisingly empty and the cool air uniquely
+crisp.  The mouth cave opens south, and the darkness deepens to the north.  
+~
+~
+8201 0
+E
+stone~
+{c Some of the stones protruding from the walls still bear remnants of
+cloth from traveler's cloaks that have been snagged on them previously. 
+Best to stay to the center of this passage.  {n 
+~
+D0
+~
+~
+0 0 30840
+D2
+~
+~
+0 0 30838
+S
+#30840
+{CA Dark Cavern{n~
+{m The heavier, damp air becomes more difficult to breath.  A sweet smell
+reminicent of ash wafts through, but the thickness of the atmosphere
+prevents identification.  The walls cavern narrow to the west, necessitating
+that travelers crouch to pass though.  The cavern widens to the south.  
+~
+~
+8201 0
+D2
+~
+~
+0 0 30839
+D3
+~
+~
+0 0 30841
+S
+#30841
+{CA Dark Cavern{n~
+{m The air is thick, and breathing becomes a chore.  The sickenly sweet
+smell is overpowering.  The walls of the cavern narrow to the south,
+creating only a crawl space large enough for one traveler.  The cavern
+widens to the east.  A light emenates from the south.  Perhaps there is an
+end?  
+~
+~
+8201 0
+D1
+~
+~
+0 0 30840
+D2
+~
+~
+0 0 30842
+S
+#30842
+{RAn Offering Chamber{n~
+{r The narrow walls to the north widen and open into a large, circular
+room.  The aroma of burning flesh fills the air.  The flames flicker, and
+grotesque shadows dance across the walls.  
+~
+~
+8201 0
+E
+walls~
+{D The cackling faces of demons and the silent, tortured faces of prior
+victims dance in and out of sight on the walls as the flames flicker.  {n 
+~
+E
+shadows~
+{D The cackling faces of demons and the silent, tortured faces of prior
+victims dance in and out of sight on the walls as the flames flicker.  {n 
+~
+D0
+~
+~
+0 0 30841
+S
+#30843
+{CA Dark Cavern{n~
+{m Smooth, seamless stone forms the walls of the eastern tunnel.  Its
+touch chills mortal flesh.  Waves of desperation and fear pulse through the
+heavy rock despite its fortitude.  The smooth rock continues further west. 
+A trail leading to the cliff returns east.  {n 
+~
+~
+8201 0
+D1
+~
+~
+0 0 30838
+D3
+~
+~
+0 0 30844
+S
+#30844
+{CA Dark Cavern{n~
+{m The smooth onyx walls of the cavern curve northward and abruply halt. 
+The walls seemingly meld into the impassable iron door to the north.  Loud
+screams synchronus with the howling wind outside crescendo and fall to a
+hushed cry.  Whether they are in pleasure or anguish, one cannot be certain.
+{n 
+~
+~
+8201 0
+D0
+~
+~
+65 30858 30845
+D1
+~
+~
+0 0 30843
+S
+#30845
+{CA Dark Cavern{n~
+{m The walls of the cavern transform a swirling array of energy.  Though
+seemingly less substantial, the force still forces everything in the tunnel
+to the center.  The shifting colors coalesce into a strangely impenetrable
+mist to the north.  An iron door leading out of the tunnel is to the south. 
+{n 
+~
+~
+8201 0
+D0
+~
+~
+97 30861 30846
+D2
+~
+~
+65 -1 30844
+S
+#30846
+{RTemple of Caen{n~
+{D A thin blue mist curls around a large obsidian basin filled with a
+thick black substance.  Tendrils of mist curl around magnificent stone
+pillars rising from the nothingness.  A large tome bound with a thick, black
+flesh is borne over the cauldron by a whisp of smoke.  {n 
+~
+~
+8201 9
+D2
+~
+~
+97 -1 30845
+S
+#30847
+{CAn Earthen Tunnel{n~
+{D The tunnel is just wide enough to wiggle through belly first, leaving
+no room for comfort much less digging a way out.  The thick smell of decay
+permeates each pore.  The choices present themselves: a dangerous climb out,
+or a dark journey into the tunnel.  {n 
+~
+~
+8201 0
+D2
+You strain your eyes, but can't manage to see anything.
+~
+~
+0 0 30848
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30834
+S
+#30848
+{CAn Earthen Tunnel{n~
+{D The tunnel is just wide enough to wiggle through belly first, leaving
+no room for comfort much less digging a way out.  The thick smell of decay
+permeates each pore.  The darkness grows deeper to the south, but seems less
+ominous to the north.  
+~
+~
+8201 0
+D0
+You strain your eyes, but can't manage to see anything.
+~
+~
+0 0 30847
+D2
+You strain your eyes, but can't manage to see anything.
+~
+~
+0 0 30849
+S
+#30849
+{CAn Earthen Tunnel{n~
+{D The tunnel is just wide enough to wiggle through belly first, leaving
+no room for comfort much less digging a way out.  The thick smell of decay
+permeates each pore.  
+~
+~
+8201 0
+D0
+You strain your eyes, but can't manage to see anything.
+~
+~
+0 0 30848
+D2
+The earth looks less well packed to the south.
+~
+dirt~
+97 -1 30850
+S
+#30850
+{YA Deep Grave{n~
+{yObvious care was taken to dig such an enormous grave.  The moist earth
+exudes the smell of rotting flesh.  The mud slides from underfoot with each
+ginger step, and the ground seems to threaten to give way.  
+~
+~
+8201 0
+D0
+The earth looks less well packed to the north.
+~
+dirt~
+97 30802 30849
+D4
+At least there is moonlight outside the grave.
+~
+~
+0 0 30831
+S
+#30851
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+D0
+A rocky path climbs onwards.
+~
+~
+0 0 30852
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30809
+S
+#30852
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+A rocky path climbs onwards.
+~
+~
+0 0 30851
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30853
+D5
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+S
+#30853
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30854
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30852
+S
+#30854
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30855
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30853
+S
+#30855
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+A rocky path climbs onwards.
+~
+~
+0 0 30856
+D4
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30854
+S
+#30856
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+A rocky path climbs onwards.
+~
+~
+0 0 30855
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30873
+D5
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+S
+#30857
+{YA Shallow Grave{n~
+{y Only a handful of the earth has been removed to form this hastily made
+burial site.  In the distance, a bell intones a death toll.  As a faint
+scream is heard in the distance, the dry, barren earth begins to shift,
+hungering for fresh blood.  {n 
+~
+~
+8201 0
+D4
+At least there is moonlight outside the grave.
+~
+~
+0 0 30829
+S
+#30858
+{YA Fresh Grave{n~
+{y The grave smells of wet earth and rotting flesh, and looks of a
+slaughterhouse.  The ground emanates an audible groan, and begins to slowly
+move as if alive.  A screeching wail ascends to a fevered pitch before
+abruptly silencing.  {n 
+~
+~
+8201 0
+D4
+At least there is moonlight outside the grave.
+~
+~
+0 0 30828
+S
+#30859
+{YA Damp Grave{n~
+{y Thick, wet earth is tossed into the grave from the opening.  The mud
+sticks to the old protruding roots.  The dirt lands atop a simple wooden
+coffin and slides down its sides.  {n 
+~
+~
+8201 0
+D4
+At least there is moonlight outside the grave.
+~
+~
+0 0 30825
+S
+#30860
+{YAn Overgrown Grave{n~
+{yRoots from trees long since burned splay across the center of this pit,
+making maneuvering difficult.  Worms crawl over the rotting roots and bore
+holes into their core.  The stench of decay grows beneath the thick
+overgrowth.  {n 
+~
+~
+8201 0
+D4
+At least there is moonlight outside the grave.
+~
+~
+0 0 30832
+S
+#30861
+{YAn Overgrown Grave{n~
+{y Roots from trees long since burned splay across the center of this
+pit, making maneuvering difficult.  Worms crawl over the rotting roots and
+bore holes into their core.  The stench of decay grows beneath the thick
+overgrowth.  {n 
+~
+~
+8201 0
+D4
+At least there is moonlight outside the grave.
+~
+~
+0 0 30830
+S
+#30862
+{YA Shallow Grave{n~
+{y Only a handful of the earth has been removed to form this hastily made
+burial site.  In the distance, a bell intones a death toll.  As a faint
+scream is heard in the distance, the dry, barren earth begins to shift,
+hungering for fresh blood.  {n 
+~
+~
+8201 0
+D4
+At least there is moonlight outside the grave.
+~
+~
+0 0 30827
+S
+#30863
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+D0
+A rocky path climbs onwards.
+~
+~
+0 0 30864
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30824
+S
+#30864
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+A rocky path climbs onwards.
+~
+~
+0 0 30863
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30865
+D5
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+S
+#30865
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n f c {c The twisting path through the spikes is the only way
+to traverse the steep cliff.  {n f c {c The twisting path through the spikes
+is the only way to traverse the steep cliff.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+A rocky path climbs onwards.
+~
+~
+0 0 30866
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30864
+S
+#30866
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+A rocky path climbs onwards.
+~
+~
+0 0 30865
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30867
+D5
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+S
+#30867
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n ed add crevices {m A small rock tumbles from
+above, cascading down the cliff and landing at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n ed add rocks {m A small rock tumbles from above, cascading down the cliff
+and landing at your feet on the path.  {n {D Large stone spikes rise from
+the earth and reach towards the sky.  While a mere obstacle along the path
+right now, you shudder at the thought of falling from above and meeting
+these rocks in a quite different manner.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30868
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30866
+S
+#30868
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+D0
+A rocky path climbs onwards.
+~
+~
+0 0 30869
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30867
+S
+#30869
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+A rocky path climbs onwards.
+~
+~
+0 0 30868
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30870
+D5
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+S
+#30870
+{CA Treacherous Path{n~
+{m Enormous spikes rise from the path, a deadly clash of earth and stone.
+They rise to the sky, blocking any clear view of the distant path.  The
+small crevices between them are just large enough for a traveler and his
+belongings.  Rocks slide down the winding path, tumbling to the dismal
+depths below the mountain and landing with an ear shattering crash.  {n 
+~
+~
+8201 0
+E
+spikes~
+{D Large stone spikes rise from the earth and reach towards the sky. 
+While a mere obstacle along the path right now, you shudder at the thought
+of falling from above and meeting these rocks in a quite different manner. 
+{n 
+~
+E
+rocks~
+{m A small rock tumbles from above, cascading down the cliff and landing
+at your feet on the path.  {n 
+~
+E
+crevices~
+{c The twisting path through the spikes is the only way to traverse the
+steep cliff.  {n 
+~
+D0
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D1
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D2
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D3
+Death welcomes you with open arms.
+~
+~
+0 0 30886
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30871
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30869
+S
+#30871
+{CAscending the Mountain{n~
+{m The wind whips past, encircling the cliff and threatening to rip off
+loose rocks and travelers alike.  Just as suddenly, it calms to a chill
+breeze, providing the perfect opportunity to venture onwards.  A nearly
+vertical climb leads to the summit.  A steep descent leads to the
+treacherous mountain path.  {n 
+~
+~
+8201 0
+D4
+A rocky path climbs onwards.
+~
+~
+0 0 30872
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30870
+S
+#30872
+{CThe Summit{n~
+{m The air atop the mountain thins, but remains refreshingly cool. 
+Though its bitterness bites the skin, its clarity bathes the senses.  Thick
+clouds roll across the sky, at times obscuring the moon.  The city below
+appears blissfully quiet and at peace.  {n 
+~
+~
+8201 0
+E
+clouds~
+{D Dark clouds rolls across the sky, for a moment obsuring the moon, and
+then clear just as quickly.  {n 
+~
+E
+moon~
+{r The moon glows with a deep red life, and casts an unearthyly hue over
+the terrain.  {n 
+~
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30871
+S
+#30873
+{CEntrance to a Dark Cavern{n~
+{B Two pillars have been carved into the stone surrounding the entrance
+to form an elegant archway.  Stone doves atop the pillars bear an ancient
+engraved granite banner.  The archway leads north into a warm cavern.  A
+winding path leads down the mountain.  {n 
+~
+~
+8201 0
+E
+pillar~
+{W The backs of the pillars meld with the stone of the cliff.  They
+seeminly support the arch that forms the entrance to this cavern.  {n 
+~
+E
+arch~
+{W The arch melds with the stone of the cliff.  It curves gracefully
+upwards over the mouth of the cavern.  {n 
+~
+E
+banner~
+{W
+{W    ____                                                  ____
+{W   '--. "--._,-. {Y _______________________________  {W,-,_.-" .--'
+{W       \_,   ,--'{Y/ {c)                         {c(   {Y\{W'--,  ,_/
+{W   ,-,,"     '.   {c(    {C____,                  {c)     {W.'    ",,-,
+{W   )  ,---,\  (    {c)  {C(-|  | i r e t h e n   {c(      {W)  /,--, (
+{W   '-'      \ /   {c(    {C_|  |_,                {c)     {W\ /    '-'
+{W             V     {c)  {C(                      {c(       {WV
+{c                  (___________________________)
+{n
+{n
+~
+D0
+~
+~
+0 0 30874
+D5
+A rocky path climbs onwards.
+~
+~
+0 0 30856
+S
+#30874
+{CTemple of Nirethen{n~
+{B White candles on tall silver stands line the aisle.  Their softly
+flickering flames illuminate the cavern with a delicate blue light.  Quartz
+embedded in the walls of the cavern shimmers.  {n 
+~
+~
+8201 0
+D0
+~
+~
+0 0 30879
+D1
+~
+~
+0 0 30875
+D2
+~
+~
+0 0 30873
+D3
+~
+~
+0 0 30876
+S
+#30875
+{CTemple of Nirethen{n~
+{BAn air of serenity fills the cavern.  Quartz embedded in the walls of
+the cavern glistens with the flickering light.  An urge to drop all
+belongings and rest is nearly irresistible.  {n {n 
+~
+~
+8201 0
+D0
+~
+~
+0 0 30880
+D3
+~
+~
+0 0 30874
+S
+#30876
+{CTemple of Nirethen{n~
+{BAn air of serenity fills the cavern.  Quartz embedded in the walls of
+the cavern glistens with the flickering light.  An urge to drop all
+belongings and rest is nearly irresistible.  {n {n 
+~
+~
+8201 0
+D0
+~
+~
+0 0 30878
+D1
+~
+~
+0 0 30874
+S
+#30877
+{CTemple of Nirethen{n~
+{B An air of serenity fills the cavern.  Quartz embedded in the walls of
+the cavern glistens with the flickering light.  An urge to drop all
+belongings and rest is nearly irresistible.  {n {n 
+~
+~
+8201 0
+D1
+~
+~
+1 -1 30878
+S
+#30878
+{CTemple of Nirethen{n~
+{BAn air of serenity fills the cavern.  Quartz embedded in the walls of
+the cavern glistens with the flickering light.  An urge to drop all
+belongings and rest is nearly irresistible.  {n {n {n 
+~
+~
+8201 0
+D0
+~
+~
+0 0 30883
+D1
+~
+~
+0 0 30879
+D2
+~
+~
+0 0 30876
+D3
+~
+~
+1 -1 30877
+S
+#30879
+{CTemple of Nirethen{n~
+{B White candles on tall silver stands line the aisle.  Their softly
+flickering flames illuminate the cavern with a delicate blue light.  Quartz
+embedded in the walls of the cavern shimmers.  {n {n 
+~
+~
+8201 0
+D0
+~
+~
+0 0 30882
+D1
+~
+~
+0 0 30880
+D2
+~
+~
+0 0 30874
+D3
+~
+~
+0 0 30878
+S
+#30880
+{CTemple of Nirethen{n~
+{BAn air of serenity fills the cavern.  Quartz embedded in the walls of
+the cavern glistens with the flickering light.  An urge to drop all
+belongings and rest is nearly irresistible.  {n {n 
+~
+~
+8201 0
+D0
+~
+~
+0 0 30881
+D2
+~
+~
+0 0 30875
+D3
+~
+~
+0 0 30879
+S
+#30881
+{CTemple of Nirethen{n~
+{BAn air of serenity fills the cavern.  Quartz embedded in the walls of
+the cavern glistens with the flickering light.  An urge to drop all
+belongings and rest is nearly irresistible.  {n {n 
+~
+~
+8201 0
+D2
+~
+~
+0 0 30880
+D3
+~
+~
+0 0 30882
+S
+#30882
+{CTemple of Nirethen{n~
+{B White candles on tall silver stands line the aisle.  Their softly
+flickering flames illuminate the cavern with a delicate blue light.  Quartz
+embedded in the walls of the cavern shimmers.  {n {n 
+~
+~
+8201 0
+D0
+~
+~
+0 0 30884
+D1
+~
+~
+0 0 30881
+D2
+~
+~
+0 0 30879
+D3
+~
+~
+0 0 30883
+S
+#30883
+{CTemple of Nirethen{n~
+{BAn air of serenity fills the cavern.  Quartz embedded in the walls of
+the cavern glistens with the flickering light.  An urge to drop all
+belongings and rest is nearly irresistible.  {n {n 
+~
+~
+8201 0
+D1
+~
+~
+0 0 30882
+D2
+~
+~
+0 0 30878
+S
+#30884
+{CTemple of Nirethen{n~
+{B White candles on tall silver stands line the aisle.  Their softly
+flickering flames illuminate the cavern with a delicate blue light.  Quartz
+embedded in the walls of the cavern shimmers.  {n 
+~
+~
+8201 0
+D0
+~
+~
+97 30858 30885
+D2
+~
+~
+0 0 30882
+S
+#30885
+{CTemple of Nirethen{n~
+{B The temple opens into an expansive circular room filled with hundreds
+of softly flickering candles.  The sweet smell of incense wafts through the
+air.  Amidst the air of serenity overrides a deeper current of vexation.  A
+blue silk cloth is draped across the small altar.  {n 
+~
+~
+8201 0
+D2
+~
+~
+97 -1 30884
+S
+#30886
+{RA Rocky Death{n~
+{r One wrong step, and a gaping pit opens wide.  Rocks protrude like
+fangs, ready to rip apart the contamination.  A screeching wail clambers out
+before once again all is silent.  {n 
+~
+~
+13 0
+S
+#30887
+{CThe Weeping Willow{n~
+{c There is an air of serenity beneath the branches of the enormous tree.
+They gently sway with the wind outside.  The leaves filter the strange light
+and illuminate ground under the tree with a soft blue glow.  {n 
+~
+~
+9 0
+D4
+~
+branch~
+65 -1 30826
+S
+#0
+
+
+

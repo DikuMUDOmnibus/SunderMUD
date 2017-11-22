@@ -1,0 +1,1079 @@
+#10401
+oldstyle Guardian guard~
+the Guardian of Hell~
+A Guardian of Hell stands here, keeping you the Hell out.
+~
+The guardian is a stone devil, a hideous creation from the dark laboratories
+of Hell.  Its black eyes stare into your soul with a hunger that makes you
+shiver.  The guardian stands motionless before you.  Its rough grey skin
+looks impervious to normal weapons.
+~
+~
+demon~
+ABF c FHIJ A
+-900 45 22 16d136+786 45d10+100 4d17+0 11
+BEFMNRU Q B Na
+8 8 0 900
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10402
+oldstyle pile coins~
+the pile of gold coins~
+A pile of gold coins lies on the ground.
+~
+A large sparkly pile of gold coins.
+~
+~
+generic~
+ABS 0 FHI 0
+-800 30 15 6d12+778 15d9+100 3d12+0 -99
+BEFJNU 0 0 0
+8 8 0 600
+HJ DF 2 unknown
+#10403
+oldstyle male dee demon~
+the male Dee~
+The male demon Dee lies on the bed, waiting to please you.
+~
+This is the most handsome male you have ever seen.  The well-defined
+muscles on his naked body make your mouth water.
+~
+~
+demon~
+ABF Vc IJ A
+-1000 40 20 16d108+648 40d10+100 3d15+0 3
+BEFMNRU Q B Na
+8 8 1 800
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10404
+oldstyle female dee demon~
+the female Dee~
+The female demon Dee lies on the bed, waiting to please you.
+~
+This is the most beautiful female you have ever seen. The curves of her
+naked body make you sweat and babble uncontrollably.
+~
+~
+demon~
+ABF Vc IJ A
+-1000 40 20 16d108+648 40d10+100 3d15+0 7
+BEFMNRU Q B Na
+8 8 2 800
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10405
+oldstyle bar gold~
+the gold bar~
+A shiny gold bar lies on the ground.
+~
+This gold bar must be worth bucks!
+~
+~
+generic~
+ABS 0 FHI 0
+-800 37 18 16d92+578 37d10+100 3d14+0 7
+BEFJNU 0 0 0
+8 8 0 740
+AHMV ABCDEFGHIJK 2 unknown
+#10406
+oldstyle chicken pot pie~
+a scrumptious chicken pot pie~
+A yummy looking chicken pot pie is here.
+~
+You see a golden-crusted pot pie filled with chicken and vegetables.
+~
+~
+generic~
+AB V I 0
+-800 42 21 16d119+700 42d10+100 3d16+0 3
+EFNU 0 0 0
+8 8 0 840
+AHMV ABCDEFGHIJK 2 unknown
+#10407
+oldstyle beef pot pie~
+a yummy beef pot pie~
+A yummy looking beef pot pie is here.
+~
+You see a golden-crusted pot pie filled with beef and vegetables.
+~
+~
+generic~
+AB V I 0
+-800 42 21 16d119+700 42d10+100 3d16+0 3
+EFNU 0 0 0
+8 8 0 840
+AHMV ABCDEFGHIJK 2 unknown
+#10408
+oldstyle vegetable pot pie~
+a yummy vegetable pot pie~
+A yummy looking vegetable pot pie is here.
+~
+You see a golden-crusted pot pie filled with vegetables.
+~
+~
+generic~
+AB V I 0
+-800 42 21 16d119+700 42d10+100 3d16+0 7
+EFNU 0 0 0
+8 8 0 840
+AHMV ABCDEFGHIJK 2 unknown
+#10409
+oldstyle damned soul~
+a damned soul~
+A damned soul wanders aimlessly here.
+~
+You see the faint silhouette of a person. Looking closely at it, you can barely 
+make out features that would identify it as the person it was in life.
+~
+~
+undead~
+AGOQ K I A
+-700 32 16 16d69+462 32d10+100 3d13+0 7
+EGIKU BLPQR 0 HN
+8 8 0 640
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10410
+oldstyle tortured soul~
+a tortured soul~
+A tortured soul screams out in pain.
+~
+You see a unrecognizable person going through unheard-of and
+indescribable torture. It screams out at you in pain and terror.
+~
+~
+undead~
+ABOR K I A
+-800 34 17 16d78+505 34d10+100 3d13+0 7
+FGU BLPQR 0 HN
+8 8 0 680
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10411
+oldstyle half-eaten person~
+the half-eaten person~
+A half-eaten person lies here, writhing in agony.
+~
+This poor soul looks as if he has been chewed on and spit out.  He writhes
+He is in agony and terror as he gasps frantically for Death to answer his
+desperate plea...
+~
+~
+undead~
+ABDO KV I A
+-757 46 23 16d142+815 46d10+100 4d17+0 7
+EFGNU BLPQR 0 HN
+8 8 0 920
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10412
+oldstyle living wall~
+the living wall~
+A wall stands here. Its surface seems to move and come to life...
+~
+The wall consists of greying and sinewy flesh - faces, hands,
+broken bones, feet, and toes jutting from the surface. You hear low moans
+of horror, pain, and sorrow issuing from within.
+~
+~
+demon~
+AB Vc IJ A
+-1000 50 50 16d168+930 50d10+100 4d18+0 3
+BEFMNRU Q B Na
+8 8 0 1000
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10413
+oldstyle skeletal warrior~
+skeletal warrior~
+A skeletal warrior wanders the planes of Hell.
+~
+Rotting flesh and gore drop from the bones of this creature.
+Its decaying eyes stare at you intently as it sees only your
+delicious and juicy brain.
+~
+~
+undead~
+ADO KV I A
+-743 35 17 16d82+534 35d10+100 3d14+0 7
+EFGNU BLPQR 0 HN
+8 8 0 700
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10414
+oldstyle bloody severed arm~
+bloody severed arm~
+A bloody severed arm lies here.
+~
+The bloody arm of some poor, luckless individual.  The stench of the
+gore-covered limb makes you want to retch.
+~
+~
+undead~
+ABO K I A
+-884 33 16 16d73+487 33d10+100 3d13+0 11
+EFGNU BLPQR 0 HN
+8 8 0 660
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10415
+oldstyle bloody severed foot~
+bloody severed foot~
+A bloody severed foot lies here.
+~
+This bloody foot definitely wasn't a lucky one.
+~
+~
+undead~
+ABO K I A
+-800 33 16 16d73+487 33d10+100 3d13+0 11
+EFGNU BLPQR 0 HN
+8 8 0 660
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10416
+oldstyle bloody severed nose~
+bloody severed nose~
+A bloody severed nose lies here.
+~
+I wonder how the person that lost this smells...Hopefully not as bad as
+this nose does...
+~
+~
+undead~
+ABO K I A
+-800 33 16 16d73+487 33d10+100 3d13+0 11
+EFGNU BLPQR 0 HN
+8 8 0 660
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10417
+oldstyle blood~
+the blood from the fountain~
+The blood in the fountain gurgles merrily.
+~
+You see gallons and gallons of thick red blood gurgling in the fountain.
+~
+~
+generic~
+AB 0 I 0
+-950 45 22 16d136+786 45d10+100 4d17+0 7
+EFNU 0 0 0
+8 8 0 900
+AHMV ABCDEFGHIJK 2 unknown
+#10418
+oldstyle Lost soul~
+the lost soul~
+A lost soul stands here looking lost.
+~
+This soul is definitely clueless to as where he is. He holds a ticket
+that reads #14349023402342039840293481234900049.
+~
+~
+demon~
+ABR Vc IJ A
+-500 44 22 16d130+759 44d10+100 3d17+0 7
+BFMRU Q B Na
+8 8 0 880
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10419
+oldstyle crispy critter~
+the crispy critter~
+A crispy critter is here, being burned to death.
+~
+This was once a person.  Now it is only a charred and smoking hulk that
+is being burned for eternity.  It screams out as the flames lick at its
+body and devour its flesh...
+~
+~
+undead~
+ABO K I A
+-800 44 22 16d130+759 44d10+100 3d17+0 11
+EFGNU BLPQR 0 HN
+8 8 0 880
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10420
+oldstyle pile bones skeleton~
+pile of bones~
+A decaying pile of bones lies on the ground.
+~
+Stringy bits of flesh blow gently in the breeze. The bones rattle as you walk
+by them.
+~
+~
+undead~
+ABO KV I A
+-700 37 18 16d92+578 37d10+100 3d14+0 7
+EFGNU BLPQR 0 HN
+8 8 0 740
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10421
+oldstyle manes sub-demon~
+the manes~
+A manes wanders the planes of Hell, looking for something to kill.
+~
+A gruesome sub-demon who used to be mortal, this is a semi-intelligent
+creature who attacks, with nails and teeth, anyone it encounters.  It is
+often fed upon by demon lords and princes.  Its green-and-red blotched
+skin gives it a diseased and decaying look.  It somewhat resembles a
+shadow or a ghost.
+~
+~
+demon~
+AH Vc IJ A
+-900 35 17 16d82+534 35d10+100 3d14+0 3
+BEFMNRU Q B Na
+8 8 0 700
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10422
+oldstyle prisoner raiden~
+the prisoner Raiden~
+The prisoner of Hell, Raiden sits here for eternity.
+~
+This is a sad individual. He smells strongly of the rotten food that has been
+thrown at him. He sits here chained to the wall, banished to Hell forever by
+the gods.
+~
+~
+demon~
+AB c IJ A
+-1000 35 17 16d82+534 35d10+100 3d14+0 3
+BEFMNRU Q B Na
+8 8 1 700
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10423
+oldstyle prisoner hell~
+a prisoner in Hell~
+A sad looking individual sits here, awaiting torture.
+~
+She is sad-looking, indeed:  cuts and scrapes all over her.  Many scars
+and burns cover her face and arms.  The appalling condition of her once-lovely
+breasts makes you avert your eyes.
+~
+~
+demon~
+AB Vc IJ A
+-800 38 19 16d97+603 38d10+100 3d15+0 3
+BEFMNRU Q B Na
+8 8 2 760
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10424
+oldstyle prisoner hell~
+a prisoner in Hell~
+A sad looking individual sits here ,awaiting torture.
+~
+He is sad-looking, indeed:  cuts and scrapes all over him.  Many scars
+and burns cover his face and arms.  One of his arms is broken at the
+elbow and hangs limply by his side.
+~
+~
+undead~
+ABO KV I A
+-800 38 19 16d97+603 38d10+100 3d15+0 7
+BEFGMNRU BLPQR B HNa
+8 8 1 760
+ABDHIMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10425
+oldstyle demonguard demon guard~
+demonguard~
+A demonguard patrols the planes of Hell.
+~
+This very large demon stands before you, licking his daggerlike teeth.
+Yellow spittle runs down the scales of his blackened skin.
+~
+~
+demon~
+AFG c IJ A
+-800 40 20 16d108+648 40d10+100 3d15+0 7
+BEFMNRU Q B Na
+8 8 0 800
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10426
+oldstyle burning fool~
+the burning fool~
+A burning fool is here, crisping away.
+~
+You can barely make out anything on it. All you can make out are the flames 
+of Hell consuming it, and the smell of burning flesh.
+~
+~
+undead~
+ABO K I A
+-900 42 21 16d119+700 42d10+100 3d16+0 3
+EFGNU BLPQR 0 HN
+8 8 0 840
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10427
+oldstyle construction worker male~
+male construction worker~
+A construction worker is here, welding pipework.
+~
+He is the typical construction worker:  T-shirt, jeans, yellow hard hat.
+As you look closer at the hard hat, you notice that it says:
+             '4th DEMONsion Construction Co.'
+~
+~
+demon~
+AB Vc IJ A
+-666 45 22 16d136+786 45d10+100 4d17+0 7
+BEFMNRU Q B Na
+8 8 1 900
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10428
+construction worker female~
+the female construction worker~
+A construction worker, is here working riviting framework.
+~
+She is the typical construction worker:  T-shirt, jeans, yellow hard hat.
+As you look closer at the hard hat, you notice that it says:
+             '4th DEMONsion Construction Co.'
+~
+~
+demon~
+AB Vc IJ A
+-666 46 23 16d142+815 46d10+100 4d17+0 3
+BEFMNRU Q B Na
+8 8 2 920
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10430
+oldstyle fire devil~
+the fire devil~
+A fire devil stands here with a box of matches, lighting up poor souls.
+~
+It is an indescribably grotesque creature.  Its pale, green-yellow skin
+erupts with blisters and puss.  As you look at it, it smiles at you with
+sharp, blood-covered teeth.  This is definitely a face only a mother could
+love.
+~
+~
+demon~
+AB c IJ A
+-1000 48 24 16d155+869 48d10+100 4d18+0 7
+BEFMNRU Q B Na
+8 8 0 960
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10431
+oldstyle wall fire~
+the wall of fire~
+A wall of fire is here, creeping slowly across the room.
+~
+It is simply a large, door-sized wall of fire.  It slowly inches across the
+room, burning everything in its path, including the poor souls that are chained
+to the various posts around the room.
+~
+~
+generic~
+AB TV I 0
+-600 46 23 16d142+815 46d10+100 4d17+0 7
+EFNU 0 0 0
+8 8 0 920
+AHMV ABCDEFGHIJK 2 unknown
+#10432
+oldstyle hell hound~
+the hell hound~
+A hell hound runs freely through the halls of hell.
+~
+This freak of a canine is rusty red to red-brown in color. Its eyes glow a
+ghastly red. Its sooty black teeth and tongue are covered with green spittle
+that runs down its dung covered coat.
+~
+~
+demon~
+ABD c FHIJ A
+-900 45 22 16d136+786 45d10+100 4d17+0 11
+BEFHMNRU Q B Na
+8 8 0 900
+ABGHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10433
+oldstyle frozen body~
+the frozen body~
+A frozen body lies on the ground.
+~
+As you look at the corpse, you recoil when you see that its eyes still
+move.  They stare intently from its bluish face, as if pleading for your
+help.
+~
+~
+undead~
+ABO K I A
+-900 47 23 16d149+836 47d10+100 4d17+0 11
+EFGNU BLPQR 0 HN
+8 8 0 940
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10434
+oldstyle ice devil~
+the ice devil~
+A Greater Ice Devil stands here, cheerfully freezing souls.
+~
+This devil is a mix of bug, bird, humanoid, and who knows what else.
+Its multi-faceted eyes stare everywhere. It goes about its business of 
+slowly and painfully freezing the damned souls, quickly thawing them
+and then starting over. Every couple of minutes, it takes time out to 
+break an appendage off a nearby soul and beat the soul with it.
+~
+~
+demon~
+AB TVc IJ A
+-1000 52 52 16d182+988 52d10+100 4d19+0 7
+BEFMNRU Q B Na
+8 8 0 1040
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10435
+oldstyle trapped soul ice~
+the trapped soul~
+A soul trapped under the ice gasps desperately for air.
+~
+This poor soul has been incased in ice, almost as though it were caught
+under an iceflow.  It will desperately gasp for air for a few minutes,
+then will seem to die briefly.  Always, it is restored and begins thrashing
+about again.
+~
+~
+undead~
+ABO KV I A
+-789 49 24 16d162+893 49d10+100 4d18+0 11
+EFGNU BLPQR 0 HN
+8 8 0 980
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10436
+oldstyle half frozen body~
+the half frozen body~
+A half frozen body hangs on a meat hook.
+~
+A large meat hook is imbedded deep within the back of the corpse. You
+see small white maggots eating away at the body. The flesh seems to
+move and wriggle with a life of its own...
+~
+~
+undead~
+ABO KV I A
+-876 51 51 16d175+958 51d10+100 4d19+0 7
+EFGNU BLPQR 0 HN
+8 8 0 1020
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10437
+oldstyle killer penguin~
+the killer penguin~
+A small penguin waddles around on the ice.
+~
+What a cute little penguin! Wait, why is it looking at you that way?
+HEY! Penguins don't have teeth!
+~
+~
+demon~
+ABFR c IJ A
+-876 52 52 16d182+988 52d10+100 4d19+0 3
+BFMRU Q B Na
+8 8 0 1040
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10438
+oldstyle I-scream worker~
+the I-scream worker~
+An I-scream worker runs from machine to machine.
+~
+It moves about so frantically that you can't really get a chance to look at it.
+It runs about screaming, 'I SCREAM, YOU SCREAM!
+
+WE ALL SCREAM FOR I SCREAM!!!'
+
+~
+~
+demon~
+AB c IJ A
+-706 52 52 16d182+988 52d10+100 4d19+0 7
+BEFMNRU Q B Na
+8 8 0 1040
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10439
+oldstyle Ice Screamer~
+the Ice Screamer~
+An Ice Screamer is yelling into empty cartons.
+~
+He is dressed in a white jumpsuit with the words,
+
+'Eye Spleen I Screamery'
+
+written on it in large, yellow letters.
+~
+~
+demon~
+AB Vc IJ A
+-706 52 52 16d182+988 52d10+100 4d19+0 11
+BEFMNRU Q B Na
+8 8 0 1040
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10440
+oldstyle Construction Foreman Demonic~
+the Demonic Foreman~
+A Demonic Foreman sits here, looking at blueprints.
+~
+This huge demon has somehow managed to fit himself into
+a oversized, orange jumpsuit. The words,
+
+'4th DEMONsion Construction Co.' are written on the 
+back in large, black letters.
+He seems none too happy to see you.
+~
+~
+demon~
+ABFGT Vc FHIJ A
+-1000 53 53 16d189+1019 53d10+100 4d19+0 3
+BEFMNRU Q B Na
+8 8 1 1060
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10441
+oldstyle Secretary of Hell~
+Secretary of Hell~
+The Secretary of Hell sits here, watching the phones ring.
+~
+This very sexy secretary seems to be just sitting here amusing herself
+by watching the little lights on the telephone blink. She is oblivious
+to your presence and seems fascinated by the phones.
+~
+~
+human~
+AB 0 FHI 0
+-700 43 21 16d124+733 43d10+100 3d16+0 3
+EFNU 0 0 0
+8 8 2 860
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10442
+oldstyle office worker hell~
+office worker from Hell~
+An office worker from Hell is looking for a boss to piss off.
+~
+Just looking at him makes your blood boil. 
+AAAAAAAAAAaaaaaaaaaaaarrrrrrrrgggggghhhhh!!!!!!!!!!!
+~
+~
+human~
+ABS V FHI 0
+-1000 44 22 16d130+759 44d10+100 3d17+0 7
+BEFJNU 0 0 0
+8 8 0 880
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10443
+oldstyle records worker~
+records worker~
+A records worker is here, filing bad reports.
+~
+You see a rather plain-looking office personel here, filing paperwork on
+someone.
+~
+~
+human~
+AB V FHI 0
+-1000 44 22 16d130+759 44d10+100 3d17+0 7
+EFNU 0 0 0
+8 8 0 880
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10444
+oldstyle santa claus~
+Santa Claus~
+Santa Claus is here, checking on who has been naughty...
+~
+It's a jolly old man, with red cheeks and a roly-poly belly and a laugh
+as jolly as you can get. Must be Santa Claus!
+~
+~
+human~
+AB V FHI 0
+-1000 44 22 16d130+759 44d10+100 3d17+0 3
+EFNU 0 0 0
+8 8 1 880
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10445
+oldstyle high priest ell~
+High Priest of Hell~
+The High Priest of Hell is here, eating 'I Scream'.
+~
+The dark, black robes hide most of his features, but you can nearly make
+out his emaciated face beneath the hood.
+~
+~
+demon~
+ABFQ Vc FHIJ A
+-1000 53 53 16d189+1019 53d10+100 4d19+0 11
+BEFIKMRU Q B Na
+8 8 1 1060
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10446
+oldstyle bowl blood~
+a bowl of blood~
+A bowl of blood sits on the altar.
+~
+It is a wooden bowl filled with blood and bits of flesh.
+~
+~
+demon~
+ABF c FHIJ A
+-900 48 24 16d155+869 48d10+100 4d18+0 3
+BEFMNRU Q B Na
+8 8 0 960
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10447
+oldstyle jury member~
+jury member~
+A jury member sits here with a "Guilty" sign, waiting for the trial to begin.
+~
+It seems to be a lesser demon disguised as mortal. Fair trial?  Not likely.
+~
+~
+demon~
+AB Vc FHIJ A
+-1000 40 20 16d108+648 40d10+100 3d15+0 11
+BEFMNRU Q B Na
+8 8 0 800
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10448
+oldstyle Judge Whopper~
+Judge Whopper~
+Judge Whopper sits here, trying to think of a painful sentence.
+~
+This is the High Judge of Hell. He has never found anyone innocent
+and is notorious for his painful and harsh punishments.
+~
+~
+demon~
+AB Vc FHIJ A
+-1000 52 52 16d182+988 52d10+100 4d19+0 11
+BEFMNRU Q B Na
+8 8 0 1040
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10449
+oldstyle lawyer hell~
+Lawyer from Hell~
+The Lawyer from Hell sits here, playing games on his laptop computer.
+~
+Slimy, sleezy, and with very sharp teeth... A lawyer all right...
+~
+~
+demon~
+AB Vc FHIJ A
+-1000 52 52 16d182+988 52d10+100 4d19+0 11
+BEFMNRU Q B Na
+8 8 0 1040
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10450
+oldstyle complaints officer~
+Complaints Officer~
+The Complaints Officer is here, watching her favorite soap opera.
+~
+She seems not to notice you, but is absorbed in her favorite soap,
+'As The Hell Burns'
+
+~
+~
+human~
+AB V FHI 0
+-1000 51 51 16d175+958 51d10+100 4d19+0 7
+EFNU 0 0 0
+8 8 2 1020
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10451
+oldstyle bastard hiramoto~
+bastard hiramoto~
+The Bastard Hiramoto stands here, trying to learn Kung Fu from a book.
+~
+He looks at you and says, 'I think my Kung Fu is no good'
+and then goes back to practicing.
+
+He is known to buy anything, and to sell anything sold to him.
+~
+~
+demon~
+AB Vc FHIJ A
+-1000 51 51 16d175+958 51d10+100 4d19+0 11
+BEFMNRU Q B Na
+8 8 1 1020
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10452
+oldstyle maintenance worker~
+maintenance worker~
+A maintenance worker is here, fixing stuff.
+~
+He is in a yellow jumpsuit with a large nuclear-warning symbol on the back.
+~
+~
+human~
+AB V FHI 0
+-1000 51 51 16d175+958 51d10+100 4d19+0 7
+EFNU 0 0 0
+8 8 0 1020
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10453
+oldstyle weeds~
+weeds~
+A weed is growing out of the cement.
+~
+You see a nasty yellow-and-purple weed.
+~
+~
+generic~
+AB 0 FHI 0
+-1000 40 20 16d108+648 40d10+100 3d15+0 3
+EFNU 0 0 0
+8 8 0 800
+AHMV ABCDEFGHIJK 2 unknown
+#10454
+oldstyle stanley~
+Stanley~
+Stanley stands here, waiting to sell you one of his wonderful figurines. 
+~
+He is a crafty old fart who looks about 1000 years old, but his figurines
+are pretty well-known.  He was rumored to have disappeared around Solace 100
+years ago.
+~
+~
+demon~
+AB c FHIJ A
+-1000 54 54 16d196+1053 54d10+100 4d20+0 3
+BEFMNRU Q B Na
+8 8 1 1080
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10455
+oldstyle half eaten horse carcass~
+horse carcass~
+A half-eaten horse carcass is here being digested. 
+~
+This is what used to be a horse.  Hmm, maybe - it's hard to tell.  Half
+of it has been digested already.
+~
+~
+undead~
+ABO K FHI A
+-800 51 51 16d175+958 51d10+100 4d19+0 11
+EFGNU BLPQR 0 HN
+8 8 0 1020
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#10456
+oldstyle stomach dragon~
+stomach dragon~
+A stomach dragon is here, digesting Big Mouth's food.
+~
+A large, brown-and-green, slime-covered reptile, its function seems to be
+to move to each food item and barf acid all over it.
+~
+~
+generic~
+AB 0 FHI 0
+-800 51 51 16d175+958 51d10+100 4d19+0 3
+EFNU 0 0 0
+8 8 0 1020
+AHMV ABCDEFGHIJK 2 unknown
+#10457
+oldstyle rancid turkey leg~
+rancid turkey leg~
+A rancid turkey leg sits in a pool of slime.
+~
+It's one of those really nasty pieces of food in the refrigerator that
+disappears, and you wonder if it just walked away....
+~
+~
+generic~
+AB 0 FHI 0
+-800 51 51 16d175+958 51d10+100 4d19+0 7
+EFNU 0 0 0
+8 8 0 1020
+AHMV ABCDEFGHIJK 2 unknown
+#10458
+oldstyle reactor specialist~
+reactor specialist~
+A reactor specialist sits here, checking on the reactor core.
+~
+He is dressed in a black jumpsuit with a large nuclear-warning symbol on
+the back.
+~
+~
+human~
+AB 0 FHI 0
+-800 51 51 16d175+958 51d10+100 4d19+0 3
+EFNU 0 0 0
+8 8 1 1020
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10459
+oldstyle reactor worker~
+reactor worker~
+A reactor worker sits here, monitoring various screens.
+~
+He is dressed in a black jumpsuit with a large lighting bolt symbol on
+the back.
+~
+~
+human~
+AB 0 FHI 0
+-800 51 51 16d175+958 51d10+100 4d19+0 11
+EFNU 0 0 0
+8 8 1 1020
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10460
+oldstyle homer simpson~
+Homer Simpson~
+Homer Simpson sits here, eating donuts.
+~
+A balding fat man with jelly stains on his uniform.
+
+He suddenly spills his coffee and shouts out, 'DOH!'
+Warning lights blink rapidly as the coffee shorts out the control panel.
+Homer calmly stands up, unplugs the control panel, and sits down
+for a nap.
+~
+~
+human~
+AB 0 FHI 0
+-800 51 51 16d175+958 51d10+100 4d19+0 3
+EFNU 0 0 0
+8 8 1 1020
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10461
+oldstyle devil's food cake~
+devil's food cake~
+A nice slice of devil's food cake is here, waiting to be eaten.
+~
+Mmmmmm...Don't you just want to take a bite?
+~
+~
+demon~
+AB c FHIJ A
+-800 51 51 16d175+958 51d10+100 4d19+0 11
+BEFMNRU Q B Na
+8 8 0 1020
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10462
+oldstyle mad cook~
+mad cook~
+A mad cook is here, cooking up a storm.
+~
+He spots you and screams, 'Git awa froom mi food!  I'll kill you!'
+~
+~
+demon~
+AB c FHIJ A
+-800 51 51 16d175+958 51d10+100 4d19+0 7
+BEFMNRU Q B Na
+8 8 1 1020
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10463
+oldstyle frantic lady~
+frantic lady~
+A frantic lady is here, looking in vain for a sale and tearing her hair out.
+~
+~
+~
+human~
+AG V I 0
+-600 42 21 16d119+700 42d10+100 3d16+0 7
+EFNU 0 0 0
+8 8 2 840
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10464
+oldstyle nuclear technician~
+nuclear technician~
+A nuclear technician is here, fiddling with his rad suit.
+~
+~
+~
+human~
+AB V FHI 0
+-800 51 51 16d175+958 51d10+100 4d19+0 3
+EFNU 0 0 0
+8 8 1 1020
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10465
+oldstyle stray proton~
+stray proton~
+A stray proton is here, whizzing about.
+~
+~
+~
+generic~
+AB V FHI 0
+-800 51 51 16d175+958 51d10+100 4d19+0 3
+EFNU 0 0 0
+8 8 0 1020
+AHMV ABCDEFGHIJK 2 unknown
+#10466
+oldstyle radiation~
+radiation~
+The radiation in the room does unknown things to you.
+~
+~
+~
+generic~
+AB V FHI 0
+-800 51 51 16d175+958 51d10+100 4d19+0 7
+EFNU 0 0 0
+8 8 0 1020
+AHMV ABCDEFGHIJK 2 unknown
+#10467
+oldstyle chief engineer hell~
+the Chief Engineer of Hell~
+The Chief Engineer of Hell is here, playing with the panic button.
+~
+He kinda reminds you of an old Bart Simpson.  He seems to be enjoying
+the panic button at the moment, chuckling happily as workers on the
+reactor floor below frantically check dials and gauges, while lights
+are flashing and sirens are screaming in the background.
+~
+~
+demon~
+AB Vc FHIJ A
+-800 54 54 16d196+1053 54d10+100 4d20+0 3
+BEFMNRU Q B Na
+8 8 1 1080
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10468
+oldstyle Greater Fire Demon~
+the Greater Fire Demon~
+A Greater Fire Demon stands here, laughing at each scream he hears..
+~
+This large, black-scaled demon laughs merrily as he watches poor souls
+scream out in pain. He pokes and picks at the flesh of the damned who
+were unlucky enough to be tortured close to him.  His black-taloned
+nails rip slowly through their flesh as he cackles with glee at the
+sounds of their unending pain...
+~
+~
+demon~
+AB Vc FHIJ A
+-800 51 51 16d175+958 51d10+100 4d19+0 11
+BEFMNRU Q B Na
+8 8 0 1020
+ABHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10469
+oldstyle frozen side beef~
+side of frozen beef~
+A frozen side of beef hangs on a hook.
+~
+This enormous carcass looks as if it came from a small dragon or a very
+large cow.
+~
+~
+generic~
+AB 0 I 0
+-675 43 21 16d124+733 43d10+100 3d16+0 7
+EFNU 0 0 0
+8 8 0 860
+AHMV ABCDEFGHIJK 2 unknown
+#10470
+oldstyle guard dog~
+guard dog~
+A guard dog sits here, guarding the break room.
+~
+A vicious-looking pit bull / demon-dog mix is here, slobbering on the donuts.
+~
+~
+demon~
+ABD Vc IJ A
+-900 45 22 16d136+786 45d10+100 4d17+0 7
+BEFHMNRU Q B Na
+8 8 0 900
+ABGHMV ABCDEFGHIJKLQRSTUVWa 2 unknown
+#10471
+oldstyle juicy steak~
+juicy steak~
+A mouth-watering, juicy steak is here, steaming.
+~
+Mmmmmmm.....Steak....Mmmmmm...You feel your mouth start to water.
+~
+~
+undead~
+ABO KV FHI A
+-800 51 51 16d175+958 51d10+100 4d19+0 11
+EFGNU BLPQR 0 HN
+8 8 0 1020
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

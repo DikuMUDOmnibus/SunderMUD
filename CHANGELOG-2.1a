@@ -1,0 +1,23 @@
+These are the changes from Sunder 2.1 to 2.1a:
+
+Severe Bugfixes:
+* Groups were very unstable. Hopefully less so now :) (many people had problems here, the biggest bug)
+* declan would crash the mud in some cases. Fixed.
+* clan petition join bug - fixed thanks to Dregnus (jholt@acom.us)
+* If a socket blocked, it would disconnect the offending user. Fixed.
+* Several files were being left open during the boot process. Would show as a crash after numerous copyovers. Fixed.
+* Fixed a bug that set a decay timer on any items that went through the "put" command. Woops.
+
+Minor Bugfixes:
+* Notification sent possibly to wrong clan on declan and setclan. Fixed.
+* Typo command also logs to wiznet bug channel now so online imms can see notices.
+* MXP Users can no longer disable colour with colour command There was a reason for this.
+* More changes to ignore broken zMud's Pueblo support (MXP is preferred for zMud users)
+* Some possible bugs in notication fixed.
+
+Features:
+* Intermud-3 (i3) network has been implemented. Edit the config file in i3/ directory.
+* clients.c New Functions (neither used in 2.1, but you can find uses for them):
+  tag_secure - sends secure line tag for MXP or </xch_mudtext> for pueblo.
+  tag_close  - closes secure line or pueblo tag.
+* Can now do "wiznet all" to turn on all wiznet events.

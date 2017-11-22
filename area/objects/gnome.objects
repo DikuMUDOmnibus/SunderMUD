@@ -1,0 +1,232 @@
+#1800
+key bloody~
+a bloody key~
+A bloody key is stuck to the floor.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+1 10 50 100 100
+#1801
+key dirty~
+a dirty key~
+A dirty key lies here.~
+~
+brass~
+18 0 A 0
+B 0 0 0 0
+1 10 50 100 100
+#1802
+toy boomerang~
+a toy boomerang~
+A toy boomerang wants to be picked up.~
+~
+wood~
+5 0 AN 0
+0 A AC ABC 0
+5 50 250 100 100
+#1803
+staff gnarled~
+a gnarled staff~
+A gnarled staff is here.~
+~
+wood~
+5 0 AN 0
+0 A AC ABC 0
+5 150 250 100 100
+#1804
+sword gnome~
+a gnome sword~
+A gnome sword catches your eye.~
+~
+bronze~
+5 0 AN 0
+A A BC AB 0
+7 150 350 100 100
+#1805
+shield studded~
+a studded shield~
+A studded wooden shield lies here.~
+~
+wood~
+9 0 AJ 0
+C C C C 0
+5 160 250 100 100
+#1806
+potion bloody~
+a bloody potion~
+A bloody potion lies here.~
+~
+glass~
+10 0 A 0
+15 14 15 39 0
+7 220 480 100 100
+#1807
+cloak bloody~
+a bloody cloak~
+A bloody cloak lies in a corner.~
+~
+cloth~
+9 G AC 0
+C C C C 0
+5 150 250 100 100
+#1808
+ring bat~
+a bat ring~
+A ring in the shape of a bat lies here.~
+~
+brass~
+9 G AB 0
+0 0 0 0 0
+10 20 1700 100 100
+A
+14 15
+#1809
+necklace bead~
+a bead necklace~
+A string of beads is here.~
+~
+glass~
+9 0 AC 0
+0 0 0 0 0
+5 80 1050 100 100
+A
+18 1
+#1810
+sword electrum~
+an electrum sword~
+An electrum sword lies here.~
+~
+adamantite~
+5 AG AN 0
+A A D AB 0
+12 200 600 100 100
+#1811
+basket wicker~
+a wicker basket~
+A wicker basket sits here.~
+~
+wood~
+15 0 A 0
+BDEG 0 0 CE CFG
+1 50 50 100 100
+#1812
+peanuts~
+some peanuts~
+Peanuts lie here.~
+~
+food~
+19 0 A 0
+E E 0 0 0
+1 90 50 100 100
+#1813
+grain~
+some grain~
+There is some grain here.~
+~
+food~
+19 0 A 0
+ABCD ABCD 0 0 0
+1 80 50 100 100
+#1814
+skiff~
+a skiff~
+A small skiff is here.~
+~
+wood~
+22 0 A 0
+0 0 0 0 0
+1 240 50 100 100
+#1815
+boots gnome~
+a pair of gnome boots~
+You notice a pair of Gnome Boots.~
+~
+leather~
+9 0 AG 0
+C C C C 0
+7 120 1150 100 100
+A
+14 10
+#1816
+coins~
+a pile of coins~
+A pile of coins.~
+~
+gold~
+20 0 A 0
+A 0 0 0 0
+1 10 50 100 100
+#1817
+coins~
+a pile of coins~
+A pile of coins.~
+~
+gold~
+20 0 A 0
+AC 0 0 0 0
+0 10 0 100 100
+#1819
+shield stone~
+a stone shield~
+A stone slab lies here.~
+~
+unknown~
+9 0 AJ 0
+C C C B 0
+16 350 3700 100 100
+A
+1 2
+#1820
+mail heavy banded~
+heavy banded mail~
+A large suit of heavy banded mail is here~
+~
+unknown~
+9 0 AD 0
+BC BC BC 0 0
+15 300 2100 100 100
+#1821
+club large two-handed~
+a large club~
+A large club sits here.~
+~
+unknown~
+5 0 AN 0
+C A BC ABC F
+6 220 460 100 100
+A
+18 -1
+#1822
+banana~
+a banana~
+There is a banana here.~
+~
+unknown~
+19 0 A 0
+BC BC 0 0 0
+0 50 0 100 100
+#1823
+life potion~
+a potion of life healing~
+A potion of life healing has left here.~
+~
+unknown~
+10 H A 0
+32 43 3 0 0
+6 10 630 100 100
+#1824
+club wooden~
+a wooden club~
+A wooden club sits here.~
+~
+unknown~
+5 0 AN 0
+C A AC ABC 0
+3 100 220 100 100
+A
+18 -1
+#0
+
+
+

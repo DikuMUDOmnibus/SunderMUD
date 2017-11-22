@@ -1,0 +1,613 @@
+#2000
+sword brass~
+a brass sword~
+A brass sword is here.~
+~
+brass~
+5 0 AN 0
+A B AD AB 0
+15 10 750 100 100
+#2001
+wooden axe~
+a wooden axe~
+A wooden axe~
+~
+wood~
+5 N AN 0
+AC A AC 0 0
+3 7 150 100 100
+#2002
+special thrulog~
+Thrulog's Special~
+A special drink brewed by Thrulog is here.~
+~
+glass~
+17 N A 0
+C AB ABC 0 0
+1 1 7 100 100
+#2003
+longsword immortal~
+An immortal's longsword~
+Immortal longsword sword~
+~
+mithril~
+5 ABI AN 0
+A ABC BDF BCDE H
+102 3 5100 100 100
+#2004
+lance holy guard~
+a Lance of the Holy Guard~
+A Lance of the Holy Guard is here.~
+~
+adamantite~
+5 BIKT ANP 0
+D C ACE ACE E
+45 50 2250 100 65
+#2005
+shirt~
+a white shirt~
+A white shirt is here.~
+~
+cloth~
+11 N AD 0
+0 0 0 0 0
+1 0 50 100 100
+#2006
+pants~
+navy blue pants~
+Some navy blue pants are here.~
+~
+cloth~
+11 N AF 0
+0 0 0 0 0
+1 0 50 100 100
+#2007
+bolt cloth~
+a bolt of cloth~
+A bolt of cloth is here.~
+~
+cloth~
+11 N A 0
+0 0 0 0 0
+1 3 25 100 100
+#2008
+brass axe~
+a brass axe~
+A brass axe is here.~
+~
+brass~
+5 N AN 0
+AC A ABC ACE 0
+10 15 500 100 100
+#2009
+steel axe~
+a steel axe~
+A steel axe is here.~
+~
+steel~
+5 N AN 0
+AC B ACD ACE 0
+25 15 1250 100 100
+#2010
+battle axe~
+a two-handed battle axe~
+A two-handed battle axe is here.~
+~
+steel~
+5 N ANP 0
+AC AB AE ACE 0
+35 20 1750 100 100
+#2011
+waterskin~
+a waterskin~
+A leather waterskin is here.~
+~
+leather~
+17 N A 0
+BC BC 0 0 0
+1 5 75 100 100
+#2012
+backpack~
+a backpack~
+A leather backpack is here.~
+~
+leather~
+15 N AK 0
+ACDEFG AC 0 0 0
+1 7 125 100 100
+#2013
+brass lantern~
+a brass lantern~
+A brass lantern is here.~
+~
+brass~
+1 N AO 0
+0 0 144 0 0
+1 3 175 100 100
+#2014
+torch~
+a torch~
+A wooden torch~
+~
+wood~
+1 N AO 0
+0 0 65 0 0
+1 2 5 50 100
+#2015
+mail splint~
+splint mail~
+A suit of splint mail is here.~
+~
+wood~
+9 N AD 0
+C C C C 0
+5 5 250 100 100
+#2016
+leather helmet~
+a leather helmet~
+A leather helmet is here.~
+~
+leather~
+9 N AE 0
+C C C C 0
+5 1 250 100 100
+#2017
+splint leggings~
+splint leggings~
+Some splint leggings are here.~
+~
+wood~
+9 N AF 0
+C C C C 0
+5 3 250 100 100
+#2018
+leather sandals~
+leather sandals~
+Some leather sandals are here.~
+~
+leather~
+9 N AG 0
+C C C C 0
+5 1 250 100 100
+#2019
+cloth gloves~
+cloth gloves~
+Some cloth gloves are here.~
+~
+cloth~
+9 N AH 0
+C C C C 0
+5 1 250 100 100
+#2020
+leather armguards~
+leather armguards~
+Some leather armguards~
+~
+leather~
+9 N AI 0
+C C C C 0
+5 2 250 100 100
+#2021
+oak shield~
+an oak shield~
+An oak shield is here.~
+~
+wood~
+9 N AJ 0
+C AB AC C 0
+5 4 250 100 100
+#2022
+leather belt~
+a leather belt~
+A leather belt is here.~
+~
+unknown~
+9 N AL 0
+B B AB B 0
+5 1 200 100 100
+#2023
+bronze shortsword sword~
+a bronze shortsword~
+A bronze shortsword is here.~
+~
+bronze~
+5 N AN 0
+A A BC A 0
+8 10 400 100 100
+#2024
+black iron longsword sword~
+a black iron longsword~
+A black iron longsword is here.~
+~
+iron~
+5 N AN 0
+A B CD A 0
+22 9 1100 100 100
+#2025
+steel dagger~
+a steel dagger~
+A steel dagger is here.~
+~
+steel~
+5 N AN 0
+B A ABC B 0
+10 1 500 100 100
+#2026
+iron tipped spear~
+an iron tipped spear~
+An iron tipped spear.~
+~
+iron~
+5 N AN 0
+AB A BC ABD 0
+7 2 350 100 100
+#2027
+brass mace~
+a brass mace~
+A brass mace is here.~
+~
+brass~
+5 N AN 0
+C A ABC D 0
+9 4 450 100 100
+#2028
+small halberd~
+a small halberd~
+A small halberd is here.~
+~
+steel~
+5 N AN 0
+D A ABC ABD 0
+11 10 550 100 100
+#2029
+vellum sheet~
+a sheet of vellum~
+A sheet of vellum is here.~
+~
+vellum~
+30 N A 0
+0 0 0 0 0
+1 1 505 100 100
+#2030
+alabaster~
+some alabaster~
+A small chunk of alabaster is here.~
+~
+unique~
+30 N A 0
+0 0 0 0 0
+1 1 619 100 100
+#2031
+obsidian~
+a piece of obsidian~
+A piece of obsidian is here, black as night.~
+~
+crystal~
+30 N A 0
+0 0 0 0 0
+1 1 75 100 100
+#2032
+small brass key~
+a small brass key~
+A small brass key is here.~
+~
+brass~
+18 0 A 0
+0 0 0 0 0
+1 1 0 100 100
+#2033
+visor mithril~
+a mithril visor~
+A mithril visor is here.~
+~
+mithril~
+9 BGJ AR 0
+C C C C 0
+32 2 12600 100 100
+F
+D 0 0 H
+F
+D 0 0 J
+A
+18 -5
+#2034
+floating diamond~
+a floating diamond~
+A diamond floats magically here.~
+~
+diamond~
+8 BGJ AT 0
+0 0 0 0 0
+36 0 5100 100 5
+F
+P 0 0 D
+A
+2 -8
+#2035
+shawl~
+a shawl~
+A pink shawl is here.~
+~
+cloth~
+9 0 AK 0
+AB AB AB AB 0
+2 1 100 100 100
+#2036
+gold cufflink~
+a gold cufflink~
+A gold cufflink shines here.~
+~
+gold~
+9 0 AM 0
+AB AB AB AB 0
+3 2 1750 100 100
+A
+3 2
+#2037
+iron shield~
+an iron shield~
+An iron shield~
+~
+iron~
+9 G AJ 0
+0 0 0 0 0
+17 1 0 100 100
+A
+13 10
+#2038
+iron sword warden's~
+the warden's iron sword~
+The warden's iron sword is here.~
+~
+iron~
+5 G AN 0
+A B BD A 0
+17 20 850 100 100
+#2039
+warden's badge~
+the warden's badge.~
+The warden's badge.~
+~
+silver~
+29 G AQ 0
+0 0 0 0 0
+11 2 1350 100 100
+A
+19 1
+#2040
+jail key~
+the jail key~
+The jail key is here.~
+~
+brass~
+18 0 A 0
+0 0 0 0 0
+1 1 50 100 100
+#2041
+water line fountain~
+a water line~
+A water line is here, slowly dripping.~
+~
+stone~
+25 R A 0
+0 0 0 0 0
+1 19264 0 100 100
+#2042
+bed feather~
+a feather bed~
+A feather bed is here.~
+~
+cloth~
+12 0 A 0
+B ABCDIJKN BEH BEF 0
+1 75 50 100 100
+#2043
+bench stone~
+a stone bench~
+An ornately carved stone bench spans the wall here.~
+~
+unknown~
+12 ORT 0 0
+ABCD IKLMNO B BD 0
+0 24464 0 100 100
+O SIT 2000 100~
+#2044
+pond~
+A small pond is here.~
+A small pond ripples in the sunlight here.~
+~
+unknown~
+25 RT 0 0
+0 0 0 0 0
+0 9999 0 100 100
+#2045
+fountain~
+a fountain~
+An intricately carved marble fountain is here.~
+~
+stone~
+25 OR 0 0
+0 0 0 0 0
+1 16961 0 100 100
+#2046
+rusty lantern~
+a rusty lantern~
+A rusty lanter is here burning with a magical light.~
+~
+brass~
+1 A AO 0
+0 0 900 0 0
+63 3 3150 100 100
+#2047
+statue lotherius up~
+Statue of Lotherius~
+{WA statue of Lotherius stands guard here.{x~
+keyword up req for "climb up" to work.
+~
+stone~
+12 GRT 0 0
+0 0 0 0 0
+50 20000 2500 100 100
+E
+statue~
+The statue is very large and ornate, almost reaching to the ceiling. 
+Something is odd, about it however.  No dust.  
+~
+E
+lotherius~
+That's odd... the statue almost seems as if it weren't really solid.
+~
+O CLIMB 2002 100~
+#2048
+golden band~
+{Ya golden band{x~
+A {Ygolden band{x lays here, forgotten.~
+~
+gold~
+8 0 AB 0
+0 0 0 0 0
+63 1 3150 100 100
+A
+17 -25
+#2049
+jebediah's robe~
+Jebediah's Robe~
+A custom-embroidered robe lay here.~
+~
+cloth~
+13 G AK 0
+0 0 0 0 0
+63 11 3150 100 100
+A
+4 1
+A
+5 4
+#2050
+Jebediah's dagger~
+Jebediah's dagger~
+A fine looking dagger is here.~
+~
+steel~
+5 BG AN 0
+B AC ABDE B D
+63 7 10350 100 100
+A
+19 6
+A
+18 3
+#2051
+worn iron key cult entrance~
+a worn iron key~
+A worn iron key has been discarded here.~
+~
+iron~
+18 0 A 0
+0 0 0 0 0
+5 1 0 100 100
+#2052
+Swirling Mists~
+Swirling Mists~
+A misty spot in the air swirls endlessly.~
+~
+unknown~
+12 ABORT 0 0
+0 0 0 0 0
+1 25000 0 100 100
+#2053
+no name~
+a tarnished bronze key~
+A tarnished bronze key sits here.~
+~
+bronze~
+18 CQ A 0
+0 0 0 0 0
+1 1 50 100 100
+#2054
+statue head lotherius down~
+Lotherius' Head~
+{WThe top of Lotherius' Head is below you here.{w~
+Keyword down is required, so that "climb down" works. -- Loth
+~
+stone~
+12 GRT 0 0
+A 0 BE BD 0
+50 5000 2500 100 100
+O CLIMB 2001 100~
+#2055
+ladder rope~
+rope ladder~
+A rope ladder hangs here from the open ceiling tiles.~
+(no notes)~
+cloth~
+12 R 0 0
+0 0 0 0 0
+1 5 50 50 100
+O CLIMB 2004 100~
+#2056
+panel panels ceiling~
+ceiling panel~
+A loose ceiling panel.~
+(no notes)~
+gold~
+12 RU 0 0
+0 0 0 0 0
+2 20 0 75 100
+O PUSH 2003 100~
+#2057
+doorway magical~
+magical doorway~
+A magical doorway is here.~
+~
+unique~
+12 RST 0 0
+0 0 0 0 0
+1 5 0 100 100
+O ENTER 2005 100~
+#2058
+porridge bowl~
+a bowl of porridge~
+A bowl of porridge is here.~
+~
+food~
+19 N A 0
+CD 0 0 0 0
+1 1 5 100 100
+#2059
+chili bowl~
+a bowl of chili~
+A bowl of chili steams here.~
+~
+meat~
+19 N A 0
+DE 0 0 0 0
+1 1 15 100 100
+#2113
+key red metal~
+a key of red metal~
+A reddish looking key is lying here.~
+~
+adamantite~
+18 GNP A 0
+0 0 0 0 0
+38 1 10000 100 100
+#2114
+Cloak Elemental Red Crimson Mastery~
+the Crimson Cloak of Elemental Mastery~
+Crimson cloth lies in heaps on the ground.~
+~
+unique~
+9 AFG AK 0
+BD BD BD BD 0
+39 7 9550 100 50
+A
+23 5
+A
+18 5
+A
+4 2
+A
+3 2
+#0
+
+
+

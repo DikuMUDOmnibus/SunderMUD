@@ -1,0 +1,919 @@
+#9500
+palace key~
+the palace key of New Thalos~
+A large key bearing the crest of New Thalos lies here.~
+~
+brass~
+18 0 A 0
+A 0 0 0 0
+5 3 250 100 100
+#9501
+city key~
+the Key to the City of New Thalos~
+The heavy city key lies here in the dust~
+~
+brass~
+18 0 AC 0
+A 0 0 0 0
+20 3 1000 100 100
+#9503
+morning star morningstar~
+a morningstar~
+A small spiked metal ball connected to a rod by links of chain lies here.~
+~
+iron~
+5 0 ANP 0
+BC A ABC ABCD 0
+10 5 500 100 100
+#9504
+awl pike awl-pike~
+an awl-pike~
+An awl pike lies here.~
+~
+iron~
+5 0 AN 0
+AB A ABC ABD 0
+10 3 500 100 100
+#9505
+bardiche~
+a bardiche~
+A bardiche lies here.~
+~
+steel~
+5 0 AN 0
+D A ABC AB 0
+10 4 500 100 100
+#9506
+bec corbin~
+a bec de corbine~
+A bec de corbine lies here.~
+~
+steel~
+5 0 AN 0
+D A ABC AB 0
+10 3 500 100 100
+#9507
+bill guisarme~
+a bill-guisarme~
+A bill-guisarme lies here.~
+~
+iron~
+5 0 AN 0
+D A ABC AB 0
+10 3 500 100 100
+#9508
+fauchard~
+a fauchard~
+A fauchard lies here.~
+~
+iron~
+5 0 AN 0
+D A ABC BC 0
+10 3 500 100 100
+#9509
+glaive~
+a glaive~
+A glaive lies here.~
+~
+steel~
+5 0 AN 0
+D A ABC CD 0
+10 3 500 100 100
+#9510
+guisarme~
+a guisarme~
+A guisarme lies here.~
+~
+steel~
+5 0 AN 0
+D A ABC C 0
+10 4 500 100 100
+#9511
+sickle~
+a sickle~
+A sickle lies here.~
+~
+iron~
+5 0 AN 0
+A A ABC AB 0
+10 1 500 100 100
+#9512
+bastard two sword~
+a two-handed bastard sword~
+A two handed bastard sword lies here.~
+~
+bronze~
+5 0 AN 0
+A A ABC ABCD F
+10 16 500 100 100
+#9513
+scimitar~
+a scimitar~
+A scimitar lies here.~
+~
+iron~
+5 0 AN 0
+A A ABC AB 0
+10 10 500 100 100
+#9514
+rapier~
+a rapier~
+A rapier lies here.~
+~
+steel~
+5 0 AN 0
+A A ABC AB 0
+10 10 500 100 100
+#9515
+banded mail~
+a suit of banded mail~
+A suit of banded mail lies here.~
+~
+bronze~
+9 0 AD 0
+D D D AC 0
+25 25 1250 100 100
+#9516
+brigandine~
+a suit of brigandine~
+A suit of brigandine lies here.~
+~
+bronze~
+9 0 AD 0
+AC AC AC B 0
+10 20 500 100 100
+#9517
+field plate~
+a suit of field plate~
+A suit of field plate lies here.~
+~
+steel~
+9 FGIKL AD 0
+AC AC AC B 0
+10 28 500 100 100
+#9518
+ringmail ring mail~
+a suit of ringmail~
+A suit of ringmail lies here.~
+~
+bronze~
+9 0 AD 0
+AC AC AC B 0
+10 36 -1100 100 100
+A
+12 -20
+#9519
+splintmail splint mail~
+a suit of splintmail~
+A suit of splintmail armor lies here.~
+~
+bronze~
+9 0 AD 0
+AC AC AC B 0
+10 45 -300 100 100
+A
+12 -10
+#9520
+wooden shield~
+a wooden shield~
+A wooden shield lies here~
+~
+wood~
+9 0 AJ 0
+AC AC AC B 0
+10 1 500 100 100
+#9521
+splinted shield~
+a splinted shield~
+A splinted shield lies here.~
+~
+bronze~
+9 0 AJ 0
+AC AC AC B 0
+10 8 500 100 100
+#9522
+buckler shield~
+a buckler~
+A buckler lies here.~
+~
+wood~
+9 0 AJ 0
+AC AC AC B 0
+10 6 500 100 100
+#9523
+jacket leather~
+a leather jacket~
+A leather jacket lies here.~
+~
+leather~
+9 0 AD 0
+AC AC AC B 0
+10 6 500 100 100
+#9524
+sleeves leather~
+a pair of leather sleeves~
+A pair of leather sleeves lies here.~
+~
+leather~
+9 0 AI 0
+AC AC AC B 0
+10 2 500 100 100
+#9525
+cap leather~
+a leather cap~
+A leather cap lies here~
+~
+leather~
+9 0 AE 0
+AC AC AC B 0
+10 2 500 100 100
+#9526
+leather pants~
+a pair of leather pants~
+A pair of leather pants lies here.~
+~
+leather~
+9 0 AF 0
+AC AC AC B 0
+10 2 500 100 100
+#9527
+leather gloves~
+a pair of leather gloves~
+A pair of leather gloves lies here.~
+~
+leather~
+9 0 AH 0
+AC AC AC B 0
+10 2 500 100 100
+#9528
+padded leather boots~
+a pair of padded leather boots~
+A pair of padded leather boots lies here.~
+~
+leather~
+9 0 AG 0
+AC AC AC B 0
+10 2 500 100 100
+#9529
+studded leather jacket~
+a studded leather jacket~
+A studded leather jacket lies here.~
+~
+leather~
+9 0 AD 0
+AC AC AC B 0
+10 10 500 100 100
+#9530
+studded leather sleeves~
+a pair of studded leather sleeves~
+A pair of studded leather sleeves lies here.~
+~
+leather~
+9 0 AI 0
+AC AC AC B 0
+10 3 500 100 100
+#9531
+studded leather pants~
+a pair of studded leather pants~
+A pair of studded leather pants lies here.~
+~
+leather~
+9 0 AF 0
+AC AC AC B 0
+10 3 500 100 100
+#9532
+studded leather gloves~
+a pair of studded leather gloves~
+A pair of studded leather gloves lies here.~
+~
+leather~
+9 0 AH 0
+AC AC AC B 0
+10 3 500 100 100
+#9533
+leather shield~
+a leather shield~
+A leather shield lies here.~
+~
+leather~
+9 0 AJ 0
+AC AC AC B 0
+10 3 500 100 100
+#9534
+sack~
+a sack~
+A sack lies here~
+~
+cloth~
+15 0 AO 0
+BEF 0 0 0 0
+1 1 50 100 100
+#9535
+oil lamp oillamp~
+an oil lamp~
+An oil lamp lies here~
+~
+glass~
+1 0 A 0
+0 0 48 0 0
+0 1 0 100 100
+#9536
+backpack back pack~
+a backpack~
+A backpack lies here~
+~
+cloth~
+15 0 AK 0
+ABDG A 0 0 0
+0 8 0 100 100
+#9537
+basket~
+a basket~
+A basket lies here.~
+~
+paper~
+15 0 A 0
+BEF 0 0 0 0
+0 4 0 100 100
+#9538
+belt pouch~
+a belt pouch~
+A belt pouch lies here~
+~
+cloth~
+15 0 AL 0
+ADE 0 0 0 0
+0 3 0 100 100
+#9539
+candle~
+a candle~
+A candle lies here~
+~
+unique~
+1 0 AO 0
+0 0 50 0 0
+0 1 0 100 100
+#9540
+cheese~
+a hunk of cheese~
+A hunk of cheese lies here.~
+~
+food~
+19 0 A 0
+AC 0 0 0 0
+0 1 0 100 100
+#9541
+bread~
+a bread~
+A bread lies here.~
+~
+food~
+19 0 A 0
+AB 0 0 0 0
+0 1 0 100 100
+#9542
+dry rations~
+some dry rations~
+Some dry rations lie here.~
+~
+food~
+19 0 A 0
+CE 0 0 0 0
+0 2 0 100 100
+#9543
+iron rations~
+some iron rations~
+A tin of iron rations lies here.~
+~
+food~
+19 0 A 0
+ADE 0 0 0 0
+0 3 0 100 100
+#9545
+nuts~
+some nuts~
+Some nuts lies scatterd on the ground.~
+~
+food~
+19 0 A 0
+A 0 0 0 0
+0 1 0 100 100
+#9546
+belt~
+a belt~
+A nicely made belt lies here.~
+~
+leather~
+11 0 AM 0
+0 0 0 0 0
+0 2 0 100 100
+#9547
+hiking boots~
+a pair of hiking boots~
+A nicely made pair of boots lies here.~
+~
+leather~
+11 0 AG 0
+0 0 0 0 0
+0 3 0 100 100
+#9548
+fur cloak~
+a fur cloak~
+A nicely made fur cloak lies here.~
+~
+unique~
+11 0 AK 0
+0 0 0 0 0
+0 2 0 100 100
+#9549
+girdle~
+a girdle~
+A nicely made girdle lies here.~
+~
+leather~
+11 0 AL 0
+0 0 0 0 0
+0 1 0 100 100
+#9550
+hose~
+a pair of hose~
+A nicely made pair of hose lie here.~
+~
+cloth~
+11 0 AF 0
+0 0 0 0 0
+0 1 0 100 100
+#9551
+common robe~
+a common robe~
+A nicely made robe of common cloth lies here.~
+~
+cloth~
+11 0 AD 0
+0 0 0 0 0
+0 2 0 100 100
+#9552
+embroiderd robe~
+an embroiderd robe~
+A nicely made robe of embroiderd cloth lies here.~
+~
+cloth~
+11 0 ADK 0
+0 0 0 0 0
+0 2 0 100 100
+#9553
+sandles~
+a pair of sandles~
+A nicely made pair of sandles lies here.~
+~
+leather~
+11 0 AG 0
+0 0 0 0 0
+0 1 0 100 100
+#9554
+sash~
+a sash~
+A nicely made sash lies here.~
+~
+cloth~
+11 0 AL 0
+0 0 0 0 0
+0 1 0 100 100
+#9555
+silk jacket~
+a silk jacket~
+A nicely made silk jacket lies here.~
+~
+unknown~
+11 0 AK 0
+0 0 0 0 0
+0 1 0 100 100
+#9556
+egg~
+an egg~
+An egg lies here.~
+~
+food~
+19 0 A 0
+B 0 0 0 0
+0 1 0 100 100
+#9557
+carrot~
+a carrot~
+A carrot lies here.~
+~
+food~
+19 0 A 0
+AB 0 0 0 0
+0 1 0 100 100
+#9558
+tomato~
+a tomato~
+A tomato lies here.~
+~
+food~
+19 0 A 0
+B 0 0 0 0
+0 1 0 100 100
+#9559
+fig~
+a fig~
+A fig lies here.~
+~
+food~
+19 0 A 0
+A 0 0 0 0
+0 1 0 100 100
+#9560
+dates~
+some dates~
+A bunch of dates lies here.~
+~
+food~
+19 0 A 0
+B 0 0 0 0
+0 1 0 100 100
+#9561
+leg lamb~
+a leg of lamb~
+A leg of land lies here.~
+~
+food~
+19 0 A 0
+BD 0 0 0 0
+0 2 0 100 100
+#9562
+side beef~
+a side of beef~
+A side of beef lies here.~
+~
+food~
+19 0 A 0
+ABCD 0 0 0 0
+0 5 0 100 100
+#9563
+whole chicken~
+a whole chicken~
+A whole skinned chicken lies here.~
+~
+food~
+19 0 A 0
+CD 0 0 0 0
+0 3 0 100 100
+#9564
+herring salted~
+a salted herring~
+A salted herring lies here.~
+~
+food~
+19 0 A 0
+D 0 0 0 0
+23 1 1150 100 100
+#9565
+mussel~
+a mussel~
+A mussel lies here.~
+~
+food~
+19 0 A 0
+C 0 0 0 0
+23 1 1150 100 100
+#9567
+liquor glass blue oasis~
+a glass of blue oasis~
+A glass of blue alcohol rests here.~
+~
+glass~
+17 0 A 0
+AC AC AC 0 0
+0 1 0 100 100
+#9568
+wine glass~
+a glass of wine~
+A glass rests here.~
+~
+glass~
+17 0 A 0
+AB AB B 0 0
+0 1 0 100 100
+#9569
+bottle grog~
+a bottle of grog~
+A bottle lies here.~
+~
+glass~
+17 0 A 0
+AC AC AB 0 0
+0 1 0 100 100
+#9570
+glowing vial blue~
+a glowing blue vial~
+A glowing blue vial lies here.~
+~
+glass~
+10 AG AO 0
+12 38 0 0 0
+5 1 250 100 100
+#9571
+potion green~
+a deep-green potion~
+A deep-green potion lies here.~
+~
+glass~
+10 G AO 0
+10 66 4 0 0
+5 1 250 100 100
+#9572
+potion crystal clear~
+a crystal clear potion~
+A crystal clear potion lies here.~
+~
+glass~
+10 G AO 0
+10 19 0 0 0
+5 1 250 100 100
+#9573
+white potion~
+an off white potion~
+An off white potion lies here.~
+~
+glass~
+10 G AO 0
+15 0 0 0 0
+0 1 0 100 100
+#9574
+potion dark blue~
+a dark blue potion~
+A dark blue potion lies here.~
+~
+glass~
+10 G AO 0
+10 18 81 0 0
+5 1 250 100 100
+#9575
+beer bottle scorpion flaming~
+a flaming scorpion~
+A bottle of strong beer lies here.~
+~
+glass~
+17 0 A 0
+AC AC A 0 0
+0 1 0 100 100
+#9576
+barrel beer~
+a barrel of beer~
+A barrel of beer lies here.~
+~
+glass~
+17 0 A 0
+BD BD A 0 0
+0 5 0 100 100
+#9577
+whisky shot~
+a shot~
+A shot of strong liquor lies here.~
+~
+glass~
+17 0 A 0
+A A AC 0 0
+0 1 0 100 100
+#9578
+scroll recall~
+a scroll of recall~
+A scroll of recall lies here.~
+~
+vellum~
+2 G AO 0
+12 42 0 0 0
+10 4 500 100 100
+#9579
+wand call lightning~
+a grey-silver wand~
+A grey-silver wand lies here.~
+~
+vellum~
+3 AG AO 0
+ABCD AB AB 6 0
+15 1 750 100 100
+E
+wand~
+You see a small engraved storm cloud at the base of this wand.
+~
+#9580
+wand detect invis~
+a wand of glinting yellow~
+A wand of glinting yellow lies here.~
+~
+wood~
+3 G AO 0
+A ABCD ABCD 19 0
+0 1 0 100 100
+E
+wand~
+You see a shape slowly fading into exsistance at the base of this wand.
+~
+#9581
+wand armor~
+a wand of oak~
+A wand of oak lies here.~
+~
+wood~
+3 G AO 0
+AC BD BD 1 0
+15 1 750 100 100
+#9582
+wand faerie fire~
+a pink wand~
+A pink wand lies here~
+~
+unique~
+3 G AO 0
+AB AB AB 72 0
+15 1 750 100 100
+#9583
+sewing shears~
+a pair of sewing shears~
+A pair of sewing shears lies here.~
+~
+iron~
+5 0 AN 0
+B A ABC E 0
+10 2 500 100 100
+#9584
+meat cleaver~
+a meat cleaver~
+A meat cleaver lies here~
+~
+steel~
+5 KL AN 0
+B A ABC AD 0
+10 5 500 100 100
+#9585
+fountain pen~
+a fountain pen~
+A fountain pen lies here.~
+~
+unknown~
+5 B AN 0
+B B AD E 0
+15 1 750 100 100
+#9586
+sledge hammer~
+a sledge hammer~
+A sledge hammer lies here.~
+~
+iron~
+5 0 AN 0
+C A ABC ABC 0
+11 24 550 100 100
+#9587
+horse shoe~
+a horse shoe~
+A horse shoe lies here.~
+~
+iron~
+9 BG AC 0
+AC AC AC B 0
+10 2 1300 100 100
+A
+18 1
+#9588
+saddle~
+a saddle~
+A saddle lies here.~
+~
+leather~
+12 0 A 0
+0 0 0 0 0
+0 4 0 100 100
+#9589
+crop riding~
+a riding crop~
+A riding crop lies here.~
+~
+leather~
+5 0 AN 0
+ABC A ABC B 0
+10 1 500 100 100
+#9590
+chessboard~
+a chessboard~
+A heavy marble chessboard lies here.~
+~
+stone~
+5 0 AN 0
+0 A AC BC 0
+3 10 150 100 100
+#9591
+sesame seed~
+a sesame seed~
+A sesame seed lies here.~
+~
+food~
+18 0 AO 0
+0 0 0 0 0
+0 3 0 100 100
+#9592
+something~
+something~
+Something lies here.~
+~
+unique~
+5 0 AN 0
+0 A ABC ABCDEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+0 1 0 100 100
+#9593
+key~
+the jail key~
+The key to the jail lies here.~
+~
+brass~
+18 0 AO 0
+0 0 0 0 0
+18 3 900 100 100
+#9594
+key~
+the dungeon key~
+The dungeon key lies here.~
+~
+iron~
+18 0 AO 0
+0 0 0 0 0
+0 3 0 100 100
+#9595
+shirt tie dye~
+a tie-dye shirt~
+A multi-colored shirt lies here.~
+~
+cloth~
+9 G AD 0
+AB AB AB 0 0
+0 1 0 100 100
+#9596
+bugle boy jeans~
+a pair of Bugle Boy jeans~
+A pair of jeans lie here.~
+~
+cloth~
+9 G AF 0
+AB AB AB 0 0
+0 1 0 100 100
+#9597
+sneakers reeboks reebok pumps~
+a pair of Reebok Pumps~
+A pair of nifty sneakers lie here.~
+~
+cloth~
+9 G AG 0
+AB AB AB 0 0
+0 1 0 100 100
+A
+14 10
+A
+2 1
+#9598
+daemon claw~
+the Daemon Claw~
+A glove with blades mounted on it lies here~
+~
+bone~
+5 B AN 0
+0 A BC AC 0
+6 20 -1300 100 100
+A
+18 -2
+#9599
+wolverine claw~
+the wolverine claw~
+A claw from some animal lies here.~
+~
+bone~
+5 B AN 0
+0 A D AC 0
+12 20 600 100 100
+#9600
+halberd~
+the halberd~
+A mighty halberd lies against the wall.~
+~
+steel~
+5 GI AN 0
+D B ACD AB 0
+25 16 4450 100 100
+A
+19 2
+A
+18 2
+#9601
+fountain water~
+a fountain~
+A large fountain is here gurgling out an endless stream of water.~
+~
+stone~
+17 GQ 0 0
+FHJKPQ FHJKPQ 0 0 0
+23 5000 1150 100 100
+#0
+
+
+

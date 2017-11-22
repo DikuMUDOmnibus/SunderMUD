@@ -1,0 +1,23 @@
+Greed 0.99.14 Intermud-3
+------------------------
+
+[*ponder* Is Greed some kind of Frankenstein of a bunch of different codebases?]
+
+In the merc.h install, use the Smaug instructions.
+
+In the comm.c install:
+Add the act_string section to the act() function instead.
+
+In the save.c install, follow the instructions for save.c in envyi3.txt
+
+In i3cfg.h, in the #ifdef I3UENVY section:
+
+Find:
+   #define CH_RANK(ch)		  (title_table[(ch)->class][(ch)->level][(ch)->sex == SEX_FEMALE ? 1 : 0])
+Change to:
+   #define CH_RANK(ch)          ((ch)->cclass[0]->title[(ch)->level][(ch)->sex == SEX_FEMALE ? 1 : 0])
+
+Find:
+   #define WIZINVIS(ch)         (IS_IMMORTAL((ch)) && IS_SET((ch)->act, PLR_WIZINVIS))
+Change to:
+   #define WIZINVIS(ch)		  (IS_IMMORTAL((ch)) && xIS_SET((ch)->act, PLR_WIZINVIS))

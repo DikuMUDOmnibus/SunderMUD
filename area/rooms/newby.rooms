@@ -1,0 +1,448 @@
+#1000
+The Staircase~
+The staircase descends from the City Common Room to a landing in the
+basement of the building.  The staircase itself is ornately carved and made
+of dark rich woods, and the floor of the landing is made of the same rich
+woods.  A large gold door stands to the south.  A magical aura blocks any
+but the young from passing through these doors.  A {Ysign{w graces the
+doors.  
+~
+~
+1300 0
+E
+sign~
+Welcome to the School of Lukhan.  Here, new players can find out how to
+handle the basics of mud life, and experienced players have a chance to give
+their new characters a quick start into the world.  Only those level 5 and
+below may venture into the school.  
+~
+D2
+~
+~
+0 0 1001
+D4
+~
+~
+0 0 2093
+S
+#1001
+A small classroom~
+This is a rather small classroom.  Funding has apparently been short for
+schooling of new citizens, however there appears to be sufficient room for
+your basic schooling.  The walls are covered with instructions, which the
+instructor advices you to read.  
+You see posters with the following names:
+{WSKILLS{w, {WMAGIC{w, {WLEVELS{w, {WFIGHTING{w,
+{WRECALL{w.
+The instructor tells you that you may read any of these posters using
+the {Wlook{w command and the name of the poster. Try "look skills".
+The door leading out of the school has disappeared! Perhaps you need
+to find a different way to return to your hometown.
+ 
+There are, however, several other doors you may wish to try leading
+away from the classroom.
+~
+This is the main entry to newbie school, don't like it back to any hometowns
+or it will become a path between them.
+~
+132372 0
+E
+levels~
+On this mud, there are 100 mortal levels.  While many muds offer more, we
+feel that this amount helps maintain game balance much more effectively. 
+Don't worry - You won't run out of levels very soon, and it takes some time
+to gain in levels.  Your character advances in power by gaining experience. 
+The number of experience points you need will vary based on which class and
+race you have chosen.  {/ You can gain experience through many activities on
+the mud, but the primary source is by combat skills.  In some cases
+experience may be awarded to an individual for good roleplaying effort.  {/
+After you reach level 25, you have the chance to lose a level when you die. 
+Read "{Whelp death{w" for more information on this.  
+~
+E
+magic~
+Some classes on SunderMud ][ have spellcasting ability.  Unlike many
+muds, however, this ability is limited to true spellcasters and priests
+only, and is not given to the likes of warriors and thieves.  Your spells
+all are part of your character's skill package, and consist of those
+designed for offense, defense, healing and just general uses with which to
+amaze the general population.  
+ 
+As with skills, spells too need to be practiced. This works in the exact
+same way as which you have already learned to practice your skills, so you
+should by now be familiar with how to do this.
+ 
+You will discover that some spells cannot be cast at some times, and 
+on some targets. This is because they are designed for specific purposes,
+and in many cases the magical verbal and somatic components will not allow
+the spell to work at all outside its intended purpose. 
+ 
+Unlike skills, all spells must be preceeded by the "{Wcast{w" command. This
+begins the sequence of events causing the spell to be cast. In most cases
+the spell will be cast right away, with a small delay afterward. You may 
+need to use the magic symbols ' ' around the name of the spell. The target
+goes after this. If the spell name is one word, you do not need quote marks.
+ 
+You will notice that when you cast a spell, such as armor, that your
+mana will change. All spells cost {Wmana{w, and without this your spell-
+caster is a sitting duck. Always watch to make sure you have enough to
+cast the spells you need before engaging in combat. You can see how much
+mana each spell will cost you with the "spells" command. The amount of
+mana will change as you level, hopefully for the better.
+ 
+When you cast an offensive spell on someone, that victim gets what is
+called a "saving throw" and therefore there is a chance that your spell
+will not succeed even if your character is perfectly skilled with it.
+ 
+Magic is very powerful on SunderMud ][, and it is recommended that you
+familiarize yourself with all the spells within your grasp.
+ 
+~
+E
+recall~
+Please take this time to read "{Whelp recall{w".
+ 
+Okay, once you've read that look at this sign again and read the rest
+of this.
+You may have noticed on help recall, that recall fizzles out after level
+10. This is for a reason. Certain classes get transportation spells. That
+is a benefit for being in that class. Those who don't get that benefit
+have other benefits, therefore need to learn to walk. There will be ways
+in the game for you to ease your transportation burdens, but free recall
+is not going to be one of them.
+ 
+Now, until you are level 10 and have the chance to learn your way around
+this land, you have it. In fact, that is how you need to get out of
+this room. If you didn't read this far and asked on a chat channel how
+to get out of the classroom, then shame on you!
+~
+E
+skills~
+Your character has many skills, and if you are a magic user, spells.
+These represent the specialised tasks your character has the ability
+to perform with the realm of this game. As you advance in levels, your
+skills will increase in power, and you will gain more skills.
+ 
+To see the skills you currently have, type {Wskills{w and then hit
+enter. This list will show you only those skills you currently know
+how to perform. To the right of each skills is listed a percentage.
+This number represents your ability to perform this skill. For some
+skills, this simply determines whether or not your attempt at the
+skill was successful. For others, this percentage determines your 
+degree of success. It is up to you to figure out which applies for
+each skill.
+ 
+When you start playing, you are given {Wpractices{w. These are 
+points that represent time your character has to dedicate to learning
+a new skill (raising one from 0% indicates you have learned a skill)
+or very importantly, improving skills he/she can already use.
+ 
+To see how many practices you have, and all the skills AND spells
+which you are currently able to practice, type {Wpractice{w and hit
+enter. You will notice that this list is very similar to the skills
+list. Indeed, the only difference is it includes spells also, since
+they can be practiced in the same way. To practice a skill or spell,
+simpy type practice along with the name of the skill. Example:
+Typing {Wpractice fast healing{w would practice that skill if your
+character has it. Skills cannot be practiced all the way to 100%
+without some effort, and it is usually not worth it. The better
+way to practice them, is to improve them through usage. The mud will
+notify you when a skill has increased.
+ 
+Good Luck with your newfound skills!
+~
+E
+fighting~
+Fighting is a large part of the adventurer's life, and is the main
+source of the experience points you will need to level.
+ 
+The mud does most of the actual sword swinging for you, but do not
+think that makes it easy. You will need to be careful out in the world.
+ 
+You will need to find a good opponent first. Simply running up to anyone
+and trying to kill them will not be very effective, and you'll likely
+die.
+ 
+The first command you need to know is "consider". When you see someone
+you would like to fight, you need to "consider" the fight first.
+ 
+This tells you the chances you have against that opponent. The messages
+my be somewhat "cryptic" but generally should give you a clue of your
+chances. To do that simply type {Wconsider <target>{w where <target> is
+the name of the potential opponent.
+ 
+Once you have deemed an opponent worthy of your attention, you would
+then simply use the "kill" command in most cases to start combat. Again
+the syntax for this is {Wkill <target>{w. Very simple. For those who
+have chosen PKill (this is not a requirement of this mud) you would
+be safe from killing players in this manner by mistake, because to kill
+a player requires use of the {Wmurder{w command. Those who have not 
+chosen pkill will be told if they have tried to target a player by mistake,
+and there are no penalties for that. You can't accidentally kill a
+player on the mud.
+ 
+Once combat has begun, you my use certain skills depending upon your 
+class. See the sign for {Wmagic{w on how to use spells against your
+opponents. Skills such as {Wkick{w for warrior are activated simply
+by typing their names.
+ 
+Once you have begun combat, there are several possible outcomes.
+You may defeat your opponent, if you are strong enough, in which 
+case you gain experience, a new kill to your list, and possibly
+an increase (or decrease) in your Mob Rating.
+ 
+However, if the fight goes badly, you may wish to consider 
+{Wflee{w as an alternative to your own death. This command will
+simply attempt, not always successfully, to run away from the
+battle you are in.
+~
+D2
+~
+~
+1 -1 1006
+D3
+An oaken door labeled "Basic Training."
+~
+~
+1 -1 1002
+S
+#1002
+Hallway~
+This hallway is panelled in dark panelling, and has seen many years' use
+but has obiously been maintained well.  It is a short hallway, and there are
+doors to all directions, and the passage back east to the classroom.  The
+smell of sweat permeates the air here though, from the decades of students
+practicing their combat arts here.  Each door has a sign on it.  (Hint: look
+in the direction of each door to see the signs.)  
+~
+~
+132380 0
+D0
+Beyond this door you can find masterfully created illusions which
+simulate the kinds of challenges you might face in the future.  Be careful,
+an illusion can hurt you as bad as a real opponent if you are not careful.  
+~
+~
+1 -1 1005
+D1
+~
+~
+1 -1 1001
+D2
+Beyond this door you can find masterfully created illusions which
+simulate the kinds of challenges you may face in the future.  Be careful,
+these illusions have power over you if you let them.  
+~
+~
+1 -1 1003
+D3
+~
+~
+1 -1 1004
+S
+#1003
+The Room of Illusions~
+This is a bare room, designed solely for one on one combat.  The floor is
+padded for excellent traction in combat, and a small box in the corner
+contains the magic which keeps the illusions operating.  After each battle,
+it takes some time for the magic to regenerate another set of opponents. 
+These opponents are recommended for characters who find themselves motivated
+to fight for their own gain.  
+~
+~
+131352 0
+D0
+~
+~
+1 -1 1002
+S
+#1004
+The Room of Greater Illusions~
+This is a bare room, designed solely for one on one combat.  The floor
+is padded for excellent traction in combat, and a small box in the corner
+contains the magic which keeps the illusions operating.  After each battle,
+it takes some time for the magic to regenerate another set of opponents. 
+This room appears somewhat different from the other two rooms.  The floor
+here, while padded, has tears and scrapes from more serious training.  In a
+few places you can see blood that has been spilled be students who did not
+learn quickly enough.  
+~
+~
+131352 0
+D1
+~
+~
+1 -1 1002
+S
+#1005
+The Room of Illusions~
+This is a bare room, designed solely for one on one combat.  The floor is
+padded for excellent traction in combat, and a small box in the corner
+contains the magic which keeps the illusions operating.  After each battle,
+it takes some time for the magic to regenerate another set of opponents. 
+These opponents are recommended for characters who find themselves motivated
+to fight for the cause of righteousness.  
+~
+~
+131352 0
+D2
+~
+~
+1 -1 1002
+S
+#1006
+A long hallway~
+A very simple hallway, paneled in a slightly outdated style.  To both
+sides of the hallway are combat chambers with magically constructed
+opponents who represent the type you may have to fight in your adventuring
+career.  
+~
+~
+131344 0
+D0
+~
+~
+1 -1 1001
+D1
+~
+~
+0 0 1010
+D2
+~
+~
+0 0 1007
+D3
+~
+~
+0 0 1009
+S
+#1007
+A long hallway~
+A very simple hallway, paneled in a slightly outdated style.  To both
+sides of the hallway are combat chambers with magically constructed
+opponents who represent the type you may have to fight in your adventuring
+career.  
+~
+~
+131344 0
+D0
+~
+~
+0 0 1006
+D1
+~
+~
+0 0 1012
+D2
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 1011
+S
+#1008
+End of the hallway~
+A very simple hallway, paneled in a slightly outdated style.  To both
+sides of the hallway are combat chambers with magically constructed
+opponents who represent the type you may have to fight in your adventuring
+career.  
+~
+~
+131344 0
+D0
+~
+~
+0 0 1007
+D1
+~
+~
+0 0 1014
+D3
+~
+~
+0 0 1013
+S
+#1009
+Combat Chamber~
+A sparse room, with hardwood floors and tiled walls, designed for intense
+training of new combatants.  Harsh light emenates from a magical globe near
+the ceiling.  
+~
+~
+131344 0
+D1
+~
+~
+0 0 1006
+S
+#1010
+Combat Chamber~
+A sparse room, with hardwood floors and tiled walls, designed for intense
+training of new combatants.  Harsh light emenates from a magical globe near
+the ceiling.  
+~
+~
+131344 0
+D3
+~
+~
+0 0 1006
+S
+#1011
+Combat Chamber~
+A sparse room, with hardwood floors and tiled walls, designed for intense
+training of new combatants.  Harsh light emenates from a magical globe near
+the ceiling.  
+~
+~
+131344 0
+D1
+~
+~
+0 0 1007
+S
+#1012
+Combat Chamber~
+A sparse room, with hardwood floors and tiled walls, designed for intense
+training of new combatants.  Harsh light emenates from a magical globe near
+the ceiling.  
+~
+~
+131344 0
+D3
+~
+~
+0 0 1007
+S
+#1013
+Combat Chamber~
+A sparse room, with hardwood floors and tiled walls, designed for intense
+training of new combatants.  Harsh light emenates from a magical globe near
+the ceiling.  
+~
+~
+131344 0
+D1
+~
+~
+0 0 1008
+S
+#1014
+Combat Chamber~
+A sparse room, with hardwood floors and tiled walls, designed for intense
+training of new combatants.  Harsh light emenates from a magical globe near
+the ceiling.  
+~
+~
+131344 0
+D3
+~
+~
+0 0 1008
+S
+#0
+
+
+

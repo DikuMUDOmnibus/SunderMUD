@@ -1,0 +1,28 @@
+process flow to create a random mob:
+
+>Choose type: * done * 
+
+    >monster *done*
+        > Choose Monster Race *done* 
+	    > Set MOB name based on Monster Race. *done*
+    >person *done* 
+        > Choose PC Race *done*
+    	> Choose an ACT_CLASS (mage, etc.) *done*
+	    >Set a name based on race / class. *done*
+> Choose Level *done*
+    > 2 OFFENSE flags per 10 levels. *done*
+    > Choose 1 AFFECTED BY per 10 levels. *delayed* 
+    > Choose 1 RESIST per 10 levels. *delayed* 
+    > Choose 1 VULN per 10 levels. *delayed*
+    > Hitroll per 10 levels. *done*
+    > Run default code. *done*
+> Choose Alignment *done* 
+> Choose Sex *done*
+> Choose a spec_ function. *done* 
+> Set immunity to summon. *done*
+/* do below later */
+    >if person was chosen before (now that level is chosen) 
+	> equip with 1 random weapon, 2 random magic.
+> Place in an area not marked private, safe, rentable or pkill.
+    >if person: any outdoor
+    >if mob: any outdoor or underground EXCEPT city.

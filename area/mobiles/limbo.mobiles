@@ -1,0 +1,42 @@
+#1
+Puff~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+You see a fantastic, vaguely draconian-shaped mathematical pattern.  
+Even as you watch, though, the form reiterates itself in finer detail--
+with each passing moment, the shape becomes more complex and interesting.
+Almost, almost, you can discern the pattern...
+
+For all her fabulous appearance, though, Puff seems quite... addled.  As 
+the definition of her eyes increases, you realize that the Fractal Dragon 
+is obviously not paying much attention to the mortal world; she seems lost 
+in strange contemplations.
+
+~
+~
+unique~
+Ab 0 0 0
+1000 26 5 5d10+550 26d5+100 2d11+0 32
+MNZ AB CD 0
+8 8 2 500
+DHZ ACDEFHJKPQUVX 2 unknown
+#2
+zombie~
+a zombie~
+A zombie is here, slaving away for its master.
+~
+This zombie has a blank look on its face.  Rest assured, it wouldn't stir if
+you held a knife to its throat.
+~
+~
+human~
+ABT 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 7
+EFNU 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

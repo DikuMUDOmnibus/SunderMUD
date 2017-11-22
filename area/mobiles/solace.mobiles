@@ -1,0 +1,779 @@
+#10201
+captain guard~
+Captain of the Guard~
+The Captain of the Guard is here.
+~
+The Captain of the Guard is an older but very powerful man. His obsidian
+armor seems to glow faintly. The crest of the town of Solace is displayed
+with pride on his chestplate. The gold crest of two coins seems to match
+the wealth of this town.
+~
+~
+human~
+ABT 0 EFH C
+900 80 0 1d80+8000 1d1+99 6d28+0 0
+CFHIKN 0 0 0
+8 8 1 900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10202
+lieutenant commander~
+Lieutenant Commander~
+The Lieutenant Commander is here.
+~
+The Lieutenant seems like a happy fellow. Although he seems to have
+the brain of a 7 year old. His steel armor is covered with finger paint.
+Dispite his mental problems he is quite a challenge. If you would like
+to test his abilities go right ahead. He looks as if he is quite an easy
+fight.
+~
+~
+human~
+ABGT 0 EH C
+800 77 0 1d77+7700 1d1+99 6d27+0 0
+CDFHKN 0 0 0
+8 8 1 810
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10203
+Sergeant Arms~
+Sergeant at Arms~
+The Sergeant at Arms is here polishing his armor.
+
+~
+This is the tough and burly Sergeant at Arms. He wears the red armor of
+war. He is a middle age man with graying hair that pokes out from under
+his helmet. He is always waiting for a fight.
+~
+~
+human~
+ABG 0 E C
+400 74 0 1d74+7400 1d1+99 5d26+0 0
+CEGKN 0 0 0
+8 8 1 600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10204
+townguard guard~
+Townguard~
+A townguard stands here.
+~
+A big strong townguard of Solace.
+
+~
+~
+human~
+ABG 0 0 0
+1000 60 0 1d60+4800 1d1+99 5d21+0 0
+FHKLNT 0 0 0
+8 8 1 700
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10205
+townguard guard agg~
+Townguard~
+A townguard stands here
+~
+A big strong townguard of Solace.
+
+~
+~
+human~
+ABFG 0 0 0
+1000 60 0 1d60+4800 1d1+99 5d21+0 0
+FHKLNT 0 0 0
+8 8 1 550
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10206
+citizen solace~
+Citizen of Solace~
+A citizen of Solace stands here.
+~
+He is one of the wealthy citizens of Solace.
+~
+~
+human~
+AG 0 0 0
+800 50 0 1d50+4000 1d1+99 4d18+0 0
+FJ 0 0 0
+8 8 1 300
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10207
+woman~
+woman~
+A woman is here.
+~
+She is a beautiful woman.
+~
+~
+human~
+AG 0 0 0
+800 45 0 1d45+3600 1d1+99 4d17+0 0
+GI 0 0 0
+8 8 2 150
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10208
+matt brewmaster~
+Matt the brewmaster~
+Matt the brewmaster is here looking for something to drink.
+~
+~
+~
+human~
+AB 0 0 C
+800 60 0 2d6+1000 1d1+99 5d21+0 0
+0 0 0 0
+8 8 1 800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10209
+baker~
+the Baker~
+The Baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker. But you can see that he has many scars on his
+body.
+~
+~
+human~
+AB 0 0 0
+900 46 0 1d1+30000 1d1+99 4d17+0 0
+0 0 0 0
+8 8 1 700
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10210
+cookie's helper~
+Cookie's Helper~
+Cookie's Helper is here offering you a free cookie sample.
+~
+A young neighborhood girl helps out cookie when she is not around.
+~
+~
+human~
+AB 0 0 0
+900 50 0 1d1+30000 1d1+99 4d18+0 0
+0 0 0 0
+8 8 2 300
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10211
+marilyn~
+Marilyn~
+Marilyn is here selling birds.
+~
+She is a very pretty and loves her birds. Her black hair hangs behind her
+tied in a pony tail.
+~
+~
+human~
+AB 0 0 C
+900 60 0 1d1+30000 1d1+99 5d21+0 0
+0 0 0 0
+8 8 2 450
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10212
+ghost jander~
+Ghost of Jander~
+The Ghost of Jander is here.
+~
+The ghost of Jander is as he was in life. A rather large man with flaming
+red hair. His clothes seems dirty and tattered. His bushy beard obscures
+his stone face.
+~
+~
+human~
+AB TU 0 0
+900 55 0 1d55+4400 1d1+99 4d20+0 0
+F BEMPQR 0 0
+8 8 1 500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10213
+ghost waiter~
+ghost of waiter~
+A ghost of a waiter is here waiting to serve you.
+~
+This is the ghost of a long dead waiter. Probably one of the many that
+Jander killed for spilling a drink or something.
+~
+~
+human~
+AB TU 0 0
+900 55 0 1d55+4400 1d1+99 4d20+0 0
+FH BEMPQR C N
+8 8 1 550
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10214
+ghost barkeep~
+ghost of a barkeeper~
+A ghost of a barkeeper is here waiting an eternity to take your order.
+~
+This is probably another of Jander's victims. Probably got caught with
+his hand in the cash or something.
+~
+~
+human~
+AB 0 0 0
+900 13 0 1d1+999 1d1+99 1d7+0 0
+0 0 0 0
+8 8 2 195
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10215
+townguard guard~
+Townguard~
+A townguard is on patrol.
+~
+A big strong townguard of Solace.
+
+~
+~
+human~
+AGT 0 0 0
+1000 60 0 1d60+4800 1d1+99 5d21+0 0
+CEFHKLNT 0 0 0
+8 8 1 550
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10216
+field rat~
+field rat~
+A field rat is here looking for food.
+~
+A dirty nasty field rat . Obviously looking for food in the town.
+~
+~
+human~
+AG PQ 0 0
+300 50 0 1d50+4000 1d1+99 4d18+0 0
+DFH 0 0 0
+8 8 0 0
+ABHMV ABCDEFGHIJKRSTa 1 unknown
+#10217
+town clerk~
+Town Clerk~
+The Town Clerk is here impatiently waiting for you to pay taxes.
+~
+A stringy rat like individual. He beams at you through his spectacles
+as if he can see the money in your pockets.
+~
+~
+human~
+ABT 0 0 BC
+800 57 0 1d57+4560 1d1+99 4d21+0 0
+DFHKN 0 0 0
+8 8 1 2000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10218
+treasury guards~
+Treasury Guards~
+The Treasury Guards see you trying to rob the Treasury, and ATTACK!
+~
+These are like the biggest and meanest men you've every seen.
+They look more like trolls or ogres than men.
+~
+~
+orc~
+ABF 0 EFHI C
+800 56 0 1d56+4480 1d1+99 4d20+0 0
+CDEFHKLNU A Q S
+8 8 1 5000
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#10219
+Jhen~
+Jhen the farmer~
+Jhen the farmer is here.
+~
+A rather tall man who works hard for his money.
+~
+~
+human~
+ABV 0 0 0
+800 23 0 1d1+999 1d1+99 2d10+0 0
+0 0 0 0
+8 8 1 345
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10220
+Krista~
+Krista the fruit peddler~
+Krista the fruit peddler is here.
+~
+A pretty woman who works hard for her money. Travelling every year
+to the market to sell her fruits.
+~
+~
+human~
+AB 0 0 0
+800 24 0 1d1+999 1d1+99 2d10+0 0
+0 0 0 0
+8 8 2 360
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10221
+Janni~
+Janni~
+Janni is here.
+~
+Janni has spent his whole life making trinkets for people to enjoy.
+~
+~
+human~
+AB 0 0 0
+800 22 0 1d1+999 1d1+99 2d10+0 0
+0 0 0 0
+8 8 1 330
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10222
+Nisi~
+Nisi the grocer~
+Nisi is here.
+~
+Nisi is a very interesting person. It shows in the wares she sells
+~
+~
+human~
+AB 0 0 0
+800 24 0 1d1+999 1d1+99 2d10+0 0
+0 0 0 0
+8 8 2 360
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10223
+Molin~
+Molin the brewer~
+Molin the brewer is here.
+~
+Molin is a grey old man with hair down to his toes.
+~
+~
+human~
+AB 0 0 0
+800 24 0 1d1+999 1d1+99 2d10+0 0
+0 0 0 0
+8 8 1 360
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10224
+Rashan~
+Rashan the farmer~
+Rashan the farmer is here.
+~
+Rashan is a middle aged man who grows his rutabagas by candlelight.
+~
+~
+human~
+AB 0 0 0
+800 21 0 1d1+999 1d1+99 2d9+0 0
+0 0 0 0
+8 8 1 315
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10225
+Lexie~
+Lexie~
+Lexie is here.
+~
+Lexie is an accomplish diver. But he seems to have problems keeping
+students.
+~
+~
+human~
+AB 0 0 0
+800 25 0 1d1+999 1d1+99 2d11+0 0
+0 0 0 0
+8 8 1 375
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10226
+Croben~
+Croben~
+Croben is here.
+~
+Croben is a young man who learned the art of container making from his
+grandfather.
+~
+~
+human~
+AB 0 0 0
+800 25 0 1d1+999 1d1+99 2d11+0 0
+0 0 0 0
+8 8 1 375
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10227
+otik sandath bartender~
+Otik Sandath~
+Otik sandath is here tending the bar
+~
+Otik is an older man with a gift for cooking.
+
+Otik whispers, "A magical staff! I bet it was forged by demons from the
+terrible Darken Wood. There are terrible mysteries in that place, there are."
+~
+~
+human~
+AB 0 0 0
+800 27 0 1d1+999 1d1+99 2d11+0 0
+0 0 0 0
+8 8 1 405
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10228
+tika barmaid~
+Tika the barmaid~
+Tika the barmaid is here delivering drinks and food.
+~
+Curly auburn hair tumbles around Tika's lightly freckled face. Her striking
+green eyes match her low-cut blouse. She is a brash young barmaid who
+looks older than her 19 years. Rough living has hardened her and she
+presents a tough image as protection against her sense of vulnerablility.
+~
+~
+human~
+AB 0 0 0
+800 16 0 1d1+999 1d1+99 2d8+0 0
+0 0 0 0
+8 8 2 240
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10229
+thief cloaked figure~
+Thief~
+A cloaked figure sits here.
+~
+A thin, cloaked figure sits alone at a table near the door, an untouched
+glass of ale before him.
+~
+~
+human~
+ABS 0 0 0
+800 57 0 1d57+4560 1d1+99 4d21+0 0
+BEFHJKN 0 0 0
+8 8 1 510
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10230
+old man~
+old man~
+An old man is here.
+~
+He looks like an old man....go figure..
+~
+~
+human~
+AB 0 0 A
+800 53 0 1d53+4240 1d1+99 4d19+0 0
+FJN 0 0 0
+8 8 1 400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10231
+boy~
+boy~
+A small boy is here.
+~
+He is a small boy lost in his own daydreams.
+
+boy says, "I saw the white stag up near Prayers Eye Peak just a few days
+ago! If only I could catch it. He who walks the paths of the white stag is
+blessed, I hear tell."
+~
+~
+human~
+AB 0 0 A
+800 47 0 1d47+3760 1d1+99 4d17+0 0
+FHIJN 0 0 0
+8 8 1 210
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10232
+brat boy~
+bratty boy~
+A brat is here.
+~
+He looks like a pain in the ass.
+~
+~
+human~
+ABS 0 0 0
+800 50 0 1d50+4000 1d1+99 4d18+0 0
+FIKN 0 0 0
+8 8 1 300
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10233
+Mage~
+mage~
+A mage is here.
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+~
+human~
+ABR T 0 B
+800 54 0 1d54+4320 1d1+99 4d20+0 0
+N 0 C Y
+8 8 1 500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10234
+Thief~
+Thief~
+A thief is here.
+~
+He is the typical elven adventurer. He looks as if he has travelled far.
+~
+~
+elf~
+ABS 0 I 0
+800 52 0 1d54+4320 1d1+99 4d19+0 0
+BFKN 0 B Z
+8 8 1 360
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10235
+Warrior~
+Warrior~
+A warrior is here.
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+~
+human~
+ABT 0 0 0
+800 56 0 1d56+4480 1d1+99 4d20+0 0
+CFKN 0 0 0
+8 8 1 480
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10236
+Cleric~
+Cleric~
+A cleric is here.
+~
+He is the typical adventurer. He looks as if he has travelled far.
+~
+~
+human~
+ABQ 0 0 A
+800 59 0 1d59+4720 1d1+99 4d21+0 0
+EFN 0 N 0
+8 8 1 600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10237
+ghost gambler~
+Ghost of gambler~
+A ghost of a gambler is floating here looking for something to bet on.
+~
+Even in death this sad spirit is looking to gamble.
+~
+~
+human~
+ABQ TU 0 B
+-200 51 0 1d51+4080 1d1+99 4d19+0 0
+FHN BELPQR KM NY
+8 8 0 150
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10238
+child~
+child~
+A child is here eating bugs off the ground.
+~
+~
+~
+human~
+AS 0 0 0
+800 45 0 1d45+3600 1d1+99 4d17+0 0
+0 0 0 0
+8 8 0 150
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10239
+rat~
+rat~
+There is a large rat here.
+~
+~
+~
+human~
+ACG Q 0 0
+-100 45 0 1d45+3600 1d1+99 4d17+0 5
+DFMN 0 0 0
+8 8 0 0
+ABHMV ABCDEFGHIJKRSTa 2 unknown
+#10240
+bat~
+bat~
+There is a large bat here.
+~
+~
+~
+human~
+ABF T FH 0
+100 45 0 1d45+3600 1d1+99 4d17+0 10
+FHK 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10241
+old lady~
+old lady~
+There is an old lady here.
+~
+~
+~
+human~
+ACGQ 0 0 A
+100 48 0 1d48+3840 1d1+99 4d18+0 16
+0 0 0 0
+8 8 2 240
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10242
+tired adventurer~
+tired adventurer~
+There is a tired adventurer resting here.
+~
+~
+~
+human~
+ABT 0 0 0
+100 53 0 1d53+4240 1d1+99 4d19+0 3
+0 0 0 0
+8 8 1 400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10243
+Magnus wizard~
+Magnus wizard~
+Magnus the wizard is resting here from his long journeys.
+~
+~
+~
+human~
+ABR 0 0 0
+100 59 0 1d59+4720 1d1+99 4d21+0 13
+0 0 C 0
+8 8 1 500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10244
+Lord doom warrior~
+Lord Doom~
+Lord Doom is resting here from his long journeys.
+~
+~
+~
+human~
+ABT 0 F 0
+100 58 0 1d58+4640 1d1+99 4d21+0 1
+H 0 0 0
+8 8 1 270
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10245
+foreign trade representative~
+Foreign Trade Representative~
+A foreign trade representative is waiting here to meet with the Captain of the Guard.
+~
+~
+~
+human~
+ABT 0 0 0
+100 54 0 1d54+4320 1d1+99 4d20+0 17
+0 0 0 0
+8 8 1 420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10246
+bodyguard~
+bodyguard~
+There is a bodyguard here.
+~
+~
+~
+human~
+ABT 0 0 0
+100 56 0 1d56+4480 1d1+99 4d20+0 1
+Q 0 0 0
+8 8 1 480
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10247
+Secretary captain~
+Secretary~
+The Captain of the Guard's Secretary is here.
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Captain is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+~
+human~
+ABT 0 0 0
+100 65 0 1d65+6500 1d1+99 5d23+0 13
+0 0 0 0
+8 8 2 750
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10248
+Secretary Lieutenant ~
+Secretary~
+The Lieutenant Commander's Secretary is here.
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Lieutenant is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+~
+human~
+ABT 0 0 0
+100 60 0 1d60+4800 1d1+99 5d21+0 16
+0 0 0 0
+8 8 2 600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10249
+Secretary Sergeant ~
+Secretary~
+The Sergeant at Arm's Secretary is here.
+~
+She looks very busy.
+The Secretary says 'Sorry, but the Sergeant is extremely busy today'.
+The Secretary says 'Please sit down and have a seat in the meantime'.
+~
+~
+human~
+ABQ 0 0 0
+100 55 0 1d55+4400 1d1+99 4d20+0 0
+0 0 0 0
+8 8 2 450
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10250
+Macaw~
+the macaw~
+A large macaw is here.
+~
+The macaw looks like a strong, fearless fighter. It is a beautiful bird.
+~
+~
+unique~
+ACIT T 0 0
+0 35 0 35d35+350 1d1+99 3d14+0 23
+L 0 0 0
+8 8 2 0
+A 0 2 unknown
+#10251
+Raven~
+the raven~
+A large, black raven is here.
+~
+The raven looks like a strong, fearless fighter.
+~
+~
+human~
+ACIT T 0 0
+0 40 0 40d40+400 1d1+99 3d15+0 5
+L 0 0 0
+8 8 0 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10252
+hunting hawk~
+the hunting hawk~
+A large, hunting hawk is here.
+~
+The hawk looks like a strong, fearless fighter. It has been trained for
+hunting game.
+~
+~
+human~
+ACIT T 0 0
+0 45 0 45d45+450 1d1+99 4d17+0 23
+L 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#10253
+Battle falcon~
+the battle falcon~
+A giant, falcon is here.
+~
+The battle falcon looks like a strong, fearless fighter. This giant breed has
+been trained especially for combat.
+~
+~
+human~
+ACIT T 0 0
+0 55 0 55d55+550 1d1+99 4d20+0 5
+L 0 0 0
+8 8 2 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

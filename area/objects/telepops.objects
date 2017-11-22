@@ -1,0 +1,70 @@
+#124000
+tarnished gold lantern~
+A tarnished gold lantern~
+A slightly tarnished lantern, apparently made of gold, is here.~
+~
+gold~
+1 A AO 0
+0 0 85 0 0
+10 3 2100 90 75
+A
+19 2
+#124001
+fine sword~
+a fine sword~
+A finely made sword.~
+~
+steel~
+5 0 AN 0
+A A ABC AB 0
+10 10 500 100 100
+A
+19 1
+A
+18 1
+#124002
+ancient ring~
+An ancient ring~
+An ancient ring, weathered by the centuries.~
+~
+adamantite~
+27 AG AB 0
+0 0 0 0 0
+10 1 7100 50 5
+F
+D 0 0 H
+A
+4 2
+#124003
+slick leather jacket~
+A slick leather jacket~
+A slick leather jacket, oiled to protect its wearer.~
+~
+leather~
+9 0 AD 0
+AC AC AC AC 0
+10 8 500 100 100
+#124004
+deerskin leggings~
+Soft deerskin leggings~
+Soft deerskin leggings, laced together.~
+~
+leather~
+9 0 AF 0
+AC AC AC AC 0
+10 4 500 100 100
+#124005
+flashy sash~
+A flashy sash~
+A flashy sash, made of the finest silk~
+~
+cloth~
+11 0 AL 0
+0 0 0 0 0
+10 1 2100 100 85
+A
+12 20
+#0
+
+
+

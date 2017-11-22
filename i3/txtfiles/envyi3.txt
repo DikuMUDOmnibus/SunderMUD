@@ -1,0 +1,18 @@
+Envy2.2
+-------
+
+In the save.c install, locate function fread_char and find the following:
+
+        else
+        {
+            sprintf( buf, "fread_char: Unknown key '%s' in pfile.", word );
+            bug( buf, 0 );
+            fread_to_eol( fp );
+        }
+
+   Directly ABOVE that, add:
+
+#ifdef I3
+      else if( i3load_char( ch, fp, word ) )
+	   ;
+#endif

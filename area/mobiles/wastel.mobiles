@@ -1,0 +1,169 @@
+#25100
+dweomer beast~
+a Dweomer Beast~
+A tall two-legged grey-skinned beast is here.
+~
+This beast stands three times the height of an average
+human, and has smooth grey skin. It has two club-like
+legs, and a long tail.
+~
+~
+generic~
+ACDGRb TV G D
+0 101 101 16d688+3028 101d10+100 7d34+0 19
+EFHMO A C 0
+8 8 0 2020
+CHJM ACDEFHJKQU 3 unknown
+#25101
+argos cellular blob~
+an Argos~
+A giant cellular blob with a large eye and toothy mouths slithers here.
+~
+It resembles a gigantic amoeba, with a large central eye, countless
+inhuman eyes surrounding that, and many dripping, sharp-toothed mouths.
+It seems to be half slithering and half levitating.
+It is over 15 feet in diameter.
+~
+~
+generic~
+ADFGQb TV FG D
+-500 53 53 16d189+1019 53d10+100 4d19+0 14
+AEH AB C 0
+8 8 0 1060
+BCHJS DEFKMN 3 unknown
+#25102
+pit fiend~
+the Pit Fiend~
+A scaly red winged humanoid looks over the scene with disgust.
+~
+The Pit Fiend appears as a giant humanoid, with large scaly wings that
+encircle their entire body.  Its large fangs drip vile green mucus, and
+flames seemingly erupt at random from their scaly bodies.  
+~
+~
+demon~
+ADFGRb V FGH 0
+-1000 105 105 16d744+3238 105d10+100 8d35+0 18
+BDEFHKMNOR ABHLQ BCIK Na
+8 8 1 2100
+ABHMV ABCDEFGHIJKLQRSTUVWa 5 unknown
+#25103
+ragbarthan~
+the ragbarthan~
+The ragbarthan is here, snorting.
+~
+The ragbarthan is a mis-shapen four legged beast that bears little
+resembleance to mundance creatures that are used to seeing.  It has large
+bulbous eyes, long hair, a sharp spiked tail and horns.  Its hair has a deep
+red sheen.  
+~
+~
+generic~
+ADGb 0 0 0
+-200 61 61 16d251+1278 61d10+100 5d22+0 10
+0 A K a
+8 8 3 1220
+ACGH ACDEFHJKLQUVW 3 unknown
+#25104
+zertin man~
+Zertin~
+A powerful looking man is here.
+~
+This man radiates an aura of power.  He seems at one with the wastelands,
+yet altogether different from everything else here.  He seems to float
+rather than walk, and his robes shimmer in the light.  
+~
+~
+human~
+ADGRb Tc 0 BD
+700 107 107 16d772+3354 107d10+100 8d36+0 19
+DEFIKLNQ A BCD R
+8 8 1 4280
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#25105
+thin being wastelander~
+a wastelander~
+A thin being is here.
+~
+This being appears to be related to humans, but different in subtle ways.
+Descended from early mages who found themselves trapped here, wastelanders
+have evolved to live off of the magical energy flows of the wastelands.  It
+is barely enough for them to survive, though, and they are nearly
+wraith-like in appearance.  
+~
+~
+human~
+ACGHRb PV GI AB
+0 66 66 16d294+1455 66d10+100 5d23+0 19
+FGHKNU ACO HJNP QRS
+8 8 0 1320
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#25106
+kobold scaly humanoid creature~
+a kobold~
+A short, scaly-skinned humanoid creature is here.
+~
+Barely clearing three feet high, the creature has a scaly hide that is a
+dark rusty brown, almost black.  An overpowering smell like that of a dog
+wet with stagnant water wafts off of the creature and its eyes glow like a
+bright red spark.  The creature has a tail which looks wicked, but it *is*
+only three feet high.  
+~
+~
+kobold~
+AFGHSb Va 0 0
+-750 64 64 16d276+1387 64d10+100 5d23+0 17
+BEFR 0 L C
+8 8 3 1280
+ABHMV ABCDEFGHIJKQRSTa 1 unknown
+#25107
+wastecat~
+a wastecat~
+A wastecat is here, scavenging for food.
+~
+Thin and stringy, the wastecat has earned its reputation as a
+survivor, but the hard life shows on its ribs.
+~
+~
+cat~
+ACDGb 0 J 0
+0 50 50 16d168+930 50d10+100 4d18+0 7
+FH 0 0 0
+8 8 0 0
+AGV ACDEFHJKQRSTUVa 1 unknown
+#25108
+lost adventurer~
+a lost adventurer~
+A lost adventurer wanders the wastelands in search of... something.
+~
+~
+~
+human~
+AGTb 0 0 0
+0 71 71 16d340+1648 71d10+100 5d25+0 7
+EKN 0 0 0
+8 8 3 1420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#25109
+dian mordin adventurer~
+Dian Mordin~
+Dian Mordin on a mission to clear the Wastelands.
+~
+Dian Mordin has survived in the wastelands for more years than anyone
+else.  She has given up everything in her life for the mission - which she
+believes to be god given - to clear the wastelands of Evil.  You know this
+because she is famous throughout the lands for spreading rumours of
+intelligent weapons to be found in the wastelands, which everyone knows to
+be untrue.  
+~
+~
+human~
+AGQ 0 EFHIJ BC
+1000 65 65 16d285+1420 65d10+100 5d25+10 17
+0 0 0 0
+8 8 2 1300
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

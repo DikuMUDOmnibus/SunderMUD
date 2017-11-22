@@ -1,0 +1,211 @@
+SunderMud 2.1a
+--------------
+File Updated: November 24, 2003
+By:           Lotherius (lotherius@yahoo.com)
+
+=== For the impatient
+
+Read the "README.BEFORE.COMPILING" file. It isn't there for nothing.
+
+There is are no Immortal accounts setup by default.
+
+To create an immortal account:
+
+1) Login to the game, and create a Master Account and character.
+2) Quit the game. This will save your file.
+3) Edit your pfile in the player/ directory. (Its name is the name of
+   the character)
+4) Change the level on the line that begins "Levl " to 110.
+5) Change the security on the line that begins "Sec " to 9.
+6) Edit the accounts.DAT file in the data/ directory. Be very careful here.
+7) Find your email address (If you were the first to login, it will be the
+   second entry).
+8) Go down 2 lines, and there will be 4 numbers. Change the first of these
+   to 45. This will set your account to Implementor level.
+9) You may delete the first account (sample@samplehost.com) if you like
+   after this. It is okay to leave it, since nobody can access it without
+   a proper password (which doesn't exist).
+
+At this point, you should be able to login with full rights.
+
+=== About this README
+
+This readme is for SunderMud 2.1a. All other README files and various
+LICENSE files can be found in ./docs/ and ./docs/old-docs/.
+
+It is required for you to read and agree to everything in the file
+./docs/LICENSE before you use this program.
+
+=== SunderMud 2.1a
+
+This is Release 2.1a of SunderMud. 
+
+=== Version History
+2.1a: These are the changes from Sunder 2.1 to 2.1a:
+	Severe Bugfixes:
+	* Groups were very unstable. Hopefully less so now :) (many people had problems here, the biggest bug)
+	* declan would crash the mud in some cases. Fixed.
+	* clan petition join bug - fixed thanks to Dregnus (jholt@acom.us)
+	* If a socket blocked, it would disconnect the offending user. Fixed.
+	* Several files were being left open during the boot process. Would show as a crash after numerous copyovers. Fixed.
+	* Fixed a bug that set a decay timer on any items that went through the "put" command. Woops.
+
+	Minor Bugfixes:
+	* Notification sent possibly to wrong clan on declan and setclan. Fixed.
+	* Typo command also logs to wiznet bug channel now so online imms can see notices.
+	* MXP Users can no longer disable colour with colour command There was a reason for this.
+	* More changes to ignore broken zMud's Pueblo support (MXP is preferred for zMud users)
+	* Some possible bugs in notication fixed.
+
+	Features:
+	* Intermud-3 (i3) network has been implemented. Edit the config file in i3/ directory.
+	* clients.c New Functions (neither used in 2.1, but you can find uses for them):
+	  tag_secure - sends secure line tag for MXP or </xch_mudtext> for pueblo.
+	  tag_close  - closes secure line or pueblo tag.
+	* Can now do "wiznet all" to turn on all wiznet events.
+2.1: This release mostly just fixes a few minor bugs, and adds more complete MXP 
+     support, as well as adding Pueblo back to the MUD.
+
+    1) MXP, MSP and Pueblo support enhanced strongly beyond that available in 2.0. 
+    Images may now be sent to the client inline on both MXP and Pueblo clients (Need 
+    a very recent version of ZMud for these features on MXP, or the Pueblo client). 
+	Pueblo was returned to the code because of recent development of the
+	open-source Pueblo client that has made it again a viable option. (To see how to 
+	send images, see the code in clients.c).         
+	2) Functions have been added to support easy addition of "context menus". 
+	Again, the related code is in clients.c and act_click.c. Currently, only 
+	characters (mobs and players) have context menuing enabled, but wrapper 
+    code makes it easy to add more. The code in clients.c handles the actual 
+	client requirements for the clickable links, allowing quick development
+	supporting either MXP or Pueblo.
+	3) A typo in strings.h prevented compilation (How'd that get in there?)
+	4) Makefile changed. No longer launched from that silly Make.Sunder script. 
+	It also will now compile on Cygwin with minor changes (documented in the 
+	Makefile itself). Also puts object files in a subdirectory to prevent main 
+	src directory clutter.
+	5) MSP & MXP functions previously located in act_comm.c moved to clients.c.
+	6) Option added for is_safe to be quiet (boolean "backtalk" ).
+	7) Added function to list all shops in the game "shoplist".
+	8) Cleaned up some of the WIN32 defines in comm.c (Still doesn't compile under 
+	Win32 without work. Windows platforms need to use the Cygwin environtment which 
+	does work).
+	9) Various other barriers to compiling and portability have been addressed,
+	partly in documentation, otherwise in configuration.
+	10) Fixed a crash bug with istat.
+2.0 Beta 2: Many changes from 1.0, attempts to address many of the problems
+            of the first 1.0 release, as well as provide a more complete
+            product that delivers on the promise of Version 1.0.
+            I would like to say I could document all the changes that led to the 
+            release of 2.0, but with 5 years of hacking on the mud, I can't list
+            everything. Help changes inside the mud shows only a small portion of
+            the work that went on.
+2.0 Beta 1: Seen only by a few, basically the same as Beta 2, but had some
+            portability problems when compiled on Linux platforms (it was
+            developed on FreeBSD).
+1.0         1996 Release. Incomplete and buggy. Hopefully we've improved.
+            upon the Dark Times mud code, which was a modified Rom 2.3.
+
+=== Support
+
+No guarantees of support, but do feel free to contact me at
+lotherius@yahoo.com. If I have time, I'll help you out, and maybe put a
+fix into the main distro.
+
+You may also now contact me on the sunder_chat or sunder_code channels on 
+intermud-3. These have been pre-configured inside sundermud to be "chat"
+and "code" respectively.
+
+You'll have to connect to the i3 router first before using the channels.
+
+=== Supported Platforms
+
+Linux:   Most recently compiled in Suse 8.2 with Gcc 3.3
+Cygwin:  Well tested. Change the OSEXT variable in the makefile .exe for this
+         and you should be set. The startup script runs in cygwin although it
+         gives an error or two at the start. You won't get corefiles, so if
+         you need to debug, run the mud with "insight".
+FreeBSD: Primary Development platform for 2.0. At that time, no errors on
+         compile. The shell scripts do not work on FreeBSD. 2.1 has not
+         been tested here.
+Windows: SunderMud once compiled with Borland 5.5, but this was prior to the
+         2.0 Beta release. Win32 compiling is currently known to be broken,
+         but is possible with some work. The best bet is to run the mud under
+         Cygwin if you're using windows.
+
+=== About Formatting
+
+This is a hotly debated contest in many camps: How do you properly format C
+code.
+
+For the first several years I worked on Sunder, I stuck by using PICO. My
+reasons were simple: Emacs was too difficult, VI too arcane, and nothing
+else seemed to work over telnet correctly.
+
+However, I now use Jed. It did not work in telnet for me before, but I have
+finally found a decent telnet client that with a little minor tweaking to
+the key definitions, now operates Jed (as well as others) over telnet with
+little to no problems.
+
+Using Jed prompted me to fix the formatting which had suffered years of
+abuse and inconsistent tabstops on various platforms and different coders
+from Merc to Rom to Sunder.
+
+The worst insult to the formatting came when I attempted to use GNU "indent"
+once, and thinking it worked fine didn't have an un-indented copy of the
+source to go back to that contained any of my recent changes, so I stuck
+with the messed up formatting. Apparently "indent" doesn't respect neatly
+formatted tables ( most of which I've fixed now ) and by default it breaks
+lines at a very short length.... and these linebreaks result in some very
+wierd outcomes sometimes if the indent level is deep ( one statement per
+line type stuff.)
+
+I have now set Jed to "K&R" style indentation, and have reformatted all the
+files using this new setting as best as I can. I may have missed some of the
+strange linebreaks however. I highly recommend Jed as its auto-indent
+features are very slick and will keep us all on our toes, plus it has syntax
+hiliting. If you're having to telnet from windows, try "Dave's Telnet"
+(dtelnet) which can be found on sourceforge, and it will emulate the
+terminal better than anything I've found.
+
+Good Luck!
+
+=== If you have problems (Linux/FreeBSD):
+
+If the mud crashes, the included startup script will dump a corefile in the
+areas directory, with a number appeaned to it so that if you crash many times,
+you will not lose any previous corefiles.
+
+To read this, cd to the areas directory and type:
+gdb ../bin/sundermud
+Once gdb is open, type:
+core <corefile>
+
+Depending on your version of Linux/FreeBSD, your corefile may go by another
+name which either includes the process ID (newer Linux versions) or the name
+of the executable which generated the core (FreeBSD)
+
+The screen should show some information about the crash. If you are
+positive that the crash was not caused by changes you made to the code,
+email me at: elf_inside@operamail.com
+
+Include the output of GDB as well as the results of typing "up" several
+times in GDB (this backs up to previous commands in the stack) and any other
+information you know how to get out of GDB.
+
+Warning! Documentation in the DOCS directory could be way out of date, I have
+not maintained it and many changes have been made to sundermud.
+
+=== If you have problems (Win32):
+
+The win32 port was quick-n-dirty and has received VERY minimal testing. It
+was done for demonstration purposes mostly, and if you wish to use it, be
+prepared to find your own debugging tools :)
+
+=== If you have problems (Cygwin):
+
+The "stackdump" file isn't very useful. You may wish to refer, however to the
+cygwin newsgroups on "gmane" (www.gmane.org) for help on debugging here. The
+best way is to run the mud under the "insight" program, but this may or may
+not have a performance hit, and you can't use "insight" with the startup
+script.
+

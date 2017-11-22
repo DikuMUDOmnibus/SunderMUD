@@ -1,0 +1,145 @@
+#3600
+candlestick~
+a candlestick~
+A pewter candlestick is standing here.~
+~
+unique~
+1 0 AO 0
+0 0 24 0 0
+0 5 0 100 100
+E
+candlestick~
+It is a rather old-looking three-armed candlestick made from pewter.  Its
+candles are a yellowish white colour.
+~
+#3601
+brandy bottle~
+a brandy bottle~
+A brandy bottle is lying here.~
+~
+glass~
+17 0 A 0
+BD BD AC 0 0
+4 2 40 100 100
+E
+brandy bottle~
+The bottle is a special 'Dragon Blood' brandy bottle.  Its neck is shaped
+like a small dragon's head.  Bottles like these are often worth a small
+amount money, even when empty.
+~
+#3602
+brandy bottle~
+a brandy bottle~
+A brandy bottle is lying here.~
+~
+glass~
+17 0 A 0
+BD 0 AC 0 0
+2 2 20 100 100
+E
+brandy bottle~
+The bottle is a special 'Dragon Blood' brandy bottle.  Its neck is shaped
+like a small dragon's head.  Bottles like these are often worth some money,
+even when empty.
+~
+#3603
+wheelbarrow~
+a wheelbarrow~
+A green-painted wheelbarrow is standing here.~
+~
+wood~
+22 0 A 0
+0 0 0 0 0
+0 100 0 100 100
+E
+wheelbarrow~
+It is a heavy wheelbarrow made from solid oaken planks that have been painted
+a dark, green colour.
+~
+#3604
+shovel~
+a shovel~
+A shovel is lying here.~
+~
+iron~
+5 0 AN 0
+C AC ABDE ABC 0
+62 8 3100 100 100
+E
+shovel~
+It is a large metal shovel with a solid wooden handle.
+~
+#3605
+rake~
+a rake~
+A rake is lying here.~
+~
+iron~
+5 0 AN 0
+C AC ABDE AC 0
+62 8 3100 100 100
+E
+rake~
+It is a large metal rake with a solid wooden handle.
+~
+#3610
+skeleton~
+a dusty skeleton~
+A dusty skeleton lies here.~
+~
+bone~
+13 0 A 0
+0 0 0 0 0
+3 15 30 100 100
+E
+skeleton~
+The dusty bones are almost brown.  It must have been buried for a very long
+time.
+A dusty skeleton is in an excellent condition.
+~
+#3611
+amethyst gem~
+a amethyst~
+A large, beautifully polished amethyst has been left here.~
+~
+crystal~
+8 0 AO 0
+0 0 0 0 0
+5 3 50 100 100
+E
+amethyst~
+It has a very deep purple colour.
+~
+#3612
+pendant silver~
+a silver pendant~
+A silver pendant has been left here.~
+~
+silver~
+9 0 AC 0
+E E E ACD 0
+67 1 3350 100 100
+E
+pendant silver~
+It resembles Thor's hammer and appears to be made of solid silver.
+~
+#3613
+dagger silver~
+a silver dagger~
+A long silver dagger is lying here.~
+~
+silver~
+5 0 AN 0
+B AC ABDE ABD 0
+62 1 3900 100 100
+A
+19 1
+E
+dagger silver~
+It has a long, sharp blade that is made entirely from silver.  A small rune
+has been engraved on the blade next to the hilt.
+~
+#0
+
+
+

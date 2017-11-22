@@ -1,0 +1,221 @@
+#6502
+key green~
+a deep green key~
+A deep green key is on the floor.~
+~
+unknown~
+18 0 A 0
+0 0 0 0 0
+20 1 200 100 100
+#6504
+dwarven hammer~
+a hammer~
+There is a dwarven hammer laying here.~
+~
+steel~
+5 0 AN 0
+C A ABC D 0
+10 3 500 100 100
+#6505
+dwarven plate~
+dwarven plate mail~
+There is dwarven plate mail laying here.~
+~
+steel~
+9 0 AD 0
+ABC ABC ABC C 0
+20 4 1000 100 100
+#6506
+stick~
+long, black stick~
+There is a long, black stick lying here.~
+~
+wood~
+4 0 AO 0
+C BD BD 15 0
+9 1 450 100 100
+#6507
+stick~
+long, black stick~
+There is a long, black stick here.~
+~
+wood~
+1 0 AO 0
+0 0 50 0 0
+10 1 500 100 100
+#6508
+club~
+dwarven club~
+There is a dwarven club laying here.~
+~
+wood~
+5 0 AN 0
+C A BC D 0
+7 1 350 100 100
+#6509
+two-handed dwarven axe~
+a two-handed dwarven axe~
+A two-handed Dwarven axe is here.~
+~
+steel~
+5 0 AN 0
+AC B BD A F
+17 5 4050 100 100
+A
+1 2
+A
+18 2
+#6510
+helmet~
+a dwarven helmet~
+A dwarven helmet is here.~
+~
+steel~
+9 0 AE 0
+ABC ABC ABC C 0
+20 4 1000 100 100
+#6511
+ring golden dwarven~
+a dwarven golden ring~
+A pretty golden ring is here.~
+~
+gold~
+8 G AB 0
+0 0 0 0 0
+20 1 2600 100 100
+A
+19 1
+A
+18 1
+#6512
+gloves~
+dwarven gloves~
+Thick dwarven gloves lay here.~
+~
+cloth~
+9 0 AH 0
+ABC ABC ABC C 0
+20 2 2600 100 100
+A
+2 1
+A
+1 1
+#6513
+note~
+a note~
+A crumpled note is here.~
+~
+paper~
+13 0 A 0
+0 0 0 0 0
+7 0 70 100 100
+E
+note letter letters~
+It seems to be a hot love letter from the Queen.  Unfortunately,
+it's not suitable for transmission across a public data network.
+~
+#6514
+castle key~
+a castle key~
+There is a key to Strangelove Castle here.~
+~
+brass~
+18 0 A 0
+0 0 0 0 0
+9 0 90 100 100
+#6516
+key mine~
+a mine key~
+There is a key to the mines here.~
+~
+brass~
+18 0 A 0
+0 0 0 0 0
+14 0 140 100 100
+#6517
+coal~
+a chunk of coal~
+There is a chunk of coal here.~
+~
+stone~
+13 0 AO 0
+0 0 0 0 0
+19 100 190 100 100
+#6518
+pick~
+a mining pick~
+There is a mining pick here.~
+~
+iron~
+5 I AN 0
+C A D ABD 0
+13 1 650 100 100
+#6519
+pills~
+a box of birth control pills~
+There is a box of birth control pills here.~
+~
+food~
+26 0 A 0
+20 0 0 82 0
+9 1 450 100 100
+E
+birth control pills pill~
+They are in a circular container, and there are numbers corresponding
+to the day that they are to be taken.  You can tell they haven't been
+used for a while.
+~
+#6520
+map castle strangelove~
+a map of Castle Strangelove~
+A rolled up map is here.~
+~
+paper~
+28 0 A 0
+A 0 0 0 0
+9 1 90 100 100
+E
+map castle strangelove~
+.
+* * * Castle Strangelove * * *       __________
+ = = ==================== = =        \ Queen's \
+      Untangled by Ezra               \ Bedroom \
+                                       \_________\
+                                                *
+                               __________    ____\_____
+     North  Up                 \  Top of \    \ Waiting \
+        \   |                   \ Stairs  \----\  Room   \
+          \ |                    \_________\    \_________\
+  West ---- + ---- East             |
+            | \                _____|____
+            |   \              \         \
+          Down  South           \ Stairs  \    [] - You need the Castle Key
+                                 \_________\        to get beyond this point.
+                                    |               The Castle Key can be
+                               _____|____           found on the Grinning
+                               \         \          Dwarves in the Barracks.
+                                \ Stairs  \
+                                 \_________\    * - You need the Deep Green
+                                    |               Key to get beyond this
+                __________     _____|____           point.  This key can be
+                \ Door to \    \ Inside  \          found on the Wraith in
+                 \ Castle  \-[]-\ Castle  \         the wine cellar or on one
+                  \_________\    \_________\        of the Dwarven Guards on
+                           \                        the Dark path.
+                         ____\_____
+                         \ Path to \
+                          \ Castle  \
+                           \_________\
+                                    \
+                   __________     ____\_____
+                   \ Door to \    \ Path to \
+                    \ Kingdom \----\ Castle  \
+                     \_________\    \_________\
+                              \
+                           To Dwarven
+                             Kingdom
+~
+#0
+
+
+

@@ -1,0 +1,1392 @@
+#15100
+Inside the Gates~
+You are walking along a short corridor toward the yard. Torch brackets
+line the stone walls on either side, but it still has a cold, merciless
+feel to it.
+~
+~
+8 0
+D3
+~
+~
+1 -1 15101
+D4
+~
+~
+193 -1 15704
+S
+#15101
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+~
+~
+0 0
+D0
+~
+~
+0 -1 15102
+D1
+~
+~
+1 0 15100
+D2
+~
+~
+0 -1 15103
+D3
+~
+~
+0 -1 15105
+S
+#15102
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+~
+~
+0 0
+D2
+~
+~
+0 -1 15101
+D3
+~
+~
+0 -1 15104
+S
+#15103
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+~
+~
+0 0
+D0
+~
+~
+0 -1 15101
+D3
+~
+~
+0 -1 15106
+S
+#15104
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+
+North lie the Kitchens.
+~
+~
+0 0
+D0
+~
+~
+1 -1 15107
+D1
+~
+~
+0 0 15102
+D2
+~
+~
+0 -1 15105
+S
+#15105
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+
+A gate to the west marks the entrance down the stairs to the cells below.
+~
+~
+0 0
+D0
+~
+~
+0 -1 15104
+D1
+~
+~
+0 -1 15101
+D2
+~
+~
+0 -1 15106
+D5
+~
+gate~
+1 -1 15108
+S
+#15106
+The Yard~
+Here those few fortunate prisoners with privileges are allowed a short walk.
+Guards stroll back and forth, keeping an eye on them. A chill wind blows
+across this only open air space in the dungeons.
+~
+~
+0 0
+D0
+~
+~
+0 -1 15105
+D1
+~
+~
+0 0 15103
+S
+#15107
+The Kitchens~
+Several surly wenches move slowly about here preparing the crap they serve
+the prisoners below (as well as the guards). You see little you would like
+(or be game to) take.
+~
+~
+8 0
+D2
+~
+~
+1 0 15104
+S
+#15108
+The Dungeon~
+You are in a dank, dismal corridor, lined with dirty stone blocks into which
+the occasional torch bracket has been wedged. A few stubs gutter feebly,
+providing little illumination. Cries of woe and pain echo down this
+depressing passageway.
+~
+~
+9 0
+D3
+~
+~
+0 -1 15109
+D4
+~
+gate~
+1 0 15105
+S
+#15109
+The Dungeon~
+You are in a dank, dismal corridor, lined with dirty stone blocks into which
+the occasional torch bracket has been wedged. A few stubs gutter feebly,
+providing little illumination. Cries of woe and pain echo down this
+depressing passageway.
+
+A door to the north marks the entrance to Cell Block One.
+~
+~
+9 0
+D0
+~
+~
+1 0 15110
+D1
+~
+~
+0 -1 15108
+D3
+~
+~
+0 -1 15118
+S
+#15110
+Cell Block One~
+You are marching along a north south passageway lined with several cell
+doors. Cries come from behind some of them, and form behind other comes only
+silence. A guard room lies directly north of here.
+~
+~
+9 0
+D0
+~
+~
+0 -1 15113
+D1
+Cell D~
+cell~
+1 15111 15112
+D2
+~
+~
+1 0 15109
+D3
+Cell C~
+cell~
+1 15110 15111
+S
+#15111
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D1
+~
+~
+1 15110 15110
+S
+#15112
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D3
+~
+~
+1 15111 15110
+S
+#15113
+Cell Block One~
+You are marching along a north south passageway lined with several cell
+doors. Cries come from behind some of them, and form behind other comes only
+silence. A guard room lies directly north of here.
+~
+~
+9 0
+D0
+~
+~
+1 -1 15116
+D1
+Cell B~
+cell~
+1 15109 15115
+D2
+~
+~
+0 0 15110
+D3
+Cell A~
+cell~
+1 15108 15114
+S
+#15114
+A Well-Appointed Cell~
+This cell is clean and well-lit, and has some rather decent furnishings.
+Doubtless someone of some means has managed to requisition this cell, to
+spend their interrment in relative comfort.
+~
+~
+9 0
+D1
+~
+~
+1 15108 15113
+S
+#15115
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D3
+~
+~
+1 15109 15113
+S
+#15116
+A Guard Room~
+You have entered the quarters of the dungeon guards. There are usually a few
+off duty guards here at any given time, playing cards, dice, etc. to while
+away the time before their next shift.  A door to the west is marked- DOGS!
+KEEP OUT!
+
+A trapdoor leads upward to the city square, where prisoners who are
+sentenced to death are led for their execution.
+~
+~
+8 0
+D2
+~
+~
+1 0 15113
+D3
+~
+~
+1 0 15117
+S
+#15117
+The Dog Kennels~
+The dungeon hounds are kept in here, ready to be released on rioting
+prisoners in emergencies. They are rabid creatures, underfed and constantly
+tormented to keep their anger at a peak.
+~
+~
+9 0
+D1
+~
+~
+1 0 15116
+S
+#15118
+The Turnkey's Room~
+Here the Turnkey stands his post, managing and guarding the keys to all the
+cells, and keeping an eye out for any trouble. He is a recalcitrant and lazy
+sod, and not much use at either task.
+
+A door to the west leads to Cell Block Two. The torture chamber lies south.
+~
+~
+8 0
+D1
+~
+~
+0 -1 15109
+D2
+~
+~
+1 -1 15119
+D3
+~
+~
+1 0 15122
+S
+#15119
+The Torture Chamber~
+This is the most feared place in all the dungeon. Any and all prisoners who
+end up here rarely leave in one piece. And even if they do, they are usually
+driven quite insane by the weeks of torture. Long chains hanging from the
+ceiling suspend dead or dying victims, while fresher ones are currently
+being subjected to cruel tortures on the nightmarish devices below.
+~
+~
+9 0
+D0
+~
+~
+1 -1 15118
+D1
+~
+~
+0 0 15120
+D2
+~
+~
+0 -1 15121
+S
+#15120
+The Torture Chamber~
+This is the most feared place in all the dungeon. Any and all prisoners who
+end up here rarely leave in one piece. And even if they do, they are usually
+driven quite insane by the weeks of torture. Long chains hanging from the
+ceiling suspend dead or dying victims, while fresher ones are currently
+being subjected to cruel tortures on the nightmarish devices below.
+~
+~
+9 0
+D3
+~
+~
+0 -1 15119
+S
+#15121
+The Torture Chamber~
+This is the most feared place in all the dungeon. Any and all prisoners who
+end up here rarely leave in one piece. And even if they do, they are usually
+driven quite insane by the weeks of torture. Long chains hanging from the
+ceiling suspend dead or dying victims, while fresher ones are currently
+being subjected to cruel tortures on the nightmarish devices below.
+~
+~
+9 0
+D0
+~
+~
+0 -1 15119
+S
+#15122
+Cell Block One~
+You are marching along a east west passageway lined with several cell
+doors. Cries come from behind some of them, and from behind others comes only
+silence.
+~
+~
+9 0
+D0
+Cell E~
+cell~
+1 15112 15123
+D1
+~
+~
+1 0 15118
+D2
+Cell F~
+cell~
+1 15113 15124
+D3
+~
+~
+0 -1 15125
+S
+#15123
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D2
+~
+~
+1 15112 15122
+S
+#15124
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D0
+~
+~
+1 15113 15122
+S
+#15125
+Cell Block One~
+You are marching along a east west passageway lined with several cell
+doors. Cries come from behind some of them, and from behind others comes only
+silence.
+~
+~
+9 0
+D0
+Cell G~
+cell~
+1 15114 15126
+D1
+~
+~
+1 0 15122
+D2
+Cell H~
+cell~
+1 15115 15127
+D3
+~
+~
+0 -1 15128
+S
+#15126
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D2
+~
+~
+1 15114 15125
+S
+#15127
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D0
+~
+~
+1 15115 15125
+S
+#15128
+Cell Block One~
+You are marching along a east west passageway lined with several cell
+doors. Cries come from behind some of them, and from behind others comes only
+silence.
+~
+~
+9 0
+D0
+Cell I~
+cell~
+1 15116 15129
+D1
+~
+~
+1 0 15125
+D2
+Cell J~
+cell~
+1 15117 15130
+D3
+~
+~
+0 -1 15131
+S
+#15129
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D2
+~
+~
+1 15116 15128
+S
+#15130
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D0
+~
+~
+1 15117 15128
+S
+#15131
+Cell Block One~
+You are marching along a east west passageway lined with several cell
+doors. Cries come from behind some of them, and from behind others comes only
+silence. The passage bends downwards to the west.
+~
+~
+9 0
+D0
+Cell K~
+cell~
+1 15118 15132
+D1
+~
+~
+1 0 15128
+D2
+Cell L~
+cell~
+1 15119 15133
+D3
+~
+~
+0 -1 15134
+S
+#15132
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D2
+~
+~
+1 15118 15131
+S
+#15133
+A Cell~
+This is a dank, damp, filthy prison cell. Mice and cockroaches scurry about,
+mingling in the animal and human filth that litters the floor. The cell has
+no windows or sources of ventilation, and the air is fetid and stale. You
+gag and hold your breath in disgust.
+~
+~
+9 0
+D0
+~
+~
+1 15119 15131
+S
+#15134
+The Lower Chambers~
+These chambers once held cells, but were long ago abandoned. Rotted doors
+hang open to the north and south, while a hole in the floor gives rise to
+an awful smell. You really don't want to go down there... really.
+~
+~
+9 0
+D0
+~
+~
+0 -1 15137
+D1
+~
+~
+0 -1 15131
+D2
+~
+~
+0 -1 15135
+D5
+~
+~
+0 -1 15136
+S
+#15135
+A Ruined Cell~
+Naught remains of whoever once occupied this cell save for some bones. Rats
+scurry away from your light, and you grimace at the stench in this hole.
+~
+~
+9 0
+D0
+~
+~
+0 -1 15134
+S
+#15136
+The PIT~
+This foul hole is used for disposal of garbage and of unruly prisoners. You
+land in this muck with a squelching noise, and you almost vomit when you
+realize you are chest-deep in human and animal waste. A chill wind whips
+eerily at you from nowhere, and you suddenly get the feeling you're not
+alone down here...
+~
+~
+8201 0
+D4
+~
+~
+0 -1 15134
+S
+#15137
+A Ruined Cell~
+Naught remains of whoever once occupied this cell save for some bones. Rats
+scurry away from your light, and you grimace at the stench in this hole.
+A hole in the north wall allows passage into a cave.
+~
+~
+13 0
+D0
+~
+~
+0 -1 15138
+D2
+~
+~
+0 -1 15135
+S
+#15138
+A Cavern~
+This natural cavern is home to variety of animals who have become trapped
+down here after entering from the city above and losing their way back.
+You smell guano everywhere, and see thick cobwebs.
+~
+~
+9 0
+D0
+~
+~
+0 -1 15139
+D2
+~
+~
+0 -1 15137
+S
+#15139
+A Cavern~
+This natural cavern is home to variety of animals who have become trapped
+down here after entering from the city above and losing their way back.
+You smell guano everywhere, and see thick cobwebs. A passage running
+westward leads into a dark maze.
+~
+~
+9 0
+D2
+~
+~
+0 -1 15138
+D3
+~
+~
+0 -1 15140
+S
+#15140
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15139
+D1
+~
+~
+0 -1 15141
+D3
+~
+~
+0 -1 15145
+S
+#15141
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15146
+D1
+~
+~
+0 -1 15140
+D2
+~
+~
+0 -1 15142
+S
+#15142
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15141
+D1
+~
+~
+0 -1 15143
+D2
+~
+~
+0 -1 15147
+S
+#15143
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15142
+D1
+~
+~
+0 -1 15144
+D2
+~
+~
+0 -1 15148
+S
+#15144
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D1
+~
+~
+0 -1 15143
+D3
+~
+~
+0 -1 15149
+D5
+~
+~
+1 0 15169
+S
+#15145
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15150
+D1
+~
+~
+0 -1 15146
+D3
+~
+~
+0 -1 15140
+D5
+~
+~
+1 0 15168
+S
+#15146
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15145
+D1
+~
+~
+0 -1 15151
+D2
+~
+~
+0 -1 15147
+D3
+~
+~
+0 -1 15141
+S
+#15147
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15148
+D1
+~
+~
+0 -1 15152
+D2
+~
+~
+0 -1 15146
+D3
+~
+~
+0 -1 15142
+S
+#15148
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15147
+D1
+~
+~
+0 -1 15143
+D2
+~
+~
+0 -1 15149
+D3
+~
+~
+0 -1 15153
+S
+#15149
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15148
+D2
+~
+~
+0 -1 15144
+D3
+~
+~
+0 -1 15154
+S
+#15150
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15151
+D2
+~
+~
+0 -1 15145
+D3
+~
+~
+0 -1 15155
+S
+#15151
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15152
+D1
+~
+~
+0 -1 15156
+D2
+~
+~
+0 -1 15150
+D3
+~
+~
+0 -1 15146
+S
+#15152
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15147
+D1
+~
+~
+0 -1 15151
+D2
+~
+~
+0 -1 15157
+D3
+~
+~
+0 -1 15153
+S
+#15153
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15148
+D1
+~
+~
+0 -1 15158
+D2
+~
+~
+0 -1 15152
+D3
+~
+~
+0 -1 15154
+D5
+~
+~
+1 0 15167
+S
+#15154
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D1
+~
+~
+0 -1 15153
+D2
+~
+~
+0 -1 15149
+D3
+~
+~
+0 -1 15159
+S
+#15155
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15150
+D2
+~
+~
+0 -1 15160
+D3
+~
+~
+0 -1 15156
+S
+#15156
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15161
+D1
+~
+~
+0 -1 15151
+D2
+~
+~
+0 -1 15155
+D3
+~
+~
+0 -1 15157
+D5
+~
+~
+1 0 15166
+S
+#15157
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15152
+D1
+~
+~
+0 -1 15156
+D2
+~
+~
+0 -1 15162
+D3
+~
+~
+0 -1 15158
+S
+#15158
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15157
+D1
+~
+~
+0 -1 15159
+D2
+~
+~
+0 -1 15153
+D3
+~
+~
+0 -1 15163
+S
+#15159
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15158
+D2
+~
+~
+0 -1 15164
+D3
+~
+~
+0 -1 15154
+S
+#15160
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D2
+~
+~
+0 -1 15161
+D3
+~
+~
+0 -1 15155
+S
+#15161
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D1
+~
+~
+0 -1 15160
+D2
+~
+~
+0 -1 15162
+D3
+~
+~
+0 -1 15156
+S
+#15162
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D0
+~
+~
+0 -1 15161
+D2
+~
+~
+0 -1 15157
+D3
+~
+~
+0 -1 15163
+D5
+~
+~
+1 0 15165
+S
+#15163
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D1
+~
+~
+0 -1 15162
+D2
+~
+~
+0 -1 15164
+D3
+~
+~
+0 -1 15158
+S
+#15164
+The Dark Maze~
+This hive of subterranean passageways was once a burial chamber. But the
+priests long ago removed all the corpses, leaving the place vacant. Rumor
+has it, however, that a few tombs still remain, undisturbed for centuries,
+full of magnificent treasures.
+~
+~
+8201 0
+D2
+~
+~
+0 -1 15163
+D3
+~
+~
+0 -1 15159
+S
+#15165
+Tomb of Ael~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+~
+9 0
+D4
+~
+~
+0 -1 15162
+S
+#15166
+Tomb of Baraga~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+~
+9 0
+D4
+~
+~
+0 -1 15156
+S
+#15167
+Tomb of Cas~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+~
+9 0
+D4
+~
+~
+0 -1 15153
+S
+#15168
+Tomb of Deros~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+~
+9 0
+D4
+~
+~
+0 -1 15145
+S
+#15169
+Tomb of Emur~
+This dark tomb contains a sarcophagus and the mortal remains of a powerful
+spellcaster of ancient times. Unfortunately this spellcaster was also
+rather evil... You could be in trouble.
+~
+~
+9 0
+D4
+~
+~
+0 -1 15144
+S
+#0
+
+
+

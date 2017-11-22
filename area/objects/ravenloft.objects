@@ -1,0 +1,862 @@
+#22000
+Icon of Ravenloft~
+Icon of Ravenloft~
+This statue is a small carving of a raven and is made of the finest silver.~
+~
+silver~
+27 AFKL AT 0
+0 0 0 0 0
+30 5 3100 100 60
+A
+2 1
+A
+3 1
+#22001
+kettle~
+a large black kettle~
+A large black kettle~
+~
+steel~
+15 ER 0 0
+BD 0 0 0 0
+30 10 1500 100 100
+#22002
+dagger slime~
+a {gslime{w covered dagger~
+A dagger covered in {gslime{w is here.~
+~
+steel~
+5 0 AN 0
+B AB ABCD B I
+30 2 1500 100 100
+#22003
+slime covered mace~
+a {gslime{w covered mace~
+A {gslime{w covered mace is here.~
+~
+gold~
+5 I AN 0
+C AB ABCD ABC I
+30 4 1500 100 100
+#22004
+torn dirty shirt~
+an old {ydirty{w shirt~
+An old {ydirty{w shirt is here.~
+~
+cloth~
+9 0 AD 0
+BD BD BD BD 0
+36 1 1800 100 100
+#22005
+old dress~
+an old dress~
+An old dirty dress is here.~
+~
+cloth~
+9 B AD 0
+AD AD AD AD 0
+31 1 1550 100 100
+#22006
+short sword~
+a small rusty sword~
+A small rusty sword has been left here.~
+~
+steel~
+5 K AN 0
+A AB AE AB 0
+36 6 1800 100 100
+#22007
+aura dust~
+{cAura{G of{y Dust{w~
+A strange disk seemingly made of dust is floating here.~
+~
+unknown~
+27 L AT 0
+0 0 0 0 0
+31 0 3950 100 100
+A
+1 2
+A
+5 1
+#22008
+rusty axe~
+an old {yrusty{w axe~
+An old {yrusty{w axe is laying here.~
+~
+steel~
+5 K AN 0
+AC AB ABCD AB D
+31 8 1550 100 100
+#22009
+doom brigade armor~
+{Wg{wl{Wi{wn{Wt{wi{Wn{wg doom brigade armor~
+{Wg{wl{Wi{wn{Wt{wi{Wn{wg doom brigade armor is here.~
+~
+mithril~
+9 0 AD 0
+CD CD CD CD 0
+46 10 2300 100 100
+#22010
+doom helm~
+doom helm~
+The helmet from a doom guard is here.~
+~
+unique~
+9 0 AE 0
+CD CD CD CD 0
+46 4 2300 100 100
+#22011
+flame mace doom~
+{Rf{rl{Ra{rm{Re{w mace~
+A {Rf{rl{Ra{rm{Re{w mace is here.~
+~
+steel~
+5 A AN 0
+C C ACE ABDE A
+46 3 2300 100 80
+#22012
+Tarot cards~
+a pair of Tarot cards~
+A pair of Tarot cards has been left here.~
+~
+paper~
+5 K AN 0
+0 AB AE ABE 0
+37 1 1850 100 100
+#22013
+gypsy dress~
+a dark dress of gypsy make~
+A dark dress of gypsy make has been left here.~
+~
+cloth~
+9 0 AD 0
+BD BD BD BD 0
+37 2 1850 100 100
+#22014
+black curved dagger~
+a curved black dagger~
+A curved black dagger is here.~
+~
+steel~
+5 J AN 0
+B AB BE AB I
+38 4 1900 100 100
+#22015
+pitchfork~
+{yrusty{w pitchfork~
+A {yrusty{w pitchfork is here.~
+~
+steel~
+5 0 AN 0
+AB AB ABE B 0
+41 8 2050 100 100
+#22016
+overalls~
+dirty overalls~
+A pair of dirty overalls are here.~
+~
+cloth~
+9 0 AD 0
+ABD ABD ABD ABD 0
+41 4 4450 100 100
+A
+2 1
+A
+4 2
+#22017
+crown of thorns~
+crown of thorns~
+A crown of made of blood rose thorns is here.~
+~
+wood~
+9 0 AE 0
+CD CD CD CD 0
+49 1 6450 100 100
+A
+5 2
+A
+13 20
+#22018
+robe of the eldars~
+robe of the eldars~
+A robe of the eldars is here.~
+~
+cloth~
+9 0 AD 0
+ACD ACD ACD ACD 0
+50 3 2500 100 100
+#22019
+spade darkness~
+spade of darkness~
+A spade of darkness is here.~
+~
+iron~
+4 BJ AO 0
+BEF CE BD 4 0
+50 3 2500 100 100
+#22020
+spoon~
+an old wooden spoon~
+An old wooden spoon is here.~
+~
+wood~
+5 0 AN 0
+0 C BCE E B
+49 3 2450 100 100
+#22021
+sergie's sunsword~
+Sergie's {YSun{wsword~
+Sergie's {YSun{wsword is here.~
+~
+mithril~
+18 FIKL AO 0
+0 0 0 0 0
+50 5 2500 100 100
+#22022
+Book of Shadows~
+Book of {MShadows{w~
+A Book of {MShadows{w is here.~
+~
+leather~
+2 0 AO 0
+48 505 500 65 0
+48 2 2400 100 100
+#22023
+Silver Robe~
+silver robe~
+A silver robe is here.~
+~
+cloth~
+9 0 AD 0
+CD CD CD CD 0
+48 2 2400 100 100
+#22024
+lightning rod~
+a crystal rod~
+A crystal rod is here.~
+~
+crystal~
+4 0 AO 0
+BCDF CD BC 500 0
+46 0 2300 100 100
+#22025
+ancient robe~
+ancient robe~
+An ancient robe is here.~
+~
+cloth~
+9 0 AD 0
+CD CD CD CD 0
+46 3 2300 100 100
+#22026
+blood pendant~
+{rblood{w pendant~
+A {rblood{w pendant is here.~
+~
+diamond~
+9 J AC 0
+ACD ACD ACD ACD 0
+50 0 2500 100 100
+#22027
+cloak shadow~
+cloak of shadows~
+A shadowy cloak is here.~
+~
+cloth~
+9 J AC 0
+ACD ACD ACD ACD 0
+50 3 2500 100 100
+#22028
+bracers of Klu 'ah~
+bracers of Klu 'Ah~
+A bracer is here.~
+~
+brass~
+9 B AM 0
+ACD ACD ACD ACD 0
+50 2 2500 100 100
+#22029
+necklace grimore~
+necklace of the grimore~
+The necklace of the grimore is here.~
+~
+gold~
+9 0 AC 0
+ABD ABD ABD ABD 0
+44 1 3800 100 100
+A
+5 2
+#22030
+white gown~
+white gown~
+A white gown is here.~
+~
+cloth~
+9 0 AD 0
+ABD ABD ABD ABD 0
+42 0 5300 100 100
+A
+1 4
+#22031
+ring fra'nak~
+ring of fra'nak~
+A small shinny ring with the engraving fra'nak is here.~
+~
+adamantite~
+27 0 AB 0
+0 0 0 0 0
+43 1 2150 100 100
+#22032
+soft boots~
+soft leather boots~
+A pair of soft leather boots is here.~
+~
+leather~
+9 J AG 0
+BD BD BD BD 0
+36 1 4200 100 100
+A
+2 3
+#22033
+ruby dagger~
+{rruby{w dagger~
+A {rruby{w dagger is here.~
+~
+crystal~
+5 0 AN 0
+B AB AE 0 0
+36 1 1800 100 100
+#22034
+maids dress~
+maids dress~
+A maids dress is here.~
+~
+cloth~
+9 0 AD 0
+BD BD BD BD 0
+36 2 3400 100 100
+A
+2 2
+#22035
+torn pants~
+torn pants~
+A pair of torn pants is here.~
+~
+cloth~
+9 0 AF 0
+ACD ACD ACD ACD 0
+50 4 2500 100 100
+#22036
+spectacles~
+gold spectacles~
+Someones gold spectacles are here.~
+~
+gold~
+9 0 AR 0
+ABD ABD ABD ABD 0
+40 1 4400 100 100
+A
+4 1
+A
+3 1
+A
+5 1
+#22037
+dagger xona~
+dagger of xona~
+The dagger of xona is here.~
+~
+unique~
+5 0 AN 0
+B AB BE 0 0
+40 0 2000 100 100
+#22038
+arrow boy corpse~
+the corpse of an arrow boy~
+The corpse of an arrow boy lays here.~
+~
+flesh~
+23 ER 0 0
+0 0 0 0 0
+48 0 0 100 100
+#22039
+glowing bat eye~
+glowing eye of a bat~
+A glowing eye from a bat is here.~
+~
+rubber~
+1 0 AO 0
+0 0 100 0 0
+30 1 1500 100 100
+A
+13 10
+#22040
+cloak bat~
+cloak of the bat~
+A cloak resembling the wings of a bat is here.~
+~
+cloth~
+9 0 AC 0
+AD AD AD AD 0
+30 1 1500 100 100
+#22041
+green vial~
+{ggreen{w vial~
+A {ggreen{w vial is here.~
+~
+glass~
+10 0 A 0
+30 43 0 0 0
+30 1 1500 100 100
+#22042
+slime shield~
+{gslime{w covered shield~
+A {gslime{w covered shield is here.~
+~
+bone~
+9 0 AJ 0
+AD AD AD AD 0
+30 7 1500 100 100
+#22043
+dirty pants~
+{ydirty{w pair of pants~
+A {ydirty{w pair of pants is here.~
+~
+cloth~
+9 0 AF 0
+BD BD BD BD 0
+36 2 1800 100 100
+#22044
+golden bracelet~
+{Ygolden{w bracelet~
+A {Ygolden{w bracelet is here.~
+~
+gold~
+9 K AM 0
+AD AD AD AD 0
+31 2 1550 100 100
+A
+5 1
+#22045
+bat claws~
+claws of a bat~
+Bat claws are here.~
+~
+bone~
+5 0 AN 0
+0 AB ABCD AB 0
+30 2 1500 100 100
+#22046
+potion bat~
+potion from bats entrails~
+A potion from a bats entrails is here.~
+~
+glass~
+10 0 AO 0
+46 56 0 0 0
+46 1 2300 100 40
+#22047
+sandals~
+a pair of sandals~
+A pair of sandals are here.~
+~
+leather~
+9 0 AG 0
+BD BD BD BD 0
+37 3 1850 100 100
+#22048
+dindin can~
+a can of dindin~
+A can of dindin is here.~
+~
+unknown~
+19 0 A 0
+BD 0 0 0 0
+38 1 1900 100 100
+#22049
+blood arm guards~
+{Rblood{w covered arm guards~
+A pair of {Rblood{w covered arm guards are here.~
+~
+leather~
+9 0 AI 0
+AD AD AD AD 0
+34 3 1700 100 100
+A
+2 1
+#22050
+stone-forge whip~
+stone-forge whip~
+A stone-forge whip is here.~
+~
+adamantite~
+5 0 AN 0
+ABC AB AE BDE 0
+35 4 1750 100 100
+#22051
+stone earring~
+earring made of stone~
+An earring made of stone is here.~
+~
+stone~
+9 0 AS 0
+BD BD BD BD 0
+35 1 1750 100 100
+A
+4 1
+A
+5 1
+#22052
+martyr mace~
+a small mace with the head of martyr~
+A small mace with the head of a martyr is here.~
+~
+gold~
+5 0 AN 0
+C AB ABCD ABDE 0
+31 4 1550 100 100
+#22053
+shadow cloak~
+{ms{Mh{ma{Md{mo{Mw{w cloak~
+A {ms{Mh{ma{Md{mo{Mw{w cloak is here.~
+~
+cloth~
+9 J AC 0
+BD BD BD BD 0
+37 2 1850 100 100
+#22054
+cloth wraps mummy~
+cloth wraps from a mummy~
+A pile of wraps from a mummy are here.~
+~
+cloth~
+9 E AI 0
+CD CD CD CD 0
+47 2 2350 100 100
+#22055
+dog collar~
+dog collar~
+A dog collar is here.~
+~
+leather~
+9 0 AC 0
+ABD ABD ABD ABD 0
+41 1 2050 100 100
+A
+13 15
+#22056
+red potion~
+{Rred{w potion~
+A {Rred{w potion is here.~
+~
+glass~
+10 0 A 0
+31 514 0 0 0
+32 1 1600 100 100
+#22057
+lizard claw~
+claws from a fire lizard~
+A pair of claws from a fire lizard are here.~
+~
+bone~
+5 0 AN 0
+0 AB AE AB 0
+36 2 1800 100 100
+#22058
+goblin pin~
+{Gg{go{Gb{gl{Gi{gn{w pin~
+A {Gg{go{Gb{gl{Gi{gn{w pin is here.~
+~
+diamond~
+27 0 AQ 0
+0 0 0 0 0
+38 1 1900 100 100
+F
+A 0 0 L
+A
+2 1
+#22059
+glowing tongue~
+{cglowing{w bat tongue~
+A {cglowing{w bat tongue is here.~
+~
+brass~
+1 0 AO 0
+0 0 50 0 0
+50 1 2500 100 100
+#22060
+bat belt~
+belt of the bat~
+A belt of the bat is here.~
+~
+unknown~
+9 0 AL 0
+CD CD CD CD 0
+45 1 2250 100 100
+#22061
+flowing gown~
+flowing white gown~
+A flowing white gown is here.~
+~
+cloth~
+9 C AD 0
+ABD ABD ABD ABD 0
+41 1 2050 100 100
+A
+1 1
+A
+4 1
+#22062
+wand ivy~
+{Givy{C wand{w~
+An {Givy{C wand{w is here.~
+~
+crystal~
+3 0 AO 0
+ACF E D 503 0
+37 1 1850 100 100
+#22063
+old reading glasses~
+old reading glasses~
+A pair of old reading glasses are here.~
+~
+gold~
+9 0 AR 0
+ABD ABD ABD ABD 0
+43 1 2150 100 30
+A
+13 20
+#22064
+bear fur~
+bear fur~
+A pile of bear fur is here.~
+~
+unique~
+9 0 AD 0
+BD BD BD BD 0
+37 5 1850 100 100
+#22065
+gem of gardash~
+gem of Gardash~
+The gem of Gardash is here.~
+~
+crystal~
+8 AB AO 0
+0 0 0 0 0
+44 1 2200 100 100
+#22066
+venom dagger~
+dagger of venom~
+A dagger of venom is here.~
+~
+steel~
+5 0 AN 0
+B AB CE AB 0
+44 3 -200 100 100
+A
+13 -30
+#22067
+swirling vortex~
+a swirling vortex~
+A swirling vortex disturbs the dust here.~
+~
+unique~
+31 BEORT 0 0
+AFHLN 0 0 0 0
+20 20000 1000 100 100
+#22068
+song terror~
+song of {Cterror{w~
+The song of {Cterror{w is here.~
+~
+ice~
+27 0 AT 0
+0 0 0 0 0
+47 0 2350 100 100
+F
+A 0 0 L
+A
+5 -2
+#22069
+crossbow seeking~
+crossbow of seeking~
+A crossbow of seeking is here.~
+~
+wood~
+5 K AN 0
+0 AB AE A D
+36 10 1800 100 100
+#22070
+bottle swirling fog~
+a bottle filled with swirling fog~
+A bottle filled with swirling fog is here.~
+~
+glass~
+10 0 AO 0
+36 63 61 66 0
+36 1 0 100 100
+#22071
+wooden stake~
+wooden stake~
+A wooden stake is here.~
+~
+wood~
+5 KL AN 0
+0 AB AE B D
+35 3 1750 100 100
+#22072
+ancient holy symbol~
+ancient holy symbol~
+An ancient silver holy symbol is here.~
+~
+silver~
+27 AK AC 0
+0 0 0 0 0
+35 1 1750 100 100
+#22073
+wineskin holy water~
+holy water~
+A wineskin full of holy water is here.~
+~
+leather~
+17 0 AL 0
+BD BD 0 0 0
+35 3 1750 100 100
+#22074
+hoopak~
+hoopak~
+A hoopak is here.~
+~
+wood~
+5 0 AN 0
+0 AB AE B 0
+35 3 2550 100 100
+A
+2 1
+#22075
+bundle pouches~
+a bundle of pouches~
+A bundle of pouches have been left here.~
+~
+cloth~
+15 GL AL 0
+BD A 0 0 0
+35 0 1750 100 100
+#22076
+dead mouse~
+dead mouse~
+A small dead white mouse.~
+~
+unique~
+23 R A 0
+0 0 0 0 0
+35 2 1750 100 100
+#22077
+skin hell hound~
+skin from a hell hound~
+Skin from a hell hound is here.~
+~
+flesh~
+9 0 AD 0
+CD CD CD CD 0
+45 4 2250 100 100
+#22078
+puppet strings~
+puppet strings~
+Puppet strings are here.~
+~
+cloth~
+5 0 AN 0
+0 AB CE AB 0
+44 1 2200 100 100
+#22079
+walking cane~
+walking cane~
+A walking cane is here.~
+~
+wood~
+5 0 AN 0
+C AB ABE E 0
+41 2 2050 100 100
+A
+1 2
+#22080
+sword shangrala~
+sword of shangrala~
+Sword of shangrala~
+~
+steel~
+5 0 AN 0
+A AB AE BC 0
+37 4 1850 100 100
+A
+2 1
+A
+1 1
+#22081
+iron shield~
+iron shield~
+An iron shield is here.~
+~
+unknown~
+9 J AJ 0
+BD BD BD BD 0
+38 12 1900 100 100
+#22082
+iron axe~
+iron axe~
+An iron axe is here.~
+~
+iron~
+5 0 AN 0
+AC AB BE AB 0
+38 8 1900 100 100
+#22083
+butler suit~
+black butlers suit~
+A black butlers suit is here.~
+~
+cloth~
+9 0 0 0
+AD AD AD AD 0
+34 2 1700 100 100
+#22084
+flame ring~
+flame ring~
+A flame ring is here.~
+~
+unique~
+26 0 A 0
+34 36 0 0 0
+34 1 1700 100 30
+#22085
+ghostly sword~
+ghostly sword~
+A sword with a ghostly glow is here.~
+~
+crystal~
+5 0 AN 0
+A AB ABE AB 0
+42 0 2100 100 100
+#22086
+black coffin~
+This is Count Strahds coffin, it is made of the finest materials.~
+A black coffin sits in the center of the room.~
+~
+wood~
+15 R 0 0
+CEFGHI 0 0 0 0
+50 500 0 100 100
+#22087
+sign~
+a sign~
+Ravenloft is registered trademark owned by TSR, Inc. All Rights Reserved.~
+~
+wood~
+13 R 0 0
+0 0 0 0 0
+30 0 1500 100 100
+#0
+
+
+

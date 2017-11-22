@@ -1,0 +1,163 @@
+#14200
+Solace road guard~
+the road guard~
+A road guard bearing the insignia of Solace is here.
+~
+The guard looks very bored with his post, but he also looks very well trained.
+~
+~
+human~
+ABT 0 J A
+500 40 0 16d108+648 40d10+100 3d15+0 3
+CEFHKNT 0 0 0
+6 8 1 0
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14201
+guard Solace road~
+a road guard~
+A road guard bearing the insignia of Solace is here.
+~
+The guard looks very bored with his post, but he also looks very well trained.
+~
+~
+human~
+ABT 0 J A
+500 40 0 16d108+648 40d10+100 3d15+0 3
+CEFHKNT 0 0 0
+6 8 1 7
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14202
+guard Solace road~
+a road guard~
+A road guard bearing the insignia of Solace is here.
+~
+The guard looks very bored with his post, but he also looks very well trained.
+~
+~
+human~
+ABT 0 J A
+500 40 0 16d108+648 40d10+100 3d15+0 11
+CEFHKNT 0 0 0
+6 8 1 7
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14203
+bandit road~
+a road bandit~
+A road bandit is here, contemplating your purse.
+~
+He is quite burley, and looks like he has made more than his share of kills. He
+looks not fully human.
+~
+~
+orc~
+ACGT P I 0
+-500 15 0 6d37+162 15d10+100 2d7+0 3
+CDEFJKN 0 Q S
+8 8 1 4
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#14204
+cooshie guard~
+Looney's cooshie~
+Looney's cooshie takes one look at you and knows you do not belong here.
+~
+You realize this is not your run-of-the mill cooshie.  Perhaps the teeth
+as long as your fingernails was the first clue, but when you realize what he
+is gnawing on, that was probably the only other clue you needed.  
+~
+~
+dog~
+ABFT QV IJ AB
+0 38 20 16d97+603 38d10+100 3d15+0 7
+ADFH A B Z
+8 8 1 0
+AGHMV ABCDEFGHIJKRUVa 1 unknown
+#14205
+Looney elf~
+Looney~
+The innkeep, Looney the Elf, is here, wiping down a glass.
+~
+Looney is probably the oldest elf you have ever seen, at least 3000 years
+old.  It is said that he was on Dragon's Haven even before the coming of
+Searall.  Watching Looney for a bit, you realize he is *always* wiping the
+same glass, and he serves his customers out of dirty glasses.  Better use
+your own.  
+~
+This is me fave mob.
+~
+elf~
+ABT T I C
+500 50 20 16d168+930 50d10+100 4d18+0 3
+HJR A BP Z
+8 8 1 4
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GRALL 14200 100~
+M RANDOM 14201 10~
+M GIVE 14202 14205~
+M FIGHT 14203 15~
+M FIGHT 14204 45~
+#14206
+bunny rabbit pretty little~
+a pretty little bunny rabbit~
+A pretty little bunny rabbit is here.
+~
+The bunny rabbit looks harmless.
+~
+My favorite mob.
+~
+unique~
+AGT TV FJ AB
+0 20 12 11d38+238 20d10+100 2d9+0 7
+CFHKM A B 0
+8 8 1 0
+B 0 0 unknown
+M FIGHT 14205 10~
+#14207
+mage cloaked Ler'Kier~
+Ler'Kier the Mage~
+A cloaked mage sits in the corner sipping some ale.
+~
+As you look at the mage, he introduces himself as Ler'Kier, former
+captain of the Legions of Light, a regiment that once fought to protect
+Adaria from the armies of evil.  
+~
+~
+human~
+AR 0 J 0
+0 45 15 16d136+786 45d10+100 4d17+0 3
+CFH 0 N 0
+8 8 1 15
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14208
+traveller~
+a traveller~
+A traveller is here.
+~
+A poor-looking traveller, probably seeking his fame and fortune by
+travelling across the continent.
+~
+~
+human~
+AGHS 0 0 0
+-500 31 0 16d64+448 31d10+100 3d12+0 13
+JNU 0 0 0
+8 8 3 7
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#14209
+ditalmor mage~
+Ditalmor~
+Ditalmor the mage is here.
+~
+Ditalmor looks at you with an easy smile.  You feel you could trust this
+man to be there for you if you need him.
+~
+~
+human~
+AG T FG 0
+750 39 0 16d102+629 39d10+100 3d15+0 3
+EQ 0 C RX
+8 8 0 75
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

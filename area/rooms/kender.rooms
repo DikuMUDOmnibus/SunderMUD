@@ -1,0 +1,952 @@
+#14900
+The Path Leading to Kendermore~
+You are skipping along a narrow trail lined with white stones toward a small
+village in a light wood. From here, all you can see is the wooden barricade
+surrounding the hamlet, and the smoke of many fires coming from the chimneys
+of the houses. There is, of course, a sign here.
+~
+~
+4 2
+E
+sign~
+The sign says-
+
+Hi! Welcome to the Village of Kendermore. Please don't be aggressive or we'll
+set the dogs on you.
+
+                    Regards,
+                            The Chief
+~
+D2
+~
+~
+0 0 14241
+D3
+~
+~
+0 -1 14901
+S
+#14901
+The Path Leading to Kendermore~
+You are skipping along a narrow trail lined with white stones toward a small
+village in a light wood. From here, you think you can see signs of activity
+in the wood, which is directly to the east of here. Listening carefully, you
+hear grunts and squeals, followed by triumphant cries.
+~
+~
+0 2
+D1
+~
+~
+0 -1 14900
+D3
+~
+~
+0 -1 14902
+S
+#14902
+A Light Wood~
+You are passing through a lightly forested area that lies before the kender
+village. You see shapes moving through the trees on either side of you, and
+you feel rather uneasy, as if you were being watched.
+~
+~
+0 3
+D0
+~
+~
+0 -1 14903
+D1
+~
+~
+0 -1 14901
+D2
+~
+~
+0 -1 14907
+D3
+~
+~
+0 -1 14905
+S
+#14903
+A Light Wood~
+You are passing through a lightly forested area that lies before the kender
+village. You see shapes moving through the trees on either side of you, and
+you feel rather uneasy, as if you were being watched.
+~
+~
+0 3
+D2
+~
+~
+0 -1 14902
+D3
+~
+~
+0 -1 14904
+S
+#14904
+A Light Wood~
+You are passing through a lightly forested area that lies before the kender
+village. You see shapes moving through the trees on either side of you, and
+you feel rather uneasy, as if you were being watched.
+~
+~
+0 3
+D1
+~
+~
+0 -1 14903
+D2
+~
+~
+0 -1 14905
+S
+#14905
+A Light Wood~
+You are passing through a lightly forested area that lies before the kender
+village. You see shapes moving through the trees on either side of you, and
+you feel rather uneasy, as if you were being watched.
+
+The entrance to the village is directly west of here.
+~
+~
+0 3
+D0
+~
+~
+0 -1 14904
+D1
+~
+~
+0 -1 14902
+D2
+~
+~
+0 -1 14906
+D3
+~
+~
+0 -1 14908
+S
+#14906
+A Light Wood~
+You are passing through a lightly forested area that lies before the kender
+village. You see shapes moving through the trees on either side of you, and
+you feel rather uneasy, as if you were being watched.
+~
+~
+0 3
+D0
+~
+~
+0 -1 14905
+D1
+~
+~
+0 -1 14907
+S
+#14907
+A Light Wood~
+You are passing through a lightly forested area that lies before the kender
+village. You see shapes moving through the trees on either side of you, and
+you feel rather uneasy, as if you were being watched.
+~
+~
+0 3
+D0
+~
+~
+0 -1 14902
+D3
+~
+~
+0 -1 14906
+S
+#14908
+Out of the Woods~
+You emerge once more onto a narrow, stone-lined path. The gates of the kender
+village are directly before you. From here you can peer down the main street
+of the village. You see elderly kender seated upon porches watching their
+grandchildren play, while older kender youths stride about with their hoopaks,
+showing off to a group of giggling kender schoolgirls.
+~
+~
+0 1
+D1
+~
+~
+0 -1 14905
+D3
+~
+~
+1 0 14909
+S
+#14909
+Main Street~
+Streets head off in all directions from here; north and south toward private
+residences, west toward the village square, and east back out of town.
+~
+~
+0 1
+D0
+~
+~
+0 -1 14910
+D1
+~
+~
+1 0 14908
+D2
+~
+~
+0 -1 14914
+D3
+~
+~
+0 -1 14918
+S
+#14910
+A Side Street~
+You are walking along a side street, past the doors of several private
+residences. You can enter them if you want- trespassing is rude (not to
+mention illegal) but what do you care?
+~
+~
+0 1
+D0
+~
+~
+1 -1 14912
+D1
+~
+~
+1 -1 14913
+D2
+~
+~
+0 -1 14909
+D3
+~
+~
+1 -1 14911
+S
+#14911
+A Private Residence~
+You have entered the home of some kender family. Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later. Other than that the home looks
+quite comfortable.
+~
+~
+8 0
+D1
+~
+~
+1 -1 14910
+S
+#14912
+A Private Residence~
+You have entered the home of some kender family. Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later. Other than that the home looks
+quite comfortable.
+~
+~
+8 0
+D2
+~
+~
+1 -1 14910
+S
+#14913
+A Private Residence~
+You have entered the home of some kender family. Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later. Other than that the home looks
+quite comfortable.
+~
+~
+8 0
+D3
+~
+~
+1 -1 14910
+S
+#14914
+A Side Street~
+You are walking along a side street, past the doors of several private
+residences. You can enter them if you want- trespassing is rude (not to
+mention illegal) but what do you care?
+~
+~
+0 1
+D0
+~
+~
+1 0 14909
+D1
+~
+~
+1 -1 14915
+D2
+~
+~
+1 -1 14916
+D3
+~
+~
+1 -1 14917
+S
+#14915
+A Private Residence~
+You have entered the home of some kender family. Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later. Other than that the home looks
+quite comfortable.
+~
+~
+8 0
+D3
+~
+~
+1 -1 14914
+S
+#14916
+A Private Residence~
+You have entered the home of some kender family. Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later. Other than that the home looks
+quite comfortable.
+~
+~
+8 0
+D0
+~
+~
+1 -1 14914
+S
+#14917
+A Private Residence~
+You have entered the home of some kender family. Not surprisingly it is
+crammed full of useless junk that the family has "acquired" over the years,
+then cast aside in boredom a few days later. Other than that the home looks
+quite comfortable.
+~
+~
+8 0
+D1
+~
+~
+1 -1 14914
+S
+#14918
+Main Street~
+You are heading along a cobbled path that runs through the center of the
+kender village. The town square lies to the west of here, while the village
+gates lie east.
+~
+~
+0 1
+D1
+~
+~
+0 -1 14909
+D3
+~
+~
+0 -1 14919
+S
+#14919
+The Village Square~
+Here, the kender gather for meetings, festivals, markets and general
+entertainment. There is always something happening here. You gaze admiringly
+at the neatly pruned hedges that line the stone floored area, and at the
+intricately carved fountain that sits in the center of the square (a "gift"
+from the elves; doubtless the elves didn't give it consciously).
+~
+~
+0 1
+D0
+~
+~
+0 -1 14920
+D1
+~
+~
+0 -1 14918
+D2
+~
+~
+0 -1 14921
+D3
+~
+~
+0 -1 14922
+S
+#14920
+The Healer's Lodge~
+Here the kender cleric heals the injuries of his god's flock as well as any
+ailments visitors such as yourself may have. He stands behind a carved stone
+altar, grinning impishly (kender are NEVER truly serious) at you.
+~
+~
+8 0
+D2
+~
+~
+0 -1 14919
+S
+#14921
+The Chief's Lodge~
+The Chief of the village resides here. He is a cheerful fellow who is very
+fond of his drink, and can more often than not be found at the pub.
+~
+~
+8 0
+D0
+~
+~
+0 -1 14919
+S
+#14922
+Main Street~
+You are heading along a cobbled path that runs through the center of the
+kender village. The town square lies to the east of here, while the Grande
+Pub lies to the east. Shops lie to the north of here, and there are some
+barracks to the south.
+~
+~
+0 1
+D0
+~
+~
+0 -1 14926
+D1
+~
+~
+0 -1 14919
+D2
+~
+~
+0 -1 14923
+D3
+~
+~
+1 0 14932
+S
+#14923
+Kender Barracks~
+Here the standing militia of the village reside. This militia constitutes all
+able bodied males over the age of majority for one year of their lives. The
+presence of such a force is necessitated by the constant raids by hobgoblins
+and goblins recently.
+~
+~
+0 1
+D0
+~
+~
+0 -1 14922
+D2
+~
+~
+1 -1 14924
+D3
+~
+~
+1 -1 14925
+S
+#14924
+Barracks~
+This room is piled high with unwashed clothing and loads of stuff filched
+from passing merchant caravans. Evidently the militia don't take their job
+too seriously, but then again when has a kender ever been known to take
+things seriously...?
+~
+~
+8 0
+D0
+~
+~
+1 -1 14923
+S
+#14925
+Barracks~
+This room is piled high with unwashed clothing and loads of stuff filched
+from passing merchant caravans. Evidently the militia don't take their job
+too seriously, but then again when has a kender ever been known to take
+things seriously...?
+~
+~
+8 0
+D1
+~
+~
+1 -1 14923
+S
+#14926
+Shopper's Row~
+This lane is lined with quaint little shops that cater largely to outsiders
+(kender aren't known for paying for their possessions). You will be able
+to buy and sell a variety of items here.
+~
+~
+0 1
+D0
+~
+~
+0 -1 14928
+D2
+~
+~
+0 -1 14922
+D3
+~
+~
+0 -1 14927
+S
+#14927
+A Grocery Store~
+The shelves of this establishment are piled high with goodies of all sorts.
+Kender passing by each stop to stare longingly for a few seconds before they
+are shooed on by the good-natured proprietor.
+~
+~
+8 0
+D1
+~
+~
+0 -1 14926
+S
+#14928
+Shopper's Row~
+This lane is lined with quaint little shops that cater largely to outsiders
+(kender aren't known for paying for their possessions). You will be able
+to buy and sell a variety of items here.
+~
+~
+0 1
+D0
+~
+~
+0 -1 14930
+D1
+~
+~
+0 -1 14931
+D2
+~
+~
+0 -1 14926
+D3
+~
+~
+0 -1 14929
+S
+#14929
+The Bakery~
+The mouth-watering aroma emanating from this place of business is enough
+to drive you mad! You suddenly realize how hungry you are, and decide to
+sample a few locally-baked items (or maybe more...:P).
+~
+~
+8 0
+D1
+~
+~
+0 -1 14928
+S
+#14930
+The Herbalist~
+This store is crammed with sacks, jars, bags and baskets of freshly-picked
+herbs. Grown by the proprietor herself, these herbs have a wide variety of
+magical effects, though you won't know what until you buy and examine them.
+~
+~
+8 0
+D2
+~
+~
+0 -1 14928
+S
+#14931
+The Armory~
+Not a very popular destination for the locals, being as kender aren't the
+most aggressive of races, but perhaps it will be of interest to you.
+~
+~
+8 0
+D3
+~
+~
+0 -1 14928
+S
+#14932
+The Grande Pub~
+At last!  The place you were searching for all along (well, if you
+weren't, you are now ;P).  This magnificent pub is over 500 years old. 
+Fashioned from the finest cedar, its shining floors, massive benches, long,
+stein-covered bars and intricately carved stools make you just want to drink
+yourself to death.  You elbow your way through the crowd that always fills
+this pub, and have a good look around.  Tapestries adorn the walls, as do
+massive portraits of kender of bygone years.  A huge iron chandelier hangs
+from the massive crossbeams that support the 20' high roof, and you estimate
+that at least 500 candles are currently burning in it.  
+~
+~
+8 0
+E
+floors~
+These polished wooden floors have been painstakingly waxed every morning for
+centuries now, and they look as new as they did the day they were laid.
+~
+E
+benches~
+Long, polished wooden benches line the walls, serving as support for the
+food and drink (and usually inebriated bodies) of the many patrons here.
+~
+E
+bar bars~
+There are several bars in this place, all crowded with drunk patrons, though
+the main bar lies further in, near the central hall.
+~
+E
+stools~
+These stools were hand-carved by Thessala the patient nearly 200 years ago
+to replace the original stools, which were lost in the Great Brawl of '96.
+~
+E
+tapestries portraits~
+These depict many famous kender, as well as scenes of nature and village life.
+The tapestries are all quite rustic and atypical for kender, and you surmise
+that they were "borrowed" from some poor hobbit community.
+~
+E
+chandelier~
+This iron behemoth originally hung in the hall of Lord Garrison, commander of
+the Human armies at the Battle of the Blood Plains, but he "gave it to the
+kender as a reward for their services in the war" (it was actually to make
+them bugger off).
+~
+D1
+~
+~
+1 0 14922
+D3
+~
+~
+0 -1 14933
+S
+#14933
+The Central Hall~
+Dozens of patrons gather here day in and day out to drink, sing loud songs
+and swap tall stories. You see denizens of practically every known race (and
+a few unknown) standing arm in arm singing "Auld Lang Syne", or challenging
+each other to arm wrestles, games of darts or cards, or drinking contests.
+A HUGE bar lies to the north of here, staffed by a very busy bartender.
+~
+~
+8 0
+D0
+~
+~
+0 -1 14934
+D1
+~
+~
+0 -1 14932
+D3
+~
+~
+0 -1 14935
+S
+#14934
+The Bar~
+The main bar of the pub lies here. It is at least forty feet long, perhaps
+more, and though it is only 3 feet high (on account of the little folk), it
+is still impressive. A burly kender is busy serving drinks, and though he
+is being practically run off his feet, he still manages to find time for
+a quick chat with every patron. Such is the way of the Grande Pub.
+~
+~
+8 0
+D2
+~
+~
+0 -1 14933
+D5
+~
+~
+1 -1 14942
+S
+#14935
+The Dance Hall~
+In this part of the Pub, the Kender and their guests gather for dances,
+accompanied by a 7 piece band seated upon a dais in the corner of this huge
+room. It is currently deserted, but when the moment is right, it will be
+flooded with inebriated customers enthusiastically throwing each other about
+to the tune of kender and dwarven reels, or swaying softly to the
+accompaniment of an elven waltz. An elegantly carved staircase winds its
+way up to the next level in another corner here.
+~
+~
+8 0
+D1
+~
+~
+0 -1 14933
+D4
+The staircase is quite beautiful. It goes UP.~
+staircase~
+0 -1 14936
+S
+#14936
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+~
+8 0
+D0
+~
+~
+1 -1 14937
+D2
+~
+~
+1 -1 14945
+D3
+~
+~
+0 -1 14938
+D5
+~
+~
+0 0 14935
+S
+#14937
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with a
+well-carved bed, several comfortable chairs, a fireplace and a four poster
+bed. Better hope no one is in here...
+~
+~
+8 0
+D2
+~
+~
+1 -1 14936
+S
+#14938
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+~
+8 0
+D0
+~
+~
+1 -1 14939
+D1
+~
+~
+0 -1 14936
+D2
+~
+~
+1 -1 14944
+D3
+~
+~
+0 -1 14940
+S
+#14939
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with a
+well-carved bed, several comfortable chairs, a fireplace and a four poster
+bed. Better hope no one is in here...
+~
+~
+8 0
+D2
+~
+~
+1 -1 14938
+S
+#14940
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+~
+8 0
+D0
+~
+~
+1 -1 14941
+D1
+~
+~
+0 -1 14938
+D2
+~
+~
+1 -1 14943
+D3
+~
+~
+0 -1 14946
+S
+#14941
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with a
+well-carved bed, several comfortable chairs, a fireplace and a four poster
+bed. Better hope no one is in here...
+~
+~
+8 0
+D2
+~
+~
+1 -1 14940
+S
+#14942
+The Cellar~
+This cramped room is stuffed with keg after keg full of every type of
+alcohol known to sentient life. You are sorely tempted to attempt to steal
+all of it, but you know you could never hope to carry it all. Perhaps you
+could manage a couple of kegs, though...? ;)
+~
+~
+9 0
+D4
+~
+~
+1 -1 14934
+S
+#14943
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with a
+well-carved bed, several comfortable chairs, a fireplace and a four poster
+bed. Better hope no one is in here...
+~
+~
+8 0
+D0
+~
+~
+1 -1 14940
+S
+#14944
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with a
+well-carved bed, several comfortable chairs, a fireplace and a four poster
+bed. Better hope no one is in here...
+~
+~
+8 0
+D0
+~
+~
+1 -1 14938
+S
+#14945
+A Guest Room~
+You have barged into a guest room, a quaint affair nicely furnished with a
+well-carved bed, several comfortable chairs, a fireplace and a four poster
+bed. Better hope no one is in here...
+~
+~
+8 0
+D0
+~
+~
+1 -1 14936
+S
+#14946
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+~
+8 0
+D0
+~
+~
+1 0 14947
+D1
+~
+~
+0 -1 14940
+S
+#14947
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+~
+~
+8 0
+D1
+~
+~
+1 0 14948
+D2
+~
+~
+0 -1 14946
+S
+#14948
+Guest Rooms and Function Rooms~
+Several doors line this corridor, leading to the various guest rooms,
+function rooms and offices of the pub.
+
+The door to the north reads- "OWNER"
+~
+~
+8 0
+D0
+It says "Owner"~
+door~
+1 -1 14950
+D1
+~
+~
+1 -1 14949
+D3
+~
+~
+0 -1 14947
+S
+#14949
+A Function Room~
+This room is used by clubs and societies to hold functions. It is strewn with
+balloons, streamers, ashtrays full of butts and half empty beers. It also
+smells pretty bad. No wonder the cleaner didn't show up for work today.
+~
+~
+9 0
+D3
+~
+~
+1 -1 14948
+S
+#14950
+The Owner's Office~
+You have entered the office of the owner of the Grande Pub. He is currently
+downstairs living it up with the rest of the town, so you can rifle through
+his office at will.
+~
+~
+9 0
+D2
+~
+~
+1 -1 14948
+S
+#0
+
+
+

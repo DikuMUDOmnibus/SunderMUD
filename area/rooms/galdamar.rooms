@@ -1,0 +1,510 @@
+#2700
+The Gates of Galdamar~
+The Gates of Galdamar loom impressively to the east, composed entirely of
+wrought iron.  The hinges to either side are large enough to dwarf most
+buildings, and a huge latch, perpetually unlocked, hangs in the center.  A
+gravel road leads into the city to the west.  
+~
+~
+0 1
+D1
+~
+~
+1 -1 4021
+D3
+~
+~
+0 0 2701
+S
+#2701
+Gate Road~
+The road here is composed of a coarse gravel, which is piled up to form a
+path through the city.  Grass lines the sides of the road, and the gravel
+appears to be raked regularly to keep it smooth.  To the east are the city
+gates, and the city square is to the west.  A small sign hangs over a
+building to the north, and an open field lies to the south.  
+~
+~
+0 1
+E
+sign~
+The Famous Galdamar Cafe
+~
+D0
+~
+~
+0 0 2709
+D1
+~
+~
+0 0 2700
+D2
+~
+~
+0 0 2710
+D3
+~
+~
+0 0 2702
+S
+#2702
+Gate Road~
+A well worn path leads to the north, where the Temple of Freyhana sands. 
+The temple from the outside is a massive white stone structure, built with
+the kind of detail that takes thousands of hands to complete.  To the south,
+smoke rises from a small building.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2711
+D1
+~
+~
+0 0 2701
+D2
+~
+~
+0 0 2712
+D3
+~
+~
+0 0 2703
+S
+#2703
+Galdamar City Square~
+A fountain marks the Galdamar City Square, with benches aligned in a
+circle around it.  A second ring of trees circles the benches, and the
+street runs to both the east and west of Galdamar City Square.  To the
+north, a lane leads off into the residential wards of the city.  A neatly
+trimmed hedge marks the entrance to the Healer's Home to the south.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2713
+D1
+~
+~
+0 0 2702
+D2
+~
+~
+0 0 2726
+D3
+~
+~
+0 0 2704
+S
+#2704
+Gate Road~
+The gravel composing the pathway through Gladamar thins here, and the
+grass along the edge of the road has become more patchy.  A small shop is to
+the south, with an unreadable sign swaying in the breeze.  Green vines climb
+the walls of the shop.  To the east is City Square, and farther west is the
+Western Gate, the last line of defense of Galdemar from the rugged
+northlands.  
+~
+~
+0 1
+D1
+~
+~
+0 0 2703
+D2
+~
+~
+0 0 2725
+D3
+~
+~
+0 0 2705
+S
+#2705
+Gate Road~
+Grass grows through the gravel road here, an obvious sign that the
+traffic this area sees is much less than the rest of the city.  Only the
+hardiest of adventurers travel past here, and only when needs are very
+pressing.  Fences line both sides of the road here, in front of unmarked
+buildings with no entrances.  
+~
+~
+4 1
+D1
+~
+~
+0 0 2704
+D3
+~
+~
+0 0 2706
+S
+#2706
+Gate Road~
+The road here is still unkempt, due to the lack of traffic.  Guardposts
+line both the north and south of the road here.  The posts are heavily
+constructed, and obviously designed to withstand a siege, as they meet the
+city wall to the west.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2727
+D1
+~
+~
+0 0 2705
+D2
+~
+~
+0 0 2728
+D3
+~
+~
+0 0 2707
+S
+#2707
+Before the western gates~
+The western gates of Galdamar stand over a hundred feet high here.  To
+the east a gravel road leads into town.  The gates are rusty from disuse,
+and remain locked at all times unless there is a pressing need, as
+protection from the wilds of the northland.  
+~
+~
+0 1
+D1
+~
+~
+0 0 2706
+D3
+~
+~
+1 2706 2708
+S
+#2708
+Outside the Western Gates of Galdamar~
+The gates of Galdamar stand over a hundred feet high to the east here,
+built on the enormous scale of giants.  The Northern Trail wanders off into
+the mountains to the northwest here.  On both sides of the gate,
+fortifications can be seen.  Galdamar is well defended.  
+~
+~
+0 4
+D1
+~
+~
+1 -1 2707
+D3
+~
+~
+0 0 4030
+S
+#2709
+Galdamar Cafe~
+The cafe is decorated with rich hardwoods with iron trimmings.  The floor
+is swept clean to a lighter shade of wood, almost a blonde colour isntead of
+the deep red of the walls and furniture.  Tables of gigantic proportion fill
+the room, which is well lit.  A bar stands at the end.  
+~
+~
+0 0
+D2
+~
+~
+0 0 2701
+S
+#2710
+Memory Park~
+Stone pathways wind through grassy fields in Memory Park.  Trees grow in
+orderly lines tall above the cool ground.  The stone pathways converge in
+the center of the park.  
+~
+~
+0 0
+D0
+~
+~
+0 0 2701
+S
+#2711
+Temple of Freyhana~
+Beautiful sculptures and tapestries line the wall of this alabaster-white
+temple.  The floor is marble, covered with fresh red rose petals.  A lamp
+hangs in the center of the temple, giving off a soft illumination and the
+sweet smell of incense.  
+~
+~
+0 0
+D2
+~
+~
+0 0 2702
+S
+#2712
+A small Smithy~
+Heat pours out from the fires in the huge stone oven to the rear of the
+building.  The smoke is thick, and it threatens to choke off the air in the
+room.  A crude counter blocks the the clientel from interfering with the
+forge in the back.  
+~
+~
+0 0
+D0
+~
+~
+0 0 2702
+S
+#2713
+North Lane~
+North Lane heads through tall buildings on both sides, a channel through
+huge stone walls seemingly.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2714
+D2
+~
+~
+0 0 2703
+D3
+~
+~
+0 0 2718
+S
+#2714
+North Lane~
+North Lane heads through tall buildings on both sides, a channel through
+huge stone walls seemingly.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2715
+D1
+~
+~
+0 0 2721
+D2
+~
+~
+0 0 2713
+D3
+~
+~
+0 0 2720
+S
+#2715
+North Lane~
+North Lane heads through tall buildings on both sides, a channel through
+huge stone walls seemingly.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2716
+D1
+~
+~
+0 0 2723
+D2
+~
+~
+0 0 2714
+D3
+~
+~
+0 0 2722
+S
+#2716
+North Lane~
+North Lane heads through tall buildings on both sides, a channel through
+huge stone walls seemingly.  
+~
+~
+0 1
+D0
+~
+~
+0 0 2717
+D2
+~
+~
+0 0 2715
+D3
+~
+~
+0 0 2724
+S
+#2717
+North Lane~
+North Lane ends here where a steep cliff marks the northern edge of the
+Valley of the Giants.  Homes line both sides of the street, standing tall on
+the narrow street making the appearance of a canyon.  
+~
+~
+0 1
+D1
+~
+~
+0 0 2719
+D2
+~
+~
+0 0 2716
+S
+#2718
+A cheap apartment~
+This is a cheap apartment, but seems to be a little cozy.  Might be a
+good place to lease.  
+~
+~
+64 0
+D1
+~
+~
+0 0 2713
+S
+#2719
+A cheap apartment~
+This is a cheap apartment, but seems to be a little cozy.  Might be a
+good place to lease.  
+~
+~
+64 0
+D3
+~
+~
+0 0 2717
+S
+#2720
+A cheap apartment~
+This is a cheap apartment, but seems to be a little cozy.  Might be a
+good place to lease.  
+~
+~
+64 0
+D1
+~
+~
+0 0 2714
+S
+#2721
+A Cheap Apartment~
+This is a cheap apartment, but seems to be a little cozy.  Might be a
+good place to lease.  
+~
+~
+64 0
+D3
+~
+~
+0 0 2714
+S
+#2722
+A cheap apartment~
+This is a cheap apartment, but seems to be a little cozy.  Might be a
+good place to lease.  
+~
+~
+64 0
+D1
+~
+~
+0 0 2715
+S
+#2723
+A cheap apartment~
+This is a cheap apartment, but seems to be a little cozy.  Might be a
+good place to lease.  
+~
+~
+64 0
+D3
+~
+~
+0 0 2715
+S
+#2724
+A cheap apartment~
+This is a cheap apartment, but seems to be a little cozy.  Might be a
+good place to lease.  
+~
+~
+64 0
+D1
+~
+~
+0 0 2716
+S
+#2725
+Galdamar General Store~
+This is a crowded yet highly organized business.  It seems that any
+manner of product may be purchased here, as there are items lining the walls
+for sale.  A path of sorts weaves its way through the merchandise which is
+neatly stacked to the ceiling back to the counter.  
+~
+~
+8 0
+D0
+~
+~
+0 0 2704
+S
+#2726
+The Healer's Home~
+The slight smell of herbs is on the air in this humble home.  A couch
+sits against one wall, and a green rug lay in the center of the hardwood
+floor.  The rest of the home is quite spartan.  
+~
+~
+1052 0
+D0
+~
+~
+0 0 2703
+S
+#2727
+A Guardpost~
+This room is well-built of stone and morter.  Cots line the walls where
+the guards stay on 24 hour watch.  A sense of tension fills the air, as
+these guards are all away of the danger that is ever-present here at the
+border to the northlands.  
+~
+~
+264 0
+D2
+~
+~
+0 0 2706
+S
+#2728
+A Guardpost~
+This room is well-built of stone and morter.  Cots line the walls where
+the guards stay on 24 hour watch.  A sense of tension fills the air, as
+these guards are all away of the danger that is ever-present here at the
+border to the northlands.  
+~
+~
+0 0
+D0
+~
+~
+0 0 2706
+S
+#0
+
+
+

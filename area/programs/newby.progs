@@ -1,0 +1,36 @@
+#MOBPROGS
+#1000
+if ispc $n
+  if level $n < 5
+  tell $n Greetings!
+  tell $n If you are new to these lands, as it appears from your garb,
+  tell $n then you may want to visit some of my friends to the south.
+  tell $n They can instruct you in the ways of the lands that will
+  tell $n keep you safe and well-defended for many years to come.
+  tell $n When you are ready to return to your hometown, all you 
+  tell $n need to do is 'recall'.
+  wave $n
+  endif
+endif
+~
+#1001
+if ispc $n
+say You will find that the law is willing to protect you from other adventurers, so long as you don't become a threat to them yourself.
+endif
+~
+#1002
+if ispc $n
+say My days of adventuring are done.
+say Now, 'tis my daughters who get all the glory.
+stretch
+say I just stand here watching people go by now, it is very exciting.
+endif
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+

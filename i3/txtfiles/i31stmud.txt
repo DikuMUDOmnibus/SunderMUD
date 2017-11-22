@@ -1,0 +1,30 @@
+1stMUD 4.0 Intermud-3
+---------------------
+
+Optional: Skip the Makefile part, instead adding to ./configure.in :
+
+dnl Do we want to disable intermud 3?
+AC_ARG_ENABLE(i3, [i3 : Disables Intermud-3.], ,[I3_DEFS="-DI3 -DI31STMUD"])
+	AC_SUBST(I3_DEFS)
+
+	and this to ./Makefile.in
+
+	D_FLAGS = @DEFS@ @I3_DEFS@
+
+For the merc.h section, add the #include to the specified area in defines.h.
+
+In the comm.c section, skip the act_new part, this is already handled in 1stMUD.
+
+In the main() function, copyover section should look like:
+	#ifdef I3
+		   I3_socket = atoi( args[++pos] );
+	#else
+		   ++pos;
+	#endif
+
+In the interp.c section the command hook should look like:
+#ifdef I3
+                        && !I3_command_hook(ch, command, (char *)argument)
+#endif
+
+In the save.c section for fread_char, you are actually looking for the read_char function.

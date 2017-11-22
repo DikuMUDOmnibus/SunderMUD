@@ -1,0 +1,58 @@
+#MOBPROGS
+#2025
+if isimmort $n
+  say Greetings, master $N!
+  bow
+endif
+~
+#0
+
+#OBJPROGS
+#2000
+obj echoat $n The stone bench creaks under your weight.
+~
+#2001
+obj echoat $n You climb down to the floor.
+obj echoaround $n $n climbs down to the floor.
+obj transfer $n 2082 look
+obj goto 2082
+obj echoaround $n $n has climbed down from the Statue of Lotherius.
+obj goto 2174
+~
+#2002
+obj echoat $n You climb the statue and perch yourself upon its head.
+obj echoaround $n $n climbs the Statue of Lotherius.
+obj transfer $n 2174 look
+~
+#2003
+if objhere 2055
+obj echoat $n It looks like the panel is already open.
+obj echoat $n A rope ladder is dangling from it even!
+else
+obj echoat $n You push the panel out of the way, and a small rope ladder falls down, leading into the ceiling.
+obj echoaround $n $n pushes a panel on the roof open, and a small rope ladder drops down.
+obj oload 2055 1
+endif
+~
+#2004
+obj echoat $n You climb up into the ceiling.
+obj echoat $n The rope ladder mysteriously recoils itself into a neat little bundle and the panel closes behind you.
+obj echoaround $n $n disappears into the ceiling.
+obj transfer $n 2175 look
+obj purge ladder
+~
+#2005
+obj echoat $n BOOM!!!!!!!!
+obj echoat $n The sound of a billion explosions fills your ears!!
+obj echoat $n The light of a million suns fills your eyes!!
+obj echoat $n You feel yourself drawn thin... thinner..... .thinner..........
+obj echoat $n Until... there is almost nothing.... left.......
+obj echoat $n And .... WHAM!!!! You're back to normal...
+obj echoat $n But you aren't where you started ...
+obj gtransfer $n 25100 look
+~
+#0
+
+#ROOMPROGS
+#0
+

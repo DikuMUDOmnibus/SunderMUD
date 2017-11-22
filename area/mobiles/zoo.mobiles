@@ -1,0 +1,176 @@
+#5000
+squirrel~
+a squirrel~
+A squirrel chitters away here.
+~
+~
+~
+school monster~
+AU Y J 0
+0 1 0 1d2+4 1d10+100 1d3+0 10
+H AB 0 C
+8 8 3 20
+AGMV ABCDEFHJKQRUa 1 unknown
+#5001
+macaw~
+a macaw~
+A macaw sits on a branch here saying "Hello!".
+~
+~
+~
+school monster~
+AU T 0 0
+0 1 0 1d2+4 1d10+100 1d3+0 10
+H AB 0 C
+8 8 3 20
+AGMVW ABCDEFHJKPQRUa 2 unknown
+#5002
+elephant~
+an elephant~
+An elephant stands here lazily trumpeting his day away.
+~
+~
+~
+school monster~
+AU a 0 0
+0 2 1 1d2+10 2d10+100 1d3+0 7
+OU AB 0 C
+8 8 3 40
+AMV ABCDEFHJKQRUa 2 unknown
+#5003
+duck~
+a duck~
+A duck is here, quacking happily.
+~
+~
+~
+school monster~
+AU Tb 0 0
+0 2 1 1d2+10 2d10+100 1d3+0 10
+H AB 0 C
+8 8 3 40
+AGMVW ABCDEFHJKPQRUa 2 unknown
+#5004
+snake~
+a snake~
+A snake is here, baring its fangs!
+~
+~
+~
+snake~
+A 0 0 0
+0 3 1 1d6+18 3d10+100 1d4+0 10
+0 0 L I
+8 8 3 60
+AGRXYc ADEFKLQVX 2 unknown
+#5005
+buffalo~
+a buffalo~
+A buffalo charges toward you!
+~
+~
+~
+bear~
+ABF 0 0 0
+0 4 2 1d10+28 4d10+100 1d4+0 7
+DEO 0 EI 0
+8 8 3 80
+AGV ABCDEFHJKRSTUVWa 3 unknown
+#5006
+wolf~
+a wolf~
+A wolf snarls at you.
+~
+~
+~
+wolf~
+A V J 0
+0 5 2 1d16+42 5d10+100 1d4+0 10
+FH 0 0 0
+8 8 3 100
+AGV ACDEFJKQRVa 2 unknown
+#5007
+piranha~
+a piranha~
+A piranha zips toward you!
+~
+~
+~
+school monster~
+ABU b 0 0
+0 6 3 1d24+51 6d10+100 1d5+0 10
+0 ABR 0 C
+8 8 3 120
+AGMVc ABCDEFHJKOQRUXa 1 unknown
+#5008
+alligator~
+an alligator~
+An alligator is here basking in the mud and sun.
+~
+~
+~
+school monster~
+ABFU 0 0 0
+0 7 3 1d33+61 7d10+100 1d5+0 10
+M AB L CI
+8 8 3 140
+AGMVXc ABCDEFHJKQRUVa 3 unknown
+#5009
+pretzel vendor~
+the pretzel vendor~
+A vendor is here selling pretzels
+~
+~
+~
+human~
+ABDGV 0 0 0
+500 100 100 16d675+2970 100d10+100 7d34+0 7
+0 ABP 0 0
+8 8 1 2000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#5010
+kangaroo~
+a kangaroo~
+A kangaroo bounces toward you.
+~
+~
+~
+school monster~
+AU 0 0 0
+0 8 4 3d21+73 8d10+100 1d5+0 13
+IJ AB 0 C
+8 8 3 160
+AMV ABCDEFHJKQRUa 2 unknown
+#5011
+rat villainous~
+A rat~
+A villainous rat hungry for meat!
+~
+Filthy and dirty, this is a very large rat, hungry for meat.  Your meat
+will do!  
+~
+~
+generic~
+ABF 0 0 0
+0 4 2 1d10+33 4d10+100 1d4+0 10
+FH AB Q R
+8 8 0 80
+AGV ACDEFHJKQUV 2 unknown
+#5012
+beetle ugly~
+an ugly beetle~
+An ugly beetle has dug into the passageway.
+~
+Very ugly, black and shiny.
+~
+~
+generic~
+A 0 0 0
+0 6 3 1d24+51 6d10+100 1d5+0 10
+0 0 QR FK
+8 8 0 0
+AOc ACEFHK 1 unknown
+#0
+
+
+

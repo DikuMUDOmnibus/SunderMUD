@@ -1,0 +1,500 @@
+#14900
+hoopak~
+a hoopak~
+A hoopak lies here.~
+~
+wood~
+5 0 AN 0
+0 A D 0 0
+14 5 2300 100 100
+A
+18 2
+E
+hoopak~
+A hoopak is a staff-sling, that can be used to bash your opponent or hurl
+a rock at it. Not being familiar with such a weapon, you can only use it
+to bash.
+~
+#14901
+topknot~
+a kender's topknot~
+Kender topknots are a source of pride and status.~
+~
+cloth~
+9 0 AE 0
+AB AB AB AB 0
+4 1 1000 100 100
+A
+2 1
+A
+4 -1
+A
+14 10
+#14902
+breeches~
+a pair of breeches~
+A pair of blue breeches lie here.~
+~
+cloth~
+9 0 AF 0
+AB AB AB AB 0
+4 1 200 100 100
+#14903
+fur jacket~
+a fur jacket~
+This fur jacket will help keep the chill november wind out.~
+~
+cloth~
+9 0 AD 0
+AB AB AB AB 0
+4 2 600 100 100
+A
+17 -10
+#14904
+cloak~
+a brown cloak~
+A brown cloak is crumpled up on the floor here.~
+~
+cloth~
+9 0 AC 0
+AC AC AC AC 0
+14 1 2300 100 100
+A
+5 2
+#14905
+toy~
+a child's toy~
+This toy could do you an injury if you stood on it.~
+~
+wood~
+13 0 AO 0
+0 0 0 0 0
+4 1 40 100 100
+#14906
+pouch~
+a pouch~
+This pouch would hang well at your belt.~
+~
+leather~
+15 0 AM 0
+ADE A 0 0 0
+10 1 500 100 100
+#14907
+spear~
+a short spear~
+These spear are ideal for hunting boar.~
+~
+iron~
+5 0 AN 0
+AB A D B 0
+14 25 700 100 100
+#14908
+short sword~
+a magic short sword~
+A magical short sword is here.~
+~
+steel~
+5 AG AN 0
+A C DE ABD 0
+54 10 9100 100 100
+A
+18 4
+A
+19 4
+#14909
+gem~
+a gem~
+A pretty emerald lies here.~
+~
+crystal~
+8 0 AO 0
+0 0 0 0 0
+44 1 2200 100 100
+#14910
+potion~
+a dark potion~
+A dark potion rests here.~
+~
+glass~
+10 B AO 0
+10 16 16 43 0
+39 1 1950 100 100
+#14911
+loaf wheat bread~
+a loaf of wheat bread~
+A loaf of freshly-baked wheat bread sits here.~
+~
+food~
+19 0 A 0
+CD 0 0 0 0
+1 1 50 100 100
+#14912
+sweet roll~
+a sweet roll~
+*>MMM<* a sweet roll that looks DELICIOUS!~
+~
+food~
+19 0 A 0
+AB 0 0 0 0
+1 1 50 100 100
+#14913
+sponge cake~
+a sponge cake~
+A sponge cake sits neglected here.~
+~
+food~
+19 0 A 0
+BC 0 0 0 0
+1 1 50 100 100
+#14914
+black currant pie~
+a black currant pie~
+(Steaming) A black currant pie steams away here.~
+~
+food~
+19 0 A 0
+AC 0 0 0 0
+1 1 50 100 100
+#14915
+backpack~
+a small backpack~
+A small backpack lies on its side here.~
+~
+leather~
+15 0 AD 0
+BEF A 0 0 0
+1 1 50 100 100
+#14916
+torch~
+a torch~
+A torch sits here.~
+~
+wood~
+1 0 AO 0
+0 0 24 0 0
+1 1 50 100 100
+#14917
+tent~
+a camping tent~
+A camping tent has been pitched here.~
+~
+cloth~
+15 S A 0
+DFGHIJ A 0 0 0
+1 100 50 100 100
+#14918
+blanket~
+a coarse blanket~
+A coarse blanket lies here.~
+~
+cloth~
+9 0 AK 0
+AC AC AC AC 0
+10 2 500 100 100
+#14919
+waterskin water skin~
+a waterskin~
+A full waterskin is here.~
+~
+leather~
+17 0 AO 0
+AC AC 0 0 0
+1 1 50 100 100
+#14920
+leather jerkin~
+a stout leather jerkin~
+A stout leather jerkin can be seen here.~
+~
+leather~
+9 0 AD 0
+AC AC AC AC 0
+10 4 1300 100 100
+A
+5 1
+#14921
+hoopak~
+a hoopak~
+A hoopak lies here.~
+~
+wood~
+5 0 AN 0
+ABC A ABC ABC 0
+10 5 2100 100 100
+A
+18 1
+A
+19 1
+E
+hoopak~
+A hoopak is a staff-sling, that can be used to bash your opponent or hurl
+a rock at it. Not being familiar with such a weapon, you can only use it
+to bash.
+~
+#14922
+sling~
+a sling~
+A sling has been left here.~
+~
+leather~
+5 0 AN 0
+ABC A ABC ABC 0
+10 1 500 100 100
+A
+18 3
+A
+19 -3
+#14923
+boots~
+a pair of hiking boots~
+A pair of hiking boots sit here.~
+~
+leather~
+9 0 AG 0
+AC AC AC AC 0
+10 3 4500 100 100
+A
+14 50
+#14924
+yellow herb~
+a yellow herb~
+A yellow herb is here.~
+~
+pill~
+26 G A 0
+10 1 3 0 0
+5 1 250 100 100
+E
+yellow herb~
+This herb will increase your defenses and engender the blessing of the Gods.
+~
+#14925
+red herb~
+a red herb~
+A red herb is here.~
+~
+pill~
+26 G A 0
+10 77 19 44 0
+5 1 250 100 100
+E
+red herb~
+This herb will greatly increase your powers of perception.
+~
+#14926
+green herb~
+a green herb~
+A green herb is here.~
+~
+pill~
+26 G A 0
+10 29 34 0 0
+5 1 250 100 100
+E
+green herb~
+This herb will conceal and protect you.
+~
+#14927
+white herb~
+a white herb~
+A white herb is here.~
+~
+pill~
+26 G A 0
+10 61 81 0 0
+5 1 250 100 100
+E
+white herb~
+This herb will heal and refresh you.
+~
+#14928
+pint beer~
+a pint of beer~
+A pint of beer foams here.~
+~
+glass~
+17 0 AO 0
+B B A 0 0
+1 1 50 100 100
+#14929
+glass whiskey~
+a glass of whiskey~
+A glass of whiskey sits here.~
+~
+glass~
+17 0 AO 0
+A A AC 0 0
+1 1 50 100 100
+#14930
+glass wine~
+a glass of wine~
+A glass of wine is here. Nice head.~
+~
+glass~
+17 0 AO 0
+A A B 0 0
+1 1 50 100 100
+#14931
+pint ale~
+a pint of ale~
+A pint of ale is here.~
+~
+glass~
+17 0 AO 0
+B B AB 0 0
+1 1 50 100 100
+#14932
+counter~
+a shop counter~
+A shop counter rests here.~
+~
+wood~
+12 0 A 0
+C B A 0 0
+23 30000 1150 100 100
+#14933
+chair~
+a comfy chair~
+A comfy chair rests near a fireplace here.~
+~
+leather~
+12 0 0 0
+C C A ADE 0
+42 275 2100 100 100
+E
+comfy chair~
+It is indeed a very comfortable-looking chair.
+~
+#14934
+hearth fireplace~
+a fireplace~
+A fire crackles merrily away in the hearth.~
+~
+stone~
+12 A 0 0
+0 0 0 0 0
+42 1 420 100 100
+E
+hearth fireplace~
+You feel all toasty and warm!
+~
+#14935
+keg ale~
+a keg of ale~
+A keg of ale rests here.~
+~
+wood~
+17 0 A 0
+ADE ADE AB 0 0
+42 25 2100 100 100
+E
+keg ale~
+It has BASS in gold letters on one side...
+~
+#14936
+keg beer~
+a keg of beer~
+A keg of beer rests here.~
+~
+wood~
+17 0 A 0
+ADE ADE A 0 0
+42 25 2100 100 100
+E
+keg beer~
+It has Kilkenny in gold letters on one side...
+~
+#14937
+keg spirits~
+a keg of spirits~
+A keg of spirits rests here.~
+~
+wood~
+17 0 A 0
+ADE ADE AC 0 0
+42 25 2100 100 100
+E
+ale~
+It has Johnny Walker in gold letters on one side...
+~
+#14938
+bottle white wine~
+a bottle of white wine~
+A bottle of white wine is in a rack here.~
+~
+glass~
+17 0 A 0
+AC AC B 0 0
+42 5 2100 100 100
+E
+bottle white wine~
+Mmm! A good year!
+~
+#14939
+bottle red wine~
+a bottle of red wine~
+A bottle of red wine is in a rack here.~
+~
+glass~
+17 0 A 0
+AC AC B 0 0
+42 5 2100 100 100
+E
+bottle red wine~
+Mmm! A good year!
+~
+#14940
+desk~
+an ornate desk~
+An ornate desk sits in the center of the room.~
+~
+wood~
+12 0 0 0
+0 FHIJKL A 0 0
+42 1 2100 100 100
+E
+desk~
+It looks to be very old and expensive. You wonder who it was borrowed from...
+~
+#14941
+papers~
+some papers~
+Some papers are scattered about here.~
+~
+vellum~
+2 0 AO 0
+20 38 0 0 0
+42 1 2100 100 100
+E
+papers~
+All figures and other accounting stuff... very dull.
+~
+#14942
+chair~
+an office chair~
+An office chair rests near a desk here.~
+~
+wood~
+12 0 A 0
+A C B 0 0
+42 35 2100 100 100
+E
+chair~
+It is indeed a very comfortable-looking chair.
+~
+#14943
+bed~
+a four poster bed~
+A four poster bed sits near the center of the room.~
+~
+cloth~
+12 0 0 0
+C C A ABDG 0
+42 400 2100 100 100
+E
+bed~
+It is very comfortale looking, made with silk sheets and all.
+~
+#0
+
+
+

@@ -1,0 +1,12 @@
+ResortMud 4.0b Intermud-3
+-------------------------
+
+No modifications needed, but a caveat:
+
+If you have an older RM4.0b with the IMC2 2.00g or lesser client code installed, you
+will need to deinstall that code and upgrade to the IMC2 3.00 Mud-Net release or later
+to solve a serious problem with the IMC2 memory handling and the addition of the I3 code.
+
+If the copy of RM4.0b you have also contains I3 code preinstalled, you will need to remove
+that completely as well and then follow the Smaug install instructions to add this I3 code
+to the mud.

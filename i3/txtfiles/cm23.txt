@@ -1,0 +1,20 @@
+CalareyMud 2.0/3.0 I3
+---------------------
+
+In i3cfg.h, in the #ifdef I3SMAUG section:
+
+Find:
+   #define CH_LEVEL(ch)          ((ch)->level)
+Replace with:
+   #define CH_LEVEL(ch)          ( FALSE )
+
+This will disable the legacy conversion of old pfiles, but this can't exactly
+be avoided since CalareyMud doesn't have a level system. You will need to
+manually edit the pfile of at least one administrator to be able to gain access
+to the I3 system. You should set the following line on whoever you choose:
+
+I3Perm      5
+
+This will set the person to have implementor level access to the IMC2 commands
+and from there they will be able to setup other people. This setting needs to be
+added somewhere before the list of objects begins.

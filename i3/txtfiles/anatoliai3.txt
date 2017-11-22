@@ -1,0 +1,5 @@
+Anatolia 2.1 Intermud-3
+-----------------------
+
+In comm.c, when looking for act_new, your looking for act_color instead.
+Placement of the code is still the same.

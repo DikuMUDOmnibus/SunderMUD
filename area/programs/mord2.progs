@@ -1,0 +1,108 @@
+#MOBPROGS
+#1953
+if wears $n 'black cultist robes'
+   if isdelay $i
+      say Patience $n, I am dealing with $q.  Wait your turn.
+   else
+      mob remember $n
+      peer $n
+      say So, you wish to be cleansed do you $n?  Very well...
+      mob echoat $n The cultist puts you through a series of excruciating tortures.
+      mob echoaround $n $n goes through a series of agonising tortures... looks painful!
+      if isgood $n
+         mob echoat $n Your flesh is seared and torn by the unholy rites!
+         mob damage $n 50 50
+      endif
+      mob delay 2
+      break
+   endif
+else
+   say You are not suitably attired, $n.
+endif
+~
+#1954
+say You're tougher than I'd give you credit for.  Very well.  You are cleansed.
+mob echo The supervisor digs out a wooden token from his robes.
+mob oload 1959 5
+give token $q
+say Give that token to the Voice.  He will instruct you further.
+mob echo The supervisor turns back to the other initiates.
+mob forget
+~
+#1956
+if wears $n 'black cultist robes'
+   say Praise be to the Abyss!
+else
+   say Interloper!  Faithless One!
+   mob kill $n
+endif
+~
+#1959
+say Ah, excellent, a new convert to our faith!
+say We must have a ceremony to celebrate this.  Come, fetch me my sash from the robing chamber.
+if carries $i 'silver key'
+   say You'll need this key.  Now hurry!
+   give silver $n
+else
+   say Now where did I put that... hmmm...
+   mob echo The Voice incants a short spell and a key appears!
+   say Here you go.
+   mob oload 1957 5
+   give silver $n
+endif
+mob echo The Voice returns to his meditations.
+~
+#1960
+say Ah, there you are.  Thank you for bringing me my sash.
+if carries $i 'temple key'
+   say Now take this key and unlock the temple.
+   give temple $n
+   say We'll hold the ceremony shortly!
+else
+   say I've gone and lost the temple key again!
+   sigh
+   mob echo The Voice makes a few passes in the air with his hands.  A key appears!
+   mob oload 1960 5
+   give temple $n
+   say There.  Now go and unlock the temple.
+endif
+mob echo The Voice returns to his meditations.
+~
+#1961
+mob echo The cult leader blinks and shakes his head as his soul is returned to him.
+say What?  I have been living a lie?  Manipulated by the very demon I was sworn to destroy!
+sob
+say You have saved my soul from a life of eternal torment, and stopped his evil designs.
+say Here, take this, I have no further use for it.
+mob oload 1970 8
+give tarnished $n
+say And now finally I can leave this evil place.  Farewell!
+mob echo The Voice, now just a simple cleric of good, leaves for a better life.
+mob purge $i
+ 
+~
+#1969
+groan
+say Beware...
+cough
+say Portal...  Demon...
+faint $n
+~
+#1974
+if wears $n 'black cultist robe'
+   say Another foolish cultist come to see his 'god', eh?
+   say Well fool, here I am - NOW DIE!
+else
+   say Oh ho!  An 'adventurer' are you?  Come to slay the evil demon?
+   say Well you'll taste as good as those dumb cultists!
+endif
+mob kill $n
+~
+#0
+
+#OBJPROGS
+#0
+
+#ROOMPROGS
+#0
+

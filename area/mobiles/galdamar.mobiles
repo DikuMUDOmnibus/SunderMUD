@@ -1,0 +1,96 @@
+#2700
+giant trader~
+A giant trader~
+A giant trader is here, just back purchasing more goods abroad.
+~
+He looks dirty from the road, but genuinely eager to help you.  
+~
+~
+giant~
+AB TVb F 0
+200 70 0 16d330+1614 70d10+100 5d25+0 7
+BCDEFHNO ABP HI JP
+8 8 1 75000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#2701
+sealock saltheart~
+Sealock Saltheart~
+Sealock Saltheart, owner of the cafe, offers his services.
+~
+Sealock Saltheart is large, even for a giant.  Cousin of the famous
+Regtorth, he earned a name for himself in the Giant Navy, and has settled
+down to run one what he calls the best cafe in Galdamar.  It is, actually,
+the only cafe in Galdemar.  
+~
+~
+giant~
+ABDEGV 0 0 0
+700 100 100 16d675+2970 100d10+100 7d34+0 7
+0 ABP HI JP
+8 8 1 2000
+AHMV ABCDEFGHIJKRSTa 5 unknown
+#2702
+giant healer sarah~
+Sarah~
+A middle aged giant woman is here, helping the needy.
+~
+She appears to fully enjoy her work, and offers assistance to anyone in
+need.  
+~
+~
+giant~
+ABDQa 0 0 C
+900 50 50 16d168+930 50d10+100 4d18+0 3
+0 ABP HI JP
+8 8 2 1000
+AHMV ABCDEFGHIJKRSTa 5 unknown
+#2703
+captain guard seafom bluespray~
+Seafoam Bluespray~
+Seafoam Bluespray, the captain of the Galdamar Guard, is here.
+~
+Seafoam Bluespray earned his reputation as a man of strong heart and
+strong arm in the Giant Navy years ago.  He takes his job of protecting both
+Galdamar and the peaceful lands to the south very seriously.  
+~
+~
+giant~
+AGT 0 EFGI BC
+750 105 125 16d675+2970 100d10+100 8d35+0 17
+ACEFHIKLRTUV 0 HI JP
+8 8 1 2000
+AHMV ABCDEFGHIJKRSTa 5 unknown
+#2704
+giant guard assassin~
+a giant assassin~
+A giant guard is here, looking for enemies.
+~
+This guard is trying to remain hidden. It is obvious that he is skilled
+in the art of surprise.
+~
+~
+giant~
+AS PQV HIJ B
+400 105 105 16d744+3238 105d10+100 8d35+0 11
+BRTUV 0 HI JP
+8 8 1 2100
+AHMV ABCDEFGHIJKRSTa 5 unknown
+#2705
+giant guard~
+A giant guard~
+A giant guard is here, watching for enemies.
+~
+Battle-hardened and wary, this guard would make a very tough
+opponent in any situation.
+~
+~
+giant~
+AT 0 FH B
+700 99 99 16d661+2923 99d10+100 7d34+0 17
+CDEFIKRTUV 0 HI JP
+8 8 1 1980
+AHMV ABCDEFGHIJKRSTa 5 unknown
+#0
+
+
+

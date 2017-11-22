@@ -1,0 +1,73 @@
+#2700
+vegetable stew~
+some vegetable stew~
+Some vegetable stew is here, steaming.~
+~
+food~
+19 0 A 0
+CD 0 0 0 0
+1 1 7 100 100
+#2701
+watermelon whole~
+a whole watermelon~
+A whole watermelon, just bite sized for a giant, is here.~
+~
+food~
+19 0 A 0
+ABCD 0 0 0 0
+1 5 15 100 100
+#2702
+pitcher iced tea~
+a pitcher of tea~
+A pitcher of iced tea is here.~
+~
+stone~
+17 0 A 0
+BD BD ABD 0 0
+1 3 5 100 100
+#2703
+stone fountain~
+a stone fountain~
+A stone fountain stands proudly in the center of the park.~
+~
+stone~
+25 0 0 0
+0 0 0 0 0
+1 0 0 100 100
+E
+fountain~
+A small plaque is attatched to the bottom, which reads:
+ 
+In Memory of Those Who Gave Their Lives At Sea.
+~
+#2704
+wood giant bed~
+a giant bed~
+A massive wooden bed sits on the floor here.~
+~
+wood~
+12 0 A 0
+B 0 I 0 0
+2 75 7500 100 100
+#2705
+huge dagger~
+a huge dagger~
+A huge dagger.~
+~
+steel~
+5 I AN 0
+B D ABDF ABD DE
+105 5 5250 100 100
+#2706
+key north gate~
+the north gate key~
+A tarnished brass key is here.~
+~
+brass~
+18 0 A 0
+0 0 0 0 0
+1 1 50 100 100
+#0
+
+
+

@@ -1,0 +1,272 @@
+#1900
+pick me up vial green liquid~
+a vial labelled 'a pick me up'~
+A small vial of green liquid rests here.~
+~
+glass~
+10 N A 0
+5 81 81 0 0
+5 3 250 100 100
+#1901
+dumb bell~
+an iron dumb-bell~
+A strongman's weights have been dropped here~
+~
+iron~
+5 0 AN 0
+C A BC D F
+5 10 250 100 100
+A
+1 1
+#1902
+sign warning~
+a warning sign~
+A warning sign has been placed here.~
+~
+wood~
+13 RT 0 0
+0 0 0 0 0
+1 5 0 100 100
+E
+sign~
+*** Warning!  The Hall of Mirrors has been infected by some evil force. 
+Enter only if you are level 3 or above and confident of your abilities.  ***
+~
+#1911
+hot roasted chestnuts~
+some hot roasted chestnuts~
+A handful of hot roasted chestnuts.~
+~
+wood~
+19 N A 0
+A 0 0 0 0
+1 1 10 100 100
+#1912
+scimitar ale~
+scimitar ale~
+A glass bottle of dark Scimitar ale is here.~
+~
+glass~
+17 N A 0
+A A C 0 0
+3 2 150 100 100
+#1913
+fairy cake~
+a fairy cake~
+A fairy cake (not made from fairies).~
+~
+food~
+19 N A 0
+B 0 0 0 0
+1 0 50 100 100
+#1914
+strange glowing light~
+a strange glowing light~
+A strange glowing light is here, floating in mid-air.~
+~
+unique~
+1 AGN AT 0
+0 0 6 0 0
+1 1 250 100 100
+#1915
+lucky rabbit foot~
+lucky rabbits foot~
+A lucky rabbits foot on a small chain is here.~
+~
+flesh~
+5 IN AN 0
+BC A AC BCE 0
+3 1 150 100 100
+#1916
+lucky dip prize~
+a lucky dip prize~
+A wonderful super fantastic lucky dip prize!~
+~
+rubber~
+13 0 AO 0
+0 0 0 0 0
+0 1 0 100 100
+#1917
+lucky dip barrel~
+a lucky dip barrel~
+A large barrel full of sawdust is here waiting for the next lucky punter.~
+~
+wood~
+15 R 0 0
+A 0 0 0 0
+0 10 0 100 100
+#1918
+packet herbs bruising poultice~
+a poultice to reduce bruising~
+A small packet of herbs lies here.~
+~
+pill~
+26 N A 0
+4 16 0 0 0
+4 4 250 100 100
+#1919
+conductor baton~
+a conductor's baton~
+A blood-stained conductor's baton~
+~
+wood~
+5 0 AN 0
+B A AC B 0
+3 1 150 100 100
+#1920
+packet eagle eye~
+a packet labelled 'eye of eagle'~
+A small packet containing an eye is here.~
+~
+pill~
+26 N A 0
+4 44 0 0 0
+4 1 250 100 100
+#1921
+incense candle~
+an incense candle~
+A small incense candle lies here.~
+~
+unique~
+3 N AO 0
+AC AB AB 14 0
+5 2 250 100 100
+#1922
+whip grease~
+a whip~
+A grease-stained whip lies here.~
+~
+leather~
+5 0 AN 0
+ABC A AC AD 0
+3 1 150 100 100
+#1923
+longbow bow~
+a longbow~
+A longbow lies here unattended.~
+~
+wood~
+5 0 AN 0
+0 A AC ABD 0
+5 4 250 100 100
+#1924
+target~
+an archery target~
+An archery target has been set up here.~
+~
+wood~
+12 0 0 0
+0 0 0 0 0
+0 10 0 100 100
+#1928
+lance light long jousting~
+a jousting lance~
+A long blunt lance used for jousting lies here~
+~
+wood~
+5 A AN 0
+D A BC AE F
+4 7 200 100 100
+#1929
+pouch gold coins~
+a pouch of gold coins~
+A pouch of gold coins is here.~
+~
+gold~
+20 0 A 0
+EG 0 0 0 0
+1 2 100 100 100
+#1930
+spiked morning star ball chain~
+a spiked morning star~
+A spiked ball and chain lies here~
+~
+iron~
+5 E AN 0
+BC A BC D F
+4 10 200 100 100
+#1931
+knights chest~
+the chest~
+A knight's chest is here.~
+~
+wood~
+15 0 0 0
+AC AC 0 0 0
+1 10 50 100 100
+#1932
+surgical cleaver~
+a surgical cleaver~
+(no description)~
+~
+steel~
+5 0 AN 0
+AC A AC ACE 0
+3 4 150 100 100
+#1933
+garotte~
+a deadly garotte~
+A deadly garotte.~
+~
+steel~
+5 E AN 0
+0 A AC D 0
+4 1 200 100 100
+#1939
+contract king fair~
+an assassination contract~
+A scroll tied with black ribbon lies here.~
+~
+paper~
+13 0 A 0
+0 0 0 0 0
+1 1 0 100 100
+E
+contract~
+The contract orders the death of the King of Brindala, who will be
+watching the jousting tournament today!  
+~
+#1940
+muddy clothing~
+some discarded muddy clothing~
+A pile of muddy clothing has been discarded here.~
+~
+cloth~
+13 R 0 0
+0 0 0 0 0
+0 0 0 100 100
+#1942
+belt knife~
+a belt knife~
+A simple belt knife has been dropped here~
+~
+steel~
+5 0 AN 0
+B A BC ABD 0
+3 2 150 100 100
+#1943
+royal scepter~
+a brass scepter~
+A royal scepter made from brass lies here~
+~
+brass~
+5 BIKP AN 0
+C A BC ABC F
+5 5 1450 100 100
+A
+24 -1
+A
+4 1
+#1944
+straw hat~
+A straw hat~
+This hat was once worn by a donkey - it still has the holes in it for the ears to go through.  It's great for keeping the sun off, but pretty useless otherwise.  Also, it smells of donkey sweat.~
+~
+paper~
+11 0 AE 0
+0 0 0 0 0
+3 1 150 100 100
+#0
+
+
+

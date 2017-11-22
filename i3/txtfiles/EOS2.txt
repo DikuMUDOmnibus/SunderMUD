@@ -1,0 +1,17 @@
+Eye of the Storm 2 Intermud-3
+-----------------------------
+
+In i3.c, function i3log, find:
+
+   log_string( buf );
+
+Replace with:
+
+   log_string( buf, CHANNEL_LOG, -1 );
+
+In i3cfg.h, #ifdef IMCMERC section:
+
+Add:
+   #define SMAUGSOCIAL
+   SOCIAL_DATA *get_social( char *command );        
+   #define find_social get_social

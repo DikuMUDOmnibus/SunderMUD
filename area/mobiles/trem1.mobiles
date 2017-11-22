@@ -1,0 +1,388 @@
+#1900
+noble~
+a noble~
+A noble is here, enjoying the fair.
+~
+~
+~
+human~
+AD 0 0 0
+-500 3 1 1d6+23 3d10+100 1d4+0 3
+0 0 0 0
+8 8 3 60
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1901
+dog~
+a dog~
+A dog darts between peoples legs looking for scraps and fun.
+~
+~
+~
+dog~
+AD 0 0 0
+0 2 1 1d2+16 2d10+100 1d3+0 32
+H 0 0 0
+8 8 3 40
+AGV ACDEFHJKRUVa 2 unknown
+#1902
+rat~
+a rat~
+A rat scurries through the fair.
+~
+~
+~
+generic~
+ADGb 0 0 0
+-500 1 0 1d2+6 1d10+100 1d3+0 10
+FH 0 0 0
+8 8 3 0
+AGV ACDEFHJKQUV 1 unknown
+#1903
+short fat reflection~
+your reflection~
+A very short and fat reflection of you is here.
+~
+This is a very short and fat version of you that sprang from the mirror
+as you looked in it.  
+~
+~
+generic~
+ABDF 0 0 0
+-1000 3 1 1d6+23 3d10+100 1d4+0 7
+0 AB M 0
+8 8 0 60
+AHMV ABCDEFGHIJK 2 flesh
+#1904
+tall thin reflection~
+your reflection~
+A very tall and thin reflection of you is here.
+~
+~
+~
+generic~
+ABDF 0 0 0
+-1000 4 2 1d10+33 4d10+100 1d4+0 7
+0 AB M 0
+8 8 0 80
+AHMV ABCDEFGHIJK 2 unknown
+#1906
+bendy reflection~
+your reflection~
+A really bendy reflection of you is here.
+~
+~
+~
+generic~
+ABDF 0 0 0
+0 4 2 1d10+33 4d10+100 1d4+0 11
+0 AB M 0
+8 8 0 80
+AHMV ABCDEFGHIJK 2 unknown
+#1907
+huge reflection~
+your reflection~
+A HUGE reflection of you is here.
+~
+~
+~
+generic~
+ABDF 0 0 0
+0 5 2 1d16+42 5d10+100 1d4+0 3
+0 AB M 0
+8 8 0 100
+AHMV ABCDEFGHIJK 2 unknown
+#1909
+black cloud swarm flies~
+a swarm of flies~
+A swarm of flies buzzes noisily around here.
+~
+~
+~
+generic~
+ABD 0 0 0
+0 3 1 1d6+23 3d10+100 1d4+0 14
+FH 0 0 0
+8 8 0 0
+O FP 1 unknown
+#1911
+chestnut seller~
+the chestnut seller~
+The chestnut seller is roasting some fresh chestnuts just for you.
+~
+~
+~
+human~
+ABD 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 11
+0 0 0 0
+8 8 0 20
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1912
+ale seller~
+an ale seller~
+An ale seller is here.
+~
+~
+~
+human~
+ABD 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 7
+0 0 0 0
+8 8 0 20
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1913
+big fat cake seller~
+a cake sellar~
+A big fat cake seller is here eating more than he sells.
+~
+~
+~
+human~
+ABD 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 3
+0 0 0 0
+8 8 1 20
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1914
+charm niknak seller~
+the charm seller~
+A seller of charms and niknaks is here.
+~
+~
+~
+human~
+ABD 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 3
+0 0 0 0
+8 8 0 20
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1918
+quack herbalist~
+a quack herbalist~
+A herbalist stands here selling dubious remedies.
+~
+~
+~
+human~
+ABD 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 3
+0 0 0 0
+8 8 1 20
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1919
+band conductor~
+the conductor~
+The band conductor is here, desperately trying to keep the musicians in time.
+~
+The band conductor isn't having as much fun as most people at the fair. 
+His band members seem to be ignoring everything he does.  His hair has big
+chunks missing where he's been tearing it out in frustration.  
+~
+~
+human~
+ABD 0 0 0
+-500 5 2 1d16+42 5d10+100 1d4+0 2
+K 0 0 0
+8 8 1 100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1920
+strongman~
+a strongman~
+The strongman is here, proudly showing off his bulging muscles.
+~
+The fair strongman lifts huge weights using only the power of his heavily
+muscled body.  Rocks are crushed between his bare hands, and none can stand
+against him at arm-wrestling.  Shame there's not much brain powering all
+that brawn though.  
+~
+~
+human~
+ABD 0 0 0
+0 5 2 1d16+42 5d10+100 1d4+0 8
+0 0 E P
+8 8 1 100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1922
+head chef~
+the head chef~
+The head chef is here supervising everything.
+~
+~
+~
+human~
+ABD 0 0 0
+0 3 1 1d6+23 3d10+100 1d4+0 7
+0 0 0 0
+8 8 1 60
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1923
+hooded mysterious archer~
+a hooded archer~
+A hooded archer stands here ready to compete.
+~
+Ah, the quintessential hooded archer, a must-have for any self-respecting
+archery contest.  
+~
+~
+elf~
+ABD 0 0 0
+0 5 2 1d16+42 5d10+100 1d4+0 11
+0 0 B Z
+8 8 2 100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1928
+knight sir michael bold~
+Sir Michael the Bold~
+Sir Michael the Bold is here readying to joust.
+~
+Brave Sir Michael, Knight of Old, got himself the title "Bold", for
+fighting off an evil dragon, but now he's on the worn-out wagon.  He must
+prove himself, and more, by fighting Stephen, Knight of Yore, who slayed two
+demons of ice and colder, and took himself the title "Bolder".  
+~
+~
+human~
+ABDT 0 0 0
+1000 4 2 1d10+33 4d10+100 1d4+0 2
+0 0 0 0
+8 8 1 80
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1929
+squire sir michael bold~
+Sir Michael's squire~
+Sir Michael's squire waits to tend to his needs.
+~
+~
+~
+human~
+ABD 0 0 0
+0 2 1 1d2+16 2d10+100 1d3+0 7
+0 0 0 0
+8 8 1 40
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1930
+knight sir stephen bolder~
+Sir Stephen the Bolder~
+Sir Stephen the Bolder is here readying to joust.
+~
+Horrid Stephen, Nasty Knight, rarely plays fair in a fight, took his
+title just for glory, and made up stories grim and gory, of how he beat some
+chilly foe when in truth this knight of woe was sipping drinks under the sun
+and plotting some more nasty fun.
+~
+~
+human~
+ABDT 0 0 0
+-1000 4 2 1d10+33 4d10+100 1d4+0 7
+0 0 0 0
+8 8 1 80
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1931
+squire sir stephen bolder~
+Sir Stephen's squire~
+Sir Stephen's squire waits to tend to his needs.
+~
+~
+~
+human~
+ABD 0 0 0
+0 2 1 1d2+16 2d10+100 1d3+0 11
+0 0 0 0
+8 8 1 40
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1932
+surgeon~
+the surgeon~
+A surgeon is here, waiting to saw bits off his next patient.
+~
+~
+~
+human~
+ABD 0 0 0
+0 3 1 1d6+23 3d10+100 1d4+0 7
+0 0 0 0
+8 8 1 60
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1933
+assassin man black~
+an assassin~
+A man dressed entirely in black is here.
+~
+The man in black must surely be an assassin sent to kill the visiting VIP
+who at this very moment watches the jousting tourney to the south!  
+~
+~
+human~
+ABDES Q 0 0
+-500 5 2 1d16+42 5d10+100 1d4+0 11
+B AB L 0
+8 8 1 100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1941
+potion seller accomplice~
+the "potion seller"~
+A man dressed as a potion seller is here.
+~
+This man is dressed as a potion seller but is caked in mud and dirt. 
+He's clearly been busy digging this tunnel.  I wonder why?  
+~
+~
+human~
+ABDE 0 0 0
+0 3 1 1d6+23 3d10+100 1d4+0 3
+0 0 0 0
+4 8 1 60
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1942
+peasant~
+a peasant~
+A peasant is here enjoying the fair.
+~
+~
+~
+human~
+ADH 0 0 0
+500 1 0 1d2+6 1d10+100 1d3+0 17
+0 0 0 0
+8 8 3 5
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1943
+visiting king vip~
+the visiting king~
+A king is here, visiting from a far-off land.
+~
+This is the King of Brindala, a very distant and rich country.  His
+clothes are of the finest silks and furs and made by the best tailors in the
+land.  He looks healthy and well fed, and holds his sceptre of office
+proudly.  
+~
+~
+human~
+ABDE 0 0 C
+500 5 2 1d16+42 5d10+100 1d4+0 7
+0 AB 0 0
+6 6 1 100
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GIVE 1943 1939~
+M DELAY 1944 100~
+#1944
+berserk donkey~
+a berserk donkey~
+A sweet gentle donkey has gone BERSERK!!!
+~
+A sweet, kind, child-loving donkey, brought to the fair so that the
+little kiddies could ride on it.  Unfortunately it seems to have been in the
+herbalists goods and gone a little nuts, demolishing the stall and attacking
+anyone that approaches it.  Run kiddies!  
+~
+~
+generic~
+ABDF a 0 0
+-1000 5 2 1d16+42 5d10+100 1d4+0 7
+J 0 E H
+8 8 3 100
+AV ACDEFJKZ 2 unknown
+#0
+
+
+

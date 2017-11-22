@@ -1,0 +1,169 @@
+#1000
+evil illusion~
+an evil illusion~
+An illusion of evil stands here, ready for combat.
+~
+This is a very convincing opponent.  Appearing to be humanoid, it is a
+very generic image, but exudes an evil aura.  Holding a sword, he is ready
+to teach you the basics of combat.  
+~
+~
+school monster~
+ABEGU KY 0 0
+-750 1 0 1d2+3 1d10+100 1d3+0 3
+0 AB 0 C
+8 8 0 20
+AJMV ABCDEFHJKQRUa 2 unknown
+#1001
+illusion innocence~
+An illusion of innocence~
+An illusion of innocence stands here ready to defend itself.
+~
+This illusion stands here ready to defend itself against you.
+~
+~
+school monster~
+ABEGU KY 0 0
+750 1 0 1d2+3 1d10+100 1d3+0 1
+0 AB 0 C
+8 8 0 20
+AJMV ABCDEFHJKQRUa 2 unknown
+#1002
+greater illusion~
+a greater illusion~
+A Greater Illusion stands here seeking an opponent.
+~
+This illusion looks fiercesome and powerful.
+~
+~
+school monster~
+ABFGU K 0 0
+0 2 1 1d2+10 2d10+100 1d3+0 3
+0 AB 0 C
+8 8 0 40
+AJMV ABCDEFHJKQRUa 2 unknown
+#1003
+school guardian healer~
+a school guardian~
+A school guardian is here tending to students.
+~
+This is a wizened old man, who has obviously been to the aftermath of
+many battles. He spares no expense to make sure the students here are
+well taken care of during their training.
+~
+~
+human~
+ABEGQVa 0 FHI C
+0 25 12 16d42+322 25d10+100 2d11+0 3
+0 ABP 0 0
+8 8 0 500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#1004
+training mage~
+A training mage~
+A training mage is here ready to fight.
+~
+In all ways, this mage appears to be human, but is really a magical
+construct.  
+~
+~
+school monster~
+ABEGRU Y 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 17
+0 AB 0 C
+8 8 3 20
+AHMV ABCDEFGHIJKQRUa 2 unknown
+#1005
+training cleric~
+A training cleric~
+A training cleric is here, ready for combat.
+~
+In all ways almost, human. But really a magical construct.
+~
+~
+school monster~
+ABEQU 0 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 17
+0 AB 0 C
+8 8 3 20
+AHMV ABCDEFGHIJKQRUa 2 unknown
+#1006
+training thief~
+A training thief~
+A training thief is here, ready to rob you.
+~
+In all ways almost, human. But really a magical construct.
+~
+~
+school monster~
+ABESU Y 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 17
+J AB 0 C
+8 8 3 20
+AHMV ABCDEFGHIJKQRUa 2 unknown
+#1007
+training warrior~
+A training warrior~
+A training warrior is here wanting to fight.
+~
+In all ways almost, human. But really a magical construct.
+~
+~
+school monster~
+ABETU Y 0 0
+0 1 0 1d2+6 1d10+100 1d3+0 17
+0 AB 0 C
+8 8 3 20
+AHMV ABCDEFGHIJKQRUa 2 unknown
+#1008
+A training beast~
+A training beast~
+A training beast is here, slavering dangerously.
+~
+A magical construct, nothing more.
+~
+~
+school monster~
+ABEU 0 0 0
+0 2 1 1d2+16 2d10+100 1d3+0 17
+0 AB 0 C
+8 8 3 40
+AMV ABCDEFHJKQRUa 2 unknown
+#1009
+training dragon~
+A training dragon~
+A training dragon is here, smaller than a real one.
+~
+A magical construct. Nothing more.
+Well, a little scary perhaps.
+~
+~
+school monster~
+ABEU T J 0
+0 3 1 1d6+23 3d10+100 1d4+0 7
+CFH ABL 0 CS
+8 8 3 60
+ABMVZc ABCDEFHJKQRUVXa 3 unknown
+#1010
+wiry old man~
+a wiry old man~
+A wiry old man stands here watching you go by.
+~
+His clothing is worn and tattered, but was obviously once of very
+expensive manufacture.  With not a bit of fat, this old man could probably
+still out-tumble any street punk that was to give him trouble.  
+~
+(no notes)~
+human~
+ABDET 0 FHIJ 0
+0 120 120 16d972+4104 120d10+100 9d40+0 3
+0 AB 0 0
+8 8 2 2400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M RANDOM 1002 5~
+M RANDOM 1001 5~
+M GREET 1000 100~
+#0
+
+
+

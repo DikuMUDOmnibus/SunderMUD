@@ -1,0 +1,405 @@
+#15100
+maniacal prisoner~
+a maniacal prisoner~
+A maniacal prisoner giggles insanely at you.
+~
+This poor soul has been in here so long it has broken his mind. No one even
+remembers why he is here.
+~
+~
+human~
+ABFGHT 0 0 0
+0 19 9 11d34+223 19d10+100 2d9+0 3
+EFNU 0 0 0
+8 8 1 380
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15101
+turnkey~
+a drunken turnkey~
+The turnkey snores loudly as he sleeps off another binge.
+~
+His job bores him to tears. No one ever tries to escape. His duties are
+limited to escorting prisoners to and from their cells, and occasionally
+beating a noisy or frightened prisoner into submission. So he spends most
+(heck, ALL) of his time drinking.
+~
+~
+human~
+ABDGT R 0 C
+-400 32 16 16d69+462 32d10+100 3d13+0 3
+EFNU 0 0 0
+8 8 1 640
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15102
+inquisitor~
+the inquisitor~
+The inquisitor stands here, extracting "confessions".
+~
+He seems somewhat puzzled by your presence, then shrugs and turns back to
+his task. The world is full of sickos, and if you get your jollies watching
+a man being tortured to death, well... that's how he gets his, too.
+~
+~
+human~
+ABDGHT 0 FH C
+-750 39 19 16d102+629 39d10+100 3d15+0 7
+EFNU 0 0 0
+8 8 1 780
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15103
+master torturer~
+the master torturer~
+The master torturer grins wickedly and gives the rack another turn.
+~
+This gap-toothed moron is quite adept at causing hapless prisoners exquisite
+pain without any grave danger to their lives. And, what's more, he enjoys it!
+Job satisfaction is SO important, really. I mean, if you don't enjoy your
+job, what have you got?
+~
+~
+human~
+ABDGT 0 0 A
+-500 36 18 16d87+555 36d10+100 3d14+0 3
+EFNU 0 0 0
+8 8 1 720
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15104
+noble prisoner~
+a noble prisoner~
+A noble prisoner is being kept here.
+~
+This fellow was imprisoned by the Castellan for offensive behavior towards
+the Castellan's daughter during the Castellan's Ball held recently. He is of
+high status, however, and thus the Castellan afforded him a decent cell. For
+a price, of course.
+~
+~
+human~
+ABGHT 0 0 0
+400 24 12 16d38+311 24d10+100 2d10+0 3
+EFNU 0 0 0
+8 8 1 480
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15105
+man iron mask~
+the man in the iron mask~
+The man in the iron mask prepares to dig another tunnel with a spoon.
+~
+The man in the iron mask managed to escape his last cell, but ended up
+digging into this jail. Thus he has to try and escape again.
+~
+~
+human~
+ABGT 0 0 A
+500 28 14 16d52+387 28d10+100 2d12+0 3
+EFNU 0 0 0
+8 8 1 560
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15106
+skeleton~
+an animated skeleton~
+A pile of bones comes to life before you!
+~
+The former occupant of this cell died a slow, painful death of starvation,
+and thus his spirit lingers still, animating his earthly remains to attack
+anyone he can.
+~
+~
+undead~
+ABFGOT K F A
+-400 25 12 16d42+322 25d10+100 2d11+0 7
+EFGNU BLPQR 0 HN
+8 8 0 500
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#15107
+bat~
+a bat~
+A huge bat flies into your face!
+~
+These massive bats are disturbed by your light.
+~
+~
+bat~
+AFGHT T 0 0
+-500 20 10 11d38+238 20d10+100 2d9+0 7
+EFHNR 0 0 S
+8 8 0 400
+AGW ACDEFHJKPRSTa 2 unknown
+#15108
+spider~
+a giant spider~
+A huge spider crawls toward you.
+~
+These massive spiders are disturbed by your light.
+~
+~
+generic~
+ABFGHT 0 0 A
+-500 21 10 13d37+252 21d10+100 2d9+0 7
+EFNU 0 FI E
+8 8 0 420
+AHP ACV 2 unknown
+#15109
+rat~
+a rat~
+A rat squeaks and runs away.
+~
+This Dungeon is crawling with rats!
+~
+~
+generic~
+AFGHT 0 0 0
+0 4 2 1d10+33 4d10+100 1d4+0 7
+EFNU 0 0 0
+8 8 0 80
+AH ABCDEFGHIJK 2 unknown
+#15110
+cockroach~
+a cockroach~
+A cockroach scuttles across the floor.
+~
+This Dungeon is crawling with roaches!
+~
+~
+generic~
+ADFGHT PQU 0 0
+0 3 1 1d6+23 3d10+100 1d4+0 3
+EFNU 0 0 0
+8 8 0 60
+AHO ABCDEFGHIJK 2 unknown
+#15111
+wretched prisoner~
+a wretched prisoner~
+A wretched prisoner cries out for pity.
+~
+These doomed souls will spend years rotting away in this hell hole.
+~
+~
+human~
+ABGHT 0 0 0
+0 12 6 5d32+120 12d10+100 1d7+0 3
+EFNU 0 0 0
+8 8 1 240
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15112
+wretched prisoner~
+a wretched prisoner~
+A wretched prisoner cries out for pity.
+~
+These doomed souls will spend years rotting away in this hell hole.
+~
+~
+human~
+ABGHT 0 0 0
+0 11 5 5d27+107 11d10+100 1d6+0 3
+EFNU 0 0 0
+8 8 2 220
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15113
+political prisoner~
+a political prisoner~
+A political prisoner is on hunger strike.
+~
+Hunger strike doesn't really work when no one gives a shit whether you live
+or die...
+~
+~
+human~
+ABGT 0 0 A
+500 27 13 16d49+360 27d10+100 2d11+0 7
+EFNU 0 0 0
+8 8 1 540
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15114
+grubby child~
+a grubby child~
+A grubby child holds out his hands for food.
+~
+He can't talk- the guards cut out his tongue to silence his incessant
+whining.
+~
+~
+human~
+ABGHT 0 0 0
+0 8 4 3d21+73 8d10+100 1d5+0 11
+EFNU 0 0 0
+8 8 1 160
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15115
+cook~
+the Dungeon cook~
+The cook for the Dungeon grunts as you enter.
+~
+He wasn't expecting anyone would want to eat yet. Actually, he wasn't
+expecting anyone to EVER want to eat while he was cook...
+~
+~
+human~
+ABGHT 0 0 0
+0 21 10 13d37+252 21d10+100 2d9+0 7
+EFNU 0 0 0
+8 8 1 420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15116
+guard~
+a Dungeon guard~
+A Dungeon guard stands wearily at his post.
+~
+This fellow is bored beyond measure. He is itching for some action.
+~
+~
+human~
+ADGT 0 0 A
+0 31 15 16d64+448 31d10+100 3d12+0 7
+EFNU 0 0 0
+8 8 1 620
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15117
+dog~
+a war dog~
+A war dog bares its fangs and growls menacingly.
+~
+These dogs are huge, ferocious canines with teeth six inches long. Is that
+foam coating their muzzles?
+~
+~
+dog~
+ABFGT 0 0 0
+-400 21 10 13d37+252 21d10+100 2d9+0 3
+EFHNR 0 0 0
+8 8 0 420
+AGV ACDEFHJKRUVa 2 unknown
+#15118
+escaped prisoner~
+an escaped prisoner~
+An escaped prisoner begs you to help her.
+~
+She has been on the run for three days, but hasn't managed to get out of
+this cell block. How unadmirable. Call a guard and claim the reward.
+~
+~
+human~
+ABGHT 0 0 0
+0 19 9 11d34+223 19d10+100 2d9+0 11
+EFNU 0 0 0
+8 8 2 380
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#15119
+ghost~
+the ubiquitous Dungeon ghost~
+The ubiquitous Dungeon ghost is here doing its job.
+~
+Every jail, Dungeon, prison etc has a ghost. This one is no exception. Harry
+the ghost approaches and says "Boo" in a manner that makes Steve Wright seem
+animated. He sure seems to love his job.
+~
+~
+undead~
+ABGHOT BTU 0 C
+0 40 20 16d108+648 40d10+100 3d15+0 11
+EFGNU BLPQR 0 HN
+8 8 0 800
+DHILMV ABCDEFGHIJKRSTa 2 unknown
+#15120
+crypt walker~
+a crypt walker~
+A crypt walker shambles past you.
+~
+This doomed soul is damned to wander here for eternity.
+~
+~
+undead~
+ADGMOT 0 F A
+0 34 17 16d78+505 34d10+100 3d13+0 7
+EFGNU BLPQR 0 HN
+8 8 0 680
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#15121
+coffer corpse~
+a coffer corpse~
+A coffer corpse charges you!
+~
+This evil undead wants to eat your spleen!
+~
+~
+undead~
+ADFGOT 0 FI A
+-1000 31 15 16d64+448 31d10+100 3d12+0 11
+EFGNU BLPQR 0 HN
+8 8 0 620
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#15122
+lich ael~
+the lich Ael~
+The lich Ael screams at your intrusion.
+~
+Ael was a powerful mage in life, and in death he remains so.
+~
+~
+undead~
+ABDFGMOT 0 FI AC
+-1000 45 22 16d136+786 45d10+100 4d17+0 11
+EFGNU BLPQR 0 HN
+8 8 0 900
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#15123
+vampire baraga~
+the vampiure Baraga~
+The vampire Baraga sneers at you.
+~
+Baraga was once a powerful noble. Now, Baraga lives only to suck blood.
+~
+~
+undead~
+ABDFGMOT T FI AC
+-1000 43 21 16d124+733 43d10+100 3d16+0 11
+EFGNU BLPQR M HNS
+8 8 0 860
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#15124
+spectre cas~
+the spectre Cas~
+The spectre Cas moves into combat.
+~
+Cas was once a thief of some importance. Now he is a ruthless undead.
+~
+~
+undead~
+ABDFGOT TU FI AC
+-1000 38 19 16d97+603 38d10+100 3d15+0 7
+EFGNU BLPQR 0 HN
+8 8 0 760
+DHILMV ABCDEFGHIJKRSTa 2 unknown
+#15125
+wraith deros~
+the wraith Deros~
+The wraith Deros snarls and attacks.
+~
+Deros was once an evil cleric. Now he's an evil undead cleric.
+~
+~
+undead~
+ABDFGOT 0 FI C
+-1000 35 17 16d82+534 35d10+100 3d14+0 7
+EFGNU BLPQR 0 HN
+8 8 0 700
+DHILMV ABCDEFGHIJKRSTa 2 unknown
+#15126
+wight emur~
+the wight emur~
+The wight Emur wearily rises to defend his tomb.
+~
+Emur is not hostile, but is not good either. Emur was a cowardly autocrat
+slain centuries ago and imprisoned down here by a holy cleric of Argh.
+~
+~
+undead~
+ABGHOT 0 FI A
+-1000 33 16 16d73+487 33d10+100 3d13+0 7
+EFGNU BLPQR 0 HN
+8 8 0 660
+DHILMV ABCDEFGHIJKRSTa 2 unknown
+#0
+
+
+

@@ -1,0 +1,600 @@
+#30800
+gravedigger~
+a gravedigger~
+{yA haggard looking man wipes the sweat from his brow.{n
+~
+The years spent working outdoors in the harsh winds have not been kind,
+but he doesnt seem to mind the extra business lately.  His weathered skin is
+now wrinkled with age.  The mans tired, sunken eyes look back at you
+indifferently.  
+~
+~
+human~
+AGH 0 J 0
+0 40 20 16d108+648 40d10+100 3d15+0 11
+0 AB 0 0
+8 8 1 800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30801
+old woman~
+an old woman~
+{yAn old woman in tattered clothes raises the bucket from the well.{n
+~
+Only sheer determination has allowed this woman to survive this long in
+the desolate city destroyed by war.  The woman bends back over the well,
+peering into its depths in search of a drop of water.  
+~
+~
+human~
+ABG 0 J 0
+0 60 60 16d243+1242 60d10+100 5d21+0 11
+JK AB 0 0
+8 8 2 1200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30802
+sorcerer vampire mage~
+a vampiric sorcerer~
+{yA mighty sorcerer hurls a blazing fireball towards a patch of vegetation.{n
+~
+The most feared of the undead bares its fangs at your approach.  A
+skilled mage and trained killer, it will stop at nothing to rid this world
+of the light in order to survive.  
+~
+~
+vampire~
+ABGOQR TVc FHJ 0
+-500 70 70 16d330+1614 70d10+100 5d25+0 10
+EFGHKQ ABLPQ IJMQ HJNSX
+8 8 1 1400
+AHIM ABCDEFGHIJKPRSTVa 2 unknown
+#30803
+serpentes cleric~
+a slithering cleric~
+{yA cleric bows down in prayer to the Goddess of Darkness, asking her for victory.{n
+~
+The serpents sinuous body curls into an evil rune during its ritual to
+bring victory to the forces of darkness.  Just as quickly, it stands upright
+at your intrusion and hisses viciously.  
+~
+~
+snake~
+ABGQ PV J 0
+-500 20 10 11d38+238 20d10+100 2d9+0 6
+FQ AB IL HIP
+8 8 1 400
+AGHMRXYc ABCDEFGHIJKLQVX 2 unknown
+#30804
+drow thief~
+a smelly thief~
+{ySomeone slips a hand into your pocket!{n
+~
+Only a battle of this magnitude would have brought this drow from the
+underground tunnels.  Of course, exquisite charm has never gone hand in hand
+with honesty.  Better keep a close eye on that bulging coin purse in your
+belt.  
+~
+~
+elf~
+ABGS P FIJ 0
+-500 30 15 16d60+426 30d10+100 3d12+0 21
+FH AB BP JZ
+8 8 1 600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30805
+ghost warrior~
+a ghostly warrior~
+{yA ghostly warrior uses the tip of his sword to pick a chunk of food out of his teeth.  Eeew.{n
+~
+You pause to wonder who this ghostly warrior might have once been. 
+Perhaps a general in the Emperor's Army...  Perhaps a captain on the high
+seas...  You quickly snap out of the daydream when you feel the sharp point
+of a sword at your neck.  
+~
+~
+unique~
+ABGT TU J 0
+-500 30 15 16d60+426 30d10+100 3d12+0 18
+INQ AB FIM JNO
+8 8 1 600
+ACHILMc ABCDEFGHIJK 2 unknown
+#30806
+woman mother child~
+A young mother~
+{yA young woman sits huddled on the ground with a child in her arms.{n
+~
+{WThe young mother wipes the tears from her face with a shaking hand.
+ 
+'You must listen to me carefully.  Within these gates is horror beyond
+belief.'
+ 
+Her voice begins to shake.  'Forces of the darkness overtook this, my
+city, one year ago to this day.  They burned our homes, killed our 
+children, ravaged our fields.'
+ 
+She looks quickly to her right and left, and lowers her voice.  'But 
+then, the forces of the light came to vanquish the Dark Army.  The war 
+has killed everyone, ruined the lands for all eternity.'
+ 
+'And the bloodbath continues!  Every last inhabitant of the town is 
+dead, save for the members of the armies who will never stop fighting.
+I managed to hide in a grave until I could escape.  You are the last 
+hope of salvation for this city.'
+ 
+'Please, take the key from the locket and help us.'
+{n
+~
+~
+human~
+ABG 0 FHJ 0
+500 1 0 1d2+6 1d10+100 1d3+0 13
+0 ABCDEFGHIJKLMNOPQRTXYZ 0 0
+8 8 0 20
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M DELAY 30803 100~
+M GRALL 30802 80~
+#30807
+rakshasa daemon~
+a daemonic rakshasa~
+Someone utters the words 'arguma hreshi.'{/A horde of demons appears!
+~
+The rakshasas form shifts from humanoid into a hideous three headed
+being.  The malevolent spirit disperses the summoned daemons with a flick of
+the wrist, confident that he can best you in battle alone.  
+~
+~
+demon~
+ABG PQc GHJ B
+-500 50 50 16d168+930 50d10+100 4d18+0 19
+BFJMQR ABQ BH INa
+8 8 1 1000
+ABHIM ABCDEFGHIJKLQRSTUVWa 2 unknown
+#30808
+efreet hunter~
+the efreet hunter~
+{yAn strange form dressed in skins approaches.{n
+~
+A being of bronze and fire approaches you.  The efreet floats near you,
+letting the flames lick you face before again withdrawing, and awaiting your
+next move.  
+~
+~
+unique~
+ABG T HJ 0
+-500 60 60 16d243+1242 60d10+100 5d21+0 19
+FIJQ AB H Q
+8 8 0 1200
+CHJM ABCDEFGHIJK 2 unknown
+#30809
+wraith horreur~
+a wicked horreur~
+{ySomeone grabs a corpse and attempts to quietly skitter away.{n
+~
+Squinting, you can make out a vaguely human form in the dark mist.  No
+doubt another wraith gathering dead for the Dark Army.  
+~
+~
+undead~
+ABGO KPQU J 0
+-500 90 90 16d546+2478 90d10+100 7d31+0 18
+GIJNQ ABLPQR FM HJN
+8 8 1 1800
+ACDHIKMc ABCEGHIJKRSTa 2 unknown
+#30810
+girl~
+a young girl~
+{yAn innocent looking girl frolics in the fields.{n
+~
+As she toys with the red sash on her black dress, she looks up at you
+hopefully.  Her dark eyes reflect the passing clouds.  
+~
+~
+human~
+ABG 0 J 0
+0 40 20 16d108+648 40d10+100 3d15+0 22
+JQ AB 0 0
+8 8 2 800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30811
+bones skeleton~
+a rickety skeleton~
+{yA pile a bones lies forgotten in a corner.{n
+~
+The dead walk!!
+~
+~
+undead~
+ABGO 0 J 0
+0 50 50 16d168+930 50d10+100 4d18+0 3
+GJQ ABLPQR 0 HN
+8 8 1 1000
+ACDHILMc ABCDEFGHIJKRSTa 2 unknown
+#30812
+anti paladin~
+an Anti-Paladin~
+{yA knight of the dark army bradishes an unholy blade.{n
+~
+A zealous knight of the Dark Army brings his steed to a trot.  He swings
+his unholy blade in a large arc, and bring his fine mare to a halt before
+you.  
+~
+~
+human~
+ABG 0 J 0
+-500 80 80 16d432+2016 80d10+100 6d28+0 18
+CFQ AB 0 0
+8 8 1 1600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30813
+rotted body~
+a horribly rotted body~
+{yThe remains of some poor soul lie exposed to the elements.{n
+~
+It appears that the body is missing an arm, perhaps also part of a foot. 
+Its eyes have been eaten away by the maggots now crawling out of its mouth. 
+~
+~
+undead~
+ABGO 0 J 0
+-400 60 60 16d243+1242 60d10+100 5d21+0 11
+AGJQ ABLPQR 0 HN
+6 6 1 1200
+ACDHILMc ABCDEFGHIJKRSTa 2 unknown
+#30814
+ettin sohei~
+an ettin sohei~
+{yA bad-tempered ettin turns his head and spits acid on the ground.{n
+~
+The ettin paces the field, grunting in an attempt to communicate. 
+Despite his obvious lack of intelligence, his towering form, large arms, and
+dangerous looking weapon inspire a respectable degree of fear.  
+~
+~
+giant~
+ABG ad J 0
+-500 90 90 16d546+2478 90d10+100 7d31+0 3
+EFQ AB EFHI CJP
+8 8 1 1800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30815
+djinn sorcerer mage~
+a djinn~
+{yA powerful sorcerer channels a sheet of frost across the field.{n
+~
+This mage was born in the kingdom of the Ruler of Air and trained by the
+Elements.  He weilds the elements as weapons and molds them like clay.  This
+djinn is one of the most fearsome of his kind.  
+~
+~
+unique~
+ABGR T FHJ 0
+500 70 70 16d330+1614 70d10+100 5d25+0 19
+FGQ AB E H
+8 8 1 1400
+ACHMc ABCDEGHIJK 2 unknown
+#30816
+kestryl cleric~
+a pious cleric~
+{yA cleric bows down in prayer to the God of Honor, asking him for victory.{n
+~
+This warm-hearted Kestryl serves the God of Honour without question or
+hesitation.  His faith has given him strength of mind.  In return, his was
+gifted with the ability to sanctify fire to burn his enemies pure.  
+~
+~
+avatar~
+ABG T HJ 0
+0 20 10 11d38+238 20d10+100 2d9+0 20
+FKQR ABN BIQ JMR
+8 8 1 400
+ABCHMW ABCDEFGHIJKPRSTa 2 unknown
+#30817
+brownie thief~
+an innocent looking thief~
+{ySomeone slips a hand in your... HEY!{n
+~
+This innocent looking brownie appears unashamed of the recent attempt to
+steal from you.  With that charming smile and those bright green eyes, it
+might soon be forgotten.  
+~
+~
+unique~
+ABGS BT FJ 0
+500 30 15 16d60+426 30d10+100 3d12+0 11
+FHQ AB PX E
+8 8 1 600
+V P 2 unknown
+#30818
+drake warrior~
+a holy warrior~
+{yA skilled warrior of good unfurls its wings.{n
+~
+A small dragon turns around.  He huffs loudly, and smoke pours from his
+nostrils.  Briefly, you wonder if he is related to the charming pet from
+your youth.  
+~
+~
+wyvern~
+ABGT T J 0
+500 40 20 16d108+648 40d10+100 3d15+0 5
+CFHINQ ABL HJ FIS
+8 8 1 800
+ABHZc ACDEFGHIJKPQRUVXa 3 unknown
+#30819
+paladin~
+a paladin~
+{yA knight of the Army of the Light brandishes a holy blade.{n
+~
+A zealous knight of the Army of the Light brings his steed to a trot.  He
+swings his holy blade in a large arc, and brings his fine mare to a halt
+before you.  
+~
+~
+human~
+ABG 0 J A
+850 80 80 16d432+2016 80d10+100 6d28+0 18
+CFQ AB 0 0
+8 8 0 1600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30820
+aasimon exorcist~
+an exorcist~
+{yAt the sound of footsteps, a being of light brandishes a holy symbol.{n
+~
+This young aasimon wears a helm bearing the crest of the Guild of the
+Exorcists.  One of four brothers, he was specifically trained to fight in
+this battle.  
+~
+~
+unique~
+ABG T FJ 0
+500 70 70 16d330+1614 70d10+100 5d25+0 19
+FIQ AB MN HK
+8 8 1 1400
+CHL ABCDEFGHIJKPQ 2 unknown
+#30821
+burning body~
+a burning body~
+{yA mass of flames runs full speed towards you!{n
+~
+The vaguely humanoid appearance is the first clue that this is more than
+just a mages fireball hurled in your direction.  The gut-wrenching scream is
+the second.  
+~
+~
+unique~
+ABG 0 J 0
+0 60 60 16d243+1242 60d10+100 5d21+0 29
+IJQ AB 0 0
+8 8 1 1200
+AHMV ABCDEFGHIJK 2 unknown
+#30822
+fallen angel~
+a fallen angel~
+{yAn aasimon gingerly holds its clipped wings.{n
+~
+Eyes that once shone with light as bright as the suns now look up at you
+hopelessly and with a hallowness as deep as the Ishtar.  {n 
+~
+~
+unique~
+ABG 0 J 0
+0 50 50 16d168+930 50d10+100 4d18+0 6
+IJQ AB 0 0
+8 8 1 1000
+0 0 2 unknown
+#30823
+angelic valley hunter~
+an angelic-looking hunter~
+{ySomeone bites a huge chunk out of a leg of drow!{n
+~
+This sweet looking elf fresh out of the valley gingerly places the drow
+leg on the ground and looks up at you pleadingly.  How could you even think
+of criticizing such an adorable face!  
+~
+~
+elf~
+ABG 0 GHIJ 0
+500 60 60 16d243+1242 60d10+100 5d21+0 26
+FIJQ AB BP Z
+8 8 0 1200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30824
+giant ranger~
+a gigantic ranger~
+{yA giant figure sits on the ground, tending to the remains of some flowers.{n
+~
+The storm giant wears a wreath of dried buds on his head.  The figure
+gently places some nearly dead flowers upright and packs soil around the
+roots with an enormous hand.  
+~
+~
+giant~
+ABG B EHJ 0
+0 50 50 16d168+930 50d10+100 4d18+0 17
+DEFQ AB HIJ JMP
+8 8 1 1000
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#30825
+treant druid~
+a treant~
+{yOne tree seems untouched by the drought and fire.{n
+~
+With a muffled creak, a pair of eyes opens in the bark.  The leaves
+rustle even without the wind - were those branches moving?  
+~
+~
+unique~
+ABG Bd FHJ C
+500 80 80 16d432+2016 80d10+100 6d28+0 17
+FIQ AB PX HJ
+8 8 1 1600
+AHM ABCDEFGHIJK 2 unknown
+#30826
+titan sohei~
+an exceeding large sohei~
+{yA strange warrior from parts unknown wanders the field.{n
+~
+The hulking titan was trained by the Buddha himself.  He left his
+position as Grand Abbott in order to answer the call of the Light.  
+~
+~
+giant~
+ABG 0 EJ 0
+500 90 90 16d546+2478 90d10+100 7d31+0 11
+EFQ AB BHIP JP
+8 8 1 1800
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#30827
+salesman~
+a wandering salesman~
+{yA well dressed gentleman smiles broadly.{n
+~
+They're even here in the middle of war.  A good salesmen will always try
+to make a coin.  Maybe he has something of use.  
+~
+~
+human~
+AG 0 FHJ 0
+0 100 100 16d675+2970 100d10+100 7d34+0 15
+0 ABCDE 0 0
+8 8 1 2000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30828
+peasant~
+{ya burning peasant{n~
+{yA young woman tied to a stake wails as the flames climb higher.{n
+~
+Her eyes look frantically around the room, searching for an escape.  Her
+fingers helplessly fiddle with the ropes tied around her hands, but to no
+avail.  Her long hair is disheveled and plastered to her face.  Beads of
+sweat spill down her cheeks.  
+~
+~
+human~
+ABGHU 0 0 0
+0 75 75 16d379+1812 75d10+100 6d26+0 17
+FHIJ 0 0 0
+8 8 2 1500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30829
+a fanatic cultist~
+{Da fanatic cultist{n~
+{DA fanatic cultist dances around the room.{n
+~
+A dark hood covers the head of this being.  The reflection of the fire
+dances in his bloodshot eyes.  His black robe is intertwined with red
+embroidery and cinched tight with a silver rope.  The robe is kicked up as
+he dances around the burning stake.  He mercilessly tortures the helpless
+peasant.  
+~
+~
+undead~
+ABGO T 0 C
+-750 80 80 16d432+2016 80d10+100 6d28+0 11
+G BLPQR 0 HN
+8 8 1 1600
+ADHIMV ABCDEFGHIJKRSTa 2 unknown
+#30830
+high priestess~
+{Dthe High Priestess{n~
+{DThe High Priestess intones, 'erlo'kra hgwita brugnet'{n
+~
+She stands calmly with the ancient text in her arms.  A dark hood covers
+her head.  Her black robes are embroidered with a silky blue thread, and a
+silver belt cinches them tight.  Her face remains unchanged as she reads the
+offering spell from the text.  
+~
+~
+unique~
+ABG T 0 C
+-750 85 85 16d487+2244 85d10+100 6d29+0 3
+AFIK 0 0 0
+8 8 2 1700
+AHMV ABCDEFGHIJK 2 unknown
+#30831
+Caen~
+{RCaen{n~
+{RThe mighty sorceror cackles with delight.{n
+~
+{rFrom this safe distance, Caen commands her forces of evil now both
+trying to overrun the city and to destory the forces of light.  She twirls
+her hands in an ancient ritual, and sends another fresh soul plummeting into
+the black cauldron.  {n 
+~
+~
+human~
+ABGOR c E AC
+-1000 100 100 16d675+2970 100d10+100 7d34+0 7
+AFGH 0 0 0
+8 8 0 2000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30832
+priestess of nirethen~
+{Wthe Priestess of Nirethen{n~
+{WThe High Priestess intones, 'ibwu wuu abonhy'{n
+~
+She stands calmly at the head of the temple.  Her white hood has fallen
+back, revealing her silky blonde hair which rustles in the light magical
+breeze.  Her face is that of a doll, her skin like porcelain in contrast to
+her radient lips.  Her white robes are embroidered with a delicate blue
+thread.  A darker blue belt cinches them tight.  
+~
+~
+human~
+ABG I 0 C
+1000 90 90 16d546+2478 90d10+100 7d31+0 11
+0 0 C EM
+8 8 2 1800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30833
+Nirethen~
+{CNirethen{n~
+{cA powerful cleric raises his hands in preparation for a spell.{n
+~
+{c From this safe distance, Nirethen commands his forces of goodness
+which are now both trying to overrun the city and to destory the forces of
+evil and armies of Caen.  He raises his hands in an ancient ritual and
+closes his eyes as he sends a ray of blinding light towards the earth.  
+~
+~
+human~
+ABGOQ 0 0 C
+0 100 100 16d675+2970 100d10+100 7d34+0 7
+AFGH 0 0 0
+8 8 1 2000
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#30834
+guards~
+the guards~
+{WTwo guards cross their swords and block passage into the cavern.{n
+~
+Trained by the mightiest of knights, these two guards have devoted their
+lives to furthering the cause of good.  They certainly will not let you pass
+until they are assured that you will not interfere with those plans.  
+~
+~
+human~
+ABG KQU FH 0
+1000 95 95 16d609+2716 95d10+100 7d32+0 7
+0 0 0 0
+8 8 0 1900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GRALL 30800 100~
+#30835
+someone~
+{n~
+{n
+~
+~
+~
+human~
+ABG 0 FH 0
+0 120 120 17d972+4104 120d10+100 9d40+0 11
+0 ABCDEFGHIKLMNOPQRTXYZ 0 0
+8 8 0 2400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+M GRALL 30801 35~
+#0
+
+
+

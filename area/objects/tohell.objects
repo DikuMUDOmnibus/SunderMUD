@@ -1,0 +1,580 @@
+#10401
+wicked trident two-handed~
+a wicked-looking trident~
+A wicked-looking trident is stuck into the ground.~
+~
+iron~
+5 AEGJ AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef C ACE B F
+45 70 6250 100 100
+A
+2 1
+A
+18 2
+A
+19 2
+#10402
+black leather whip~
+a black leather whip~
+A black leather whip lies on the ground.~
+~
+leather~
+5 BEJ AN 0
+ABC AB AE C 0
+35 70 3350 100 100
+A
+18 2
+#10403
+hickey maker~
+a hickey maker~
+A hickey maker lies on the ground, making a soft sucking sound.~
+~
+flesh~
+5 0 AN 0
+C AB AE CD 0
+37 70 8250 100 100
+A
+12 40
+A
+13 20
+A
+18 2
+#10404
+sword farslayer two-handed~
+a black-hilted sword called "Farslayer"~
+A black-hilted sword with engravings on the blade lies here.~
+~
+mithril~
+5 BFGHM AN 0
+A C BCE ABD F
+50 70 12100 100 100
+A
+13 50
+A
+18 2
+A
+19 5
+E
+sword~
+The blade of the sword is a full meter long and straight as an arrow, with
+lightly-fluted sides.  Both edges are keened down to perfect lines, invisibly
+sharp.  Perfection like this could have only been forged by a god.  The black
+hilt is contrasted only by the faint symbol of a white arrow.
+Upon the blade is engraved a poem:
+
+                      Farslayer howls across the world
+                      For thy heart, for thy heart, who hast wronged me!
+                      Vengeance is his who casts the blade
+                      Yet he will in the end no triumph see.
+
+~
+#10405
+angel's skull~
+the angel's skull~
+An angel's skull lies here on the ground.~
+~
+bone~
+9 0 AE 0
+CD CD CD CD 0
+45 40 2250 100 100
+#10406
+rotting flesh~
+some rotting flesh~
+Some rotting flesh lies here in a pile.~
+~
+flesh~
+9 0 AD 0
+D D D D 0
+25 30 1250 100 100
+#10407
+sword vorpal blade two-handed~
+the Vorpal Blade~
+A magnificently crafted blade lies here, humming softly.~
+~
+adamantite~
+5 0 AN 0
+A AB E A F
+33 60 4850 100 100
+A
+19 4
+#10408
+flaming claw~
+a flaming claw~
+A flaming claw lies here, burning brightly.~
+~
+bone~
+5 0 AN 0
+0 C ACE AC A
+46 40 5500 100 100
+A
+1 1
+A
+19 3
+#10409
+demonskin~
+a demonskin~
+A black, scaley pile of demonskin lies here.~
+~
+flesh~
+9 0 AD 0
+BD BD BD BD 0
+35 40 4150 100 100
+A
+1 1
+A
+2 1
+A
+4 1
+#10410
+demon teeth~
+demon teeth~
+A bunch of very sharp, slimey teeth lie here.~
+~
+bone~
+5 0 AN 0
+0 AB AE BD 0
+36 10 5800 100 100
+A
+18 5
+#10411
+burning flesh~
+some burning flesh~
+A pile of burning flesh lies here.~
+~
+flesh~
+9 0 AI 0
+BD BD BD BD 0
+35 50 1750 100 100
+#10412
+rivet gun~
+a rivet gun~
+A rivet gun loaded with hot rivets lies here.~
+~
+steel~
+4 0 AO 0
+BCDF BD BD 402 0
+17 70 850 100 100
+#10413
+circular saw~
+a circular saw~
+A circular saw lies here.~
+~
+steel~
+5 B AN 0
+AC AB ABE A 0
+43 70 4950 100 100
+A
+17 -2
+A
+18 4
+#10414
+box matches~
+a box of matches~
+A box of matches lies here, ready to light something.~
+~
+wood~
+4 A AO 0
+EF BD BD 38 0
+9 20 450 100 100
+#10415
+bloody black talon~
+a bloody black talon~
+A severed bloody, black talon lies here.~
+~
+bone~
+5 EG AN 0
+B C ACE AC C
+46 60 4300 100 100
+A
+12 25
+#10416
+jar of blood~
+jar of blood~
+A dark jar of blood lies here.~
+~
+glass~
+10 0 A 0
+50 2 35 81 0
+11 10 550 100 100
+#10417
+hell hound teeth~
+hell hound teeth~
+The bloody teeth of a hell hound sit here.~
+~
+bone~
+5 0 AN 0
+B AB ABE BD A
+43 20 3750 100 100
+A
+2 2
+#10418
+icy bottle~
+an icy bottle~
+An icy bottle sits on the floor.~
+~
+glass~
+10 0 A 0
+47 0 80 73 0
+8 10 400 100 100
+#10419
+ice spear two-handed~
+an ice spear~
+A spear made out of ice lies here.~
+~
+ice~
+5 0 AN 0
+ACDEHIJKLMNOPQRSTUVWXYZabcdef C BCE ABD BF
+48 50 2400 100 100
+#10420
+large meat hook two-handed~
+a large meat hook~
+A large meat hook is stuck into the ground.~
+~
+steel~
+5 0 AN 0
+D C ACE B BF
+47 30 3950 100 100
+A
+19 2
+#10421
+meat~
+some meat~
+A chunk of meat lies here.~
+~
+meat~
+19 0 A 0
+BCDE BCDE 0 0 0
+1 20 20 100 100
+#10422
+blueprint~
+the blueprint~
+A construction blueprint lies on the ground.~
+~
+paper~
+19 0 AO 0
+ABCDE ABCDE 0 0 0
+1 10 100 100 100
+#10423
+electric eraser~
+an electric eraser~
+A electric eraser lies on the ground, waiting for an erasermate.~
+~
+rubber~
+5 0 AN 0
+C AB CE AD 0
+44 10 3000 100 100
+A
+3 -1
+A
+19 2
+#10424
+spectacles~
+spectacles~
+A set of spectacles lies here on the ground. Don't step on them.~
+~
+glass~
+11 0 AE 0
+0 0 0 0 0
+17 10 4050 100 100
+A
+3 2
+A
+4 2
+#10425
+unholy symbol~
+an unholy symbol~
+A sinister-looking symbol of evil lies here smoldering.~
+~
+gold~
+3 0 AO 0
+ACEF BD BD 43 0
+12 20 600 100 100
+#10426
+unholy robes pile cloth~
+unholy robes~
+A stinking pile of cloth lies here.~
+~
+cloth~
+9 EJ AK 0
+CD CD CD CD 0
+47 40 8350 100 100
+A
+12 75
+#10427
+sharp teeth lawyer~
+the sharp teeth of a lawyer~
+A set of sharp, evil-looking teeth lie here. Probably a lawyer's.~
+~
+bone~
+5 G AN 0
+0 C BCE ACDEHIJKLMNOPQRSTUVWXYZabcdef C
+50 20 4100 100 100
+A
+2 1
+A
+3 1
+#10428
+golden ring~
+a golden ring~
+A golden ring lies on the ground.~
+~
+gold~
+8 0 AB 0
+0 0 0 0 0
+31 10 5550 100 100
+A
+12 30
+A
+18 2
+#10429
+engagement ring~
+an engagement ring~
+An engagement ring lies here.~
+~
+silver~
+8 0 AB 0
+0 0 0 0 0
+33 10 3250 100 100
+A
+4 -1
+A
+19 3
+#10430
+prenuptual agreement~
+a prenuptual agreement~
+A prenuptual agreement lies here.~
+~
+paper~
+2 0 A 0
+51 14 18 67 0
+11 10 550 100 100
+#10431
+ionic torque wrench~
+an ionic torque wrench~
+You see an ionic torque wrench on the ground.~
+~
+steel~
+5 0 AN 0
+C C BCE ABC 0
+49 30 7250 100 100
+A
+13 20
+A
+19 4
+#10432
+figurine horse~
+a figurine of a horse~
+You see a small figurine of a horse on the ground.~
+~
+glass~
+8 AG AO 0
+0 0 0 0 0
+45 30 11800 100 100
+A
+14 75
+#10433
+figurine winged horse pegasus~
+a figurine of a winged horse~
+You see a small figurine of a winged horse on the ground.~
+~
+glass~
+3 AG AO 0
+BCEF BEF BEF 40 0
+19 30 950 100 100
+#10434
+figurine dark horse nightmare~
+a figurine of a nightmare~
+You see a small figurine of a dark horse on the ground.~
+~
+glass~
+3 AG AO 0
+BCEF BEF BEF 2 0
+19 30 950 100 100
+#10435
+figurine black dragon~
+a figurine of a black dragon~
+You see a small figurine of a black dragon on the ground.~
+~
+glass~
+3 AG AO 0
+BCEF BD BD 68 0
+10 30 500 100 100
+#10436
+figurine red dragon~
+a figurine of a red dragon~
+You see a small figurine of a red dragon on the ground.~
+~
+glass~
+3 AG AO 0
+BCEF BD BD 69 0
+18 30 900 100 100
+#10437
+figurine white dragon~
+a figurine of a white dragon~
+You see a small figurine of a white dragon on the ground.~
+~
+glass~
+3 AG AO 0
+BCEF BD BD 70 0
+23 30 1150 100 100
+#10438
+figurine green dragon~
+a figurine of a green dragon~
+You see a small figurine of a green dragon on the ground.~
+~
+glass~
+3 AG AO 0
+BCEF BD BD 203 0
+31 30 1550 100 100
+#10439
+figurine blue dragon~
+a figurine of a blue dragon~
+You see a small figurine of a blue dragon on the ground.~
+~
+glass~
+3 AG AO 0
+BCEF BD BD 72 0
+4 30 200 100 100
+#10440
+geiger counter~
+a geiger counter~
+You see a Geiger counter here.~
+~
+steel~
+3 A AO 0
+CEF BD BD 35 0
+16 20 1600 100 100
+A
+5 1
+#10441
+photon displacement matrix~
+a photon-displacement matrix~
+You see a photon-displacement matrix on the ground.~
+~
+steel~
+5 AB AN 0
+AC C ACE BC 0
+45 70 5450 100 100
+A
+12 -20
+A
+18 4
+A
+19 2
+#10442
+black jumpsuit~
+a black jumpsuit~
+You see a black jumpsuit on the ground.~
+~
+rubber~
+9 A AD 0
+CD CD CD CD 0
+45 40 3850 100 100
+A
+18 2
+#10443
+antacid pill~
+an antacid pill~
+You see an antacid pill here.~
+~
+pill~
+26 0 A 0
+54 74 81 0 0
+14 10 700 100 100
+#10444
+manes claws~
+a manes' claws~
+The severed claws of a sub-demon lie here, twitching.~
+~
+bone~
+5 0 AN 0
+B AB E AC 0
+32 40 4000 100 100
+A
+19 3
+#10445
+welding torch~
+a welding torch~
+A welding torch sits on the ground.~
+~
+steel~
+5 0 AN 0
+C C ACE ACDEHIJKLMNOPQRSTUVWXYZabcdef 0
+47 70 3550 100 100
+A
+17 -5
+A
+19 2
+#10446
+blond wig~
+a blond wig~
+A blond wig lies on the ground.~
+~
+flesh~
+9 0 AE 0
+ABD ABD ABD ABD 0
+43 20 2950 100 100
+A
+3 -1
+A
+19 2
+#10447
+yellow jumpsuit nuclear symbol~
+a yellow jumpsuit~
+You see a yellow jumpsuit with a nuclear-warning symbol.~
+~
+rubber~
+9 0 AD 0
+CD CD CD CD 0
+45 30 5050 100 100
+A
+12 30
+A
+20 -4
+#10448
+cleaver~
+a cleaver~
+You see a nasty-looking cleaver stuck in the ground.~
+~
+steel~
+5 0 AN 0
+AC C ACE ACE 0
+45 60 6250 100 100
+A
+18 2
+A
+19 3
+#10449
+fire opal gem~
+a precious fire opal~
+A flaming red gem lies on the ground.~
+~
+crystal~
+8 T AO 0
+0 0 0 0 0
+0 10 5000 100 100
+E
+fire opal gem~
+The fire opal is a nicely-polished round gem, with orange, gold, and red
+mixed together like the heart of flame.  You can almost feel the hellfire
+from whence it came.
+~
+#10450
+hellstone hell stone~
+a hellstone~
+An evil black gem rests here, hoping to seduce you with its evil.~
+~
+crystal~
+8 ET AO 0
+0 0 0 0 0
+0 10 10000 100 100
+E
+hellstone hell stone~
+The hellstones are mined from the deepest pits of Hell at the cost of the
+blood, sweat, and pain of hundreds of damned souls.  You feel vaguely ill
+as you gaze into its lustrous black heart.
+~
+#0
+
+
+

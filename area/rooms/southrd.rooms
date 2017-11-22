@@ -1,0 +1,775 @@
+#1500
+On the Southern Road directly outside Lukhan~
+The walls of the city of Lukhan open here onto the Southern Road.  Inside
+the city can be seen towers of various types.  The noise of the city even
+reaches out into the road here.  The road stretchs off far to the south
+through the hills.  A {Rsign{w is posted here, and a {Yplaque{x is mounted
+near the gate.  
+~
+~
+0 2
+E
+sign~
+South -> Cities of Adaria & Minot
+~
+E
+plaque~
+{WWelcome to the City of Lukhan!{x
+ 
+{BBuilt atop the Ruins of Rekartha in the Year of Dark Times, 73.{x
+Please Obey Our Laws.
+~
+D0
+~
+~
+0 0 2054
+D2
+~
+~
+0 0 1501
+S
+#1501
+The Southern Road~
+The City of Lukhan rises to the north.  To the south, the Southern Road
+stretches away through the hills.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 2
+D0
+~
+~
+0 0 1500
+D2
+~
+~
+0 0 1502
+S
+#1502
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 2
+D0
+~
+~
+0 0 1501
+D2
+~
+~
+0 0 1503
+S
+#1503
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1502
+D2
+~
+~
+0 0 1504
+S
+#1504
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1503
+D2
+~
+~
+0 0 1505
+S
+#1505
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1504
+D3
+~
+~
+0 0 1506
+S
+#1506
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D1
+~
+~
+0 0 1505
+D2
+~
+~
+0 0 1507
+S
+#1507
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1506
+D2
+~
+~
+0 0 1508
+S
+#1508
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1507
+D2
+~
+~
+0 0 1509
+S
+#1509
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1508
+D2
+~
+~
+0 0 1510
+S
+#1510
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1509
+D2
+~
+~
+0 0 1511
+S
+#1511
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1510
+D3
+~
+~
+0 0 1512
+S
+#1512
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D1
+~
+~
+0 0 1511
+D3
+~
+~
+0 0 1513
+S
+#1513
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D1
+~
+~
+0 0 1512
+D3
+~
+~
+0 0 1514
+S
+#1514
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1515
+D1
+~
+~
+0 0 1513
+S
+#1515
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D2
+~
+~
+0 0 1514
+D3
+~
+~
+0 0 1516
+S
+#1516
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  A burnt out farmhouse is to the north amidst weeds.  
+~
+~
+0 4
+D0
+~
+~
+0 0 4000
+D1
+~
+~
+0 0 1515
+D2
+~
+~
+0 0 1517
+S
+#1517
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1516
+D2
+~
+~
+0 0 1518
+S
+#1518
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1517
+D2
+~
+~
+0 0 1519
+S
+#1519
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1518
+D2
+~
+~
+0 0 1520
+S
+#1520
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1519
+D2
+~
+~
+0 0 1521
+S
+#1521
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1520
+D2
+~
+~
+0 0 1522
+S
+#1522
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1521
+D3
+~
+~
+0 0 1523
+S
+#1523
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D1
+~
+~
+0 0 1522
+D2
+~
+~
+0 0 1524
+S
+#1524
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  A rusty gate blocks off a path to the west.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1523
+D2
+~
+~
+0 0 1525
+D3
+~
+gate~
+1 -1 15700
+S
+#1525
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1524
+D2
+~
+~
+0 0 1526
+S
+#1526
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1525
+D2
+~
+~
+0 0 1527
+S
+#1527
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1526
+D2
+~
+~
+0 0 1528
+S
+#1528
+The Southern Road~
+The Southern Road winds through the hills here.  It is vacant and the
+wind blows accross the grasses.  The road is paved with tightly fit
+cobble-stones.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1527
+D2
+~
+~
+0 0 1529
+S
+#1529
+An intersection in the road~
+The road comes to a well-used intersection here.  To the north the path
+is paved with cobblestones.  To the south it appears to be less well taken
+care of, being covered with a thin layer of grass which is broken with
+wheel-ruts of various depths.  There is a {rsign{x placed along the way
+here.  
+~
+~
+0 4
+E
+sign~
+North -> City of Lukhan
+West  -> City of Adaria
+South -> City of Minot
+~
+D0
+~
+~
+0 0 1528
+D2
+~
+~
+0 0 1530
+D3
+~
+~
+0 0 2542
+S
+#1530
+The Minot Trail~
+For travellers from the north, the road deteriorates greatly a this
+point.  The cobble paving gives way to a levelled dirt surface, which is
+often turned into mud.  The path is widened to the east where wagons have
+been veering around a particularly nasty rut.  
+~
+~
+0 4
+D0
+~
+~
+0 0 1529
+D2
+~
+~
+0 0 1531
+S
+#1531
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1530
+D2
+~
+~
+0 0 1532
+S
+#1532
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1531
+D2
+~
+~
+0 0 1533
+S
+#1533
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1532
+D2
+~
+~
+0 0 1534
+S
+#1534
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1533
+D3
+~
+~
+0 0 1535
+S
+#1535
+The Minot Trail~
+~
+~
+0 4
+D1
+~
+~
+0 0 1534
+D2
+~
+~
+0 0 1536
+S
+#1536
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1535
+D2
+~
+~
+0 0 1537
+S
+#1537
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1536
+D1
+~
+~
+0 0 6562
+D2
+~
+~
+0 0 1538
+S
+#1538
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1537
+D2
+~
+~
+0 0 1539
+S
+#1539
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1538
+D2
+~
+~
+0 0 1540
+S
+#1540
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1539
+D2
+~
+~
+0 0 1541
+S
+#1541
+The Minot Trail~
+~
+~
+0 4
+D0
+~
+~
+0 0 1540
+D3
+~
+~
+0 0 1542
+S
+#1542
+The Minot Trail~
+~
+~
+0 3
+D1
+~
+~
+0 0 1541
+D3
+~
+~
+0 0 1543
+S
+#1543
+An intersection of paths on the Minot Trail~
+~
+~
+0 3
+D0
+~
+~
+0 0 1300
+D1
+~
+~
+0 0 1542
+D2
+~
+~
+0 0 2300
+D3
+~
+~
+0 0 1544
+S
+#1544
+The Minot Trail~
+The road runs right up to a massive gate which blocks further tavel in
+this direction.  Weeds grow around the bottom of the gate, and chains with
+links the size of a man criss-cross the gate, rusted together to form a
+nearly solid barrier.  From both sides, and extending above the gate, a huge
+mirror-black wall blocks the way.  The wall seems to reach into the very
+heavens themselves, and appears to be impassible.  
+~
+~
+0 3
+D1
+~
+~
+0 0 1543
+S
+#0
+
+
+

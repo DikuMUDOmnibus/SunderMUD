@@ -1,0 +1,2098 @@
+#16001
+enforcer eye~
+the enforcer eye~
+A large eye watches all your moves.
+~
+These eyes are all over the Under dark, they make sure all the rules are 
+obeyed.  They are just that, huge eyes that float above the ground.  The  
+eye has a dark brown shell, with a huge pupil that never seems to blink.
+The pupil is a very dark green and takes in every action you do.
+~
+~
+wyvern~
+A T EFGH 0
+0 82 82 16d453+2112 82d10+100 6d28+0 11
+CFHIT L 0 S
+8 8 1 1640
+ABGZc ACDEFHJKQRVXa 2 unknown
+#16002
+floating eye~
+the floating eye~
+A floating eye drifts in and out of the shadows.
+~
+The eye flies at about your head level watching everything that happens. 
+These eyes have been known to steal from people and to play "jokes" on
+others.  The eye's pupil is a very dark grey and you can't tell where it is
+focused.
+~
+~
+wyvern~
+A T FH 0
+-350 68 68 16d312+1531 68d10+100 5d24+0 7
+CFHT L 0 S
+8 8 1 1360
+ABGZc ACDEFHJKQRVXa 1 unknown
+#16003
+prisoner~
+the prisoner~
+A prisoner stares at you from the back of the cell.
+~
+You look at this prisoner disgusted, how could anyone be put in a jail in this 
+city? This fellow must have committed the ultimate in crimes. He stares at you 
+and does nothing else.  It looks as if he has lost the will to live, 
+you wonder what the enforcers did to him.
+~
+~
+human~
+AB 0 E 0
+-200 68 68 16d312+1531 68d10+100 5d24+0 11
+FIK 0 0 0
+8 8 1 1360
+AHMV ABCDEFGHIJKRSTa 1 unknown
+#16004
+great enforcer eye~
+the great enforcing eye~
+A huge eye floats in the air here, ready to punish all.
+~
+This eye is the right hand of the Beholder who is in charge of the
+enforcers.  The shell of this eye is brown and crusty, almost like scales. 
+The pupil of this eye is a very deep red.  Looking at it makes you slightly
+dizzy.
+~
+~
+wyvern~
+A T EFGH 0
+0 93 93 16d583+2623 93d10+100 7d32+0 11
+CFHI ABL 0 S
+8 8 1 1860
+ABGZc ACDEFHJKQRVXa 2 unknown
+#16005
+beholder eye~
+the huge beholder~
+A huge beholder watches over the other enforcers.
+~
+A globular body greets your curious gaze.  This beholder is the head of the
+enforcers of the Underdark.  The enforcers keep a tenuous peace, keeping
+prolonged fights from occurring but allowing stealing and assassinations. 
+This body is a sphere with ten eyestalks ontop.  A huge eleventh eye
+resides in the central area.  A large mouth with razor sharp teeth lies below
+this huge eye.  The body is protected by a hard chitinous covering.
+~
+~
+wyvern~
+AB T EFGH 0
+0 100 100 16d675+2970 100d10+100 7d34+0 7
+CEFHIK ABL 0 S
+8 8 1 2000
+ABGZc ACDEFHJKQRVXa 2 unknown
+#16006
+beholder~
+the beholder~
+A beholder of incredible size floats here scheming against the world.       
+~
+A huge spherical body floats in the air here.  Ontop of the sphere reside 10
+moving eyestalks.  A huge eye is in the centre of the sphere.  This huge eye
+seems to disrupt your casting abilities.  This beholder lives in this city and
+masterminds many evil operations.
+~
+~
+wyvern~
+ABC T EFGH C
+-1000 99 99 16d661+2923 99d10+100 7d34+0 7
+CEFHIK ABL 0 S
+8 8 1 1980
+ABGZc ACDEFHJKQRVXa 2 unknown
+#16007
+svirfneblin deep gnome~
+the svirfneblin~
+A brownish grey gnome watches you warily.
+~
+Before you stands a svirfneblin, a deep gnome.  Much like a regular gnome
+the only real difference is the fact that this gnome's skin is a brownish grey
+and he is going slightly bald.
+~
+~
+unique~
+AC 0 G 0
+-500 69 69 16d321+1571 69d10+100 5d24+0 11
+CEIK AB 0 0
+8 8 1 1380
+0 0 2 unknown
+#16008
+drow trader~
+the drow trader~
+A drow trader goes about his business.
+~
+A black-skinned and pale-haired elf stands before you heading somewhere
+with a purpose to sell his goods.  Although he looks skinny he looks very
+deadly and quick.
+~
+~
+bear~
+A 0 F 0
+-750 66 66 16d294+1455 66d10+100 5d23+0 11
+CDEIKO 0 EI 0
+8 8 1 1320
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16009
+dwarf duergar~
+the duergar~
+A dark dwarf wanders about.
+~
+Before you stands an emaciated, evil-visaged dwarf.  His skin is dark grey. 
+He wears clothing that is a dark grey, he seems to blend into his surroundings.
+~
+~
+unique~
+A 0 E 0
+-600 71 71 16d340+1648 71d10+100 5d25+0 11
+CEK 0 0 0
+8 8 1 1420
+0 0 2 unknown
+#16010
+necromancer mage~
+the necromancer~
+A necromancer dressed in flowing dark robes is here.
+~
+You turn your gaze on a necromancer who seems to have power flowing through 
+every one of her movements.  Her visage is gaunt and strained, it seems as 
+if at every moment she is concentrating on a spell of some sort. 
+~
+~
+human~
+AB 0 F 0
+-150 93 93 16d583+2623 93d10+100 7d32+0 7
+EIK 0 0 0
+8 8 1 1860
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16011
+behir~
+the behir~
+A behir stands here waiting for orders from it's master.
+~
+Before you stands a snake-like reptilian monster with a dozen legs that
+must allow it to move with considerable speed, you recall that you once
+heard stories of these creatures climbing walls.  The head is more
+crocodilian than snake-like.  The scales are ultramarine with bands of
+grey-brown.  The belly is pale blue.
+~
+~
+snake~
+AB 0 F 0
+-100 88 88 16d522+2383 88d10+100 6d30+0 7
+EIKLN 0 L I
+8 8 1 1760
+AGRXYc ADEFKLQVX 2 unknown
+#16012
+fighter~
+the fighter~
+A very evil looking fighter chats with his companions.
+~
+This fighter looks like a bounty hunter who has had some luck.  Your mind
+goes wild imagining the many possibilities of why he is in the Under Dark,
+perhaps there is some creature that has had a reward placed on it's head,
+whatever the reason is the fighter doesn't seem that happy that you are
+staring at him.
+~
+~
+human~
+AB 0 E 0
+-750 93 93 16d583+2623 93d10+100 7d32+0 11
+CDEFIKLN 0 0 0
+8 8 1 1860
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16013
+high priest xevior~
+a high priest of Xevior~
+A priest of Xevior stands with his fellow group members.
+~
+Before you stands a cleric of Xevior.  He is tall and lanky, he seems to
+shimmer in and out of existence much like a mirage.  He bears the design
+of Xevior on his forehead.
+~
+~
+human~
+AB 0 EFGH C
+-666 93 93 16d583+2623 93d10+100 7d32+0 3
+FK 0 0 0
+8 8 1 1860
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16014
+lizard man~
+the lizard man~
+A reptilian man stands in the shadows off to the side.
+~
+A figure of muscular build who looks vaguely human. He is covered in little 
+scales and seems to be light green in colour. He stares at you as you look 
+at him. Ready for any move you may make on him.
+~
+~
+lizard~
+A 0 F 0
+-600 66 66 16d294+1455 66d10+100 5d23+0 11
+FJK 0 L I
+8 8 1 1320
+AGXc ACDEFHKQV 2 unknown
+#16015
+purple worm~
+the purple worm~
+A purple worm bursts from the ground before you.
+~
+Before you lies a worm of incredible size and power.  The worm is about 40 feet
+long and is purple in colour.  The worm has huge teeth which it uses to slowly 
+crush it's prey if they are unlucky enough not to be swallowed whole.
+~
+~
+snake~
+ABF 0 0 BC
+-100 94 94 16d596+2669 94d10+100 7d32+0 11
+FK AB L I
+8 8 1 1880
+AGRXYc ADEFKLQVX 2 unknown
+#16016
+purple worm huge~
+the huge purple worm~
+A huge purple worm erupts from the earth before you.
+~
+This worm is almost 60 feet long and 13 feet in diameter.  It is a very dark
+purple and has teeth about 4 inches long each.  The mouth is so large that
+it looks like a small cavern.  You can only see the front of the worm since
+it's whole mass can not possibly fit in the corridor.
+~
+~
+snake~
+ABF 0 0 BC
+-250 98 98 16d648+2869 98d10+100 7d33+0 11
+FK AB L I
+8 8 1 1960
+AGRXYc ADEFKLQVX 2 unknown
+#16017
+underling beholder~
+the beholder's underling~
+An underling of the beholder carries out it's malicious plans.
+~
+Before you stands a human who takes orders from the beholder. His life goal is 
+to serve the beholder. He is dressed in green and black. On his hands he wears 
+a pair of gauntlets that bear the beholders symbol, an eye with ten eyestalks 
+around it.
+~
+~
+human~
+AG 0 FH 0
+-750 53 53 16d189+1019 53d10+100 4d19+0 7
+FK 0 0 0
+8 8 1 1060
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16018
+beholder legionnaire~
+the beholder legionnaire~
+A robed legionnaire bearing the emblem of the beholder stands alert.
+~
+You see before you a robed figure who looks vaguely human. You've heard stories
+that the beholder's forces weren't human now you know they aren't, you look 
+closer to see just what type of humanoid he is. Then he looks straight at you 
+and you see glowing red eyes.  This figure is a githzerai!  You wonder how that
+happened.
+~
+~
+human~
+AG 0 FH 0
+-850 96 96 16d622+2765 96d10+100 7d33+0 7
+CDEFIKLN 0 0 0
+8 8 1 1920
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16019
+beholder attendant~
+the supreme attendant~
+A robed attendant seems mildly annoyed with your intrusion.
+~
+This figure is robed and looks almost human.  Then you notice his eyes, they 
+glow green in this light.  His gaze challenges you to either attack or leave 
+him in peace.  He holds himself with confidence and you realise it would no 
+easy matter to defeat him.
+~
+~
+human~
+AB 0 FH 0
+-900 98 98 16d648+2869 98d10+100 7d33+0 3
+IKLN 0 0 0
+8 8 1 1960
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16020
+grell brain~
+the grell~
+A large ugly floating brain with a beak wants to be fed
+~
+The appearance of this dreadful creature is fearsome indeed: a body like a
+giant exposed brain approximately five feet in diameter and with a frontal
+beak, below which trail ten six foot long tentacles hang.  The body of the
+grell is a drab olive colour streaked with white; the tentacles are pale
+olive-green.  This grell is the beloved pet of the beholder. 
+~
+~
+water fowl~
+ABF Tb 0 C
+-750 96 96 16d622+2765 96d10+100 7d33+0 3
+FK AB R 0
+8 8 1 1920
+AGW ACDEFHKPRa 2 unknown
+#16021
+barkeep bartender~
+the barkeep~
+The barkeep stands here ready to help you if you can pay
+~
+You are looking at the barkeep of the gemstone.  This is his establishment,
+and you get the feeling if you do anything destructive or stupid he will
+make you pay.
+~
+~
+human~
+AB 0 EF A
+0 110 110 16d816+3522 110d10+100 8d37+0 7
+CDEFIKLN 0 0 0
+8 8 1 2200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16022
+patron duergar~
+the duergar patron~
+A duergar sits here drinking ale while staring at you.
+~
+This duergar stares right back at you as you check him over. He would stand 
+about four feet tall at max you figure.  Built like an ox this guy could
+easily pick you up.  You figure he frequents the Gemstone since he just
+seems to fit in.
+~
+~
+unique~
+AG 0 G 0
+-500 61 61 16d251+1278 61d10+100 5d22+0 7
+L 0 0 C
+8 8 1 1220
+0 0 2 unknown
+#16023
+patron drow~
+the drow patron~
+A drow sits here quietly minding his own business.
+~
+The drow doesn't seem to be looking at anything at all.  His dark skin
+blends in with the murky lighting.  The drow looks quick and deadly.
+~
+~
+elf~
+AB 0 G 0
+-600 63 63 16d267+1355 63d10+100 5d22+0 3
+DELO 0 BEI CZ
+8 8 1 1260
+AGHMV ABCDEFGHIJKRSTUVa 2 unknown
+#16024
+patron human~
+the human patron~
+A human is sitting here very drunk and very loud.
+~
+This drunk is a slob, he has no life.  You can tell that he is fat and out of
+shape, the only thing going for him is the fact that he looks strong.  He has
+a gut that hangs out right over his belt, and a few scars on his face
+~
+~
+human~
+AG 0 G 0
+-250 64 64 16d276+1387 64d10+100 5d23+0 3
+CDL 0 0 C
+8 8 1 1280
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16025
+adventurer caris~
+Caris~
+Caris the experienced adventurer sits here watching you.
+~
+Caris looks to be a well seasoned adventurer, he has much equipment that he 
+has taken care of.  Caris is human and has dark brown hair, he is quite good 
+looking.  His eyes are green and seem to hold the key to power in them.
+~
+~
+human~
+AB 0 G 0
+0 72 72 16d349+1694 72d10+100 5d25+0 7
+CDL 0 0 C
+8 8 1 1440
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16026
+adventurer antryg~
+Antryg~
+Antryg sits here sipping on his beer.
+~
+Antryg is dressed in long robes that cover up his body.  You can't tell how
+built he is, but you do know he looks very deadly and dangerous.
+~
+~
+unique~
+AB 0 G 0
+0 72 72 16d349+1694 72d10+100 5d25+0 3
+CDL 0 0 C
+8 8 1 1440
+0 0 3 unknown
+#16027
+gremlin form dark~
+the gremlin~
+A small dark form jeers at you from the shadows.
+~
+You are looking at a small ugly creature. It is staring right at you, with 
+beady yellow eyes. It's skin is a dark greenish colour and looks to be slimy. 
+This little fellow has nasty little teeth and questing hands that pick up 
+anything.
+~
+~
+fox~
+ACG P J B
+-50 67 67 16d303+1492 67d10+100 5d24+0 11
+CDFHL 0 0 C
+8 8 1 1340
+AGV ACDEFHJKQRVa 2 unknown
+#16028
+creature slime~
+the slime creature~
+A weird shape made of slime flows along the wall.
+~
+The slime is green and oozes slowly down the wall onto the floor. You look 
+closely and notice with a start that it seems to be alive. The slime is slowly
+eating it's way through the wall and floor.
+~
+~
+water fowl~
+AG Tb 0 0
+0 70 70 16d330+1614 70d10+100 5d25+0 3
+CDL 0 R C
+8 8 1 1400
+AGW ACDEFHKPRa 2 unknown
+#16029
+huge rat~
+the huge rat~
+A huge rat about five feet long stares right at you.
+~
+This is an incredibly huge rat, you have never seen anything comparable
+on the surface.  The rat has green eyes that seem to shimmer with hatred. 
+The rat's fur is black and brown and very dirty.
+~
+~
+orc~
+AG 0 I 0
+0 69 69 16d321+1571 69d10+100 5d24+0 11
+CDL 0 Q CS
+8 8 1 1380
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16030
+jinxkin humanoid~
+the jinxkin~
+A small dirty humanoid form peers down at you from the rafters.
+~
+Before you stands what looks like a diminutive human wearing baggy
+clothing and an ill-fitting leather helmet.  You realise right away, this is
+one of the "little people" who cause trouble.  You then notice this jinxkin
+has dirty but sharp nails.
+~
+~
+human~
+ACG P 0 B
+-400 72 72 16d349+1694 72d10+100 5d25+0 3
+CDIL 0 0 C
+8 8 1 1440
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16031
+jermlaine human form~
+the jermlaine~
+A short human form watches you from the shadows.
+~
+You see a small ugly human form.  It is wearing baggy clothing and an ill-
+fitting leather helmet.  The jermlaine is close enough to notice that the
+clothing isn't actually clothing but it is folds of skin and the helmet is just
+the head, all leathery and smooth.  The limbs of this creature are knotty
+and bowed, with hands and feet tipped with thick nails which are filthy.
+~
+~
+human~
+ACG P 0 0
+-600 71 71 16d340+1648 71d10+100 5d25+0 11
+DI 0 0 C
+8 8 1 1420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16032
+bodak humanoid~
+the bodak~
+A grey skinned demonic humanoid sits on the throne waiting for you.
+~
+Before you stands a bodak, rarely seen on this plane.  The bodak you
+figure was summoned by a mage and quickly defeated him.  The bodak
+has dark grey, pearly skin.  It's muscular body has no hair, and the head is
+long with oddly distorted features.  The eyes are milky-white, vertical
+ovals of large size.
+~
+~
+human~
+AB 0 FHI C
+-999 95 95 16d609+2716 95d10+100 7d32+0 11
+DFHIK 0 D C
+8 8 1 1900
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16033
+mage corpse powerful mage~
+the mage~
+The sucked corpse of a once powerful mage rises to attack.
+~
+This mage once summoned a bodak, his greatest achievement. The mage then found 
+out just how little his own power was. The bodak sucked his life away and left 
+him as this husk, skin that clings to the bones.  The mage stares at you, his 
+eyes bloodshot and sunken into their sockets. 
+~
+~
+human~
+ABF 0 G 0
+-500 88 88 16d522+2383 88d10+100 6d30+0 3
+FK 0 C D
+8 8 1 1760
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16034
+iron golem statue human~
+the iron golem~
+A huge iron statue of a human stands to the side.
+~
+This looks to be an iron statue of a human.  The statue stands a good
+fifteen feet tall.  In fact it almost looks as if it can move.  You then glance
+at it's eyes and notice with a shock that they are watching you.
+~
+~
+unique~
+AB 0 F 0
+0 90 90 16d546+2478 90d10+100 7d31+0 7
+FIKN 0 0 0
+8 8 1 1800
+0 0 3 unknown
+#16035
+stone golem statue large~
+the stone golem~
+A large stone statue stands waiting next to the wall.
+~
+This is a large stone statue of a man.  The statue stands ten feet tall and
+looks powerful enough to rip off your head without straining.  The statue
+looks as if it is watching you.
+~
+~
+unique~
+AB 0 F 0
+0 89 89 16d534+2429 89d10+100 6d31+0 11
+FIKN 0 0 C
+8 8 1 1780
+0 0 3 unknown
+#16036
+human warlord itreres huge man~
+Itreres~
+A huge man rests here watching you as your barge into his room.
+~
+This is Itreres, a guest of the bodak.  He comes here hoping to forge an
+alliance with one of the most powerful figures in the underdark.  Itreres is
+a bear of a man, he ripples with muscles.  He has scars all over his arms
+and you are pretty sure all over his body.
+~
+~
+human~
+AB 0 0 A
+-500 92 92 16d571+2570 92d10+100 7d31+0 11
+FIK 0 0 0
+8 8 1 1840
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16037
+imp small~
+the imp~
+A small imp is here spying for the bodak.
+~
+This is a small imp who has become the familiar of the bodak.  He is the
+eyes and ears of the bodak, if the bodak so desires.
+~
+~
+bat~
+ABG APT FHIJ B
+-750 89 89 16d534+2429 89d10+100 6d31+0 11
+FHN 0 0 S
+8 8 1 1780
+AGVW ACDEFHJKPRSTa 1 unknown
+#16038
+minor demon babau dark twisted form~
+the babau~
+A dark twisted form a demon is ready to devour you.
+~
+Before you stands a demon of incredible horror.  The demon has a horn-like 
+growth that projects from the back of the skull.  The demon is tall and 
+appears much as a skeleton in form-fitting black leather.  Its extremities 
+are larger than normal, however.  Its feet, hands, and head are the size of 
+a hill giant's.  The taloned fingers are deadly.  This is the babau.
+~
+~
+dog~
+ACF 0 I 0
+-1000 90 90 16d546+2478 90d10+100 7d31+0 11
+HI 0 0 0
+8 8 1 1800
+AGV ACDEFHJKRUVa 2 unknown
+#16039
+servant~
+the servant~
+A servant stands off to the side ready to serve his master.
+~
+This is a servant.  He is ready to serve whomever his current master is.
+~
+~
+human~
+ABG 0 I 0
+0 60 60 16d243+1242 60d10+100 5d21+0 3
+0 0 0 0
+8 8 1 1200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16040
+gibbering mouther lump~
+the gibbering mouther~
+A lump of earthy material lies in the corner.
+~
+The so called lump is in fact a gibbering mouther.  The gibbering mouther
+is an amoeboid-like form of life, composed of all mouths and eyes.  The
+thing looks like a large blob that has eyes and mouths all over it, the blob
+is basically earthy in colour.
+~
+~
+water fowl~
+ACF BTb GI B
+-1000 91 91 16d558+2528 91d10+100 7d31+0 3
+0 A BR 0
+8 8 1 1820
+AGW ACDEFHKPRa 2 unknown
+#16041
+worker luscious female~
+the worker of the night~
+A luscious female offers her services to you.
+~
+You behold a beautiful girl who is yours to command.. for a price.  You
+realise if you touch the goods her "boss" will be mighty upset.
+~
+~
+human~
+AC 0 I 0
+0 62 62 16d259+1316 62d10+100 5d22+0 7
+FI 0 0 0
+8 8 2 1240
+AHMV ABCDEFGHIJKRSTa 1 unknown
+#16042
+maid beautiful woman~
+a maid of passion~
+A truly beautiful woman offers to serve your every desire.
+~
+This woman is dressed in what you think is a maid's costume.  She is very
+beautiful and her shape awakens your desire.  She looks disappointed when s
+he realises that you haven't paid for her services and ignores you from 
+then on.
+~
+~
+human~
+AC 0 I 0
+0 63 63 16d267+1355 63d10+100 5d22+0 7
+FI 0 0 0
+8 8 2 1260
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16043
+granter handsome man~
+a granter of pleasure~
+A very handsome man stands ready to grant you anything you want.
+~
+This man is truly amazing.  He is muscular and well built.  Everything about 
+him is perfect.  He looks you over and licks his lips indicating he's ready 
+when you have paid up.
+~
+~
+human~
+AC 0 I 0
+0 61 61 16d251+1278 61d10+100 5d22+0 7
+CFJK 0 0 0
+8 8 1 1220
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16044
+noble customer~
+a preferred customer~
+A slobbering man of noble birth has obviously been here before.
+~
+This a noble who has a bit too much time on his hands.  He has spent quite
+a fortune in this establishment.  He is a little overweight and his belly
+spills over his pants.
+~
+~
+human~
+AC 0 I 0
+0 64 64 16d276+1387 64d10+100 5d23+0 7
+CFJK 0 0 0
+8 8 1 1280
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16045
+man pimp~
+the pimp~
+A man sits behind the desk waiting for you to pay for the services.
+~
+This the pimp of the girls and guys of this establishment.  He wears
+expensive jewellery and has a few gold teeth.  He seems nice enough here
+but you realise that he must be a terror to his underlings.
+~
+~
+human~
+AC 0 I 0
+-1000 66 66 16d294+1455 66d10+100 5d23+0 3
+CFJK 0 0 0
+8 8 1 1320
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16046
+halfling patron~
+the halfling patron~
+A halfling sits here drinking ale watching the crowd carefully.
+~
+This halfling is just like any other, short and diminutive.  The only
+difference being this halfling looks to be very dangerous.  He seems to
+have the confidence that one could only find if he had been brought up on
+the streets of this foul city.
+~
+~
+hobgoblin~
+AB 0 I 0
+-500 63 63 16d267+1355 63d10+100 5d22+0 7
+CFKN 0 LQ 0
+8 8 1 1260
+ABHMV ABCDEFGHIJKQRSTYa 2 unknown
+#16047
+half-orc patron~
+the half-orc~
+A half-orc sits here leering at all who pass.
+~
+This half-orc is extremely built with many scars over it's ugly visage.  The
+half-orc has a huge nose and it's teeth are yellow and fang like.  The
+half-orc is guzzling down the ale looking for trouble.
+~
+~
+orc~
+AB 0 I 0
+-900 61 61 16d251+1278 61d10+100 5d22+0 3
+CFIN 0 Q S
+8 8 1 1220
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16048
+gnome svirfneblin patron~
+the svirfneblin patron~
+A deep gnome sits here watching his back.
+~
+This deep gnome sits at the table watching for suckers to prey upon.  His
+skin is grey and his eyes are also grey.  He looks to be very dangerous.
+~
+~
+unique~
+AB 0 I 0
+-750 62 62 16d259+1316 62d10+100 5d22+0 7
+C 0 0 0
+8 8 1 1240
+0 0 2 unknown
+#16049
+inn keeper~
+the inn keeper~
+The inn keeper stands ready behind the bar for your order.
+~
+The inn keeper is huge and looks to be very very deadly should you not pay up 
+for food eaten.  Apart from that the inn keeper is a very kind person who 
+listens patiently to the stories of the adventurers that pass through here.
+~
+~
+human~
+AB 0 I 0
+0 110 110 16d816+3522 110d10+100 8d37+0 3
+CFIN 0 0 0
+8 8 1 2200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16050
+duergar limbeck adventurer~
+Limbeck~
+A duergar adventurer sits here telling his heroic tales to those around.
+~
+Before you sits a duergar of impressive build.  From the mutterings around
+you know his name is Limbeck, a hero down here.  He has reputedly killed
+a purple worm single handed.
+~
+~
+unique~
+AB 0 I 0
+-500 83 83 16d465+2147 83d10+100 6d29+0 7
+CFIN 0 0 0
+8 8 1 1660
+0 0 2 unknown
+#16051
+gnome geg adventurer~
+Geg~
+A deep gnome adventurer is resting on the bed.
+~
+This deep gnome goes by the name Geg, which you overheard while
+walking through the inn.  He is one of the heroes of this city, and for that
+reason many people are after his life.
+~
+~
+unique~
+AB 0 I 0
+-600 80 80 16d432+2016 80d10+100 6d28+0 7
+CDEFN 0 0 0
+8 8 1 1600
+0 0 2 unknown
+#16052
+drow drevlin warrior~
+Drevlin~
+A drow warrior sits here watching you carefully.
+~
+This is Drevlin, one of the drow's most powerful warrior.  He once
+defeated the drow weapon's master without a weapon.  He is very ruthless
+and quick. His dark skin and pointed ears makes him look like a demon.
+~
+~
+bear~
+AB 0 I 0
+-999 81 81 16d442+2068 81d10+100 6d28+0 11
+DEGJO 0 EI 0
+8 8 1 1620
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16053
+half-orc jarre~
+Jarre~
+A half-orc of incredible size growls a challenge at you.
+~
+This half-orc goes by the name Jarre.  He is huge and very very ugly.  He is
+the champion of this facility, although the inn keeper doesn't allow him to
+fight inside the inn, Jarre has crushed many an opponents skull just outside
+the door.
+~
+~
+orc~
+AB 0 I 0
+-999 80 80 16d432+2016 80d10+100 6d28+0 11
+FIKN 0 Q S
+8 8 1 1600
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#16054
+serving wench~
+the serving wench~
+A serving wench hurries from table to table fulfilling orders.
+~
+Tired and exhausted, this girl is not that pretty to look at.  You wonder what 
+she would be like if hadn't been worked to the bone for about three years now.
+Her hair you figure hasn't been washed for a few days now, although that is 
+better than you yourself.
+~
+~
+human~
+AB 0 I 0
+0 63 63 16d267+1355 63d10+100 5d22+0 7
+J 0 0 0
+8 8 2 1260
+AHMV ABCDEFGHIJKRSTa 1 unknown
+#16055
+slave dealer~
+the Slave Dealer~
+The slave dealer stands ready to sell you slaves.
+~
+The slave dealer is huge and looks mighty mean.  He patiently waits for
+you to decide on which slave you wish to buy.
+~
+~
+human~
+AB 0 0 0
+900 110 110 16d816+3522 110d10+100 8d37+0 3
+0 0 0 0
+8 8 1 2200
+AHMV ABCDEFGHIJKRSTa 3 unknown
+#16056
+slave trader~
+the slave trader~
+A slave trader wonders if you are a perspective buyer.
+~
+The slave trader deals in slaves.  This trader is obviously very wealthy
+sporting much jewellery that he has garnished from this prosperous
+trading.
+~
+~
+human~
+AC 0 I 0
+-500 73 73 16d359+1731 73d10+100 5d26+0 3
+J 0 D 0
+8 8 1 1460
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16057
+merchant slave buyer~
+a slaver buyer~
+A merchant looks ready to buy all the slaves he sees.
+~
+The merchant has a cruel look in his eye, he looks like the type of master
+that any slave would dread.
+~
+~
+human~
+AC 0 I 0
+-900 71 71 16d340+1648 71d10+100 5d25+0 3
+FJ 0 0 0
+8 8 1 1420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16058
+orc slave~
+the orc slave~
+An orc slave stands here waiting for orders.
+~
+The orc slave looks none to pleased about being a slave.
+~
+~
+orc~
+ABC 0 I 0
+0 68 68 16d312+1531 68d10+100 5d24+0 11
+0 0 Q CS
+8 8 1 1360
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16059
+goblin slave~
+the goblin slave~
+A goblin slave waits for his orders.
+~
+The goblin slave watches you with distrust and hatred.
+~
+~
+goblin~
+ABC 0 I 0
+0 68 68 16d312+1531 68d10+100 5d24+0 7
+0 0 Q C
+8 8 1 1360
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16060
+male human slave~
+a male human slave~
+A male human slave waits for his orders.
+~
+A male human slave stands before you with his back rigid, his spirit hasn't
+been broken... yet.
+~
+~
+human~
+ABC 0 0 0
+0 69 69 16d321+1571 69d10+100 5d24+0 7
+0 0 0 C
+8 8 1 1380
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16061
+female human slave~
+the female human slave~
+A female human slave waits for her orders.
+~
+A female human slave stands before you watching you carefully.
+~
+~
+human~
+ABC 0 0 0
+0 61 61 16d251+1278 61d10+100 5d22+0 11
+0 0 0 C
+8 8 2 1220
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16062
+kobold slave~
+The kobold~
+A small kobold stands ready.
+~
+A small kobold looks like a strong fierce fighter.
+~
+~
+kobold~
+ABC 0 I 0
+0 70 70 16d330+1614 70d10+100 5d25+0 3
+0 0 L C
+8 8 1 1400
+ABHMV ABCDEFGHIJKQRSTa 2 unknown
+#16063
+elf slave~
+the elven slave~
+An elven slave stands ready for orders.
+~
+The elven slave looks as if he would defend his master, if he had to.
+~
+~
+elf~
+ABC 0 0 0
+0 74 74 16d369+1771 74d10+100 5d26+0 3
+0 0 B CZ
+8 8 1 1480
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16064
+dwarf slave~
+the dwarven slave~
+A dwarven slave stands ready for his orders.
+~
+The dwarven slave looks outright rebellious, but you realise he would fight
+if ordered to.
+~
+~
+dwarf~
+ABC 0 0 0
+0 76 76 16d389+1855 76d10+100 6d26+0 3
+0 0 CLQ CR
+8 8 1 1520
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16065
+bar tender large man~
+the bartender~
+A large man stands behind the counter ready to take your order.
+~
+Before you stands a large man who has seen everything in his life.  He is a
+retired adventurer and can defeat any mortal who would be idiotic enough
+to attack him.
+human~
+~
+unique~
+AB 0 E 0
+0 110 110 16d816+3522 110d10+100 8d37+0 11
+FJ 0 0 C
+8 8 1 2200
+0 0 2 unknown
+#16066
+drow adventurer prax~
+drow adventurer Prax~
+A drow adventurer sits with his party watching you.
+~
+This adventurer's name is well known in this establishment, he goes by the
+name Prax.  He is an accomplished mage, and seems to breathe magic. 
+~
+~
+bear~
+AB 0 F 0
+-500 78 78 16d410+1937 78d10+100 6d27+0 7
+CDEFIKO 0 EI 0
+8 8 1 1560
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16067
+drow warrior thespan~
+Thespan~
+A drow warrior watches you keenly while sipping his ale.
+~
+This drow is a very strong warrior.  He has never been defeated in his
+entire career.  He goes by the name Thespan.
+~
+~
+bear~
+AB 0 0 0
+-600 76 76 16d389+1855 76d10+100 6d26+0 3
+CDEFIKO 0 EI 0
+8 8 1 1520
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16068
+drow thief endolar~
+Endolar~
+A drow thief sits at the table with his companions watching you.
+~
+This drow is not to be trusted, he has a well earned reputation of being
+able to steal anything off of anyone.  Maybe you should check your gold. 
+~
+~
+bear~
+AB 0 0 0
+-600 76 76 16d389+1855 76d10+100 6d26+0 7
+ABCDEFIKO 0 EI 0
+8 8 1 1520
+AGV ABCDEFHJKRSTUVa 1 unknown
+#16069
+gnome mage snaromba~
+Snaromba~
+A deep gnome mage sits quietly watching you with disinterest.
+~
+This gnome has just begun to build herself a reputation.  She is has just on
+the threshold of becoming powerful, no easy feat in the Underdark.  She is
+clearly very intelligent and cunning.
+~
+~
+unique~
+AB 0 F 0
+-600 66 66 16d294+1455 66d10+100 5d23+0 3
+GIN 0 0 D
+8 8 1 1320
+0 0 1 unknown
+#16070
+gnome thief anmictes~
+Anmictes~
+A deep gnome thief sits back guzzling ale and chats with his companions.
+~
+This gnome is a part of this adventuring group that is just on the verge of
+becoming a powerful force in the Underdark, given a few more years and they 
+will be a force to be reckoned with.  Knowing this one of the city's 
+beholder's has outfitted them and protects them.
+~
+~
+unique~
+AB 0 0 0
+-700 65 65 16d285+1420 65d10+100 5d23+0 3
+BGIN 0 0 D
+8 8 1 1300
+0 0 1 unknown
+#16071
+duergar warrior emba~
+warrior Emba~
+A duergar warrior drains his ale with his fellows.
+~
+This warrior's name is Emba. Although this group is a strange sight in the
+Underdark due to their different races they work well together. You wonder 
+if this group is an indication that the under world races may be getting 
+closer together, which would be a very bad thing for the surface races.
+~
+~
+unique~
+AB 0 0 0
+-800 67 67 16d303+1492 67d10+100 5d24+0 7
+BCDEFGHN 0 0 D
+8 8 1 1340
+0 0 2 unknown
+#16072
+drow thief shillikif~
+Shillikif~
+A drow thief sits with his companions and watches you.
+~
+This drow thief has just begun to give himself a name in the Underdark. 
+>From the conversations around you, you figure his name is Shillikif.  This
+group has reputedly found a way into the githzerai keep from the Underdark.
+~
+~
+bear~
+AB 0 0 0
+-700 66 66 16d294+1455 66d10+100 5d23+0 3
+DEFHINO 0 EI D
+8 8 1 1320
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16073
+drow yie'stei watchful mage~
+drow Yie'Stei~
+Yie'Stei the watchful mage waits for you to buy something.
+~
+Yie'Stei is a drow mage of some repute, he's been able to maintain this shop 
+even while others have tried to take it from him.  He has a very profitable 
+business going.
+~
+~
+bear~
+AB 0 F 0
+0 100 100 16d675+2970 100d10+100 7d34+0 3
+DEFHINO 0 DEI IJKL
+8 8 1 2000
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16074
+drow zae'tres~
+drow Zae'tres~
+Zae'tres watches you, waiting for you to buy something.
+~
+Zae'tres is a drow merchant who has a booming trade here in the
+Underdark.  When the town was first established he quickly realised that
+there would be a profitable trade in selling arms, especially drow arms to
+those who visit this unique city.
+~
+~
+bear~
+AB 0 F 0
+0 110 110 16d816+3522 110d10+100 8d37+0 7
+DEFHINO 0 EI D
+8 8 1 2200
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16075
+duergar raesarnt~
+duergar Raesarnt~
+Raesarnt the duergar armourer waits patiently on you.
+~
+Raesarnt is a duergar who is now making a bundle in dealing with armour and 
+selling it at a ridiculous price.  Raesarnt is a stocky little fellow who
+obviously has been through a lot in his life.  He walks with a quiet
+confidence of one who has seen everything and knows nothing can best him.
+~
+~
+unique~
+AB 0 F 0
+0 110 110 16d816+3522 110d10+100 8d37+0 7
+EFHIN 0 0 D
+8 8 1 2200
+0 0 2 unknown
+#16076
+satori human jeweller~
+human Satori~
+Satori the jeweller waits to buy what you have to offer her.
+~
+Satori is one of the few female merchants of the Underdark.  It is rumoured 
+that she killed all her rivals by murdering them while they slept.  She is 
+a beautiful lady who always gets her way.
+~
+~
+human~
+AB 0 F 0
+-999 90 90 16d546+2478 90d10+100 7d31+0 3
+EFH 0 0 0
+8 8 2 1800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16077
+jiestis svirfneblin deep gnome~
+Jiestis~
+Jiestis watches you to see that you steal nothing and pay for all.
+~
+Jiestis is a svirfneblin, a deep gnome.  He sells many varieties of roots and
+mushrooms to those of the Underdark.  It is rumoured that some of his food has 
+healing properties.  Jiestis is a small figure who is easy to overlook, yet he 
+seems to be very very powerful, not a person to mess with.
+~
+~
+unique~
+AB 0 F 0
+0 99 99 16d661+2923 99d10+100 7d34+0 11
+EFHIN 0 CD 0
+8 8 1 1980
+0 0 1 unknown
+#16078
+svirfneblin gnome~
+the svirfneblin~
+A svirfneblin looks at you with hatred and mistrust.
+~
+This svirfneblin or deep gnome has taken sanctuary in the embassy. By the way 
+he is acting you figure he is running from something. He is dressed is dark grey 
+clothing and stands a good five feet tall.
+~
+~
+unique~
+ABG 0 0 0
+-500 67 67 16d303+1492 67d10+100 5d24+0 11
+E 0 0 0
+8 8 1 1340
+0 0 1 unknown
+#16079
+svirfneblin dignitary~
+the svirfneblin dignitary~
+A svirfneblin dignitary looks up surprised by your entry.
+~
+This is a svirfneblin dignitary who is using the embassy as a place of rest. 
+He has just been rather shaken up by his visit to the drow city and has come 
+here to find comfort in the safe walls of this building. He is dressed in 
+different shades of grey and sports a nice looking necklace.
+~
+~
+unique~
+ABG 0 0 0
+-500 66 66 16d294+1455 66d10+100 5d23+0 3
+E 0 0 C
+8 8 1 1320
+0 0 1 unknown
+#16080
+svirfneblin caretaker~
+the caretaker~
+The caretaker of the embassy watches you with mistrust.
+~
+This is the caretaker of the embassy.  It is his duty to make sure that the
+building is kept clean and open all year round.  He was once a powerful figure 
+in his homeland, but he fell out of favour and was sent here.  He does his 
+duty with a fanatic pride.
+~
+~
+unique~
+AB 0 0 0
+-700 67 67 16d303+1492 67d10+100 5d24+0 7
+EHIKL 0 0 C
+8 8 1 1340
+0 0 1 unknown
+#16081
+footpad~
+the footpad~
+A footpad slinks through the shadows.
+~
+This is one of the younger thieves of the guild.  He has considerable 
+experience, like all the thieves in the Underdark.  Although he has plenty
+of experience his skills aren't refined like those of his superiors. 
+~
+~
+human~
+A 0 0 B
+-450 66 66 16d294+1455 66d10+100 5d23+0 3
+EJ 0 0 CD
+8 8 1 1320
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16082
+cutpurse~
+the cutpurse~
+A cutpurse moves silently through the shadows.
+~
+This thief has begun his climb to the top.  He has just begun to prove himself 
+to the guild, by working the streets he is looking for that perfect steal 
+or kill.
+~
+~
+human~
+AH P 0 0
+-600 67 67 16d303+1492 67d10+100 5d24+0 7
+EJ 0 0 0
+8 8 1 1340
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16083
+filcher~
+the filcher~
+A filcher walks silently along the street.
+~
+This figure is a thief of minor repute.  He's been in the city for awhile now
+and knows who to pick on.  He is lean but covered in muscles, with many scars 
+from countless fights.
+~
+~
+human~
+AH 0 F 0
+-600 68 68 16d312+1531 68d10+100 5d24+0 3
+EJ 0 0 0
+8 8 1 1360
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16084
+rogue~
+the rogue~
+A rogue disappears amongst the shadows.
+~
+This thief is on the threshold of becoming a high ranking member of the
+guild.  He only has to make his name even and bigger, and thus he is
+willing to take greater risks.
+~
+~
+human~
+AH 0 F B
+-700 69 69 16d321+1571 69d10+100 5d24+0 3
+EJ 0 0 C
+8 8 1 1380
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16085
+sharper~
+the sharper~
+A sharper guards the entrance to the guild.
+~
+This thief has finally made it into the guild itself.  Although just a guard,
+he is proud to be in the guild's main building.  He will defend the guild
+with his life.
+~
+~
+human~
+ABF 0 F 0
+-500 71 71 16d340+1648 71d10+100 5d25+0 11
+EJ 0 D C
+8 8 1 1420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16086
+magsman thief~
+the magsman~
+A thief rests in the comfort of the guild.
+~
+This thief is dressed richly and has lots of money.  He is very confident in
+his ability to both kill and steal.  He lives in the guild where the head thief
+can watch him.
+~
+~
+human~
+AB 0 F 0
+-500 73 73 16d359+1731 73d10+100 5d26+0 11
+EJ 0 D 0
+8 8 1 1460
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16087
+master thief~
+the master thief~
+A master thief sits here watching you carefully.
+~
+This thief is one of the most powerful figures of the guild.  He is dressed in
+silk and has many items of jewellery.  The thief movements are as fluid as
+water, he seems to flow rather than move.
+~
+~
+human~
+AB 0 FGH 0
+-700 75 75 16d379+1812 75d10+100 6d26+0 11
+EJ 0 CD 0
+8 8 1 1500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16088
+head thief~
+the head thief~
+The head thief stares at you daring you to challenge him.
+~
+This is the head of the guild.  He isn't that tall nor impressive in size.  But
+he has a quiet certainty about him, all his movements are precise and
+calculated.  The thief has a cunning that made him the head of this guild,
+and he makes sure non of the other thieves gets near him in power.
+~
+~
+human~
+AB 0 FGH 0
+-1000 97 97 16d635+2816 97d10+100 7d33+0 7
+EJ C D 0
+8 8 1 1940
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16089
+guild's mage medalius~
+mage Meliadus~
+The guild's mage is resting here.
+~
+This is the thieve's guild main mage.  He is the only one who power
+anywhere near that of the head's.  Meliadus is dressed in a long flowing
+robe and lights the room with a rob shaped like a hand holding an orb.
+~
+~
+human~
+AB 0 FGH C
+-500 90 90 16d546+2478 90d10+100 7d31+0 11
+EFGHIKLN C 0 D
+8 8 1 1800
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16090
+trainer~
+the trainer~
+The trainer of the thieve's guild stands here.
+~
+This is the trainer of the thieve's guild.  He is the one that helps the 
+thieves increase in ability and skill.  He is also the only member of the 
+guild who is stronger than the leader.
+~
+~
+unique~
+ABK 0 F A
+0 100 100 16d675+2970 100d10+100 7d34+0 11
+EFGHIKLN C 0 0
+8 8 1 2000
+0 0 3 unknown
+#16091
+bravo assassin~
+the bravo~
+A bravo flits from shadow to shadow, ready to strike.
+~
+Before you stands a human of extreme danger, he is an assassin.  He is dressed 
+in black.  He is very skilled at the art of hitting the critical spot, so watch
+your back.
+~
+~
+human~
+ABG P 0 0
+-900 70 70 16d330+1614 70d10+100 5d25+0 11
+EFGHJKL 0 0 CD
+8 8 1 1400
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16092
+drow murderer assassin~
+the murderer~
+A drow murderer blends into the shadows watching for an opening.
+~
+This is a drow assassin, he blends into the shadows on each side of the
+street.  You can barely make out his form as he moves silently, looking for
+the opening.
+~
+~
+human~
+ABG P F B
+-999 71 71 16d340+1648 71d10+100 5d25+0 7
+EFGHJKL 0 0 C
+8 8 1 1420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16093
+thug assassin~
+the thug~
+A thug looks at you looking to kill you.
+~
+This assassin is very dangerous, he is built and strong.  He flits in and out
+of the shadows.  As an assassin he has the capability of nailing you with a
+critical hit, watch your back and don't hang around.
+~
+~
+human~
+ABG P F B
+-999 72 72 16d349+1694 72d10+100 5d25+0 3
+EFHJKL 0 0 D
+8 8 1 1440
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16094
+killer assassin~
+the killer~
+A killer steps in and out of the shadows.
+~
+Before you stands a killer of extreme power and might, although if you can
+survive the first hit, you may be able to kill him.  Do not be deceived by
+the match up, his strike is deadly.
+~
+~
+human~
+ABG 0 F B
+-999 73 73 16d359+1731 73d10+100 5d26+0 11
+FGHKL 0 0 C
+8 8 1 1460
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16095
+assassin~
+the assassin~
+An assassin dressed in black appears from the shadows.
+~
+This assassin is very dangerous.  There are very few creatures out there
+who match up with the power of the assassin.  Should you take the time to
+read all of this, I caution you to move right away.
+~
+~
+human~
+ABG 0 F 0
+-999 75 75 16d379+1812 75d10+100 6d26+0 7
+EFGHJKL 0 0 0
+8 8 1 1500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16096
+expert assassin~
+the expert assassin~
+An expert assassin watches you calmly, ready to strike.
+~
+This assassin has become extremely powerful and dangerous.  The assassin 
+is sheathed completely in black.  Wearing a mask you can not tell what this 
+assassin really looks like.
+~
+~
+human~
+ABG 0 F 0
+-999 77 77 16d400+1890 77d10+100 6d27+0 3
+EFGHJKL 0 C 0
+8 8 1 1540
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16097
+senior assassin~
+the senior assassin~
+An assassin of extreme beauty and power waits for the perfect moment.
+~
+This assassin is ready to kill you if need be.  His list of victims is way too
+long to write out.  One of the most powerful assassins of the land, he can
+take out almost foe.
+~
+~
+human~
+ABG 0 F 0
+-999 79 79 16d421+1975 79d10+100 6d27+0 3
+EFGHJKL 0 C 0
+8 8 1 1580
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16098
+prime assassin~
+the prime assassin~
+An assassin of exceptional power waits calmly to kill you.
+~
+This is one of the most powerful assassins in the realm.  His power goes
+beyond just fighting, he is versed in the art of death.  He has practised
+many long hours to learn how to hit the critical spot.
+~
+~
+human~
+ABG 0 F 0
+-999 81 81 16d442+2068 81d10+100 6d28+0 11
+EFGHJKL 0 CD 0
+8 8 1 1620
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16099
+guildmaster assassin~
+the guildmaster~
+An assassin of awesome repute stands here debating to kill you.
+~
+This is the most powerful assassin in the realm, he has the ability to kill
+any mortal.  His price is extremely high, but he has never failed.
+~
+~
+human~
+ABG 0 F 0
+-999 96 96 16d622+2765 96d10+100 7d33+0 3
+EFGHJKL 0 C 0
+8 8 1 1920
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16100
+assassin trainer~
+the trainer~
+The assassin's trainer stands here ready to help you progress.
+~
+This is a figure of extreme power.  He can defeat anything that walks the
+land and is mortal.
+~
+~
+unique~
+ABK 0 F A
+0 100 100 16d675+2970 100d10+100 7d34+0 11
+EFGHJKL 0 0 0
+8 8 1 2000
+0 0 3 unknown
+#16101
+darken beast large bat weasel~
+the darken beast~
+A disfigured cross between a large bat and a weasel screams at you.
+~
+This is creature is about five feet tall with wings that spread out ten feet
+wide.  The wings are membrane and you can see the sickly green blood pulsating 
+through them.  The beast's eyes are a dirty reddish colour and the focus right 
+at you.
+~
+~
+bat~
+ABG T HJ 0
+-500 94 94 16d596+2669 94d10+100 7d32+0 7
+EFGHJKL 0 0 S
+8 8 1 1880
+AGVW ACDEFHJKPRSTa 2 unknown
+#16102
+skyzorr'n~
+the skyzorr'n~
+A skyzorr'n wanders about.
+~
+A skyzorr'n is a race of insectoid beings.  The skyzorr'n looks rather like a
+large bipedal ant.  Its head is rather small but with two large compound eyes 
+and fair-sized mandibles.  No ears, as such, are present, but there are three 
+tiny, well covered holes on either side of the head.  The body is thin and 
+stick-like.  It has four arm/claw appendages, with reasonably developed 
+pincer-hands on the two uppermost and dagger-like claws on the two lower ones.
+~
+~
+centipede~
+ABG 0 HJ 0
+-600 95 95 16d609+2716 95d10+100 7d32+0 11
+EFGHJKL 0 FI E
+8 8 1 1900
+ABGO ACK 2 unknown
+#16103
+dretch demon~
+the dretch~
+A dretch preforms the tasks Eurandus asks of it.
+~
+Before you stands a creature with a round, rubbery body and thin, spindly arms 
+and legs.  It has a small head set squarely on it's shoulders.  The hair is 
+sparse and bristly, the ears are lopped and they stick out.  The eyes are 
+slanted downward and the nose appears to be squashed.  The mouth is slack and 
+slobbering with many small fangs.
+~
+~
+human~
+ABG 0 H 0
+-800 96 96 16d622+2765 96d10+100 7d33+0 11
+EFGHJKL 0 0 0
+8 8 1 1920
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16104
+platinum golem huge statue~
+the platinum golem~
+A huge statue made of platinum watches you as if it were alive.
+~
+This is a huge golem, but not like any you have seen before.  This golem is
+made out of platinum and it looks to be very strong.  You wouldn't want to
+end up in a battle with a foe like this if you were weak.
+~
+~
+unique~
+AB 0 0 C
+0 97 97 16d635+2816 97d10+100 7d33+0 3
+EFGHJKL 0 D 0
+8 8 1 1940
+0 0 3 unknown
+#16105
+duergar merchant gulthac~
+merchant Gulthac~
+A powerful duergar merchant is here to buy weird creatures.
+~
+This is Gulthac who has a booming trade dealing with all sorts of grotesque 
+creatures, like the ones that Eurandus creates.  He is a powerful warrior and 
+is rarely beaten in a fight.
+~
+~
+unique~
+ABG 0 I 0
+-800 96 96 16d622+2765 96d10+100 7d33+0 11
+EFGHJKL 0 0 0
+8 8 1 1920
+0 0 2 unknown
+#16106
+mage eurandus~
+mage Eurandus~
+Eurandus stands before you in all his might...
+~
+Before you stand a figure who is very impressive.  He looks to be as strong
+as the stronger fighter and as quick as any thief.  He has jet black hair 
+which he holds back in braids.  He is very handsome, but his eyes give
+away his insanity.
+~
+~
+human~
+AB 0 0 C
+-999 97 97 16d635+2816 97d10+100 7d33+0 7
+EFGHJKL 0 C 0
+8 8 1 1940
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16107
+keeper~
+the Keeper~
+The Keeper stands here watching over his wards.
+~
+This man seems as if he comes from the earth, his visage seems to be
+carved from the very stones of the underdark.  His gaze pierces through the
+darkness between you and him and penetrates into your mind.  You can
+tell that this man is extremely powerful.
+~
+~
+human~
+AB 0 F C
+0 99 99 16d661+2923 99d10+100 7d34+0 7
+CDEFGHKL 0 0 0
+8 8 1 1980
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16108
+xaren~
+the xaren~
+A xaren blends into the surrounding rock making it very hard to see.
+~
+The xaren is a relative of the xorn. The creature before you has three legs
+and three appendages which serve as arms. Each of the appendages has three 
+large claws on them. On the top of the creature, where the head should be is 
+a huge gaping mouth. On both sides of the appendage facing you are two large 
+eyes. The skin of this creature looks just like rock and thus it seems to 
+fade into the background.
+~
+~
+modron~
+AB 0 FI 0
+-500 98 98 16d648+2869 98d10+100 7d33+0 3
+EFGHJKLQR BMNPQ HIK 0
+8 8 1 1960
+H ABCGHJK 2 unknown
+#16109
+cloaker cloak~
+the cloaker~
+A cloak rises off the floor and stares at you with two glowing eyes.
+~
+This is a cloaker, a shadow-dwelling, unearthly creature.  A cloaker resembles 
+a large semicircular cloak or blanket with two claw-like appendages at the 
+tips and a long, mace-like tail.  Black eyespots cover its back like buttons 
+on a cloak, and when the tail is hidden it is almost impossible to distinguish 
+from a real cloak. In the middle of the front is a large gaping mouth and two 
+glowing eyespots.
+~
+~
+water fowl~
+AB Tb H 0
+-999 98 98 16d648+2869 98d10+100 7d33+0 7
+EFGHJKLN 0 R 0
+8 8 1 1960
+AGW ACDEFHKPRa 2 unknown
+#16110
+human fighter rygar~
+Lord Rygar~
+A human fighter sits at a table minding his own business.
+~
+Before you sits Lord Rygar, a fighter of some repute.  People have said that 
+he once killed a wrym single handed.  He is a brute of a man, with muscles 
+rippling all over his body.  He sports a long black beard and his hair is 
+black. He looks very evil.
+~
+~
+human~
+AB 0 0 0
+-800 75 75 16d379+1812 75d10+100 6d26+0 3
+EFHKL 0 0 0
+8 8 1 1500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16111
+half-orc thief orak~
+half-orc Orak~
+A half-orc sits with a human discussing terms for a job.
+~
+This is Orak, a half-orc thief. A member of the thieves guild, he operates 
+freely. Orak has a great name, although slow at times his remarkable dexterity
+and intelligence has helped him become one of the leading thieves in the 
+Underdark.
+~
+~
+orc~
+AB 0 I 0
+-500 76 76 16d389+1855 76d10+100 6d26+0 11
+EJ 0 Q S
+8 8 1 1520
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16112
+drow mage sabrakarn~
+mage Sabrakarn~
+A drow mage lies on the bed meditating.
+~
+This is Sabrakarn a drow mage. He has become a powerful force in the politics 
+of his homeland.  He is here to learn new destructive spells so he can become 
+the most feared drow in the land.
+~
+~
+bear~
+AB 0 0 0
+-700 76 76 16d389+1855 76d10+100 6d26+0 11
+DEFHKLO 0 EI 0
+8 8 1 1520
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16113
+svirfneblin fighter hangharid~
+svirfneblin Hangharid~
+A svirfneblin fighter rests on the bed.
+~
+This is Hangharid, a svirfneblin fighter.  He has vanquished many foes and
+all his enemies fear him.  Even though he is a gnome, he has strength that
+rivals that of an ogre.
+~
+~
+unique~
+AB 0 0 0
+-500 74 74 16d369+1771 74d10+100 5d26+0 3
+BCDEFKL 0 0 0
+8 8 1 1480
+0 0 1 unknown
+#16114
+drow cleric sifrim~
+cleric Sifrim~
+A drow cleric sits cross legged on the ground.
+~
+Sifrim is one of the few powerful drow clerics.  He is dressed all in black
+and stares at your with glowing eyes.  A dangerous fellow by far.
+~
+~
+bear~
+AB 0 0 0
+-800 75 75 16d379+1812 75d10+100 6d26+0 7
+DEFHKLO 0 EI 0
+8 8 1 1500
+AGV ABCDEFHJKRSTUVa 2 unknown
+#16115
+duergar fighter wismarel~
+duergar Wismarel~
+A duergar fighter polishes his sword.
+~
+This is Wismarel, a duergar fighter.  Wismarel is here to find his fortune
+and hopes to find many powerful magical items.
+~
+~
+unique~
+AB 0 0 0
+-500 76 76 16d389+1855 76d10+100 6d26+0 7
+EFHKL 0 0 0
+8 8 1 1520
+0 0 2 unknown
+#16116
+human mage methuen~
+mage Methuen~
+A human mage opens his eyes as you barge into his room.
+~
+This is Methuen, a mage.  Methuen has come to the Underdark in search
+of magical items to enhance his considerable magical prowess.
+~
+~
+human~
+AB 0 0 0
+-400 77 77 16d400+1890 77d10+100 6d27+0 11
+FHKL 0 0 0
+8 8 1 1540
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16117
+human fighter cedrena~
+fighter Cedrena~
+A human fighter lies on her bed deep in thought.
+~
+This is Cedrena, a fighter. She seeks items of power and might to enhance 
+her fighting abilities. She is also seeking the fabled purple worms of 
+the Underdark.
+~
+~
+human~
+AB 0 0 0
+-250 75 75 16d379+1812 75d10+100 6d26+0 11
+EFHKL 0 0 0
+8 8 2 1500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16118
+inn keep~
+the inn keep~
+The inn keep stands ready to take your order.
+~
+This is the inn keep of the Traveller's Den.  He makes sure everyone gets
+what they want and provides soft beds for those who wish to stay here.
+~
+~
+human~
+AB 0 0 0
+0 110 110 16d816+3522 110d10+100 8d37+0 3
+EFHKL 0 0 0
+8 8 1 2200
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16119
+clan member demon~
+the demon clan member~
+A member of the demon clan watches you warily.
+~
+Before you stands a human who is dressed in black and red.  He has dedicated 
+his life to serving the demons of the abyss.  His eyes glow with fanatical 
+desire to be one with the demons.
+~
+~
+human~
+ABG 0 0 A
+-500 67 67 16d303+1492 67d10+100 5d24+0 7
+FHKL 0 C 0
+8 8 1 1340
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16120
+demon clan mage~
+a demon clan mage~
+A clan mage walks about lost in thought.
+~
+This is one of the clan mages, he is dressed in flowing red and black robes. 
+He is also wearing red and black bracers.
+~
+~
+human~
+ABG 0 0 A
+-600 71 71 16d340+1648 71d10+100 5d25+0 3
+FHKL 0 0 0
+8 8 1 1420
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16121
+demon clan fighter~
+a demon clan fighter~
+A fighter dressed in black and red platemail watches you.
+~
+Before you stands an impressive fighter who is sheathed completely in
+black and red platemail.  He wields a glowing blade that seems to be
+possessed by an evil force.
+~
+~
+human~
+AB 0 0 A
+-900 73 73 16d359+1731 73d10+100 5d26+0 11
+EFHIKL 0 0 C
+8 8 1 1460
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16122
+demon summoner~
+the demon summoner~
+A summoner stands here chanting to bring a demon to this plane.
+~
+This mage is dressed in a flowing black and red robe.  His eyes glow with
+the power that is coursing through his body as he attempts to bring demons
+to this plane of existence.
+~
+~
+human~
+AB 0 0 A
+-600 77 77 16d400+1890 77d10+100 6d27+0 7
+FHKL 0 0 0
+8 8 1 1540
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16123
+cambion~
+the cambion~
+A cambion stands off to the side watching carefully.
+~
+Before you stands a cross between a demon and a human.  His build is stocky and
+strong.  He has scaly skin and fangs.  Small fangs protrude from his head.
+~
+~
+human~
+ABG 0 0 A
+-999 80 80 16d432+2016 80d10+100 6d28+0 7
+EFHKL 0 0 0
+8 8 1 1600
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16124
+noble cambion~
+a noble cambion~
+A cambion dressed richly stares right at you.
+~
+Before you stands a noble cambion.  These happen when a human female mates 
+with a demon lord.  He looks very human, just the glowing red eyes and dark 
+skin give him away.  He opens his mouth and you notice small red fangs 
+instead of teeth.
+human~
+~
+unique~
+ABG 0 0 A
+-999 85 85 16d487+2244 85d10+100 6d29+0 7
+EFHKL 0 0 0
+8 8 1 1700
+0 0 2 unknown
+#16125
+clan head irmugar~
+Irmugar~
+The head of the clan stands here devising a plan to rule the world.
+~
+This is Irmugar the clan leader.  He got to this position by killing the 
+former leader and conspiring with many of the demon lords.  With their support 
+he took control of the clan and now is attempting to open permanent gates 
+to the abyss so the demons can come and go as they please.
+~
+~
+human~
+ABG 0 0 AC
+-999 87 87 16d510+2338 87d10+100 6d30+0 7
+EFHKL 0 0 0
+8 8 1 1740
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16126
+large demon hezron~
+the hezron~
+A large demon springs at you.
+~
+Before you stands an ugly demon.  His skin is dark green with splashes of red.
+His eyes glow green in the light. His skin is smooth and shimmers in the light.
+He stands about six feet tall and four feet across.  Down his back he has 
+spikes and his hands end with large claws. 
+~
+~
+human~
+AF 0 0 0
+-999 75 75 16d379+1812 75d10+100 6d26+0 11
+FHKL 0 0 0
+8 8 1 1500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16127
+eye of fear and flame~
+an eye of fear and flame~
+A weird hooded human stares at your a large glowing red eye.
+~
+The eye of fear and flame is a hooded man-sized figure.  You can't see the 
+face since the interior of the hood is an opaque black screen.  You can sense 
+an aura of pure evil emanating from this creature.
+~
+~
+human~
+ABG 0 0 0
+-999 75 75 16d379+1812 75d10+100 6d26+0 11
+FHKL 0 0 0
+8 8 1 1500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16128
+revenant~
+the revenant~
+A revenant wanders the street searching for revenge.
+~
+This humanoid figure presents a pale, corpse-like appearance, with pallid
+skin drawn tightly over hollow cheekbones; its flesh is unusually cold and
+clammy.  Its eyes - sunken in the face - are dull and heavy lidded. 
+~
+~
+human~
+ABG 0 0 0
+-500 75 75 16d379+1812 75d10+100 6d26+0 11
+EFHL 0 0 0
+8 8 1 1500
+AHMV ABCDEFGHIJKRSTa 2 unknown
+#16129
+eye killer~
+the eye killer~
+An eye killer rests in the shadows.
+~
+This creature has a bat-like upper torso on the body of a large snake.  Its
+stunted wings cannot support flight.  The upper part of its body is a dark
+grey-green while the lower part is a medium green flecked with dull yellow. 
+Its eyes are disproportionably large and apparently lidless. 
+~
+~
+centipede~
+ABG 0 J 0
+-700 74 74 16d369+1771 74d10+100 5d26+0 3
+FHJKL 0 FI E
+8 8 1 1480
+ABGO ACK 2 unknown
+#0
+
+
+

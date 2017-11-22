@@ -1,0 +1,671 @@
+#1950
+Entrance to the Cult of the Abyss~
+Since the escape of one of their members the cult leaders have decided to
+take steps to prevent unauthorised access, and so have set up this guard
+room.  Looks like getting in won't be as easy as you thought...  
+~
+~
+1 11
+D0
+~
+~
+1 1950 1951
+D4
+~
+~
+65 2051 2173
+S
+#1951
+A hall in the cult~
+You're standing in a hall running east and west in the gloom.  To the
+north is a solid-looking door covered in runic inscriptions, while to the
+south is the door leading out of this dark and evil place.
+~
+~
+1 11
+D0
+~
+~
+1 1960 1956
+D1
+~
+~
+0 0 1957
+D2
+~
+~
+1 1950 1950
+D3
+~
+~
+0 0 1952
+S
+#1952
+A hall in the cult~
+The dark hall ends here with three doors to the north, south and west. 
+The door to the west has runic inscriptions on it.  
+~
+~
+1 11
+E
+inscriptions~
+The inscriptions aren't in any language you can understand.  
+~
+D0
+~
+~
+1 -1 1955
+D1
+~
+~
+0 0 1951
+D2
+~
+~
+1 -1 1953
+D3
+~
+~
+1 -1 1954
+S
+#1953
+A dormitory~
+This long dark room has several beds along one wall.  The ceiling has
+been painted in all manner of strange and disturbing designs and you wonder
+how anyone could stand to sleep here.  
+~
+~
+1 11
+E
+ceiling~
+The designs painted onto the ceilings follow a strange spiral pattern
+that confuses the eye and makes you giddy.  As you stare it it the patterns
+seem to shift to form weird demonic figures and symbols of evil.  
+~
+D0
+~
+~
+1 -1 1952
+S
+#1954
+Initiatory chamber~
+This chamber seems to be where new members to the cult are initiated.  A
+variety of sinister-looking devices are arranged around the walls, while a
+large shallow pool of steaming water stands in the center.  A massive iconic
+portrait of a charismatic-looking man dominates the western wall, and
+underneath is some writing.  
+~
+~
+1 11
+E
+devices~
+The devices are similar to those you'd expect to see in a torture
+chamber, but here they are used to "purify" the body and soul of the
+initiate.  
+~
+E
+pool~
+The water in the pool is bubbling and steaming up from a
+mineral-encrusted hole at the center.  Clearly this is fed by some kind of
+natural hot spring.  
+~
+E
+portrait~
+The artist who painted this portrait was either mad or a genius, probably
+both.  He has captured something about the face and eyes that makes them
+strangely compelling, and you find it difficult to look away.  
+~
+E
+writing~
+The writing says "Praise be to the Voice of the Abyss".
+~
+D1
+~
+~
+1 -1 1952
+S
+#1955
+The robing chamber~
+This small chamber seems to be some kind of dressing room.  Shelves hold
+dozens of black robes complete with hoods and black cord belts.  
+~
+~
+1 11
+D2
+~
+~
+1 -1 1952
+S
+#1956
+Temple of the Abyss~
+This massive chamber reeks of blood, sweat, and incense.  The ceiling
+rises up to disappear into the gloom overhead, and you feel dwarfed by the
+long tapestries that hang from the heights.  On the north side of the
+chamber you see a large altar, behind which is a large ring of gold full of
+an unnatural grey energy.  Could this be a portal to another place?  
+~
+~
+5 11
+D2
+~
+~
+1 1960 1951
+S
+#1957
+A hall in the cult~
+The dark hall ends here with three doors to the north, south and east. 
+You get a sense of overwhelming evil to the east.  
+~
+~
+1 11
+D0
+~
+~
+1 -1 1958
+D1
+~
+~
+1 -1 1959
+D2
+~
+~
+1 -1 1960
+D3
+~
+~
+0 0 1951
+S
+#1958
+A dormitory~
+This long dark room has several beds along one wall.  The ceiling has
+been painted in all manner of strange and disturbing designs and you wonder
+how anyone could stand to sleep here.  
+~
+~
+1 11
+D2
+~
+~
+1 -1 1957
+S
+#1959
+Chamber of the Voice~
+This is the first chamber you've seen with decent furnishings. 
+Tapestries depicting dark scenes of torture hang from the walls, while the
+floor is thickly carpeted.  A prayer mat lays in the centre of the room.  
+~
+~
+1 11
+D3
+~
+~
+1 -1 1957
+S
+#1960
+Dining hall~
+Ah, it seems even cultists need to eat.  Several long tables with benches
+dominate this room, and a hearth fire burns strangely smokeless at one end
+of the room.  A large cauldron hangs over the fire, and you can smell food
+cooking in it.  
+~
+~
+0 0
+D0
+~
+~
+1 -1 1957
+S
+#1961
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1963
+D1
+~
+~
+0 0 1968
+D2
+~
+~
+0 0 1965
+D3
+~
+~
+0 0 1962
+D4
+~
+~
+0 0 1965
+D5
+~
+~
+0 0 1966
+S
+#1962
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1963
+D1
+~
+~
+0 0 1961
+D2
+~
+~
+0 0 1964
+D3
+~
+~
+0 0 1968
+D4
+~
+~
+0 0 1966
+D5
+~
+~
+0 0 1967
+S
+#1963
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1964
+D1
+~
+~
+0 0 1961
+D2
+~
+~
+0 0 1962
+D3
+~
+~
+0 0 1966
+D4
+~
+~
+0 0 1967
+D5
+~
+~
+0 0 1968
+S
+#1964
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+0 0
+D0
+~
+~
+0 -1 1956
+D1
+~
+~
+0 0 1965
+D2
+~
+~
+0 0 1963
+D3
+~
+~
+0 0 1962
+D4
+~
+~
+0 0 1968
+D5
+~
+~
+0 0 1961
+S
+#1965
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1967
+D1
+~
+~
+0 0 1966
+D2
+~
+~
+0 0 1961
+D3
+~
+~
+0 0 1964
+D4
+~
+~
+0 0 1961
+D5
+~
+~
+0 0 1962
+S
+#1966
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+0 0
+D0
+~
+~
+0 -1 1969
+D1
+~
+~
+0 0 1963
+D2
+~
+~
+0 0 1967
+D3
+~
+~
+0 0 1965
+D4
+~
+~
+0 0 1962
+D5
+~
+~
+0 0 1963
+S
+#1967
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1966
+D1
+~
+~
+0 0 1968
+D2
+~
+~
+0 0 1968
+D3
+~
+~
+0 0 1965
+D4
+~
+~
+0 0 1963
+D5
+~
+~
+0 0 1964
+S
+#1968
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1967
+D1
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1962
+D3
+~
+~
+0 0 1961
+D4
+~
+~
+0 0 1964
+D5
+~
+~
+0 0 1965
+S
+#1969
+Between the planes~
+You float, trapped between the planes of existence.  All around you
+tendrils of mist turned red by the strange light caress you as you pass. 
+There is no direction here, no landmarks, no matter that you can see other
+than yourself, but you get a sense that you are not alone in this strange
+place.  One way is as good as another, yet you feel that somewhere in this
+place is a passage back to your own world, as well as a portal to the Abyss
+itself.  
+~
+~
+1028 0
+D0
+~
+~
+0 0 1964
+D1
+~
+~
+0 0 1962
+D2
+~
+~
+0 -1 1966
+D3
+~
+~
+0 0 1968
+D4
+~
+~
+0 0 1961
+D5
+~
+~
+0 0 1964
+S
+#1970
+The rim of the Abyss~
+You're standing on a narrow ledge which surrounds a seeming bottomless
+pit.  You can see nothing in the pit except blackness, but you can hear a
+thunderous rasping breathing noise issuing from it.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1974
+D1
+~
+~
+0 0 1973
+D3
+~
+~
+0 0 1971
+S
+#1971
+The rim of the Abyss~
+You're standing on a narrow ledge which surrounds a seeming bottomless
+pit.  You can see nothing in the pit except blackness, but you can hear a
+thunderous rasping breathing noise issuing from it.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1972
+D1
+~
+~
+0 0 1974
+D2
+~
+~
+0 0 1970
+S
+#1972
+The rim of the Abyss~
+You're standing on a narrow ledge which surrounds a seeming bottomless
+pit.  You can see nothing in the pit except blackness, but you can hear a
+thunderous rasping breathing noise issuing from it.  
+~
+~
+0 0
+D1
+~
+~
+0 0 1973
+D2
+~
+~
+0 0 1974
+D3
+~
+~
+0 0 1971
+S
+#1973
+The rim of the Abyss~
+You're standing on a narrow ledge which surrounds a seeming bottomless
+pit.  You can see nothing in the pit except blackness, but you can hear a
+thunderous rasping breathing noise issuing from it.  
+~
+~
+0 0
+D0
+~
+~
+0 0 1972
+D2
+~
+~
+0 0 1970
+D3
+~
+~
+0 0 1974
+S
+#1974
+In the Abyss~
+After leaping into the pit you expected to fall, but instead you find
+yourself abruptly floating in a dull grey void.  There seems to be no way
+out.  
+~
+~
+4 0
+D0
+~
+~
+0 0 1974
+D1
+~
+~
+0 0 1974
+D2
+~
+~
+0 0 1974
+D3
+~
+~
+0 0 1974
+D4
+~
+~
+0 0 1974
+D5
+~
+~
+0 0 1974
+S
+#0
+
+
+
